@@ -1,0 +1,23 @@
+# Salidas generadas
+_build/
+
+# Backups y temporales
+_backup*/
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Gráficos y binarios generados
+anexos/graficos/
+
+# Archivos financieros pesados
+anexos/finanzas/*.xlsx
+
+# Documentos metodológicos largos que no deben cargarse por defecto
+docs_base/indice_detallado_plan_negocio.md
+docs_base/02_mapa_transversal_anexos_investigaciones_validaciones.md
+
+# Nota:
+# Estos documentos no se eliminan.
+# Solo se excluyen de cargas automáticas cuando la herramienta respete `.geminiignore`.

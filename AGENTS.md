@@ -97,3 +97,22 @@ Antes de modificar archivos:
 - Borrar anexos o fuentes sin revisión.
 - Presentar hipótesis como hechos comprobados.
 - Convertir `AGENTS.md` en un megaprompt.
+
+## Uso eficiente de contexto
+
+1. No revisar todo el repositorio salvo auditoría final explícita.
+2. Antes de trabajar, declarar:
+   - archivos a leer;
+   - archivos a modificar;
+   - archivos prohibidos;
+   - skill aplicable;
+   - gate relacionado.
+3. Usar referencias explícitas con `@archivo` o `@carpeta`.
+4. Leer solo los archivos necesarios para la tarea actual.
+5. No abrir `docs_base/` completo salvo que la tarea lo requiera.
+6. No abrir `anexos/` completo salvo que se esté trabajando un anexo específico.
+7. No abrir `_build/` salvo tareas de consolidación.
+8. No volver a validar cosas ya cerradas por un gate aprobado, salvo que haya cambios posteriores.
+9. Para operaciones de archivos usar terminal, Git o scripts.
+10. Para redacción, análisis y auditoría usar IA.
+11. Cerrar cada tarea con verificación concreta, no con revisión general.
