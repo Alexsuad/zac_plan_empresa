@@ -1,9 +1,3 @@
-Te dejo el texto listo para pegar en:
-
-`respuestas_plan_empresa/05_objetivos_lineas_estrategicas.md`
-
----
-
 # 5. Objetivos y líneas estratégicas
 
 ## 5.1. Introducción
@@ -338,7 +332,7 @@ La decisión de continuar, ajustar o pivotar no debe tomarse por sensación, sin
 
 Los objetivos de Proyecto Logístico se centran en validar de forma prudente una oportunidad situada entre logística y sistemas.
 
-La estrategia no será crecer rápido ni vender tecnología genérica. La estrategia será entrar al mercado con un problema concreto, contactar empresas reales, realizar diagnósticos limitados, medir si existe dolor reconocido y convertir esa validación en proyectos pagados.
+La estrategia no será crecer rápido ni vender tecnología genérica. La estrategia será entrar al mercado con un problema conreto, contactar empresas reales, realizar diagnósticos limitados, medir si existe dolor reconocido y convertir esa validación en proyectos pagados.
 
 El objetivo mínimo a seis meses será conseguir 4 proyectos pagados o, al menos, evidencia clara de que existe dolor y disposición de pago. Si después de muchas visitas el mercado no reconoce el problema o no quiere pagar por resolverlo, será necesario ajustar la oferta, el segmento o el enfoque.
 

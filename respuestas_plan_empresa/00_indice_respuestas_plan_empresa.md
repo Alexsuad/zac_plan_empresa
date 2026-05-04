@@ -18,7 +18,7 @@ Importante:
 | 3.2 Estudio de mercado | `03_2_estudio_mercado.md` | Borrador avanzado |
 | 3.3 Análisis interno | `03_3_analisis_interno.md` | Borrador avanzado |
 | 4. DAFO / CAME | `04_dafo_came.md` | Pendiente |
-| 5. Objetivos y líneas estratégicas | `05_objetivos_lineas_estrategicas.md` | Pendiente |
+| 5. Objetivos y líneas estratégicas | `05_objetivos_lineas_estrategicas.md` | Borrador avanzado |
 | 6.1 Marketing y ventas | `06_1_marketing_ventas.md` | Pendiente |
 | 6.2 Operaciones | `06_2_operaciones.md` | Pendiente |
 | 6.3 Recursos humanos | `06_3_recursos_humanos.md` | Pendiente |
