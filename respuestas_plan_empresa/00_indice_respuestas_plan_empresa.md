@@ -1,6 +1,6 @@
-# 00. Índice de respuestas del Plan de Empresa ZAC
+# 00. Índice de respuestas del Plan de Empresa: Proyecto Logístico
 
-Esta carpeta contiene las respuestas reales del proyecto logístico/ZAC.
+Esta carpeta contiene las respuestas reales de **Proyecto Logístico**.
 
 Importante:
 - `plan_empresa/` contiene las preguntas guía.
@@ -16,7 +16,7 @@ Importante:
 | 2. Idea de negocio | `02_idea_negocio.md` | Borrador avanzado |
 | 3.1 Análisis externo | `03_1_analisis_externo.md` | Borrador avanzado |
 | 3.2 Estudio de mercado | `03_2_estudio_mercado.md` | Borrador avanzado |
-| 3.3 Análisis interno | `03_3_analisis_interno.md` | Pendiente |
+| 3.3 Análisis interno | `03_3_analisis_interno.md` | Borrador avanzado |
 | 4. DAFO / CAME | `04_dafo_came.md` | Pendiente |
 | 5. Objetivos y líneas estratégicas | `05_objetivos_lineas_estrategicas.md` | Pendiente |
 | 6.1 Marketing y ventas | `06_1_marketing_ventas.md` | Pendiente |

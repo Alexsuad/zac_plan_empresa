@@ -1,4 +1,4 @@
-# 00. Resumen Ejecutivo — Proyecto ZAC (Respuestas)
+# 00. Resumen Ejecutivo — Proyecto Logístico (Respuestas)
 
 > [!IMPORTANT]
 > **Estado:** PENDIENTE.

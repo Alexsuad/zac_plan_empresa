@@ -2,7 +2,7 @@
 
 ## 2.1. Identificación general del proyecto
 
-El proyecto se encuentra actualmente en fase de validación y desarrollo dentro del programa CONVIERTE de Zaragoza Activa. El nombre comercial definitivo todavía está pendiente de definir, por lo que en esta fase se trabaja con una denominación provisional asociada al desarrollo de sistemas de control operativo para empresas logísticas.
+El proyecto se encuentra actualmente en fase de validación y desarrollo dentro del programa CONVIERTE de Zaragoza Activa. El nombre comercial definitivo todavía está pendiente de definir, por lo que en esta fase se trabaja con la denominación provisional de **Proyecto Logístico**, asociada al desarrollo de sistemas de control operativo para empresas del sector.
 
 La actividad prevista consiste en ofrecer servicios B2B de **diseño, implementación y mantenimiento de sistemas de control operativo, trazabilidad e integración** para pequeñas y medianas empresas logísticas. El foco inicial estará en empresas de transporte, transitarios, operadores de comercio exterior y organizaciones que gestionen procesos documentales intensivos en Zaragoza y Aragón.
 
@@ -20,7 +20,7 @@ Durante años he trabajado con procesos de comercio exterior, importación, expo
 
 En muchas empresas logísticas, la operación diaria avanza apoyada en hojas de cálculo, correos electrónicos, mensajes, llamadas, documentos dispersos y validaciones manuales. Aunque este sistema puede funcionar durante un tiempo, genera fricción: se pierde información, se duplican revisiones, se retrasan facturas, se producen errores de validación y cuesta saber qué operación está completa, cuál está bloqueada y qué falta para cerrar un servicio.
 
-La idea del proyecto se ha ido consolidando durante los últimos seis meses como iniciativa empresarial concreta. Sin embargo, su base no surge de una moda tecnológica, sino de una experiencia profesional acumulada en logística y de una necesidad observada: muchas pequeñas y medianas empresas necesitan mejorar sus procesos sin implantar soluciones complejas, costosas o desconectadas de su realidad diaria.
+La idea de **Proyecto Logístico** se ha ido consolidando durante los últimos seis meses como iniciativa empresarial concreta. Sin embargo, su base no surge de una moda tecnológica, sino de una experiencia profesional acumulada en logística y de una necesidad observada: muchas pequeñas y medianas empresas necesitan mejorar sus procesos sin implantar soluciones complejas, costosas o desconectadas de su realidad diaria.
 
 El proyecto busca unir dos mundos que normalmente se trabajan por separado: el conocimiento operativo logístico y la capacidad técnica para sistematizar procesos. Esa combinación permite entender primero el problema del cliente y después diseñar una solución proporcionada, útil y medible.
 
@@ -68,13 +68,13 @@ Esta situación genera problemas como:
 - pérdida de margen por errores no detectados;
 - dependencia excesiva de Excel, correo y conocimiento no documentado.
 
-La necesidad real del cliente no es “tener más tecnología”. La necesidad es operar con más control, trazabilidad, orden y capacidad de decisión. Por eso, el proyecto no parte de la herramienta, sino del punto de bloqueo operativo.
+La necesidad real del cliente no es “tener más tecnología”. La necesidad es operar con más control, trazabilidad, orden y capacidad de decisión. Por eso, **Proyecto Logístico** no parte de la herramienta, sino del punto de bloqueo operativo.
 
 El conflicto central del cliente puede resumirse así: la empresa necesita operar, validar, facturar y cobrar con agilidad, pero hoy depende de procesos manuales, dispersos y poco trazables que le hacen perder tiempo, margen y estabilidad.
 
 ## 2.5. Propuesta de valor
 
-La propuesta de valor del proyecto es ayudar a pymes logísticas a recuperar control sobre procesos críticos mediante sistemas a medida que ordenan información, centralizan evidencias, reducen errores y facilitan la toma de decisiones.
+La propuesta de valor de **Proyecto Logístico** es ayudar a pymes logísticas a recuperar control sobre procesos críticos mediante sistemas a medida que ordenan información, centralizan evidencias, reducen errores y facilitan la toma de decisiones.
 
 El valor para el cliente no está en la tecnología como fin, sino en los resultados operativos que permite conseguir:
 
@@ -146,7 +146,7 @@ El análisis competitivo muestra que una parte de la oferta local entra por prod
 
 ## 2.9. Diferenciación
 
-La diferenciación principal del proyecto se apoya en la unión entre conocimiento logístico, criterio operativo y capacidad técnica.
+La diferenciación principal de **Proyecto Logístico** se apoya en la unión entre conocimiento logístico, criterio operativo y capacidad técnica.
 
 El proyecto no se presenta como una agencia genérica de automatización, ni como una empresa de IA, ni como una consultoría logística tradicional. La propuesta se centra en instalar control operativo sobre procesos críticos, con soluciones concretas y medibles.
 
@@ -229,7 +229,7 @@ Los próximos hitos deben ser:
 
 ## 2.13. Objetivos iniciales
 
-Los objetivos iniciales del proyecto deben ser realistas y orientados a validación, no a crecimiento acelerado sin evidencia.
+Los objetivos iniciales de **Proyecto Logístico** deben ser realistas y orientados a validación, no a crecimiento acelerado sin evidencia.
 
 Los objetivos de la primera fase son:
 
@@ -343,7 +343,7 @@ Aunque la idea de negocio ya cuenta con una base sólida, todavía hay preguntas
 
 ## 2.17. Conclusión del apartado
 
-La idea de negocio presenta coherencia entre experiencia profesional, oportunidad de mercado y capacidad técnica. El proyecto parte de una necesidad concreta: muchas pymes logísticas operan con procesos manuales, información dispersa y falta de trazabilidad en puntos críticos que afectan a facturación, cobro, incidencias y margen.
+La idea de **Proyecto Logístico** presenta coherencia entre experiencia profesional, oportunidad de mercado y capacidad técnica. El proyecto parte de una necesidad concreta: muchas pymes logísticas operan con procesos manuales, información dispersa y falta de trazabilidad en puntos críticos que afectan a facturación, cobro, incidencias y margen.
 
 La propuesta consiste en diseñar e implementar sistemas de control operativo a medida, empezando por problemas concretos y medibles. Esta aproximación evita competir directamente con grandes suites logísticas desde el inicio y permite ofrecer una entrada más flexible, cercana y adaptada a la realidad de pequeñas y medianas empresas.
 

@@ -2,7 +2,7 @@
 
 ## 3.2.1. Introducción
 
-El estudio de mercado de ZAC se centra en identificar si existe un grupo de clientes suficientemente claro, con un problema operativo relevante y con potencial para contratar un servicio de control documental, trazabilidad y validación aplicado a procesos logísticos críticos.
+El estudio de mercado de Proyecto Logístico se centra en identificar si existe un grupo de clientes suficientemente claro, con un problema operativo relevante y con potencial para contratar un servicio de control documental, trazabilidad y validación aplicado a procesos logísticos críticos.
 
 El mercado inicial se sitúa en **Zaragoza y Aragón**, con foco en **pymes privadas del sector logístico**, especialmente empresas de transporte, transitarios, operadores logísticos y empresas con procesos documentales intensivos.
 
@@ -51,9 +51,7 @@ La expansión posterior podrá dirigirse a otros puntos de España y, más adela
 
 ---
 
-## 3.2.4. Cliente potencial
-
-El cliente potencial de ZAC es una empresa privada que gestiona operaciones logísticas y tiene dificultades para conectar correctamente la operación realizada con la evidencia necesaria para facturar, cobrar o reclamar.
+El cliente potencial del proyecto es una empresa privada que gestiona operaciones logísticas y tiene dificultades para conectar correctamente la operación realizada con la evidencia necesaria para facturar, cobrar o reclamar.
 
 Los perfiles más relevantes son:
 
@@ -99,11 +97,11 @@ El mercado logístico de Aragón ofrece una base suficiente para validar una pro
 
 ALIA se presenta como el Clúster Logístico de Aragón, con más de 170 socios, y orienta su actividad a canalizar necesidades del sector logístico, generar colaboración, formación, innovación y mejorar la competitividad de las empresas asociadas. ([aliaragon.es](https://aliaragon.es/?utm_source=chatgpt.com))
 
-Este entorno no garantiza por sí solo la demanda de ZAC, pero sí muestra que existe un ecosistema empresarial suficientemente denso para iniciar una validación comercial.
+Este entorno no garantiza por sí solo la demanda de Proyecto Logístico, pero sí muestra que existe un ecosistema empresarial suficientemente denso para iniciar una validación comercial.
 
 Las investigaciones realizadas para el proyecto identifican una oportunidad razonable en soluciones que ayuden a pymes logísticas a ordenar documentación, trazabilidad, evidencias e integración de información sin obligarlas a acometer una gran implantación tecnológica. 
 
-Aun así, el tamaño exacto del mercado accesible debe tratarse con prudencia. Las cifras sectoriales permiten dimensionar el contexto, pero no demuestran automáticamente que todas las empresas sean clientes potenciales. Para ZAC, el mercado real será más estrecho: empresas con dolor documental concreto, capacidad de decisión, cierta disposición al cambio y percepción de pérdida económica o administrativa.
+Aun así, el tamaño exacto del mercado accesible debe tratarse con prudencia. Las cifras sectoriales permiten dimensionar el contexto, pero no demuestran automáticamente que todas las empresas sean clientes potenciales. Para el proyecto, el mercado real será más estrecho: empresas con dolor documental concreto, capacidad de decisión, cierta disposición al cambio y percepción de pérdida económica o administrativa.
 
 Por tanto, el mercado se entiende en tres niveles:
 
@@ -129,18 +127,18 @@ Otra tendencia relevante es la búsqueda de eficiencia. En un sector con presió
 
 ## 3.2.8. Competencia directa, indirecta y sustitutos
 
-El mercado no está vacío. ZAC compite con diferentes tipos de soluciones y alternativas.
+El mercado no está vacío. Proyecto Logístico compite con diferentes tipos de soluciones y alternativas.
 
-La competencia debe analizarse de forma amplia, porque el cliente no siempre comparará ZAC con una empresa idéntica. Puede compararlo con un TMS, un ERP, una plataforma documental, un informático externo, una agencia de automatización o incluso con seguir trabajando igual.
+La competencia debe analizarse de forma amplia, porque el cliente no siempre comparará el proyecto con una empresa idéntica. Puede compararlo con un TMS, un ERP, una plataforma documental, un informático externo, una agencia de automatización o incluso con seguir trabajando igual.
 
-| Tipo de alternativa                           | Qué ofrece                                                                      | Relación con ZAC                                                                                  |
+| Tipo de alternativa                           | Qué ofrece                                                                      | Relación con el proyecto                                                                                  |
 | --------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | TMS / WMS                                     | Gestión de transporte, almacén, rutas, planificación o visibilidad operativa.   | Competencia indirecta o directa si el cliente busca una solución amplia.                          |
 | ERP                                           | Gestión administrativa, contable, fiscal o de procesos empresariales generales. | Competencia indirecta; puede no resolver el flujo operativo-documental específico.                |
 | Plataformas e-CMR / documentación electrónica | Digitalización y gestión de documentos de transporte.                           | Competencia o complemento, según el caso.                                                         |
-| Consultoras logísticas                        | Diagnóstico y mejora de procesos logísticos.                                    | Competencia si el cliente busca análisis amplio, aunque ZAC se enfoca en implementación concreta. |
+| Consultoras logísticas                        | Diagnóstico y mejora de procesos logísticos.                                    | Competencia si el cliente busca análisis amplio, aunque el proyecto se enfoca en implementación concreta. |
 | Integradores tecnológicos                     | Implantación de sistemas, automatización o software a medida.                   | Competencia directa o indirecta.                                                                  |
-| Agencias de IA / automatización               | Automatización de tareas y procesos con herramientas digitales.                 | Competencia indirecta; ZAC debe diferenciarse por foco logístico y control operativo.             |
+| Agencias de IA / automatización               | Automatización de tareas y procesos con herramientas digitales.                 | Competencia indirecta; el proyecto debe diferenciarse por foco logístico y control operativo.             |
 | Freelancers / desarrolladores                 | Soluciones técnicas puntuales.                                                  | Competencia en precio o flexibilidad, pero no siempre en criterio operativo.                      |
 | Excel, correo, WhatsApp                       | Herramientas actuales de trabajo manual.                                        | Sustituto principal y competidor más fuerte por inercia.                                          |
 | Contratar más personal administrativo         | Refuerzo manual del proceso.                                                    | Sustituto operativo, pero con coste recurrente.                                                   |
@@ -148,13 +146,13 @@ La competencia debe analizarse de forma amplia, porque el cliente no siempre com
 
 Las investigaciones complementarias del proyecto identifican que existe un hueco entre las plataformas que venden herramientas documentales, los ERPs generalistas y las soluciones grandes de gestión logística. Ese hueco está en la implementación práctica del control operativo sobre el flujo que conecta operación, evidencia, factura y cobro. 
 
-La ventaja competitiva de ZAC no será afirmar que no existe competencia, sino demostrar que su enfoque es más específico, cercano y proporcional para pymes que tienen un bloqueo concreto y no quieren iniciar una transformación tecnológica completa.
+La ventaja competitiva del proyecto no será afirmar que no existe competencia, sino demostrar que su enfoque es más específico, cercano y proporcional para pymes que tienen un bloqueo concreto y no quieren iniciar una transformación tecnológica completa.
 
 ---
 
 ## 3.2.9. Posicionamiento frente a la competencia
 
-ZAC debe posicionarse de forma clara para evitar confusión con otros proveedores.
+Proyecto Logístico debe posicionarse de forma clara para evitar confusión con otros proveedores.
 
 No se presentará como:
 
@@ -174,7 +172,7 @@ Se presentará como:
 
 El posicionamiento debe apoyarse en una idea sencilla:
 
-> ZAC ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
+> Proyecto Logístico ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
 
 Este posicionamiento permite diferenciarse de soluciones demasiado grandes, demasiado técnicas o demasiado genéricas.
 
@@ -211,7 +209,7 @@ Los principales criterios de compra esperados son:
 | Claridad del problema | Entender qué operación está fallando y por qué.                                       |
 | Impacto económico     | Percibir que el problema afecta facturación, cobro, margen o tiempo administrativo.   |
 | Baja complejidad      | No querer una implantación grande ni una herramienta difícil de adoptar.              |
-| Confianza             | Sentir que ZAC entiende la realidad logística.                                        |
+| Confianza             | Sentir que el proyecto entiende la realidad logística.                                        |
 | Rapidez de utilidad   | Ver resultados prácticos en un flujo concreto.                                        |
 | Adaptación            | Que la solución respete la forma real de trabajar del cliente.                        |
 | Control               | Saber qué documentos faltan, qué incidencias bloquean y qué operaciones están listas. |
@@ -235,7 +233,7 @@ La cuarta barrera es la **falta de tiempo**. Aunque el cliente tenga un problema
 
 La quinta barrera es la **competencia por inercia**. En muchos casos, el principal competidor no será otro proveedor, sino seguir trabajando igual.
 
-Estas barreras obligan a que ZAC entre con una propuesta concreta, limitada y fácil de entender. Por eso el diagnóstico inicial gratuito y el producto ancla de control de cobro por evidencia son importantes: permiten reducir la fricción de entrada y mostrar valor sobre un problema específico.
+Estas barreras obligan a que la iniciativa entre con una propuesta concreta, limitada y fácil de entender. Por eso el diagnóstico inicial gratuito y el producto ancla de control de cobro por evidencia son importantes: permiten reducir la fricción de entrada y mostrar valor sobre un problema específico.
 
 ---
 
@@ -277,10 +275,10 @@ Estas preguntas no deben inventarse en el plan. Deben registrarse durante las pr
 
 ## 3.2.15. Conclusión del estudio de mercado
 
-El estudio de mercado muestra que ZAC cuenta con un entorno inicial favorable para validar su propuesta. Zaragoza y Aragón tienen una base logística relevante, existen pymes con procesos documentales intensivos y el sector avanza hacia mayor digitalización, trazabilidad y control documental.
+El estudio de mercado muestra que Proyecto Logístico cuenta con un entorno inicial favorable para validar su propuesta. Zaragoza y Aragón tienen una base logística relevante, existen pymes con procesos documentales intensivos y el sector avanza hacia mayor digitalización, trazabilidad y control documental.
 
 El segmento prioritario inicial será el de pymes de transporte y transitarios con bloqueos documentales y de facturación. El primer producto de mercado será el control de cobro por evidencia, porque conecta directamente con un problema comprensible: operaciones que no se pueden cerrar, facturar o cobrar con agilidad por falta de documentación, validación o trazabilidad.
 
-La oportunidad existe, pero debe tratarse con prudencia. El mercado no está vacío y la competencia incluye herramientas tecnológicas, consultoras, integradores, freelancers, ERPs, TMS, plataformas documentales y sustitutos manuales. La diferenciación de ZAC dependerá de su capacidad para mantenerse enfocado en un problema concreto, hablar el lenguaje operativo del cliente y entregar una solución útil sin añadir complejidad innecesaria.
+La oportunidad existe, pero debe tratarse con prudencia. El mercado no está vacío y la competencia incluye herramientas tecnológicas, consultoras, integradores, freelancers, ERPs, TMS, plataformas documentales y sustitutos manuales. La diferenciación de Proyecto Logístico dependerá de su capacidad para mantenerse enfocado en un problema concreto, hablar el lenguaje operativo del cliente y entregar una solución útil sin añadir complejidad innecesaria.
 
 Por tanto, el estudio de mercado permite avanzar, pero no cerrar la viabilidad comercial. El siguiente paso será validar en campo la disposición real de las empresas a recibir un diagnóstico, reconocer el problema y contratar una solución posterior.
