@@ -13,84 +13,121 @@
 - skills creadas.
 - docs_base actualizado.
 
-**Evidencia:**
-- listado de archivos;
-- commit realizado.
-
 **Estado:** Completado.
-**Evidencia:** commits `7e91684` y `dc2258a`.
+**Evidencia:** commits `7e91684`, `dc2258a`, `c1a4fb5`.
 
 ---
 
-## Gate 1 — Resumen ejecutivo completo
+## Gate 1 — Apartados base completos
 
 **Criterio de entrada:**
 - Gate 0 completado.
 
 **Criterio de salida:**
-- `respuestas_plan_empresa/00_resumen_ejecutivo.md` contiene versión de exposición y versión para plan.
+- `respuestas_plan_empresa/01_equipo_promotor.md` completo y validado.
+- `respuestas_plan_empresa/02_idea_negocio.md` completo y validado.
 
-**Estado:** Pendiente.
+**Estado:** Pendiente (01 en revisión, 02 redactado).
 
 ---
 
-## Gate 2 — Supuestos financieros documentados
+## Gate 2 — Análisis externo, mercado e interno completos
 
 **Criterio de entrada:**
-- Datos financieros básicos disponibles.
+- Gate 1 completado.
 
 **Criterio de salida:**
-- Plan financiero explicado en `respuestas_plan_empresa/06_5_economico_financiero.md`.
-- Supuestos marcados como dato, hipótesis o pendiente.
-- Excel financiero localizado o referenciado.
+- `respuestas_plan_empresa/03_analisis_entorno_mercado.md` completo.
+- `respuestas_plan_empresa/04_analisis_interno.md` completo.
+- Anexos relacionados (Pestel, Benchmark) creados.
 
 **Estado:** Pendiente.
 
 ---
 
-## Gate 3 — Apartados principales completos
+## Gate 3 — DAFO/CAME y objetivos estratégicos
 
 **Criterio de entrada:**
-- Información sectorial y del proyecto disponible.
+- Gate 2 completado.
 
 **Criterio de salida:**
-- Todos los archivos de `respuestas_plan_empresa/` tienen contenido suficiente para una revisión formal.
+- `respuestas_plan_empresa/05_diagnostico_objetivos.md` completo.
+- Anexos DAFO/CAME creados.
 
 **Estado:** Pendiente.
 
 ---
 
-## Gate 4 — Anexos mínimos completos
+## Gate 4 — Plan operativo (Marketing, Ventas, Operaciones, RRHH)
 
 **Criterio de entrada:**
-- Análisis estratégicos realizados.
+- Gate 3 completado.
 
 **Criterio de salida:**
-- Anexos A01 a A12 creados o justificados en la carpeta `anexos/`.
+- `respuestas_plan_empresa/06_1_marketing_ventas.md` completo.
+- `respuestas_plan_empresa/06_2_operaciones.md` completo.
+- `respuestas_plan_empresa/06_3_recursos_humanos.md` completo.
 
 **Estado:** Pendiente.
 
 ---
 
-## Gate 5 — Auditoría de coherencia
+## Gate 5 — Plan jurídico y económico-financiero
 
 **Criterio de entrada:**
-- Borrador completo del plan y anexos.
+- Gate 4 completado.
+
+**Criterio de salida:**
+- `respuestas_plan_empresa/06_4_juridico_fiscal.md` completo.
+- `respuestas_plan_empresa/06_5_economico_financiero.md` completo.
+- Anexo Plan Financiero (Excel/MD) listo.
+
+**Estado:** Pendiente.
+
+---
+
+## Gate 6 — Viabilidad y conclusiones
+
+**Criterio de entrada:**
+- Gate 5 completado.
+
+**Criterio de salida:**
+- `respuestas_plan_empresa/07_viabilidad_conclusiones.md` completo.
+
+**Estado:** Pendiente.
+
+---
+
+## Gate 7 — Resumen ejecutivo final
+
+**Criterio de entrada:**
+- Gate 6 completado (Plan de Empresa íntegro redactado).
+
+**Criterio de salida:**
+- `respuestas_plan_empresa/00_resumen_ejecutivo.md` sintetiza fielmente todo el documento.
+
+**Estado:** Pendiente.
+
+---
+
+## Gate 8 — Auditoría de coherencia final
+
+**Criterio de entrada:**
+- Gate 7 completado.
 
 **Criterio de salida:**
 - Sin contradicciones críticas.
-- Pendientes marcados.
-- Fuentes registradas.
-- Tono uniforme.
+- Tono uniforme profesional.
+- Anexos vinculados correctamente.
 
 **Estado:** Pendiente.
 
 ---
 
-## Gate 6 — Entrega consolidada
+## Gate 9 — Consolidación y entrega
 
 **Criterio de entrada:**
-- Auditoría final aprobada.
+- Auditoría aprobada.
 
 **Criterio de salida:**
 - Documento consolidado generado en `_build/plan_empresa_zac_completo.md`.

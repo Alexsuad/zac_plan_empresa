@@ -2,107 +2,51 @@
 
 ## Objetivo
 
-Completar y preparar el Plan de Empresa del proyecto logístico/ZAC, priorizando el resumen ejecutivo y el plan económico-financiero, sin descuidar el resto del documento.
+Completar y preparar el Plan de Empresa del proyecto logístico/ZAC siguiendo un enfoque incremental y validado. El proceso construye primero la base del negocio y finaliza con la síntesis del resumen ejecutivo para garantizar la coherencia total del documento.
 
 ## Fase 0 — Preparación del sistema mínimo
-
-**Objetivo:**
-Dejar listo el repositorio con reglas, skills, arquitectura documental y gates.
-
-**Entregables:**
-- README actualizado.
-- AGENTS.md.
-- docs_base actualizados.
-- docs_control creado.
-- skills locales creadas.
-
 **Estado:** Completada.
 **Evidencia:** commits `7e91684` y `dc2258a`.
 
-## Fase 0.1 — Alineación de arquitectura preguntas/respuestas
+## Fase 1 — Cimientos: Equipo e Idea
+**Archivos:** `01_equipo_promotor.md`, `02_idea_negocio.md`.
+**Objetivo:** Definir quién emprende, qué hace y qué problema resuelve.
+**Gate:** Gate 1.
 
-**Objetivo:**
-Separar físicamente las preguntas guía del método de las respuestas reales del proyecto para mantener la limpieza del documento final.
+## Fase 2 — Análisis de Contexto
+**Archivos:** `03_analisis_entorno_mercado.md`, `04_analisis_interno.md`.
+**Objetivo:** Validar el entorno (Pestel) y la competencia (Benchmark).
+**Gate:** Gate 2.
 
-**Estado:** Completada.
-**Evidencia:** commit `8d809cf`.
+## Fase 3 — Diagnóstico y Objetivos
+**Archivo:** `05_diagnostico_objetivos.md`.
+**Objetivo:** Generar DAFO/CAME y fijar objetivos estratégicos basados en el análisis previo.
+**Gate:** Gate 3.
 
-## Fase 1 — Resumen ejecutivo
+## Fase 4 — Plan Operativo
+**Archivos:** `06_1_marketing_ventas.md` a `06_3_recursos_humanos.md`.
+**Objetivo:** Detallar cómo se vende, cómo se opera y quién lo ejecuta.
+**Gate:** Gate 4.
 
-**Archivo principal:**
-- `respuestas_plan_empresa/00_resumen_ejecutivo.md`
+## Fase 5 — Viabilidad Económica y Legal
+**Archivos:** `06_4_juridico_fiscal.md`, `06_5_economico_financiero.md`.
+**Objetivo:** Asegurar el cumplimiento legal y la rentabilidad del modelo.
+**Gate:** Gate 5.
 
-**Archivo de guía:**
-- `plan_empresa/00_resumen_ejecutivo.md` (si existe)
+## Fase 6 — Cierre de Plan
+**Archivo:** `07_viabilidad_conclusiones.md`.
+**Objetivo:** Extraer las conclusiones finales sobre la viabilidad del proyecto.
+**Gate:** Gate 6.
 
-**Objetivo:**
-Crear una versión clara para exposición y una versión para el Plan de Empresa.
+## Fase 7 — Síntesis Ejecutiva (Resumen Ejecutivo)
+**Archivo:** `00_resumen_ejecutivo.md`.
+**Objetivo:** Redactar la síntesis final una vez el plan está completo y es coherente.
+**Gate:** Gate 7.
 
-**Debe incluir:**
-- qué es el proyecto;
-- problema;
-- solución;
-- cliente objetivo;
-- propuesta de valor;
-- diferenciación;
-- modelo de ingresos;
-- estado actual;
-- mercado;
-- estrategia inicial;
-- cifras financieras principales;
-- riesgos;
-- próximos pasos.
+## Fase 8 — Control de Calidad
+**Objetivo:** Auditoría de coherencia, tono y limpieza de notas internas.
+**Gate:** Gate 8.
 
-## Fase 2 — Plan económico-financiero
-
-**Archivos de respuesta:**
-- `respuestas_plan_empresa/06_5_economico_financiero.md`
-
-**Archivos de guía y soporte:**
-- `plan_empresa/06_5_economico_financiero.md`
-- `anexos/A09_plan_economico_financiero.md`
-- `anexos/finanzas/`
-
-**Objetivo:**
-Documentar supuestos, inversión, costes, ingresos, escenarios y conclusiones financieras.
-
-## Fase 3 — Completar apartados principales
-
-**Archivos de respuesta:**
-- `respuestas_plan_empresa/*.md`
-
-**Archivos de guía:**
-- `plan_empresa/*.md`
-
-**Objetivo:**
-Que todos los apartados de `respuestas_plan_empresa/` estén respondidos con nivel suficiente para entrega.
-
-## Fase 4 — Crear anexos mínimos
-
-**Crear o completar:**
-- `anexos/A01_canvas_modelo_negocio.md`
-- `anexos/A02_propuesta_valor.md`
-- `anexos/A03_cliente_ideal.md`
-- `anexos/A04_pestel.md`
-- `anexos/A05_benchmark_competencia.md`
-- `anexos/A06_dafo.md`
-- `anexos/A07_came.md`
-- `anexos/A08_tabla_producto_precio.md`
-- `anexos/A09_plan_economico_financiero.md`
-- `anexos/A10_calendario_implantacion.md`
-- `anexos/A11_matriz_riesgos.md`
-- `anexos/A12_fuentes_consultadas.md`
-
-## Fase 5 — Auditoría final
-
-**Objetivo:**
-Revisar coherencia, contradicciones, pendientes, tono, datos financieros y anexos.
-
-## Fase 6 — Consolidación final
-
-**Objetivo:**
-Generar una versión consolidada en `_build/`.
-
-**Salida esperada:**
-- `_build/plan_empresa_zac_completo.md`
-- DOCX/PDF solo cuando se indique.
+## Fase 9 — Consolidación
+**Objetivo:** Generar el entregable final en `_build/`.
+**Gate:** Gate 9.
