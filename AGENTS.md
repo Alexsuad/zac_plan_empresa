@@ -1,78 +1,99 @@
 # AGENTS.md — Reglas de trabajo del repositorio
 
-## Propósito del repositorio
+## 1. Propósito del repositorio
 
 Este repositorio contiene la documentación específica para construir el Plan de Empresa del proyecto logístico/ZAC.
 
-No es el repositorio del sistema agéntico reutilizable para crear planes de empresa. Ese sistema vive en otro repositorio.
+No es el repositorio del sistema agéntico reutilizable para crear planes de empresa. Ese sistema vive en `plan_empresa_producto`.
 
-## Fuente de verdad
+## 2. Separación obligatoria entre repositorios
+
+- `plan_empresa_producto`: sistema reusable, plantillas, lógica agéntica general y metodología para múltiples proyectos.
+- `zac_plan_empresa`: caso real, documentación específica y entrega del Plan de Empresa del proyecto logístico/ZAC.
+
+**Regla:**
+No convertir este repositorio en el producto genérico. Las reglas, skills y documentos de control creados aquí solo sirven para completar este plan específico.
+
+## 3. Fuente de verdad
 
 La documentación principal vive en:
-
 - `plan_empresa/`
 
-Los anexos, fuentes y material de soporte viven en:
-
+Los anexos viven en:
 - `anexos/`
 
-Las salidas consolidadas generadas viven en:
+Los documentos metodológicos y de arquitectura documental viven en:
+- `docs_base/`
 
+La planificación, gates y decisiones viven en:
+- `docs_control/`
+
+Las salidas consolidadas viven en:
 - `_build/`
 
-## Regla principal
-
-No mezclar este caso real con el producto genérico de creación de planes de empresa.
-
-Este repositorio debe mantenerse enfocado en el proyecto logístico/ZAC.
-
-## Forma de trabajo
-
-Usar enfoque híbrido:
-
-- Terminal, Git o scripts para tareas deterministas: copiar archivos, verificar tamaños, consolidar documentos, generar salidas, hacer commits.
-- IA / Antigravity para redacción, análisis, auditoría, estructura, coherencia y detección de contradicciones.
-
-## Tono documental
+## 4. Tono documental
 
 El tono debe ser:
+- claro;
+- profesional;
+- realista;
+- verificable;
+- sin humo tecnológico;
+- sin promesas exageradas;
+- con lenguaje logístico entendible;
+- orientado a un Plan de Empresa defendible ante ZAC, entidad de apoyo, banco o administración.
 
-- claro,
-- profesional,
-- realista,
-- verificable,
-- sin humo tecnológico,
-- sin promesas exageradas,
-- con lenguaje logístico entendible.
+## 5. Uso híbrido obligatorio
 
-## Estructura esperada de cada apartado
+Usar enfoque híbrido:
+- **Terminal, Git o scripts** para tareas deterministas:
+  - copiar archivos;
+  - verificar tamaños;
+  - consolidar documentos;
+  - generar salidas;
+  - hacer commits;
+  - validar estructura.
+- **IA / Antigravity** para:
+  - redacción;
+  - análisis;
+  - auditoría;
+  - coherencia;
+  - detección de contradicciones;
+  - síntesis estratégica.
 
-Cada archivo dentro de `plan_empresa/` debe mantener, cuando aplique, esta estructura:
+## 6. Tecnología para anexos
 
-1. Versión desarrollada
-2. Versión para Plan de Empresa
-3. Pendientes por validar
-4. Anexos relacionados
-5. Conclusión estratégica
+Usar:
+- **Markdown** para texto, matrices y anexos estratégicos.
+- **CSV** para datos tabulares o comparativos.
+- **XLSX** para finanzas.
+- **Mermaid** para diagramas simples, flujos, organigramas o Gantt.
+- **Python** para gráficos o automatizaciones verificables.
+- **DOCX/PDF** para entrega final.
+- **HTML** no se usa por ahora.
 
-## Reglas de edición
+## 7. Reglas de edición
 
 Antes de modificar archivos:
-
 1. Identificar qué archivo se va a tocar.
 2. Explicar qué se cambiará.
 3. No borrar contenido útil sin justificarlo.
-4. Mantener una copia o usar Git antes de cambios grandes.
-5. Cerrar cada tarea con:
-   - archivos modificados,
-   - resumen de cambios,
-   - verificación realizada,
+4. No inventar datos.
+5. Marcar pendientes cuando falte información.
+6. Mantener trazabilidad de decisiones relevantes.
+7. Cerrar cada tarea con:
+   - archivos modificados;
+   - resumen de cambios;
+   - verificación realizada;
    - próximos pasos.
 
-## Prohibido
+## 8. Prohibido
 
-- Convertir este repositorio en el sistema agéntico general.
-- Crear agentes, skills o workflows complejos sin necesidad real.
-- Duplicar contenido sin propósito.
-- Borrar anexos o información base sin revisión.
+- Mezclar este repositorio con `plan_empresa_producto`.
+- Crear funcionalidades genéricas innecesarias.
+- Crear agentes múltiples sin necesidad real.
+- Crear MCP.
+- Instalar skills externas sin revisión.
+- Borrar anexos o fuentes sin revisión.
 - Presentar hipótesis como hechos comprobados.
+- Convertir `AGENTS.md` en un megaprompt.

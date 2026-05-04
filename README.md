@@ -1,16 +1,25 @@
-# ZAC Plan de Empresa
+# Plan de Empresa — Proyecto Logístico / ZAC
 
-Repositorio documental para construir el Plan de Empresa del proyecto logístico/ZAC.
+Este repositorio contiene la documentación específica para la elaboración del **Plan de Empresa del proyecto logístico/ZAC**.
 
-Este repositorio contiene la documentación específica del proyecto logístico, separada del repositorio `plan_empresa_producto`, que queda reservado para el sistema agéntico reutilizable de planes de empresa.
+## IMPORTANTE
+- Este repositorio **NO** es el producto genérico `plan_empresa_producto`.
+- El sistema genérico de creación de planes de empresa vive en el repositorio: `plan_empresa_producto`.
+- Este repositorio utiliza reglas, skills y documentos de apoyo específicos para completar, auditar y consolidar el plan de ZAC.
 
-## Estructura
+## Estructura del repositorio
 
-- `docs_base/`: documentos fuente y referencias del proyecto.
-- `plan_empresa/`: apartados principales del Plan de Empresa.
-- `anexos/`: fuentes, validaciones, glosarios y material de soporte.
-- `_build/`: salidas consolidadas generadas, como `.md`, `.docx` o `.pdf`.
+- `plan_empresa/`: Apartados principales del Plan de Empresa.
+- `anexos/`: Matrices, fuentes, tablas y documentación de soporte (DAFO, PESTEL, etc.).
+- `docs_base/`: Guías, mapas, arquitectura documental y referencias metodológicas.
+- `docs_control/`: Planificación, gates y registro de decisiones críticas.
+- `.agent/skills/`: Skills locales para el asistente Antigravity.
+- `_build/`: Salidas consolidadas y documentos generados para entrega.
 
-## Regla de trabajo
+## Metodología de trabajo
 
-Cada apartado del Plan de Empresa se trabaja en un archivo independiente para facilitar revisión, edición y consolidación final.
+Se sigue un enfoque **híbrido**:
+- **Tareas deterministas** (copiar, consolidar, validar estructura) mediante terminal y scripts.
+- **Tareas cognitivas** (redacción, análisis, auditoría estratégica) mediante IA (Antigravity).
+
+Para más detalles sobre las reglas de trabajo, consultar [AGENTS.md](AGENTS.md).
