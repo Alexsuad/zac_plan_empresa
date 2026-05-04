@@ -16,7 +16,8 @@ Dejar listo el repositorio con reglas, skills, arquitectura documental y gates.
 - docs_control creado.
 - skills locales creadas.
 
-**Estado:** En curso.
+**Estado:** Completada.
+**Evidencia:** commits `7e91684` y `dc2258a`.
 
 ## Fase 1 — Resumen ejecutivo
 
@@ -84,7 +85,7 @@ Que todos los apartados estén respondidos con nivel suficiente para entrega.
 - `anexos/A08_tabla_producto_precio.md`
 - `anexos/A09_plan_economico_financiero.md`
 - `anexos/A10_calendario_implantacion.md`
-- `anexos/A11_metriz_riesgos.md`
+- `anexos/A11_matriz_riesgos.md`
 - `anexos/A12_fuentes_consultadas.md`
 
 ## Fase 5 — Auditoría final

@@ -2,6 +2,7 @@
 
 ## Apartados principales
 
+0. Resumen ejecutivo
 1. Equipo promotor
 2. Idea de negocio
 3.1 Análisis externo
@@ -21,6 +22,7 @@
 
 | Apartado | Archivo | Estado |
 |---|---|---|
+| 0. Resumen ejecutivo | `00_resumen_ejecutivo.md` | Pendiente |
 | 1. Equipo promotor | `01_equipo_promotor.md` | Pendiente |
 | 2. Idea de negocio | `02_idea_negocio.md` | Pendiente |
 | 3.1 Análisis externo | `03_1_analisis_externo.md` | Pendiente |

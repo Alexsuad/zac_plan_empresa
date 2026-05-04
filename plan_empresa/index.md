@@ -3,6 +3,11 @@
 Propósito: Servir como mapa de navegación para las distintas secciones fragmentadas de la Guía Humana.
 Rol: Índice de acceso rápido y control de estados.
 
+> [!IMPORTANT]
+> Este documento es un **índice heredado de la guía humana fragmentada**.
+> Su propósito es servir como mapa de navegación de los contenidos de la guía, no es el índice final del Plan de Empresa ZAC.
+> Para el índice real del proyecto, consultar [00_indice_plan_empresa.md](00_indice_plan_empresa.md).
+
 ---
 
 ## 🗺️ Mapa de Navegación Modular

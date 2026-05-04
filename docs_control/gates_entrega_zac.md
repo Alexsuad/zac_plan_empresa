@@ -17,7 +17,8 @@
 - listado de archivos;
 - commit realizado.
 
-**Estado:** Pendiente.
+**Estado:** Completado.
+**Evidencia:** commits `7e91684` y `dc2258a`.
 
 ---
 
