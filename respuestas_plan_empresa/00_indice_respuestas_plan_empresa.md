@@ -13,9 +13,9 @@ Importante:
 |---|---|---|
 | 0. Resumen ejecutivo | `00_resumen_ejecutivo.md` | Pendiente |
 | 1. Equipo promotor | `01_equipo_promotor.md` | Pendiente |
-| 2. Idea de negocio | `02_idea_negocio.md` | Pendiente |
-| 3.1 Análisis externo | `03_1_analisis_externo.md` | Pendiente |
-| 3.2 Estudio de mercado | `03_2_estudio_mercado.md` | Pendiente |
+| 2. Idea de negocio | `02_idea_negocio.md` | Borrador avanzado |
+| 3.1 Análisis externo | `03_1_analisis_externo.md` | Borrador avanzado |
+| 3.2 Estudio de mercado | `03_2_estudio_mercado.md` | Borrador avanzado |
 | 3.3 Análisis interno | `03_3_analisis_interno.md` | Pendiente |
 | 4. DAFO / CAME | `04_dafo_came.md` | Pendiente |
 | 5. Objetivos y líneas estratégicas | `05_objetivos_lineas_estrategicas.md` | Pendiente |

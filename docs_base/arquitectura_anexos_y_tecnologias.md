@@ -1,5 +1,8 @@
 # Arquitectura de Anexos y Tecnologías — ZAC
 
+> [!IMPORTANT]
+> Este documento define la arquitectura conceptual de anexos y tecnologías. La estructura operativa vigente de anexos se encuentra alineada con la carpeta `/anexos/` y con el mapa maestro `docs_base/02_mapa_transversal_anexos_investigaciones_validaciones.md`.
+
 Este documento define los formatos y la estructura de los anexos para el Plan de Empresa ZAC.
 
 ## Tecnologías por tipo de contenido
@@ -17,23 +20,16 @@ Este documento define los formatos y la estructura de los anexos para el Plan de
 - **DOCX/PDF**: Formatos exclusivos para la entrega final al cliente.
 - **HTML**: No se utiliza en este repositorio por ahora.
 
-## Estructura de la carpeta anexos/
+## Estructura operativa de la carpeta anexos/
 
 ```text
 anexos/
-├── A01_canvas_modelo_negocio.md
-├── A02_propuesta_valor.md
-├── A03_cliente_ideal.md
-├── A04_pestel.md
-├── A05_benchmark_competencia.md
-├── A06_dafo.md
-├── A07_came.md
-├── A08_tabla_producto_precio.md
-├── A09_plan_economico_financiero.md
-├── A10_calendario_implantacion.md
-├── A11_matriz_riesgos.md
-├── A12_fuentes_consultadas.md
-├── datos/        # Archivos CSV de soporte
-├── finanzas/     # Archivos Excel (XLSX)
-└── graficos/     # Salidas de scripts de Python
+├── A01_fuentes_sector_logistico.md
+├── A02_competencia.md
+├── A03_validaciones_clientes.md
+├── A04_glosario_logistico.md
+├── A05_tablas_financieras.md
+├── datos/        # Archivos CSV de soporte (pendientes)
+├── finanzas/     # Archivos Excel (XLSX) (pendientes)
+└── graficos/     # Salidas de scripts de Python (pendientes)
 ```
