@@ -13,7 +13,8 @@ Usar antes de consolidar o entregar el documento.
 
 # Entradas esperadas
 
-- Archivos principales de `plan_empresa/`.
+- Archivos principales de `respuestas_plan_empresa/`.
+- Archivos de `plan_empresa/` (solo como guía de contraste).
 - Anexos mínimos.
 - Gates de entrega.
 - Registro de decisiones.

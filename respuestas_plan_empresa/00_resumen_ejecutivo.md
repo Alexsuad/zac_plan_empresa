@@ -13,7 +13,7 @@ Pendiente de completar.
 ## 3. Datos clave y validaciones
 - [ ] Cifra final de inversión inicial.
 - [ ] Previsión de ingresos año 1.
-- [ ] Detalle de alianzas estratégicas logísticas.
+- [ ] Posibles colaboraciones o apoyos externos relevantes.
 
 ## 4. Anexos relacionados
 - [A01_canvas_modelo_negocio.md](../anexos/A01_canvas_modelo_negocio.md)

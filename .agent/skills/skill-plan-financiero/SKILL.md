@@ -10,7 +10,8 @@ Documentar de forma prudente y trazable los supuestos económicos y financieros 
 # Cuándo usarla
 
 Usar al trabajar:
-- `plan_empresa/06_5_economico_financiero.md`
+- `respuestas_plan_empresa/06_5_economico_financiero.md`
+- `plan_empresa/06_5_economico_financiero.md` (solo guía)
 - `anexos/A09_plan_economico_financiero.md`
 - `anexos/finanzas/`
 

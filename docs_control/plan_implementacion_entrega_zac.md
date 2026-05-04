@@ -19,6 +19,14 @@ Dejar listo el repositorio con reglas, skills, arquitectura documental y gates.
 **Estado:** Completada.
 **Evidencia:** commits `7e91684` y `dc2258a`.
 
+## Fase 0.1 — Alineación de arquitectura preguntas/respuestas
+
+**Objetivo:**
+Separar físicamente las preguntas guía del método de las respuestas reales del proyecto para mantener la limpieza del documento final.
+
+**Estado:** Completada.
+**Evidencia:** commit `8d809cf`.
+
 ## Fase 1 — Resumen ejecutivo
 
 **Archivo principal:**

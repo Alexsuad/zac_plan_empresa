@@ -9,7 +9,8 @@ Construir un resumen ejecutivo claro, breve y defendible para exposición y docu
 
 # Cuándo usarla
 
-Usar al trabajar `plan_empresa/00_resumen_ejecutivo.md`.
+Usar al trabajar `respuestas_plan_empresa/00_resumen_ejecutivo.md`.
+`plan_empresa/00_resumen_ejecutivo.md` solo se consulta como guía.
 
 # Entradas esperadas
 
