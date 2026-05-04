@@ -5,7 +5,7 @@ description: Guía para completar apartados del Plan de Empresa sin borrar estru
 
 # Propósito
 
-Redactar las respuestas reales del proyecto dentro de `respuestas_plan_empresa/`, consultando `plan_empresa/` únicamente como guía de preguntas.
+Redactar el contenido final del Plan de Empresa dentro de `respuestas_plan_empresa/`, listo para integrarse en el documento de entrega, manteniendo el tono profesional y la voz narrativa adecuada.
 
 # Cuándo usarla
 
@@ -21,11 +21,7 @@ Usar cuando se trabaje un apartado concreto del Plan de Empresa.
 # Salida esperada
 
 Apartado completado con:
-- versión desarrollada;
-- versión para Plan de Empresa cuando aplique;
-- pendientes;
-- anexos relacionados;
-- conclusión estratégica.
+- Texto final redactado para el Plan de Empresa.
 
 # Reglas
 
@@ -37,6 +33,11 @@ Apartado completado con:
 - No inventar información.
 - Marcar claramente lo pendiente en la respuesta.
 - Relacionar el apartado con anexos cuando corresponda.
+- Los apartados de `respuestas_plan_empresa/` deben redactarse en formato final (listo para entrega).
+- No usar tercera persona biográfica para hablar del emprendedor (evitar estilo CV).
+- Usar primera persona profesional cuando hable el emprendedor (ej: "Cuento con...", "He trabajado...").
+- Usar voz del proyecto/institucional para la iniciativa (ej: "El proyecto busca...", "Se prevé...").
+- No incluir secciones internas de trabajo como "Datos usados", "Pendientes por validar" o "Versión desarrollada" dentro del archivo final de respuestas.
 
 # Límites
 

@@ -31,6 +31,13 @@ Texto claro, sobrio y defendible ante ZAC, entidades de apoyo, bancos o administ
 - Mantener tono emprendedor, profesional y prudente.
 - Explicar riesgos y pendientes cuando existan.
 
+# Persona gramatical y voz narrativa
+
+- **Primera persona profesional:** Usar para la experiencia, motivación, recursos y capacidades del emprendedor (ej: "Mi experiencia en...", "Dispongo de...").
+- **Voz institucional del proyecto:** Usar para la propuesta, modelo, mercado, operaciones y estrategia (ej: "El modelo plantea...", "La iniciativa se apoya en...").
+- **Evitar tercera persona biográfica:** No redactar como una biografía externa o CV (evitar "Alexander cuenta con...", "Alexander asumirá...").
+- **Evitar tono de consultoría genérica:** El texto debe sonar a un compromiso real del emprendedor con su proyecto.
+
 # Límites
 
 No inventar datos, cifras, clientes, validaciones ni fuentes.

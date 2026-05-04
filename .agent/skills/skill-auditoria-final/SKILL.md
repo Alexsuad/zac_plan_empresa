@@ -37,6 +37,10 @@ Reporte de auditoría con:
 - Revisar anexos mínimos.
 - Detectar contradicciones y duplicidades.
 - No reescribir todo sin autorización.
+- Verificar que los apartados finales no usen tercera persona biográfica innecesaria.
+- Verificar que `respuestas_plan_empresa/` no contenga notas internas ("Datos usados", "Pendientes", etc.).
+- Verificar que el texto esté listo para integrarse en el documento final (formato limpio).
+- Marcar como error de auditoría cualquier apartado que suene a CV, ficha biográfica o informe externo.
 
 # Límites
 
