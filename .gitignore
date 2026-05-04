@@ -1,0 +1,16 @@
+# Salidas generadas
+_build/*.docx
+_build/*.pdf
+_build/*.html
+
+# Temporales
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# Python temporal
+__pycache__/
+*.pyc
+.venv/
