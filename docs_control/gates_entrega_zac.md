@@ -28,7 +28,7 @@
 - Gate 0 completado.
 
 **Criterio de salida:**
-- `plan_empresa/00_resumen_ejecutivo.md` contiene versión de exposición y versión para plan.
+- `respuestas_plan_empresa/00_resumen_ejecutivo.md` contiene versión de exposición y versión para plan.
 
 **Estado:** Pendiente.
 
@@ -40,7 +40,7 @@
 - Datos financieros básicos disponibles.
 
 **Criterio de salida:**
-- Plan financiero explicado en `plan_empresa/06_5_economico_financiero.md`.
+- Plan financiero explicado en `respuestas_plan_empresa/06_5_economico_financiero.md`.
 - Supuestos marcados como dato, hipótesis o pendiente.
 - Excel financiero localizado o referenciado.
 
@@ -54,7 +54,7 @@
 - Información sectorial y del proyecto disponible.
 
 **Criterio de salida:**
-- Todos los archivos de `plan_empresa/` tienen contenido suficiente para una revisión formal.
+- Todos los archivos de `respuestas_plan_empresa/` tienen contenido suficiente para una revisión formal.
 
 **Estado:** Pendiente.
 

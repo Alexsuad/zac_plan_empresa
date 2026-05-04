@@ -9,12 +9,15 @@ Este repositorio contiene la documentación específica para la elaboración del
 
 ## Estructura del repositorio
 
-- `plan_empresa/`: Apartados principales del Plan de Empresa.
-- `anexos/`: Matrices, fuentes, tablas y documentación de soporte (DAFO, PESTEL, etc.).
-- `docs_base/`: Guías, mapas, arquitectura documental y referencias metodológicas.
-- `docs_control/`: Planificación, gates y registro de decisiones críticas.
+- `plan_empresa/`: Preguntas guía del Plan de Empresa.
+- `respuestas_plan_empresa/`: Respuestas reales redactadas del proyecto ZAC.
+- `anexos/`: Soporte, matrices, fuentes y evidencias (DAFO, PESTEL, etc.).
+- `docs_base/`: Metodología, mapas, arquitectura documental y documentos de referencia.
+- `docs_control/`: Control operativo, planificación, gates y registro de decisiones.
 - `.agent/skills/`: Skills locales para el asistente Antigravity.
 - `_build/`: Salidas consolidadas y documentos generados para entrega.
+
+**Regla:** Las respuestas reales nunca se escriben en `plan_empresa/`.
 
 ## Metodología de trabajo
 

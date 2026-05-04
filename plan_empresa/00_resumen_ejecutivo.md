@@ -1,19 +1,15 @@
-# 00. Resumen Ejecutivo — Proyecto ZAC
+# Guía: Resumen Ejecutivo
 
-## Versión para exposición
-*(Breve síntesis orientada a una presentación rápida del proyecto)*
+Este apartado debe sintetizar los puntos clave del proyecto.
 
-## Versión para Plan de Empresa
-*(Resumen detallado para el cuerpo del documento final)*
+## Preguntas guía:
+- **¿Qué problema resuelve el proyecto?** (Necesidad detectada).
+- **¿Cuál es la propuesta de valor diferencial?** (Por qué nosotros).
+- **¿Quiénes forman el equipo promotor?** (Capacidad de ejecución).
+- **¿Cuáles son las cifras clave?** (Inversión, rentabilidad esperada).
+- **¿Qué objetivos se pretenden alcanzar?** (Hitos a corto y medio plazo).
 
-## Datos clave pendientes
-- [ ] Cifra final de inversión inicial.
-- [ ] Previsión de ingresos año 1.
-- [ ] Detalle de alianzas estratégicas logísticas.
-
-## Anexos relacionados
-- [A01_canvas_modelo_negocio.md](../anexos/A01_canvas_modelo_negocio.md)
-- [A02_propuesta_valor.md](../anexos/A02_propuesta_valor.md)
-
-## Conclusión estratégica
-*(Síntesis del valor diferencial y viabilidad del proyecto)*
+## Función de este archivo:
+- Ayudar a saber qué debe responder el resumen.
+- No debe contener respuestas reales del proyecto ZAC.
+- Las respuestas se redactan en `respuestas_plan_empresa/00_resumen_ejecutivo.md`.

@@ -5,7 +5,7 @@ description: Guía para completar apartados del Plan de Empresa sin borrar estru
 
 # Propósito
 
-Completar archivos dentro de `plan_empresa/` de forma ordenada, manteniendo trazabilidad y evitando reescrituras innecesarias.
+Redactar las respuestas reales del proyecto dentro de `respuestas_plan_empresa/`, consultando `plan_empresa/` únicamente como guía de preguntas.
 
 # Cuándo usarla
 
@@ -29,17 +29,18 @@ Apartado completado con:
 
 # Reglas
 
-- No borrar preguntas útiles sin justificarlo.
-- No reemplazar contenido completo si solo se requiere ajuste parcial.
+- Las respuestas reales se redactan siempre en `respuestas_plan_empresa/`.
+- `plan_empresa/` se consulta solo como guía cuando haga falta.
+- No modificar `plan_empresa/` salvo tarea explícita de mantenimiento de preguntas.
+- No mezclar preguntas y respuestas en el mismo archivo.
+- No borrar preguntas útiles de la guía sin justificarlo.
 - No inventar información.
-- Marcar claramente lo pendiente.
-- Conservar información útil.
+- Marcar claramente lo pendiente en la respuesta.
 - Relacionar el apartado con anexos cuando corresponda.
-- Evitar duplicidades innecesarias.
 
 # Límites
 
-No modificar otros apartados salvo que el usuario lo pida.
+No modificar archivos en `plan_empresa/` durante la redacción de respuestas.
 
 # Verificación
 

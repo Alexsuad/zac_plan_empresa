@@ -16,13 +16,16 @@ No convertir este repositorio en el producto genérico. Las reglas, skills y doc
 
 ## 3. Fuente de verdad
 
-La documentación principal vive en:
+Las preguntas guía viven en:
 - `plan_empresa/`
+
+Las respuestas reales del proyecto viven en:
+- `respuestas_plan_empresa/`
 
 Los anexos viven en:
 - `anexos/`
 
-Los documentos metodológicos y de arquitectura documental viven en:
+Los documentos metodológicos viven en:
 - `docs_base/`
 
 La planificación, gates y decisiones viven en:
@@ -30,6 +33,8 @@ La planificación, gates y decisiones viven en:
 
 Las salidas consolidadas viven en:
 - `_build/`
+
+**Regla:** Nunca escribir respuestas reales dentro de `plan_empresa/`. Cuando se responda una pregunta del plan, se lee la guía en `plan_empresa/` y se escribe la respuesta en `respuestas_plan_empresa/`.
 
 ## 4. Tono documental
 

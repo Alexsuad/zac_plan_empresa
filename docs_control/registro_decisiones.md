@@ -9,3 +9,5 @@
 | 2026-05-04 | Usar enfoque híbrido. | Maximizar precisión técnica con terminal/scripts y calidad narrativa con IA. | Metodología de trabajo. | AGENTS.md, README.md | Antigravity |
 | 2026-05-04 | Crear skills locales. | Evitar dependencia de skills externas, personalización total al proyecto ZAC y mayor control. | `.agent/skills/` | `.agent/skills/` | Antigravity |
 | 2026-05-04 | No convertir `zac_plan_empresa` en sistema genérico. | Mantener el foco absoluto en la entrega del Plan de Empresa logístico/ZAC. | Alcance del proyecto. | Todo el repositorio. | Antigravity |
+| 2026-05-04 | Separar preguntas guía de respuestas reales. | Evitar que las preguntas del método ensucien la redacción final del proyecto. | `plan_empresa/` (preguntas) vs `respuestas_plan_empresa/` (respuestas). | `plan_empresa/`, `respuestas_plan_empresa/` | Antigravity |
+| 2026-05-04 | Diferenciar tres índices operativos. | Claridad sobre qué documento se está consultando: guía, respuestas o estructura final. | Creación de índices específicos. | `docs_base/`, `plan_empresa/`, `respuestas_plan_empresa/` | Antigravity |

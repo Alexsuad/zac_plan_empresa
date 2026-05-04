@@ -3,6 +3,7 @@
 ## Regla general
 
 Leer solo lo necesario para la tarea actual. No abrir todo el repositorio por defecto.
+Las preguntas guía se leen de `plan_empresa/` y las respuestas reales se redactan en `respuestas_plan_empresa/`.
 
 ## Mapa de lectura por tipo de tarea
 
@@ -13,13 +14,13 @@ Leer:
 - `docs_control/gates_entrega_zac.md`
 - `.agent/skills/skill-resumen-ejecutivo/SKILL.md`
 - `.agent/skills/skill-tono-plan-empresa/SKILL.md`
-- `plan_empresa/00_resumen_ejecutivo.md`
+- `plan_empresa/00_resumen_ejecutivo.md`, si existe como guía
 - `plan_empresa/02_idea_negocio.md`
 - `plan_empresa/06_5_economico_financiero.md`
+- `respuestas_plan_empresa/00_resumen_ejecutivo.md`
 
-Opcional:
-- `plan_empresa/03_1_analisis_externo.md`
-- `plan_empresa/03_2_estudio_mercado.md`
+Modificar:
+- `respuestas_plan_empresa/00_resumen_ejecutivo.md`
 
 No leer:
 - `docs_base/`
@@ -33,14 +34,18 @@ Leer:
 - `docs_control/gates_entrega_zac.md`
 - `.agent/skills/skill-plan-financiero/SKILL.md`
 - `.agent/skills/skill-validacion-fuentes/SKILL.md`
-- `plan_empresa/06_5_economico_financiero.md`
+- `plan_empresa/06_5_economico_financiero.md` (guía)
+- `respuestas_plan_empresa/06_5_economico_financiero.md` (respuestas)
 - `anexos/A09_plan_economico_financiero.md`, si existe
 - `anexos/finanzas/`, solo si existe y la tarea lo requiere
+
+Modificar:
+- `respuestas_plan_empresa/06_5_economico_financiero.md`
 
 No leer:
 - todos los demás anexos;
 - todo `docs_base/`;
-- todo `plan_empresa/`.
+- todo `plan_empresa/` (salvo el archivo de la tarea).
 
 ### 3. Completar un apartado del plan
 
@@ -48,8 +53,12 @@ Leer:
 - `AGENTS.md`
 - `.agent/skills/skill-rellenar-apartado-plan/SKILL.md`
 - `.agent/skills/skill-tono-plan-empresa/SKILL.md`
-- el archivo específico de `plan_empresa/`
+- el archivo específico de `plan_empresa/` (guía)
+- el archivo específico de `respuestas_plan_empresa/` (respuestas)
 - el anexo relacionado, solo si aplica
+
+Modificar:
+- el archivo específico de `respuestas_plan_empresa/`
 
 No leer:
 - otros apartados completos salvo que se indiquen explícitamente.
@@ -61,7 +70,7 @@ Leer:
 - `.agent/skills/skill-gestion-anexos/SKILL.md`
 - `.agent/skills/skill-validacion-fuentes/SKILL.md`
 - el archivo del anexo específico
-- máximo 1 o 2 archivos fuente relacionados
+- máximo 1 o 2 archivos fuente relacionados de `respuestas_plan_empresa/`
 
 No leer:
 - todos los anexos;

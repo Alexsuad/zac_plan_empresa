@@ -56,7 +56,7 @@ Archivos a leer:
 @plan_empresa/06_5_economico_financiero.md
 
 Archivos a modificar:
-@plan_empresa/00_resumen_ejecutivo.md
+@respuestas_plan_empresa/00_resumen_ejecutivo.md
 
 Archivos prohibidos:
 @anexos/

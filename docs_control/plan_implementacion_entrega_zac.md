@@ -22,7 +22,10 @@ Dejar listo el repositorio con reglas, skills, arquitectura documental y gates.
 ## Fase 1 — Resumen ejecutivo
 
 **Archivo principal:**
-- `plan_empresa/00_resumen_ejecutivo.md`
+- `respuestas_plan_empresa/00_resumen_ejecutivo.md`
+
+**Archivo de guía:**
+- `plan_empresa/00_resumen_ejecutivo.md` (si existe)
 
 **Objetivo:**
 Crear una versión clara para exposición y una versión para el Plan de Empresa.
@@ -44,7 +47,10 @@ Crear una versión clara para exposición y una versión para el Plan de Empresa
 
 ## Fase 2 — Plan económico-financiero
 
-**Archivos:**
+**Archivos de respuesta:**
+- `respuestas_plan_empresa/06_5_economico_financiero.md`
+
+**Archivos de guía y soporte:**
 - `plan_empresa/06_5_economico_financiero.md`
 - `anexos/A09_plan_economico_financiero.md`
 - `anexos/finanzas/`
@@ -54,23 +60,14 @@ Documentar supuestos, inversión, costes, ingresos, escenarios y conclusiones fi
 
 ## Fase 3 — Completar apartados principales
 
-**Archivos:**
-- `plan_empresa/01_equipo_promotor.md`
-- `plan_empresa/02_idea_negocio.md`
-- `plan_empresa/03_1_analisis_externo.md`
-- `plan_empresa/03_2_estudio_mercado.md`
-- `plan_empresa/03_3_analisis_interno.md`
-- `plan_empresa/04_dafo_came.md`
-- `plan_empresa/05_objetivos_lineas_estrategicas.md`
-- `plan_empresa/06_1_marketing_ventas.md`
-- `plan_empresa/06_2_operaciones.md`
-- `plan_empresa/06_3_recursos_humanos.md`
-- `plan_empresa/06_4_juridico_fiscal.md`
-- `plan_empresa/07_implantacion_puesta_marcha.md`
-- `plan_empresa/08_viabilidad_conclusiones.md`
+**Archivos de respuesta:**
+- `respuestas_plan_empresa/*.md`
+
+**Archivos de guía:**
+- `plan_empresa/*.md`
 
 **Objetivo:**
-Que todos los apartados estén respondidos con nivel suficiente para entrega.
+Que todos los apartados de `respuestas_plan_empresa/` estén respondidos con nivel suficiente para entrega.
 
 ## Fase 4 — Crear anexos mínimos
 
