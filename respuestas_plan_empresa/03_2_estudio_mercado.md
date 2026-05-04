@@ -1,11 +1,3 @@
-Sí. Te dejo una versión lista para pegar en:
-
-`respuestas_plan_empresa/03_2_estudio_mercado.md`
-
-La redacté como **texto final del Plan de Empresa**, no como informe interno. Mantiene un tono prudente: reconoce oportunidad, competencia y pendientes de validación real.
-
----
-
 # 3.2. Estudio de mercado
 
 ## 3.2.1. Introducción
