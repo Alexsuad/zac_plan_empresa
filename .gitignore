@@ -15,3 +15,6 @@ __pycache__/
 *.pyc
 .venv/
 docs_convierte/
+
+# Archivos externos o rutas accidentales
+*Mis\ Documentos*archivos_zip/
