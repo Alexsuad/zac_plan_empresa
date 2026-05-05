@@ -573,6 +573,7 @@ Debe validar:
 
 * `NAMING ZAC.pdf` (Metodología de naming).
 * `Plan comunicacion - Convierte tu idea en negocio 21-04-2026.pdf`.
+* `Taller formativo de Marketing en Convierte tu idea en negocio 04-2026_Presentación.pdf` (Integración marca-negocio, públicos, viaje del cliente, posicionamiento y ecosistema digital).
 * `Branding y Psicología del Color.txt`.
 * `Definir marca en una línea.txt`.
 * Landing page (borrador actual).
@@ -638,6 +639,7 @@ Debe validar:
 ## Fuentes recomendadas
 
 * Webs y redes de competidores.
+* `Taller formativo de Marketing en Convierte tu idea en negocio 04-2026_Presentación.pdf` (Objetivos SMART, estrategia competitiva, plan de acción, KPIs y métricas CPL/CAC/ROI/CLTV).
 * Google Maps.
 * Marketplaces.
 * Catálogos y tarifas públicas.
