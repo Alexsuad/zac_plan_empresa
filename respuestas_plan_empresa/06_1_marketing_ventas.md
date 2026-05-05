@@ -416,7 +416,43 @@ Esta actividad comercial está alineada con la dedicación de horas mínimas def
 
 ---
 
-## 6.1.18. Pendientes por validar
+## 6.1.18. Objetivos SMART de marketing
+
+El plan de marketing no se medirá únicamente por actividad publicada, sino por objetivos SMART conectados con el embudo comercial.
+
+Los objetivos SMART iniciales serán:
+
+| Canal / Acción | Objetivo SMART | Indicador | Plazo |
+|---|---|---:|---|
+| LinkedIn | Publicar 2 contenidos semanales sobre control operativo, evidencias, facturación bloqueada y trazabilidad documental. | 8 publicaciones/mes | Primeros 3 meses |
+| LinkedIn | Generar al menos 8 conversaciones privadas mensuales con perfiles B2B relacionados. | Conversaciones/mes | Primeros 3 meses |
+| LinkedIn | Conseguir al menos 3 leads cualificados mensuales. | Leads cualificados/mes | Primeros 3 meses |
+| LinkedIn | Convertir al menos 1 lead mensual en reunión o visita. | Reuniones desde LinkedIn/mes | Primeros 3 meses |
+| Landing | Publicar una landing simple con propuesta, problema, formulario o vía clara de contacto. | Landing activa | Antes de prospección intensiva |
+| Landing | Conseguir al menos 30 visitas mensuales. | Visitas/mes | Primeros 3 meses |
+| Landing | Convertir al menos el 5% de visitas en lead o contacto. | Conversión visita → lead | Primeros 3 meses |
+| Landing | Conseguir al menos 2 leads mensuales. | Leads landing/mes | Primeros 3 meses |
+| Marketing externo/agencia | Si se contrata apoyo externo, exigir reporte mensual de leads, fuente, coste, conversión y calidad. | Informe mensual | Desde contratación |
+| Marketing externo/agencia | Si se contrata apoyo externo, exigir mínimo 5 leads cualificados mensuales o justificar ajustes. | Leads cualificados/mes | Desde contratación |
+
+No se considerará éxito de marketing aumentar seguidores, visitas o publicaciones si esas acciones no generan conversaciones, leads cualificados, reuniones o diagnósticos.
+
+En el caso de contratar una agencia de marketing o apoyo externo, el seguimiento deberá centrarse en resultados vinculados al embudo, no solo en entregables. La agencia deberá reportar como mínimo:
+
+- contenidos publicados;
+- visitas generadas;
+- leads captados;
+- fuente de cada lead;
+- coste por lead, si aplica;
+- reuniones generadas;
+- calidad de los leads;
+- recomendaciones de ajuste.
+
+La finalidad de estos objetivos SMART es evitar que el marketing se convierta en actividad de visibilidad sin impacto comercial. Para Proyecto Logístico, la prioridad será transformar autoridad y contenido en conversaciones reales con empresas del mercado objetivo.
+
+---
+
+## 6.1.19. Pendientes por validar
 
 El plan de marketing y ventas todavía debe validar varios elementos en mercado real:
 
@@ -435,7 +471,7 @@ El plan de marketing y ventas todavía debe validar varios elementos en mercado 
 
 ---
 
-## 6.1.19. Anexos relacionados
+## 6.1.20. Anexos relacionados
 
 Este apartado se relaciona con los siguientes anexos y documentos de apoyo:
 
@@ -451,7 +487,7 @@ Estos documentos deberán mantenerse como soporte del plan y actualizarse si cam
 
 ---
 
-## 6.1.20. Conclusión estratégica
+## 6.1.21. Conclusión estratégica
 
 El plan de marketing y ventas de Proyecto Logístico se basa en una entrada comercial prudente, directa y medible.
 
