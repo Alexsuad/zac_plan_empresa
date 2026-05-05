@@ -26,3 +26,6 @@ Se sigue un enfoque **híbrido**:
 - **Tareas cognitivas** (redacción, análisis, auditoría estratégica) mediante IA (Antigravity).
 
 Para más detalles sobre las reglas de trabajo, consultar [AGENTS.md](AGENTS.md).
+
+## Recursos y Enlaces Externos
+- [Plan Económico y Financiero (Google Sheets)](https://docs.google.com/spreadsheets/d/1P0i6Pi0s2tpkCj2z-z4eqrPogovvA5VkFVZyHe9dy6U/edit?usp=drive_link)

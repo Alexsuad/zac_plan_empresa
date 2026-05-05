@@ -920,7 +920,7 @@ Debe validar:
 * Gestoría.
 * Alquileres de locales.
 * Competidores.
-* Excel financiero.
+* [Excel Financiero (Google Sheets)](https://docs.google.com/spreadsheets/d/1P0i6Pi0s2tpkCj2z-z4eqrPogovvA5VkFVZyHe9dy6U/edit?usp=drive_link)
 * Datos de ventas piloto.
 
 ## Anexos que alimenta
