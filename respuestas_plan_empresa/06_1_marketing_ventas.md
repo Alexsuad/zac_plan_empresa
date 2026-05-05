@@ -338,7 +338,7 @@ Estados mínimos del seguimiento comercial:
 
 ## 6.1.15. Presupuesto de marketing y ventas
 
-El presupuesto concreto de marketing y ventas deberá mantenerse alineados con el plan económico-financiero.
+El presupuesto concreto de marketing y ventas deberá mantenerse alineado con el plan económico-financiero.
 
 En esta fase se priorizarán acciones de bajo coste y alto aprendizaje:
 
@@ -396,7 +396,27 @@ No se dará prioridad inicial a seguidores, likes o alcance si no generan conver
 
 ---
 
-## 6.1.17. Pendientes por validar
+## 6.1.17. Embudo comercial estimado
+
+Para asegurar la viabilidad del proyecto y la conexión con los objetivos estratégicos, se establece un embudo comercial estimado basado en una actividad comercial recurrente.
+
+| Etapa del embudo              | Volumen mensual estimado | Tasa de conversión (est.) |
+| ----------------------------- | ------------------------ | ------------------------- |
+| 1. Empresas contactadas       | 23                       | -                         |
+| 2. Reuniones/Visitas          | 5                        | 21,7% (de contacto)       |
+| 3. Diagnósticos iniciales     | 4                        | 80% (de reunión)          |
+| 4. Propuestas pagadas         | 2                        | 50% (de diagnóstico)      |
+| 5. Proyectos cerrados         | 0,7                      | 35% (de propuesta)        |
+
+Este embudo implica que para conseguir el objetivo estratégico de **4 proyectos pagados en 6 meses**, es necesario mantener un ritmo de prospección constante de al menos 23 contactos nuevos al mes.
+
+Las tasas de conversión son estimaciones iniciales que deberán validarse con la actividad real. Si la tasa de conversión de diagnóstico a propuesta es baja, indicará que el problema no es lo suficientemente agudo o la oferta no encaja. Si la tasa de propuesta a cierre es baja, indicará problemas en el precio o en el compromiso del cliente.
+
+Esta actividad comercial está alineada con la dedicación de horas mínimas definida en el archivo **`3.1 Plan Económico-Financiero Emprendimiento 2026`**, asegurando que el esfuerzo de prospección y diagnóstico sea sostenible dentro de la estructura de costes del proyecto.
+
+---
+
+## 6.1.18. Pendientes por validar
 
 El plan de marketing y ventas todavía debe validar varios elementos en mercado real:
 
@@ -415,7 +435,7 @@ El plan de marketing y ventas todavía debe validar varios elementos en mercado 
 
 ---
 
-## 6.1.18. Anexos relacionados
+## 6.1.19. Anexos relacionados
 
 Este apartado se relaciona con los siguientes anexos y documentos de apoyo:
 
@@ -431,7 +451,7 @@ Estos documentos deberán mantenerse como soporte del plan y actualizarse si cam
 
 ---
 
-## 6.1.19. Conclusión estratégica
+## 6.1.20. Conclusión estratégica
 
 El plan de marketing y ventas de Proyecto Logístico se basa en una entrada comercial prudente, directa y medible.
 
