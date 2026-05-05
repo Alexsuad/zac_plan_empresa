@@ -17,7 +17,7 @@ Importante:
 | 3.1 Análisis externo | `03_1_analisis_externo.md` | Borrador avanzado |
 | 3.2 Estudio de mercado | `03_2_estudio_mercado.md` | Borrador avanzado |
 | 3.3 Análisis interno | `03_3_analisis_interno.md` | Borrador avanzado |
-| 4. DAFO / CAME | `04_dafo_came.md` | Pendiente |
+| 4. DAFO / CAME | `04_dafo_came.md` | Borrador avanzado |
 | 5. Objetivos y líneas estratégicas | `05_objetivos_lineas_estrategicas.md` | Borrador avanzado |
 | 6.0 Marca, comunicación y naming | `06_0_marca_comunicacion_naming.md` | Pendiente |
 | 6.1 Marketing y ventas | `06_1_marketing_ventas.md` | Borrador avanzado |

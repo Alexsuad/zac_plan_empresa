@@ -40,10 +40,18 @@ Pendiente de completar.
 
 Pendiente de completar.
 
-## 6.0.11. Validaciones pendientes
+## 6.0.11. Objetivos de comunicación y medición
 
 Pendiente de completar.
 
-## 6.0.12. Conclusión estratégica
+## 6.0.12. Relación con marketing, ventas y activos comerciales
+
+Pendiente de completar.
+
+## 6.0.13. Validaciones pendientes
+
+Pendiente de completar.
+
+## 6.0.14. Conclusión estratégica
 
 Pendiente de completar.

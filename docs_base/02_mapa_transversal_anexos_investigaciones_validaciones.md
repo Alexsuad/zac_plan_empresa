@@ -571,12 +571,14 @@ Debe validar:
 
 ## Fuentes recomendadas
 
+* `NAMING ZAC.pdf` (Metodología de naming).
+* `Plan comunicacion - Convierte tu idea en negocio 21-04-2026.pdf`.
+* `Branding y Psicología del Color.txt`.
+* `Definir marca en una línea.txt`.
+* Landing page (borrador actual).
+* Documentación interna y perfil de LinkedIn.
 * OEPM / EUIPO / TMView.
 * Registradores de dominios.
-* Redes sociales.
-* Benchmark de competencia.
-* Diccionarios y herramientas de naming.
-* Referentes de diseño.
 
 ## Anexos que alimenta
 
@@ -870,7 +872,7 @@ Debe validar:
 
 ---
 
-# 4.12 Punto 6.5: Económico-financiero
+# 4.13 Punto 6.5: Económico-financiero
 
 ## Qué debe responder el emprendedor
 
@@ -947,7 +949,7 @@ Debe validar:
 
 ---
 
-# 4.13 Punto 7: Implantación y puesta en marcha
+# 4.14 Punto 7: Implantación y puesta en marcha
 
 ## Qué debe responder el emprendedor
 
@@ -1011,7 +1013,7 @@ Debe validar:
 
 ---
 
-# 4.14 Punto 8: Viabilidad y conclusiones
+# 4.15 Punto 8: Viabilidad y conclusiones
 
 ## Qué debe responder el emprendedor
 

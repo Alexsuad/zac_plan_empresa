@@ -37,8 +37,9 @@
 - Gate 1 completado.
 
 **Criterio de salida:**
-- `respuestas_plan_empresa/03_analisis_entorno_mercado.md` completo.
-- `respuestas_plan_empresa/04_analisis_interno.md` completo.
+- `respuestas_plan_empresa/03_1_analisis_externo.md` completo.
+- `respuestas_plan_empresa/03_2_estudio_mercado.md` completo.
+- `respuestas_plan_empresa/03_3_analisis_interno.md` completo.
 - Anexos relacionados (Pestel, Benchmark) creados.
 
 **Estado:** Pendiente.
@@ -51,7 +52,8 @@
 - Gate 2 completado.
 
 **Criterio de salida:**
-- `respuestas_plan_empresa/05_diagnostico_objetivos.md` completo.
+- `respuestas_plan_empresa/04_dafo_came.md` completo.
+- `respuestas_plan_empresa/05_objetivos_lineas_estrategicas.md` completo.
 - Anexos DAFO/CAME creados.
 
 **Estado:** Pendiente.
@@ -93,7 +95,8 @@
 - Gate 5 completado.
 
 **Criterio de salida:**
-- `respuestas_plan_empresa/07_viabilidad_conclusiones.md` completo.
+- `respuestas_plan_empresa/07_implantacion_puesta_marcha.md` completo.
+- `respuestas_plan_empresa/08_viabilidad_conclusiones.md` completo.
 
 **Estado:** Pendiente.
 

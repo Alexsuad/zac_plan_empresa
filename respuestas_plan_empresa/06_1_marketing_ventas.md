@@ -3,6 +3,9 @@
 ## 6.1.1. Introducción
 Este plan de marketing y ventas ejecuta y tangibiliza las definiciones estratégicas establecidas en el apartado [6.0. Marca, comunicación y naming](06_0_marca_comunicacion_naming.md).
 
+> [!NOTE]
+> Las definiciones de tono, narrativa, territorio verbal, identidad visual y criterios de naming se desarrollan en el apartado 06.0. Este apartado 06.1 mantiene únicamente su aplicación comercial y operativa.
+
 El plan de marketing y ventas de **Proyecto Logístico** define cómo se presentará la oferta, cómo se captarán los primeros clientes, qué canales se utilizarán, cómo se comunicará el valor del servicio y cómo se medirá si la estrategia comercial funciona.
 
 Este apartado parte de una premisa clara: el proyecto no debe venderse como una agencia de IA, un SaaS estándar, una consultoría logística genérica ni un proveedor informático generalista. La comunicación comercial debe centrarse en el problema operativo del cliente: falta de control documental, evidencias dispersas, validaciones manuales, facturación bloqueada y pérdida de trazabilidad entre operación, evidencia, factura y cobro.

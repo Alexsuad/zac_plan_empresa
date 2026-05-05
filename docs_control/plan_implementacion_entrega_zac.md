@@ -14,12 +14,12 @@ Completar y preparar el Plan de Empresa del proyecto logístico/ZAC siguiendo un
 **Gate:** Gate 1.
 
 ## Fase 2 — Análisis de Contexto
-**Archivos:** `03_analisis_entorno_mercado.md`, `04_analisis_interno.md`.
+**Archivos:** `03_1_analisis_externo.md`, `03_2_estudio_mercado.md`, `03_3_analisis_interno.md`.
 **Objetivo:** Validar el entorno (Pestel) y la competencia (Benchmark).
 **Gate:** Gate 2.
 
 ## Fase 3 — Diagnóstico y Objetivos
-**Archivo:** `05_diagnostico_objetivos.md`.
+**Archivos:** `04_dafo_came.md`, `05_objetivos_lineas_estrategicas.md`.
 **Objetivo:** Generar DAFO/CAME y fijar objetivos estratégicos basados en el análisis previo.
 **Gate:** Gate 3.
 
@@ -33,12 +33,12 @@ Completar y preparar el Plan de Empresa del proyecto logístico/ZAC siguiendo un
 **Objetivo:** Asegurar el cumplimiento legal y la rentabilidad del modelo.
 **Gate:** Gate 5.
 
-## Fase 6 — Cierre de Plan
-**Archivo:** `07_viabilidad_conclusiones.md`.
-**Objetivo:** Extraer las conclusiones finales sobre la viabilidad del proyecto.
+## Fase 6 — Implantación y Viabilidad
+**Archivos:** `07_implantacion_puesta_marcha.md`, `08_viabilidad_conclusiones.md`.
+**Objetivo:** Detallar el calendario de puesta en marcha y la viabilidad final.
 **Gate:** Gate 6.
 
-## Fase 7 — Síntesis Ejecutiva (Resumen Ejecutivo)
+## Fase 7 — Síntesis Ejecutiva
 **Archivo:** `00_resumen_ejecutivo.md`.
 **Objetivo:** Redactar la síntesis final una vez el plan está completo y es coherente.
 **Gate:** Gate 7.
