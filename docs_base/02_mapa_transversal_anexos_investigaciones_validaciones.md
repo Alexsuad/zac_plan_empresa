@@ -539,7 +539,66 @@ Debe validar:
 
 ---
 
-# 4.8 Punto 6.1: Marketing y ventas
+# 4.8 Punto 6.0: Marca, comunicación y naming
+
+## Qué debe responder el emprendedor
+
+* Nombre provisional o definitivo.
+* Qué debe transmitir el nombre.
+* Qué lo hace diferente.
+* Arquetipo y tono deseado.
+* Posicionamiento frente a competidores.
+* Mensajes clave y narrativa.
+* Estilo visual inicial.
+* Canales de comunicación prioritarios.
+
+## Qué debe investigar el sistema
+
+* Disponibilidad de marca (OEPM, EUIPO).
+* Disponibilidad de dominios y redes sociales.
+* Significado del nombre en otros idiomas (si aplica).
+* Benchmark de identidad visual y mensajes de la competencia.
+* Territorios verbales usados en el sector.
+* Arquetipos dominantes en el mercado logístico/tecnológico.
+
+## Nivel recomendado
+
+| Caso                   | Nivel    |
+| ---------------------- | -------- |
+| Nombre provisional     | Ligera   |
+| Marca comercial nueva  | Media    |
+| Registro oficial       | Profunda |
+
+## Fuentes recomendadas
+
+* OEPM / EUIPO / TMView.
+* Registradores de dominios.
+* Redes sociales.
+* Benchmark de competencia.
+* Diccionarios y herramientas de naming.
+* Referentes de diseño.
+
+## Anexos que alimenta
+
+* Informe de naming y marca.
+* Brand Script (Narrativa).
+* Guía de tono y estilo verbal.
+* Checklist de validación de marca.
+* Base para el plan de comunicación.
+
+## Validaciones bloqueantes
+
+| Validación          | Bloquea si...                                         |
+| ------------------- | ----------------------------------------------------- |
+| Disponibilidad      | El nombre ya está registrado o en uso claro           |
+| Coherencia          | El arquetipo contradice la promesa de valor           |
+| Diferenciación      | La identidad es indistinguible de la competencia      |
+| Registro            | No se han verificado bases de datos de propiedad      |
+| Narrativa           | No hay un mensaje claro que conecte con el cliente    |
+
+---
+
+# 4.9 Punto 6.1: Marketing y ventas
 
 ## Qué debe responder el emprendedor
 
@@ -606,7 +665,7 @@ Debe validar:
 
 ---
 
-# 4.9 Punto 6.2: Operaciones
+# 4.10 Punto 6.2: Operaciones
 
 ## Qué debe responder el emprendedor
 
@@ -675,7 +734,7 @@ Debe validar:
 
 ---
 
-# 4.10 Punto 6.3: Recursos humanos
+# 4.11 Punto 6.3: Recursos humanos
 
 ## Qué debe responder el emprendedor
 
@@ -739,7 +798,7 @@ Debe validar:
 
 ---
 
-# 4.11 Punto 6.4: Jurídico y fiscal
+# 4.12 Punto 6.4: Jurídico y fiscal
 
 ## Qué debe responder el emprendedor
 

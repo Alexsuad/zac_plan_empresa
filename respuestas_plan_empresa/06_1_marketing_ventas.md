@@ -1,6 +1,7 @@
 # 6.1. Plan de marketing y ventas
 
 ## 6.1.1. Introducción
+Este plan de marketing y ventas ejecuta y tangibiliza las definiciones estratégicas establecidas en el apartado [6.0. Marca, comunicación y naming](06_0_marca_comunicacion_naming.md).
 
 El plan de marketing y ventas de **Proyecto Logístico** define cómo se presentará la oferta, cómo se captarán los primeros clientes, qué canales se utilizarán, cómo se comunicará el valor del servicio y cómo se medirá si la estrategia comercial funciona.
 

@@ -24,7 +24,7 @@ Completar y preparar el Plan de Empresa del proyecto logístico/ZAC siguiendo un
 **Gate:** Gate 3.
 
 ## Fase 4 — Plan Operativo
-**Archivos:** `06_1_marketing_ventas.md` a `06_3_recursos_humanos.md`.
+**Archivos:** `06_0_marca_comunicacion_naming.md` a `06_3_recursos_humanos.md`.
 **Objetivo:** Detallar cómo se vende, cómo se opera y quién lo ejecuta.
 **Gate:** Gate 4.
 

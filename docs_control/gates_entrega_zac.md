@@ -64,6 +64,7 @@
 - Gate 3 completado.
 
 **Criterio de salida:**
+- `respuestas_plan_empresa/06_0_marca_comunicacion_naming.md` completo.
 - `respuestas_plan_empresa/06_1_marketing_ventas.md` completo.
 - `respuestas_plan_empresa/06_2_operaciones.md` completo.
 - `respuestas_plan_empresa/06_3_recursos_humanos.md` completo.
