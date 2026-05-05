@@ -1,5 +1,11 @@
 # Contexto mínimo operativo
 
+## Reglas Críticas Sistreg
+- **Marca**: Sistreg es marca provisional; Proyecto Logístico solo referencia interna/descriptiva. ZAC/Zaragoza Activa solo contexto institucional.
+- **Servicio**: El primer servicio pagado es "arranque guiado"; no usar "piloto pagado" comercialmente.
+- **Ingresos**: El diagnóstico inicial es gratuito, limitado y NO es línea de ingreso.
+- **Prudencia**: No garantizar cifras ni ROI. Sistreg no es marca registrada.
+
 ## Regla general
 
 Leer solo lo necesario para la tarea actual. No abrir todo el repositorio por defecto.
@@ -36,8 +42,8 @@ Leer:
 - `.agent/skills/skill-validacion-fuentes/SKILL.md`
 - `plan_empresa/06_5_economico_financiero.md` (guía)
 - `respuestas_plan_empresa/06_5_economico_financiero.md` (respuestas)
-- `anexos/A09_plan_economico_financiero.md`, si existe
-- `anexos/finanzas/`, solo si existe y la tarea lo requiere
+- `anexos/` (Opcional / Futuro)
+- Google Sheet externo del Plan Económico-Financiero.
 
 Modificar:
 - `respuestas_plan_empresa/06_5_economico_financiero.md`

@@ -171,7 +171,7 @@ Esta línea es importante para evitar dos riesgos: construir todo de forma artes
 
 ## 5.9. Objetivos de marca y comunicación
 
-**Sistreg** se utilizará como marca provisional de trabajo, pendiente de validación legal, digital y comercial. La denominación Proyecto Logístico se mantiene solo como referencia interna/descriptiva del ámbito de actuación.
+**Sistreg** se utilizará como marca provisional de trabajo, pendiente de validación legal, digital y comercial. La denominación **Proyecto Logístico** se mantiene solo como referencia interna/descriptiva del ámbito de actuación.
 
 La comunicación deberá evitar confusiones. El proyecto no debe parecer:
 

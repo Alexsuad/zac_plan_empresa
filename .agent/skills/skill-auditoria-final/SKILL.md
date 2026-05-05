@@ -34,13 +34,10 @@ Reporte de auditoría con:
 - Confirmar que el resumen ejecutivo coincide con el plan.
 - Confirmar que el financiero coincide con el modelo de negocio.
 - Revisar tono.
-- Revisar anexos mínimos.
-- Detectar contradicciones y duplicidades.
-- No reescribir todo sin autorización.
-- Verificar que los apartados finales no usen tercera persona biográfica innecesaria.
-- Verificar que `respuestas_plan_empresa/` no contenga notas internas ("Datos usados", "Pendientes", etc.).
-- Verificar que el texto esté listo para integrarse en el documento final (formato limpio).
-- Marcar como error de auditoría cualquier apartado que suene a CV, ficha biográfica o informe externo.
+- Verificar que se usa **Sistreg** como marca y Proyecto Logístico solo como referencia interna.
+- Verificar que el servicio inicial se llama "arranque guiado" y no "piloto".
+- Verificar que el diagnóstico gratuito no se cuenta como ingreso.
+- Marcar como error cualquier apartado que suene a CV o informe externo.
 
 # Regla de conservación de valor documental
 

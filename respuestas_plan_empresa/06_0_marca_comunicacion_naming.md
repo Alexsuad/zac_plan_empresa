@@ -23,7 +23,7 @@ El proyecto tiene actualmente dos niveles de denominación:
 | Proyecto Logístico | Denominación interna y descriptiva del proyecto durante la elaboración del Plan de Empresa.    |
 | Sistreg            | Nombre provisional de marca para desarrollar identidad, comunicación y materiales comerciales. |
 
-La denominación **Proyecto Logístico** permite explicar el ámbito de actividad de forma clara. Sin embargo, es demasiado genérica para construir una marca diferenciada. Por eso se adopta provisionalmente **Sistreg** como nombre de trabajo comercial.
+La denominación **Proyecto Logístico** (referencia interna/descriptiva) permite explicar el ámbito de actividad de forma clara. Sin embargo, es demasiado genérica para construir una marca diferenciada. Por eso se adopta provisionalmente **Sistreg** como nombre de trabajo comercial.
 
 Sistreg permite empezar a construir una identidad más concreta alrededor de:
 
@@ -71,7 +71,7 @@ Sistreg no debe considerarse todavía definitivo. Antes de invertir en marca, we
 * posibles coincidencias o similitudes con marcas tecnológicas, logísticas o de software;
 * legibilidad y comprensión por parte de potenciales clientes.
 
-La decisión actual no cierra el naming, pero permite trabajar con una identidad más concreta que “Proyecto Logístico”.
+La decisión actual no cierra el naming, pero permite trabajar con una identidad más concreta que la referencia interna “Proyecto Logístico”.
 
 ---
 
@@ -149,7 +149,7 @@ La promesa de marca debe ser prudente y sostenible:
 No se debe prometer:
 
 * automatización total;
-* ahorro garantizado sin diagnóstico;
+* ahorro potencial (estimado tras diagnóstico);
 * sustitución completa de sistemas existentes;
 * eliminación absoluta de errores;
 * implantaciones rápidas sin revisar procesos;
@@ -377,7 +377,7 @@ También queda pendiente decidir si se registrará la marca y en qué momento. E
 
 ## 6.0.14. Conclusión estratégica
 
-Sistreg se adopta como nombre provisional para avanzar en la construcción de marca, comunicación y activos comerciales del proyecto. La decisión permite superar la denominación genérica “Proyecto Logístico” y trabajar con una identidad más concreta, alineada con sistema, registro, seguimiento, control y trazabilidad.
+Sistreg se adopta como nombre provisional para avanzar en la construcción de marca, comunicación y activos comerciales del proyecto. La decisión permite superar la denominación genérica y de referencia interna “Proyecto Logístico” y trabajar con una identidad más concreta, alineada con sistema, registro, seguimiento, control y trazabilidad.
 
 La marca debe transmitir principalmente **control** y **seguimiento**, sin caer en lenguaje tecnológico genérico ni promesas sobredimensionadas. Su posicionamiento se basa en ayudar a pymes logísticas a ordenar procesos críticos donde la falta de evidencia, validación o trazabilidad bloquea el cierre operativo, la facturación o el cobro.
 

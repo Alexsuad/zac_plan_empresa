@@ -1,7 +1,5 @@
 # Salidas generadas
-_build/*.docx
-_build/*.pdf
-_build/*.html
+_build/
 
 # Temporales
 *.tmp
@@ -14,7 +12,11 @@ Thumbs.db
 __pycache__/
 *.pyc
 .venv/
-docs_convierte/
-
+docs_convierte/*
+!docs_convierte/soporte_tecnico/
+docs_convierte/soporte_tecnico/*
+!docs_convierte/soporte_tecnico/plantillas_red_arce/
+docs_convierte/soporte_tecnico/plantillas_red_arce/*
+!docs_convierte/soporte_tecnico/plantillas_red_arce/FUENTE_DATOS_RED_ARCE.md
 # Archivos externos o rutas accidentales
 *Mis\ Documentos*archivos_zip/

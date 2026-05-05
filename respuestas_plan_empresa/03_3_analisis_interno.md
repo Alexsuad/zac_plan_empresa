@@ -4,11 +4,11 @@
 
 ## 3.3.1. Introducción
 
-El análisis interno permite valorar si **Proyecto Logístico** cuenta con las capacidades, recursos y condiciones mínimas para ejecutar la idea de negocio de forma realista.
+El análisis interno permite valorar si **Sistreg** cuenta con las capacidades, recursos y condiciones mínimas para ejecutar la idea de negocio de forma realista.
 
 En este apartado no se analiza el mercado ni la oportunidad externa, sino la situación interna del proyecto: capacidades personales, capacidades técnicas, gestión, ventas, recursos disponibles, apoyos externos, capacidad de prestación del servicio, control de calidad, limitaciones e hipótesis críticas.
 
-La conclusión principal es que **Proyecto Logístico** cuenta con una base técnica y operativa suficiente para iniciar la actividad de forma ligera, desde casa y sin estructura pesada. Sin embargo, el principal reto interno no está en la capacidad técnica, sino en la generación de primeras oportunidades comerciales, la venta consultiva y la captación de clientes reales.
+La conclusión principal es que **Sistreg** cuenta con una base técnica y operativa suficiente para iniciar la actividad de forma ligera, desde casa y sin estructura pesada. Sin embargo, el principal reto interno no está en la capacidad técnica, sino en la generación de primeras oportunidades comerciales, la venta consultiva y la captación de clientes reales.
 
 ---
 
@@ -226,7 +226,7 @@ Estas hipótesis deberán alimentar el futuro plan de implantación y la decisi�
 
 ## 3.3.14. Diagnóstico interno
 
-El análisis interno muestra que **Proyecto Logístico** tiene una base suficiente para iniciar la actividad de forma ligera y controlada.
+El análisis interno muestra que **Sistreg** tiene una base suficiente para iniciar la actividad de forma ligera y controlada.
 
 Las principales fortalezas internas son la capacidad técnica avanzada, el conocimiento aplicado del entorno logístico, la claridad del problema a resolver, la disponibilidad de recursos materiales básicos y la posibilidad de iniciar sin local ni estructura pesada.
 
@@ -246,4 +246,4 @@ La estrategia inicial debe aprovechar estas fortalezas, pero también reconocer 
 
 El proyecto debe evitar dos riesgos internos: confiar demasiado en la capacidad técnica sin validar ventas, y aceptar más proyectos de los que puede entregar con calidad. Para reducir esos riesgos, la fase inicial deberá trabajar con alcance limitado, control de calidad mediante pruebas, seguimiento comercial simple y revisión mensual de avances.
 
-El análisis interno permite avanzar hacia el DAFO/CAME con una lectura clara: **Proyecto Logístico** tiene fortaleza técnica y operativa, pero su viabilidad inicial dependerá de resolver la debilidad comercial y generar primeros clientes reales.
+El análisis interno permite avanzar hacia el DAFO/CAME con una lectura clara: **Sistreg** tiene fortaleza técnica y operativa, pero su viabilidad inicial dependerá de resolver la debilidad comercial y generar primeros clientes reales.

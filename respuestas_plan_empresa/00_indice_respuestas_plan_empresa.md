@@ -1,4 +1,4 @@
-# 00. Índice de respuestas del Plan de Empresa: Sistreg / Proyecto Logístico
+# 00. Índice de respuestas del Plan de Empresa: Sistreg
 
 Esta carpeta contiene las respuestas reales del Plan de Empresa de **Sistreg**. La denominación **Proyecto Logístico** se mantiene únicamente como referencia interna/descriptiva del ámbito de actuación.
 

@@ -5,7 +5,7 @@
 
 ## 3.1.1. Introducción
 
-El análisis externo permite identificar los factores del entorno que pueden influir en la puesta en marcha y desarrollo de **Proyecto Logístico**. El proyecto nace en Zaragoza y se dirige inicialmente a pymes privadas del sector logístico de Aragón, especialmente empresas de transporte, transitarios y operadores con procesos documentales intensivos.
+El análisis externo permite identificar los factores del entorno que pueden influir en la puesta en marcha y desarrollo de **Sistreg**. El proyecto nace en Zaragoza y se dirige inicialmente a pymes privadas del sector logístico de Aragón, especialmente empresas de transporte, transitarios y operadores con procesos documentales intensivos.
 
 El proyecto no se plantea como una empresa logística, ni como una agencia de IA, ni como una plataforma SaaS estándar. Su actividad se sitúa en el ámbito de los servicios tecnológicos B2B aplicados a procesos operativos críticos. El foco está en diseñar e implementar sistemas de control operativo, trazabilidad, validación documental e integración que ayuden a mejorar el flujo operación → evidencia → factura → cobro.
 
@@ -59,7 +59,7 @@ Por este motivo, el primer contacto comercial se enfocará en visitas y contacto
 
 La digitalización logística es una tendencia clara, pero su adopción en pymes suele ser desigual. Existen grandes plataformas, ERPs, TMS, WMS, herramientas de e-CMR, soluciones de trazabilidad, automatización industrial y sistemas de analítica. Sin embargo, muchas pymes siguen necesitando soluciones más sencillas, adaptadas y conectadas a su forma real de operar.
 
-El entorno tecnológico favorece a **Proyecto Logístico** porque cada vez es más importante trabajar con información trazable, documentos digitalizados, validaciones estructuradas, alertas, integraciones y cuadros de control. Al mismo tiempo, este entorno también representa una amenaza: existen competidores con mayor tamaño, más recursos y productos ya posicionados.
+El entorno tecnológico favorece a **Sistreg** porque cada vez es más importante trabajar con información trazable, documentos digitalizados, validaciones estructuradas, alertas, integraciones y cuadros de control. Al mismo tiempo, este entorno también representa una amenaza: existen competidores con mayor tamaño, más recursos y productos ya posicionados.
 
 La diferenciación del proyecto no debe basarse en decir que usa más tecnología, sino en aplicar la tecnología adecuada al bloqueo correcto. Internamente, el proyecto puede usar desarrollo a medida, automatizaciones, integraciones y herramientas digitales, pero externamente la promesa debe mantenerse en el plano operativo: control, evidencia, trazabilidad, reducción de errores y mejora del flujo hasta el cobro.
 
@@ -108,7 +108,7 @@ Este análisis legal no bloquea el proyecto, pero sí obliga a trabajar con prud
 
 ## 3.1.8. Diagnóstico externo
 
-El entorno externo muestra condiciones favorables para validar a **Proyecto Logístico**, pero no permite dar por demostrada la viabilidad comercial sin contacto real con clientes.
+El entorno externo muestra condiciones favorables para validar a **Sistreg**, pero no permite dar por demostrada la viabilidad comercial sin contacto real con clientes.
 
 Los factores favorables son claros. Aragón y Zaragoza tienen una posición logística relevante, con infraestructura, plataformas logísticas, empresas especializadas y entidades sectoriales. PLAZA se presenta como una de las grandes plataformas logísticas europeas, con intermodalidad carretera, ferrocarril y avión, más de 350 empresas instaladas y conexión estratégica con Madrid, Barcelona, Bilbao y Valencia. ([Aragón Plataforma Logística][7]) ALIA refuerza la existencia de un ecosistema regional organizado, con más de 170 socios y servicios de networking, formación, innovación, financiación y colaboración. ([ALIA][2])
 
@@ -122,7 +122,7 @@ La principal incertidumbre no es si el problema existe, sino si las pymes objeti
 
 ## 3.1.9. Conclusión del análisis externo
 
-El análisis externo permite concluir que **Proyecto Logístico** nace en un entorno razonablemente favorable. Zaragoza y Aragón ofrecen una base logística sólida, el sector muestra necesidades crecientes de digitalización y control documental, y las pymes pueden necesitar soluciones más adaptadas que una gran plataforma estándar.
+El análisis externo permite concluir que **Sistreg** nace en un entorno razonablemente favorable. Zaragoza y Aragón ofrecen una base logística sólida, el sector muestra necesidades crecientes de digitalización y control documental, y las pymes pueden necesitar soluciones más adaptadas que una gran plataforma estándar.
 
 La oportunidad más clara está en empresas privadas de transporte, transitarios y operadores logísticos que ya tienen actividad, pero sufren bloqueos documentales, errores de validación, retrasos de facturación o pérdida de trazabilidad en el flujo operación → evidencia → factura → cobro.
 

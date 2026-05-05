@@ -2,7 +2,8 @@
 
 ## 1. Propósito del repositorio
 
-Este repositorio contiene la documentación específica para construir el Plan de Empresa de Sistreg / Proyecto Logístico.
+Este repositorio contiene la documentación específica para construir el Plan de Empresa de Sistreg. 
+La denominación Proyecto Logístico se mantiene únicamente como referencia interna/descriptiva del ámbito de actuación.
 
 No es el repositorio del sistema agéntico reutilizable para crear planes de empresa. Ese sistema vive en `plan_empresa_producto`.
 
@@ -23,8 +24,7 @@ No convertir este repositorio en el producto genérico. Las reglas, skills y doc
 Las preguntas guía viven en:
 - `plan_empresa/`
 
-Las respuestas reales del proyecto viven en:
-- `respuestas_plan_empresa/`
+Los entregables deben cumplir con la estructura definida en `respuestas_plan_empresa/` y el contexto institucional de **Zaragoza Activa / CONVIERTE (ZAC)**.
 
 Los anexos viven en:
 - `anexos/`
@@ -56,7 +56,7 @@ El tono debe ser:
 - sin humo tecnológico;
 - sin promesas exageradas;
 - con lenguaje logístico entendible;
-- orientado a un Plan de Empresa defendible ante ZAC, entidad de apoyo, banco o administración.
+- orientado a un Plan de Empresa defendible ante **Zaragoza Activa / CONVIERTE (ZAC)**, entidad de apoyo, banco o administración.
 
 ## 6. Uso híbrido obligatorio
 

@@ -2,7 +2,7 @@
 
 ## 2.1. Identificación general del proyecto
 
-**Sistreg** es la marca provisional de trabajo (pendiente de validación legal, digital y comercial) bajo la cual se desarrolla una propuesta de sistemas de control operativo y trazabilidad para el sector logístico. Internamente, el proyecto se denomina como **Proyecto Logístico** para mantener su naturaleza de desarrollo funcional antes de un lanzamiento comercial definitivo.
+**Sistreg** es la marca provisional de trabajo (pendiente de validación legal, digital y comercial) bajo la cual se desarrolla una propuesta de sistemas de control operativo y trazabilidad para el sector logístico. Internamente, para el equipo gestor y el programa Zaragoza Activa / CONVIERTE (ZAC), el proyecto se denomina Proyecto Logístico (referencia interna descriptiva). Sin embargo, la marca comercial bajo la cual se presenta el plan es **Sistreg**.
 
 La actividad consiste en ofrecer servicios B2B de **diseño e implementación de sistemas de control operativo, trazabilidad documental y mejora de procesos**. El foco inicial y nicho de validación es el sector logístico en Zaragoza y Aragón, específicamente en empresas de transporte, transitarios y operadores de comercio exterior.
 

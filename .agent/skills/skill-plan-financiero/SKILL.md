@@ -5,15 +5,14 @@ description: Guía para documentar el plan económico-financiero y sus supuestos
 
 # Propósito
 
-Documentar de forma prudente y trazable los supuestos económicos y financieros de Sistreg / Proyecto Logístico.
+Documentar de forma prudente y trazable los supuestos económicos y financieros de Sistreg.
 
 # Cuándo usarla
 
 Usar al trabajar:
-- `respuestas_plan_empresa/06_5_economico_financiero.md`
-- `plan_empresa/06_5_economico_financiero.md` (solo guía)
-- `anexos/A09_plan_economico_financiero.md`
-- `anexos/finanzas/`
+- `respuestas_plan_empresa/06_5_economico_financiero.md` (Principal)
+- `anexos/` (Opcional / Futuro)
+- Google Sheet externo del Plan Económico-Financiero.
 
 # Entradas esperadas
 
@@ -31,6 +30,12 @@ Plan financiero explicado con datos, hipótesis y pendientes separados.
 
 # Reglas
 
+- Sistreg es marca provisional; Proyecto Logístico solo referencia interna/descriptiva.
+- El primer servicio pagado se llama arranque guiado.
+- El diagnóstico inicial es gratuito, limitado y no es línea de ingreso.
+- No presentar ayudas como seguras.
+- No prometer ROI, ahorro, ventas ni resultados financieros garantizados.
+- Sistreg no debe presentarse como marca registrada.
 - Ser conservador.
 - Separar inversión, gastos, ingresos, financiación y escenarios.
 - Indicar de dónde sale cada cifra.

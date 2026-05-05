@@ -42,7 +42,7 @@
 - `respuestas_plan_empresa/03_3_analisis_interno.md` completo.
 - Anexos relacionados (Pestel, Benchmark) creados.
 
-**Estado:** Pendiente.
+**Estado:** En proceso avanzado (03.1, 03.2 y 03.3 redactados como borrador avanzado; anexos relacionados pendientes de auditoría final).
 
 ---
 
@@ -56,7 +56,7 @@
 - `respuestas_plan_empresa/05_objetivos_lineas_estrategicas.md` completo.
 - Anexos DAFO/CAME creados.
 
-**Estado:** Pendiente.
+**Estado:** En proceso avanzado (04 y 05 redactados como borrador avanzado; anexos DAFO/CAME pendientes de auditoría final si aplica).
 
 ---
 

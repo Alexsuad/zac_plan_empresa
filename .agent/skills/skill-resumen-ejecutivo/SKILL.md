@@ -34,9 +34,10 @@ Resumen ejecutivo con:
 # Reglas
 
 - Debe poder entenderse sin leer todo el plan.
-- No introducir información que no exista en el plan o anexos.
+- **Sistreg** es la marca provisional; Proyecto Logístico solo referencia interna.
+- El servicio inicial pagado es "arranque guiado".
+- El diagnóstico es gratuito y no es línea de ingreso.
 - No exagerar oportunidad ni resultados.
-- Incluir problema, solución, cliente, valor, modelo, mercado, cifras, riesgos y próximos pasos.
 - Mantener lenguaje claro y profesional.
 
 # Límites

@@ -4,14 +4,14 @@
 
 ## 4.1. Introducción
 
-El análisis DAFO/CAME de **Proyecto Logístico** tiene como objetivo ordenar de forma honesta los elementos internos y externos que pueden ayudar o limitar la viabilidad del proyecto.
+El análisis DAFO/CAME de **Sistreg** tiene como objetivo ordenar de forma honesta los elementos internos y externos que pueden ayudar o limitar la viabilidad del proyecto.
 
 Este apartado no busca presentar una imagen comercial del negocio, sino servir como herramienta interna de decisión. Por eso integra los dos mundos que definen la iniciativa:
 
 * el mundo **logístico-operativo**, relacionado con documentación, evidencias, incidencias, facturación, cobro y trazabilidad;
 * el mundo **tecnológico**, relacionado con sistemas de control, automatización, integraciones, datos, validaciones y uso responsable de herramientas digitales.
 
-Proyecto Logístico no se plantea como una empresa logística, ni como una agencia de IA, ni como un SaaS estándar. Su valor aparece en la intersección entre ambos mundos: entender bloqueos reales de operación logística y convertirlos en sistemas de control prácticos, trazables y mantenibles.
+Sistreg no se plantea como una empresa logística, ni como una agencia de IA, ni como un SaaS estándar. Su valor aparece en la intersección entre ambos mundos: entender bloqueos reales de operación logística y convertirlos en sistemas de control prácticos, trazables y mantenibles.
 
 El DAFO se construye a partir de los apartados anteriores:
 
@@ -45,7 +45,7 @@ El DAFO se construye a partir de los apartados anteriores:
 
 ## 4.3. Fortalezas
 
-La primera fortaleza de Proyecto Logístico es su **capacidad técnica avanzada** para crear soluciones funcionales, integraciones y automatizaciones. Esta capacidad permite pasar de la observación del problema a la construcción de herramientas concretas que ordenen información, validen datos, generen alertas o conecten procesos.
+La primera fortaleza de Sistreg es su **capacidad técnica avanzada** para crear soluciones funcionales, integraciones y automatizaciones. Esta capacidad permite pasar de la observación del problema a la construcción de herramientas concretas que ordenen información, validen datos, generen alertas o conecten procesos.
 
 La segunda fortaleza es el **conocimiento logístico aplicado**. El proyecto no parte únicamente desde la tecnología, sino desde la comprensión del flujo operativo que conecta servicio realizado, evidencia documental, incidencia, factura y cobro. Esta comprensión permite detectar problemas que una solución tecnológica genérica podría no ver.
 
@@ -53,7 +53,7 @@ La tercera fortaleza es la capacidad de **traducir problemas operativos en siste
 
 La cuarta fortaleza es contar con un **producto ancla concreto**: el control de cobro por evidencia. Esta oferta inicial ayuda a evitar dispersión y permite entrar al mercado con un problema comprensible para el cliente: operaciones que no se pueden cerrar, facturar o cobrar correctamente por falta de documentación, validación o trazabilidad.
 
-La quinta fortaleza es el **criterio de intervención**. Proyecto Logístico no debe automatizar por automatizar. Solo tiene sentido intervenir cuando existe un bloqueo operativo real, medible y relevante. Este criterio protege al proyecto de vender soluciones innecesarias, sobredimensionadas o difíciles de mantener.
+La quinta fortaleza es el **criterio de intervención**. Sistreg no debe automatizar por automatizar. Solo tiene sentido intervenir cuando existe un bloqueo operativo real, medible y relevante. Este criterio protege al proyecto de vender soluciones innecesarias, sobredimensionadas o difíciles de mantener.
 
 La sexta fortaleza es su **estructura inicial ligera**. El proyecto puede comenzar desde casa, con ordenador, móvil, internet, software básico y sin local abierto al público, almacén, flota o empleados. Además, cuenta con apoyo puntual de contraste logístico, útil para revisar enfoques y validar razonamientos operativos, aunque no debe considerarse una capacidad estructural fija.
 
@@ -83,7 +83,7 @@ La segunda oportunidad es la tendencia hacia la **digitalización documental, tr
 
 La tercera oportunidad está en las **pymes con procesos documentales intensivos**. Muchas empresas pueden seguir trabajando con Excel, correo, WhatsApp, documentos físicos o validaciones manuales. Ese funcionamiento puede generar retrasos, errores, pérdida de visibilidad y dificultades para facturar o cobrar.
 
-La cuarta oportunidad es el **hueco entre grandes sistemas, trabajo manual y automatizaciones simples de bajo valor**. Algunas empresas no necesitan una gran implantación ERP, TMS o WMS, pero tampoco deberían depender indefinidamente de controles manuales. Proyecto Logístico puede ocupar ese espacio intermedio si ofrece soluciones concretas, graduales y proporcionales al problema.
+La cuarta oportunidad es el **hueco entre grandes sistemas, trabajo manual y automatizaciones simples de bajo valor**. Algunas empresas no necesitan una gran implantación ERP, TMS o WMS, pero tampoco deberían depender indefinidamente de controles manuales. Sistreg puede ocupar ese espacio intermedio si ofrece soluciones concretas, graduales y proporcionales al problema.
 
 La quinta oportunidad es la mayor demanda de **sistemas explicables, trazables y conectados con procesos reales**. En un contexto donde muchas soluciones tecnológicas prometen automatización rápida, puede existir valor en propuestas que prioricen claridad, control humano, validación, registros y responsabilidad sobre el flujo.
 
@@ -101,7 +101,7 @@ La tercera amenaza es que la **demanda y la disposición de pago aún no están 
 
 La cuarta amenaza es la **saturación del mercado de IA, automatización y soluciones tecnológicas genéricas**. Existen agencias de IA, automatizadores, freelancers, herramientas no-code/low-code y proveedores que prometen resolver procesos de forma rápida. Esta saturación puede presionar precios y generar desconfianza en clientes que ya han visto ofertas poco claras.
 
-La quinta amenaza es el riesgo de que Proyecto Logístico sea percibido como **“otro automatizador”** o un proveedor tecnológico genérico. Si el posicionamiento no se explica bien, el proyecto puede quedar atrapado en una categoría de bajo valor, compitiendo por precio y no por comprensión operativa.
+La quinta amenaza es el riesgo de que Sistreg sea percibido como **“otro automatizador”** o un proveedor tecnológico genérico. Si el posicionamiento no se explica bien, el proyecto puede quedar atrapado en una categoría de bajo valor, compitiendo por precio y no por comprensión operativa.
 
 La sexta amenaza es la **dependencia de herramientas externas, APIs y riesgos técnicos** si se usa IA o automatización sin control suficiente. En procesos documentales, de facturación o cobro, un error técnico puede afectar confianza, datos, trazabilidad o decisiones internas del cliente. Por eso las soluciones deben ser probadas, explicables y con límites claros.
 
@@ -142,7 +142,7 @@ La sexta amenaza es la **dependencia de herramientas externas, APIs y riesgos t�
 
 Del DAFO/CAME se derivan varias decisiones estratégicas para las siguientes fases del plan.
 
-La primera decisión es que Proyecto Logístico debe mantener un **posicionamiento operativo**, no tecnológico genérico. La tecnología es una capacidad interna clave, pero no debe ser el mensaje principal de venta. El mensaje debe centrarse en control, evidencia, trazabilidad, facturación y cobro.
+La primera decisión es que Sistreg debe mantener un **posicionamiento operativo**, no tecnológico genérico. La tecnología es una capacidad interna clave, pero no debe ser el mensaje principal de venta. El mensaje debe centrarse en control, evidencia, trazabilidad, facturación y cobro.
 
 La segunda decisión es que la prioridad inmediata debe ser la **validación comercial**. Antes de escalar, crear más componentes técnicos o ampliar la oferta, el proyecto debe comprobar si las empresas aceptan visitas, reconocen el problema y están dispuestas a pagar por una solución posterior al diagnóstico.
 
@@ -152,7 +152,7 @@ La cuarta decisión es evitar la **sobreconstrucción técnica**. Las soluciones
 
 La quinta decisión es construir desde el inicio una base mínima de **reutilización técnica**, sin convertir el proyecto en SaaS. Componentes como validaciones, conectores, plantillas de seguimiento, cuadros de control, logs y checklist de pruebas pueden ayudar a reducir tiempo de entrega y mejorar calidad.
 
-La sexta decisión es preparar una respuesta clara frente a la saturación del mercado de IA y automatización. Proyecto Logístico debe diferenciarse por criterio operativo, conocimiento logístico, trazabilidad y responsabilidad sobre el proceso, no por prometer tecnología rápida o soluciones mágicas.
+La sexta decisión es preparar una respuesta clara frente a la saturación del mercado de IA y automatización. Sistreg debe diferenciarse por criterio operativo, conocimiento logístico, trazabilidad y responsabilidad sobre el proceso, no por prometer tecnología rápida o soluciones mágicas.
 
 ---
 
@@ -173,7 +173,7 @@ La sexta decisión es preparar una respuesta clara frente a la saturación del m
 
 ## 4.10. Conclusión estratégica
 
-El DAFO/CAME muestra que Proyecto Logístico dispone de una combinación interna interesante: conocimiento logístico, capacidad técnica avanzada, estructura ligera y un producto ancla concreto. Esa combinación permite abordar problemas reales de control documental, trazabilidad, facturación y cobro en pymes logísticas.
+El DAFO/CAME muestra que Sistreg dispone de una combinación interna interesante: conocimiento logístico, capacidad técnica avanzada, estructura ligera y un producto ancla concreto. Esa combinación permite abordar problemas reales de control documental, trazabilidad, facturación y cobro en pymes logísticas.
 
 Sin embargo, el análisis también muestra límites importantes. La viabilidad inicial no dependerá solo de saber construir soluciones, sino de conseguir primeras reuniones, validar el dolor, convertir diagnósticos en propuestas pagadas y demostrar valor con casos reales.
 
@@ -181,4 +181,4 @@ La tecnología es una fortaleza, pero también puede convertirse en una trampa s
 
 Por tanto, la estrategia debe ser prudente y enfocada: validar mercado en Zaragoza y Aragón, entrar por el control de cobro por evidencia, mantener bajo coste fijo, construir componentes reutilizables sin convertirse en SaaS y documentar cada aprendizaje comercial y técnico.
 
-El DAFO/CAME permite avanzar hacia los objetivos y líneas estratégicas con una idea clara: **Proyecto Logístico debe demostrar que la intersección entre logística y sistemas puede convertirse en valor pagable, no solo en una buena capacidad técnica.**
+El DAFO/CAME permite avanzar hacia los objetivos y líneas estratégicas con una idea clara: **Sistreg debe demostrar que la intersección entre logística y sistemas puede convertirse en valor pagable, no solo en una buena capacidad técnica.**

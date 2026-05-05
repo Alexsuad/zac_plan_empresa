@@ -1,10 +1,9 @@
-
-
 # 6.5. Plan económico-financiero
 
 ## 6.5.1. Enfoque general del análisis económico-financiero
 
-El análisis económico-financiero de **Sistreg** se plantea desde un criterio de prudencia. El proyecto se encuentra en fase de validación estratégica y pre-operativa, por lo que las cifras deben entenderse como una previsión razonada y no como resultados garantizados.
+El análisis económico-financiero de **Sistreg** se plantea desde un criterio de prudencia. El proyecto se encuentra en fase de validación estratégica y pre-operativa. > [!IMPORTANT]
+> Los datos presentados son proyecciones basadas en modelos operativos. No constituyen una garantía de resultados finales, sino una estimación prudente.
 
 El objetivo de este apartado es comprobar si el modelo puede iniciar actividad con una estructura ligera, baja inversión inicial, sin endeudamiento bancario y con capacidad para sostenerse durante los primeros meses mientras se valida el mercado.
 
@@ -122,7 +121,7 @@ En la fase inicial no se recomienda buscar business angels, préstamos participa
 ## 6.5.6. Estructura de costes
 
 La estructura de costes prevista es ligera y está diseñada para una fase inicial de validación. No se contemplan alquileres, plantilla fija ni inversiones industriales.
-- **Arranque guiado**;
+
 
 Los principales costes fijos previstos son:
 

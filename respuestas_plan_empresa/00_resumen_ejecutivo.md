@@ -122,7 +122,7 @@ El modelo de ingresos previsto combina servicios por proyecto y posible recurren
 Las principales líneas son:
 
 - análisis operativo posterior o diagnóstico ampliado;
-- **Arranque guiado**;
+- arranque guiado;
 - implementación;
 - soporte y acompañamiento mensual;
 - automatizaciones puntuales conectadas con problemas operativos reales.

@@ -1,5 +1,18 @@
 # Registro de Decisiones — Plan de Empresa Sistreg
 
+### 2026-05-06 - Normalización final de reglas agénticas y soporte Red ARCE
+- **Decisión**: Se establece **Sistreg** como marca única para el Plan de Empresa. La denominación Proyecto Logístico se mantiene únicamente como referencia interna/descriptiva del ámbito de actuación.
+- **Acciones**:
+  - servicio inicial como arranque guiado (eliminado "piloto").
+  - diagnóstico inicial gratuito y no línea de ingreso.
+  - prudencia financiera (no garantizar resultados).
+  - Gates 2 y 3 actualizados a "En proceso avanzado".
+  - skill-tono-plan-empresa con YAML válido y reglas reubicadas.
+  - skill-plan-financiero alineada con Sistreg.
+  - archivo informativo de Red ARCE como fuente operativa actual vía Google Sheets (incluido en .gitignore jerárquico).
+- **Pendiente**:
+  - Gráficos(Red ARCE) 09.04.2018.xls sigue pendiente crítico como archivo físico local.
+
 | Fecha | Decisión | Motivo | Impacto | Archivos afectados | Responsable |
 |---|---|---|---|---|---|
 | 2026-05-04 | Separar `zac_plan_empresa` de `plan_empresa_producto`. | Evitar mezclar el sistema reusable con el caso real y específico de Sistreg. | Arquitectura del repositorio clara y aislada. | Raíz del repo, README, AGENTS.md | Antigravity |

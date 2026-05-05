@@ -2,7 +2,7 @@
 
 ## 3.2.1. Introducción
 
-El estudio de mercado de Proyecto Logístico se centra en identificar si existe un grupo de clientes suficientemente claro, con un problema operativo relevante y con potencial para contratar un servicio de control documental, trazabilidad y validación aplicado a procesos logísticos críticos.
+El estudio de mercado de Sistreg se centra en identificar si existe un grupo de clientes suficientemente claro, con un problema operativo relevante y con potencial para contratar un servicio de control documental, trazabilidad y validación aplicado a procesos logísticos críticos.
 
 El mercado inicial se sitúa en **Zaragoza y Aragón**, con foco en **pymes privadas del sector logístico**, especialmente empresas de transporte, transitarios, operadores logísticos y empresas con procesos documentales intensivos.
 
@@ -97,7 +97,7 @@ El mercado logístico de Aragón ofrece una base suficiente para validar una pro
 
 ALIA se presenta como el Clúster Logístico de Aragón, con más de 170 socios, y orienta su actividad a canalizar necesidades del sector logístico, generar colaboración, formación, innovación y mejorar la competitividad de las empresas asociadas. ([aliaragon.es](https://aliaragon.es/?utm_source=chatgpt.com))
 
-Este entorno no garantiza por sí solo la demanda de Proyecto Logístico, pero sí muestra que existe un ecosistema empresarial suficientemente denso para iniciar una validación comercial.
+Este entorno no garantiza por sí solo la demanda de Sistreg, pero sí muestra que existe un ecosistema empresarial suficientemente denso para iniciar una validación comercial.
 
 Las investigaciones realizadas para el proyecto identifican una oportunidad razonable en soluciones que ayuden a pymes logísticas a ordenar documentación, trazabilidad, evidencias e integración de información sin obligarlas a acometer una gran implantación tecnológica. 
 
@@ -127,7 +127,7 @@ Otra tendencia relevante es la búsqueda de eficiencia. En un sector con presió
 
 ## 3.2.8. Competencia directa, indirecta y sustitutos
 
-El mercado no está vacío. Proyecto Logístico compite con diferentes tipos de soluciones y alternativas.
+El mercado no está vacío. Sistreg compite con diferentes tipos de soluciones y alternativas.
 
 La competencia debe analizarse de forma amplia, porque el cliente no siempre comparará el proyecto con una empresa idéntica. Puede compararlo con un TMS, un ERP, una plataforma documental, un informático externo, una agencia de automatización o incluso con seguir trabajando igual.
 
@@ -152,7 +152,7 @@ La ventaja competitiva del proyecto no será afirmar que no existe competencia, 
 
 ## 3.2.9. Posicionamiento frente a la competencia
 
-Proyecto Logístico debe posicionarse de forma clara para evitar confusión con otros proveedores.
+Sistreg debe posicionarse de forma clara para evitar confusión con otros proveedores.
 
 No se presentará como:
 
@@ -172,7 +172,7 @@ Se presentará como:
 
 El posicionamiento debe apoyarse en una idea sencilla:
 
-> Proyecto Logístico ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
+> Sistreg ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
 
 Este posicionamiento permite diferenciarse de soluciones demasiado grandes, demasiado técnicas o demasiado genéricas.
 
@@ -275,10 +275,10 @@ Estas preguntas no deben inventarse en el plan. Deben registrarse durante las pr
 
 ## 3.2.15. Conclusión del estudio de mercado
 
-El estudio de mercado muestra que Proyecto Logístico cuenta con un entorno inicial favorable para validar su propuesta. Zaragoza y Aragón tienen una base logística relevante, existen pymes con procesos documentales intensivos y el sector avanza hacia mayor digitalización, trazabilidad y control documental.
+El estudio de mercado muestra que Sistreg cuenta con un entorno inicial favorable para validar su propuesta. Zaragoza y Aragón tienen una base logística relevante, existen pymes con procesos documentales intensivos y el sector avanza hacia mayor digitalización, trazabilidad y control documental.
 
 El segmento prioritario inicial será el de pymes de transporte y transitarios con bloqueos documentales y de facturación. El primer producto de mercado será el control de cobro por evidencia, porque conecta directamente con un problema comprensible: operaciones que no se pueden cerrar, facturar o cobrar con agilidad por falta de documentación, validación o trazabilidad.
 
-La oportunidad existe, pero debe tratarse con prudencia. El mercado no está vacío y la competencia incluye herramientas tecnológicas, consultoras, integradores, freelancers, ERPs, TMS, plataformas documentales y sustitutos manuales. La diferenciación de Proyecto Logístico dependerá de su capacidad para mantenerse enfocado en un problema concreto, hablar el lenguaje operativo del cliente y entregar una solución útil sin añadir complejidad innecesaria.
+La oportunidad existe, pero debe tratarse con prudencia. El mercado no está vacío y la competencia incluye herramientas tecnológicas, consultoras, integradores, freelancers, ERPs, TMS, plataformas documentales y sustitutos manuales. La diferenciación de Sistreg dependerá de su capacidad para mantenerse enfocado en un problema concreto, hablar el lenguaje operativo del cliente y entregar una solución útil sin añadir complejidad innecesaria.
 
 Por tanto, el estudio de mercado permite avanzar, pero no cerrar la viabilidad comercial. El siguiente paso será validar en campo la disposición real de las empresas a recibir un diagnóstico, reconocer el problema y contratar una solución posterior.

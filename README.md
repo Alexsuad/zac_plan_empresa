@@ -1,11 +1,17 @@
-# Plan de Empresa — Sistreg / Proyecto Logístico
-
+# Plan de Empresa — Sistreg
 Este repositorio contiene la documentación específica para la elaboración del **Plan de Empresa de Sistreg**.
 
 ## IMPORTANTE
-- Este repositorio **NO** es el producto genérico `plan_empresa_producto`.
+- **Sistreg** es la marca provisional de trabajo del proyecto.
+- La denominación **Proyecto Logístico** se mantiene únicamente como referencia interna/descriptiva del ámbito de actuación.
 - El sistema genérico de creación de planes de empresa vive en el repositorio: `plan_empresa_producto`.
 - Este repositorio utiliza reglas, skills y documentos de apoyo específicos para completar, auditar y consolidar el plan de Sistreg.
+
+## Reglas Críticas Sistreg
+- **Marca**: Sistreg es marca provisional; Proyecto Logístico solo referencia interna/descriptiva. ZAC/Zaragoza Activa solo contexto institucional.
+- **Servicio**: El primer servicio pagado se llama "arranque guiado"; no usar "piloto pagado" comercialmente.
+- **Ingresos**: El diagnóstico inicial es gratuito, limitado y NO es línea de ingreso.
+- **Prudencia**: No garantizar cifras, ROI ni ayudas. Sistreg no es marca registrada.
 
 ## Estructura del repositorio
 

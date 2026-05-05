@@ -19,10 +19,15 @@ Usar al redactar, revisar o resumir cualquier apartado de `plan_empresa/` o `ane
 
 # Salida esperada
 
-Texto claro, sobrio y defendible ante ZAC, entidades de apoyo, bancos o administración.
+Texto claro, sobrio y defendible ante ZAC (Zaragoza Activa / Programa CONVIERTE), entidades de apoyo, bancos o administración.
 
 # Reglas
 
+- Mantener Sistreg como marca provisional.
+- Proyecto Logístico es solo referencia interna/descriptiva.
+- El servicio inicial pagado es arranque guiado.
+- El diagnóstico inicial es gratuito y no genera ingresos.
+- Prudencia financiera extrema: no garantizar resultados.
 - No usar humo tecnológico.
 - No hacer promesas exageradas.
 - No presentar hipótesis como hechos.
