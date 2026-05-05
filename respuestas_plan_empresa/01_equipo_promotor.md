@@ -107,67 +107,68 @@ Por eso, una parte fundamental de la fase inicial será la prospección comercia
 
 ## 1.8. Colaboradores y estructura del equipo
 
-El proyecto no se plantea actualmente como una sociedad entre varias personas. Yo seré el emprendedor y promotor principal, asumiendo la dirección estratégica y técnica. Sin embargo, el proyecto cuenta desde su inicio con una colaboración clave que aporta una visión experta y operativa del sector logístico en España.
+El proyecto no se plantea actualmente como una sociedad formal entre varias personas. Yo seré el emprendedor y promotor principal, bajo la figura de trabajador autónomo, asumiendo la dirección estratégica, técnica y legal de **Sistreg**. 
 
-Las demás personas que participen en el proyecto lo harán como **colaboradores externos, contratistas o terceros especializados**. Esta estructura permite incorporar capacidades de alto nivel sin generar costes fijos excesivos en la fase de validación.
+Sin embargo, el proyecto cuenta desde su fase fundacional con una figura clave: la **Colaboradora Fundacional No Societaria**. Esta estructura permite integrar el alto valor estratégico y la experiencia de un perfil experto sin generar costes fijos iniciales ni compromisos societarios prematuros antes de la validación total del modelo de negocio.
 
-Dentro de este esquema, la colaboración principal es la de **Claudia Bautista**, cuya trayectoria es fundamental para asegurar que las soluciones de Sistreg respondan a las necesidades reales de los clientes y a los estándares de calidad del sector.
+Dentro de este esquema, una colaboración clave es la de **Claudia Bautista**, cuya trayectoria y conocimiento actual del sector aportan un contraste operativo de alto valor para el desarrollo inicial de Sistreg, asegurando que las soluciones propuestas sean prácticas y comercialmente viables.
 
-### Perfil de Claudia Bautista: Especialista en Clientes y Calidad Logística
-Claudia aporta **más de 20 años de experiencia** en compañías de comercio exterior y logística internacional. Su perfil combina una sólida base académica con una experiencia "en la trinchera" de la gestión de clientes y operaciones.
+### Perfil de Claudia Bautista: Colaboradora Fundacional (Calidad y Cliente)
+Claudia aporta **más de 20 años de experiencia** en compañías de comercio exterior y logística internacional en España. Su participación es un activo estratégico para el contraste operativo de cada herramienta que desarrollamos.
 
-- **Formación:** Profesional en Comercio Internacional, con título homologado en España como **Técnico Superior (FP) en Comercio Exterior**. Cuenta con formación especializada en tecnologías habilitadoras digitales, atención al cliente tecnológica y estrategias de servicio.
-- **Experiencia Actual:** Actualmente desempeña funciones de **Customer Care en Marcotrans** (Zaragoza), donde gestiona la planificación de cargas de importación y exportación, el seguimiento de procesos y la resolución de incidencias en tiempo real.
-- **Trayectoria Previa:** Ha ocupado cargos de **Coordinadora de Operaciones y Customer Manager** en empresas como Glodex y Aduanas Roldán, liderando equipos operativos, elaborando procedimientos logísticos y gestionando indicadores de gestión (KPIs) para la retención y satisfacción de grandes cuentas.
-- **Valor para Sistreg:** Su rol en el proyecto se centra en el **Customer Care y Aseguramiento de la Calidad**. Claudia es la voz del cliente dentro de Sistreg; su conocimiento actual del mercado logístico en Zaragoza permite validar que las automatizaciones y sistemas de control que desarrollamos sean realmente útiles, fáciles de usar y resuelvan los puntos de dolor diarios de las empresas de transporte y aduanas.
+- **Estatus y Dedicación:** Claudia participa como colaboradora fundacional no societaria. Su dedicación es **parcial y flexible**, pudiendo alcanzar aproximadamente hasta **20 horas semanales** según las necesidades de los proyectos y su propia disponibilidad. Esta colaboración es totalmente **compatible con su desempeño laboral actual** en el sector logístico.
+- **Estructura de Remuneración:** Su participación no constituye un coste fijo inicial para el proyecto. Su remuneración está vinculada a la consecución de ingresos reales o a la ejecución de proyectos específicos que permitan compensar su aportación, contribuyendo a mantener la sostenibilidad financiera de Sistreg en su arranque.
+- **Formación y Experiencia:** Profesional en Comercio Internacional (Técnico Superior en Comercio Exterior). Actualmente desempeña funciones de **Customer Care en Marcotrans** (Zaragoza), gestionando operativas críticas de importación y exportación.
+- **Aportación Estratégica:** Su rol se centra en el **Aseguramiento de la Calidad y Visión de Cliente**. Claudia actúa como contraste práctico del proyecto: valida la utilidad de las soluciones, revisa su coherencia operativa y ayuda a asegurar que respondan a dolores reales del sector.
 
 ## 1.9. Reparto inicial de funciones
 
-La organización de Sistreg se basa en un binomio de **Operaciones/Tecnología** y **Clientes/Calidad**:
+La organización de Sistreg se apoya en un binomio de **Operaciones/Tecnología** (Alexander) y **Validación/Cliente** (Claudia):
 
-| Responsable | Áreas de Función Principal | Aportación Estratégica |
+| Responsable | Rol | Áreas de Función Principal |
 | :--- | :--- | :--- |
-| **Alexander Suárez** | Dirección, Desarrollo WEB/IA, Mejora de Procesos (Lean), Análisis de Datos y Estrategia Comercial. | Visión técnica y operativa: "Cómo automatizar y optimizar el proceso". |
-| **Claudia Bautista** (Colab. Externa) | Customer Care, Validación Operativa, Auditoría de Calidad, Gestión de Incidencias y Atención al Cliente. | Visión del cliente: "Qué necesita realmente el sector y cómo asegurar el servicio". |
-
-Esta estructura permite que yo me concentre en construir las herramientas y la arquitectura de los servicios, mientras Claudia asegura que dichas herramientas se ajusten a la realidad operativa del día a día en Zaragoza.
+| Alexander Suárez | Promotor / Autónomo | Dirección, desarrollo web, automatización, análisis de datos y arquitectura de sistemas. |
+| Claudia Bautista | Colab. Fundacional | Customer Care, Contraste Operativo, Calidad Logística y Validación de Experiencia de Cliente. |
 
 ## 1.10. Debilidades y necesidades de apoyo
 
-El proyecto cuenta con una base sólida en logística (más de 40 años de experiencia combinada), análisis de procesos y desarrollo técnico. Las debilidades identificadas son:
-
-- **Red Comercial en España:** Aunque Claudia aporta red en el sector transporte local, el proyecto necesita consolidar una marca propia (Sistreg) y abrir puertas en empresas donde aún no tenemos presencia.
-- **Apoyo Legal y Fiscal:** Necesidad de asesoría para la redacción de contratos de servicio (SLA) y protección de datos, dado que manejaremos información operativa sensible de los clientes.
+El proyecto cuenta con una base sólida de experiencia acumulada en logística, comercio exterior, customer care, mejora de procesos y desarrollo técnico aplicado. Las debilidades identificadas son:
+- **Red Comercial Propia:** Aunque Claudia aporta una visión interna del sector local, Sistreg debe construir su propia autoridad de marca desde cero.
+- **Asesoría Legal Especializada:** Necesidad de validar contratos y gestión de datos sensibles con una gestoría o abogado especializado en entornos digitales y logísticos.
 
 ## 1.11. Sostenibilidad personal y red de apoyo
 
-Cuento con un entorno familiar que apoya totalmente la iniciativa. Mi disponibilidad es de **40 horas semanales**, mientras que la colaboración de Claudia se estima en **20 horas semanales** de apoyo en consultoría, visitas y validación.
+Cuento con un entorno familiar que apoya totalmente la iniciativa. Mi disponibilidad es de **40 horas semanales** (dedicación exclusiva). La participación de Claudia, al ser flexible y compatible con su trabajo, aporta una **doble capa de seguridad**: nos permite estar conectados con la realidad diaria del sector (Marcotrans) sin comprometer la estabilidad económica del proyecto al inicio.
 
-Económicamente, el proyecto tiene un margen de **6 meses** para alcanzar hitos de validación comercial que permitan su sostenibilidad a largo plazo. La combinación de mi dedicación total con la experiencia activa de Claudia en una empresa líder del sector reduce drásticamente el riesgo de desarrollar soluciones que el mercado no necesite.
+Económicamente, Sistreg tiene un margen de **6 meses** para validar comercialmente el servicio. La estructura de "colaboración por proyecto" con Claudia es un factor determinante para mantener este margen de maniobra.
 
 ## 1.12. Misión, visión y valores iniciales
 
-- **Misión:** Profesionalizar la gestión operativa de las PYMES logísticas mediante la integración de inteligencia artificial y metodologías Lean, eliminando el caos documental y las tareas repetitivas.
-- **Visión:** Ser el referente en Zaragoza para la digitalización "con criterio" de operaciones logísticas, donde la tecnología no es un fin, sino el medio para lograr el control total de la carga.
-- **Valores:** 
-  - **Honestidad operativa:** No automatizamos lo que no funciona; primero ordenamos el proceso.
-  - **Cercanía:** Hablamos el mismo lenguaje que el transportista y el agente de aduanas.
-  - **Trazabilidad:** Si no se puede medir, no existe.
+### Misión
+Aportar orden, eficiencia y seguridad financiera a las pequeñas y medianas empresas del sector logístico mediante sistemas de control operativo, trazabilidad documental, mejora de procesos y uso proporcionado de tecnología.
+
+### Visión
+Convertir a **Sistreg** progresivamente en una marca técnica reconocida en Aragón por ayudar a las empresas logísticas a tener mayor control sobre procesos críticos, reduciendo el riesgo de pérdida de información y mejorando el ciclo de cobro.
+
+### Valores
+- **Pragmatismo:** Soluciones que funcionan en el almacén y en la carretera, no solo en la oficina.
+- **Transparencia:** Control real sobre las evidencias de entrega y las incidencias.
+- **Mejora Continua:** Basada en el contraste diario con la operativa real del sector.
+- **Prudencia:** Crecimiento basado en validaciones comerciales y técnicas reales.
 
 ## 1.13. Personalidad inicial del proyecto
 
-Sistreg se define como el **"Arquitecto Logístico Digital"**. Nuestra personalidad es:
+Sistreg se define por un enfoque de consultoría técnica aplicada. Nuestra personalidad es:
 - **Experta:** Conocemos el sector desde dentro (Schlumberger, Marcotrans).
-- **Práctica:** No vendemos humo tecnológico, vendemos tiempo y control.
-- **Fiable:** La precisión en el dato y el cumplimiento aduanero son innegociables.
+- **Práctica:** No se plantea vender tecnología como fin, sino soluciones orientadas a tiempo, control y trazabilidad.
+- **Fiable:** La precisión del dato, la trazabilidad documental y el cumplimiento operativo son criterios esenciales del proyecto.
 
 ## 1.14. Adecuación del equipo al proyecto
 
-El equipo es excepcionalmente adecuado porque **no somos solo tecnólogos, somos logísticos**. 
+La adecuación del equipo se basa en la combinación entre experiencia logística y capacidad técnica aplicada. La mayoría de soluciones de software en este sector presentan dificultades de adopción porque quienes las desarrollan no siempre dominan la operativa real (bloqueos en aduanas, discrepancias en CMR, gestión de incidencias críticas). 
 
-La gran mayoría de soluciones de software fallan porque quienes las programan no entienden lo que es un bloqueo en aduanas o un error en un CMR. En Sistreg, Alexander aporta la capacidad de construir la herramienta y Claudia aporta la experiencia diaria de sufrir (y resolver) esos problemas. Esta dualidad garantiza que el producto final sea robusto, necesario y altamente competitivo.
+En **Sistreg**, Alexander aporta la capacidad de arquitectura y desarrollo técnico, mientras que Claudia aporta el contraste diario con la realidad operativa y las necesidades del cliente final. Esta dualidad busca asegurar que las herramientas sean útiles, robustas y adaptadas a los problemas reales de las pymes logísticas.
 
 ## 1.15. Conclusión del apartado
 
-Sistreg nace con un equipo promotor de alta cualificación. La dirección de Alexander Suárez, con su capacidad de hibridar logística tradicional con IA y desarrollo web, sumada a la colaboración experta de Claudia Bautista en el área de clientes y operativa real en Zaragoza, posiciona al proyecto en una situación de ventaja competitiva para abordar la transformación digital del sector logístico local.
-Esta organización resulta adecuada para iniciar el proyecto con prudencia, controlar costes fijos, validar el mercado y construir una propuesta útil para pequeñas y medianas empresas logísticas. El crecimiento del equipo se realizará de forma progresiva, en función de la demanda real, la carga de trabajo y las capacidades especializadas que requiera cada fase.
+Sistreg nace con un promotor principal de perfil híbrido y una colaboración fundacional no societaria de alto valor operativo. Esta organización resulta adecuada para iniciar el proyecto con prudencia, controlar costes fijos y validar el mercado mediante una propuesta de valor técnica y práctica. El crecimiento de la estructura se realizará de forma progresiva, en función de la demanda real y las necesidades de especialización de cada fase.

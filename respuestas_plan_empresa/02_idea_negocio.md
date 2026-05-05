@@ -2,179 +2,128 @@
 
 ## 2.1. Identificación general del proyecto
 
-El proyecto se encuentra actualmente en fase de validación y desarrollo dentro del programa CONVIERTE de Zaragoza Activa. Se trabaja bajo la marca provisional de **Sistreg**, que representa nuestra propuesta de sistemas de control operativo y trazabilidad para el sector logístico.
+**Sistreg** es la marca provisional de trabajo (pendiente de validación legal, digital y comercial) bajo la cual se desarrolla una propuesta de sistemas de control operativo y trazabilidad para el sector logístico. Internamente, el proyecto se denomina como **Proyecto Logístico** para mantener su naturaleza de desarrollo funcional antes de un lanzamiento comercial definitivo.
 
-La actividad prevista consiste en ofrecer servicios B2B de **diseño, implementación y mantenimiento de sistemas de control operativo, trazabilidad e integración** para pequeñas y medianas empresas logísticas. El foco inicial estará en empresas de transporte, transitarios, operadores de comercio exterior y organizaciones que gestionen procesos documentales intensivos en Zaragoza y Aragón.
+La actividad consiste en ofrecer servicios B2B de **diseño e implementación de sistemas de control operativo, trazabilidad documental y mejora de procesos**. El foco inicial y nicho de validación es el sector logístico en Zaragoza y Aragón, específicamente en empresas de transporte, transitarios y operadores de comercio exterior.
 
-La fecha estimada de inicio de actividad será el **1 de julio de 2026**. La forma jurídica inicial prevista será la de **trabajador autónomo**, manteniendo una estructura ligera, sin socios y con posibilidad de incorporar colaboradores externos o terceros especializados según las necesidades de cada proyecto.
-
-La actividad se sitúa entre los servicios informáticos, la consultoría tecnológica aplicada a procesos y el desarrollo de soluciones digitales a medida. De forma preliminar, los códigos CNAE que mejor encajan con la actividad son los relacionados con programación, consultoría informática y otros servicios vinculados a tecnologías de la información. El encaje definitivo de CNAE, IAE y obligaciones fiscales deberá validadse con una gestoría antes del alta formal.
-
-Sistreg no se presenta como una empresa logística, aunque su primer nicho de mercado sea el sector logístico. La industria de referencia es la de servicios tecnológicos B2B y desarrollo de soluciones digitales aplicadas a procesos operativos, con especialización inicial en logística, transporte y comercio exterior.
+La fecha estimada de inicio de actividad será el **1 de julio de 2026**. La forma jurídica inicial prevista será la de **trabajador autónomo**, lo que permite una estructura ágil y de bajo coste fijo. El proyecto cuenta con el respaldo estratégico de una **colaboradora fundacional experta** en operativa logística (Claudia Bautista), que aporta una visión de cliente y un contraste operativo de alto valor desde la fase inicial.
 
 ## 2.2. Origen de la idea
 
-La idea nace de la combinación entre la experiencia profesional de los promotores en logística, comercio exterior y mejora de procesos, y la formación actual en desarrollo de aplicaciones web, bases de datos, automatización e inteligencia artificial.
+La idea nace de la detección de una brecha crítica en las pymes logísticas: la **desconexión entre la operación física y la gestión administrativa/financiera**. Tras años de experiencia en el sector (Marcotrans, Schlumberger), se observa que muchas empresas "mueven la carga" de forma eficiente, pero sufren un "caos documental" que retrasa el cobro, genera errores en la facturación y oculta la rentabilidad real de cada trayecto.
 
-Durante años hemos trabajado con procesos de comercio exterior, importación, exportación, proveedores logísticos, control documental, indicadores, cumplimiento, incidencias y mejora continua. Esa experiencia nos permitió ver que muchos problemas operativos no se producen por falta de esfuerzo del equipo, sino por falta de orden, trazabilidad y herramientas adaptadas al trabajo real.
+Sistreg no nace para ser una empresa de transporte más, sino para resolver la **fricción operativa** que impide a estas empresas escalar y controlar sus márgenes. La oportunidad surge al aplicar herramientas de automatización e inteligencia artificial (de forma proporcionada) a problemas logísticos muy concretos que los ERPs tradicionales no resuelven con agilidad.
 
-En muchas empresas logísticas, la operación diaria avanza apoyada en hojas de cálculo, correos electrónicos, mensajes, llamadas, documentos dispersos y validaciones manuales. Aunque este sistema puede funcionar durante un tiempo, genera fricción: se pierde información, se duplican revisiones, se retrasan facturas, se producen errores de validación y cuesta saber qué operación está completa, cuál está bloqueada y qué falta para cerrar un servicio.
+## 2.3. Descripción del servicio: Control de cobro por evidencia
 
-La idea de **Sistreg** se ha ido consolidando durante los últimos seis meses como iniciativa empresarial concreta. Sin embargo, su base no surge de una moda tecnológica, sino de una experiencia profesional acumulada en logística y de una necesidad observada: muchas pequeñas y medianas empresas necesitan mejorar sus procesos sin implantar soluciones complejas, costosas o desconectadas de su realidad diaria.
+El servicio central de Sistreg se define como **control de cobro por evidencia**. Internamente, esta lógica se entiende como un flujo **Doc-to-Cash**, aunque de cara al cliente se comunicará como la capacidad de asegurar que cada servicio realizado tenga su respaldo documental listo para facturar.
 
-El proyecto busca unir dos mundos que normalmente se trabajan por separado: el conocimiento operativo logístico y la capacidad técnica para sistematizar procesos. Esa combinación permite entender primero el problema del cliente y después diseñar una solución proporcionada, útil y medible.
+El servicio busca facilitar que cada hito operativo relevante (carga, paso por frontera, descarga, entrega de documentos) quede asociado a una evidencia digital o una regla de control. Esto permite pasar de un modelo de "esperar a que lleguen los papeles" a un modelo de "gestión por excepción", donde solo se interviene cuando falta una evidencia crítica.
 
-## 2.3. Descripción del servicio
+## 2.4. El problema: Operación realizada vs Operación cerrada
 
-**Sistreg** ofrece un servicio de **diseño e implementación de sistemas de control operativo a medida** para procesos logísticos críticos.
+El "dolor" principal que atiende Sistreg es la diferencia temporal y de calidad entre:
+1. **Operación Realizada:** El camión ha descargado la mercancía física.
+2. **Operación Cerrada:** La empresa tiene el CMR sellado (POD), ha registrado las incidencias, ha validado la tarifa y puede emitir la factura sin riesgo de reclamación.
 
-No vendemos un software genérico por licencia, ni una plataforma SaaS estándar, ni una consultoría que termine únicamente en un informe. El cliente compra una solución funcionando sobre un problema operativo concreto, con reglas claras, evidencia centralizada y capacidad de seguimiento.
+En el sector logístico actual, una operación realizada pero no cerrada es una **deuda oculta** y un riesgo operativo. Los retrasos en la recuperación del POD (Proof of Delivery), la pérdida de albaranes y la falta de registro de incidencias en tiempo real son las causas principales de las tensiones de tesorería y la pérdida de margen en las pymes.
 
-El servicio incluye:
+## 2.5. Necesidad que satisface y público objetivo
 
-- análisis del flujo operativo actual;
-- identificación de puntos de bloqueo;
-- revisión de documentos, evidencias, incidencias y validaciones;
-- definición de reglas de control;
-- diseño de tableros de seguimiento;
-- automatización de alertas o validaciones;
-- centralización de información dispersa;
-- creación de bases de datos o herramientas internas;
-- integración con herramientas existentes cuando sea viable;
-- acompañamiento en la puesta en marcha;
-- mantenimiento, ajustes y mejoras posteriores.
+Sistreg satisface la necesidad de **seguridad operativa y financiera**. Permite que el responsable de tráfico o el gerente de la pyme tenga un **mayor control sobre procesos críticos** que afectan directamente a la rentabilidad.
 
-La línea principal de entrada será resolver problemas relacionados con el ciclo operativo que conecta la prestación del servicio logístico con la evidencia documental, la facturación y el cobro (Doc-to-Cash). En términos prácticos, se busca que el cliente pueda saber qué operaciones están completas, cuáles están bloqueadas, qué documento falta, qué incidencia impide facturar, qué coste debe revisarse y qué operación puede afectar el margen.
+El **cliente objetivo inicial** es la pequeña y mediana empresa de transporte o logística de Zaragoza y Aragón que:
+- Gestiona tráficos nacionales o internacionales intensivos en documentación (CMR, T1, facturas comerciales).
+- Sufre retrasos en el ciclo de facturación por falta de evidencias de entrega.
+- Tiene dificultades para medir la rentabilidad real por viaje debido a costes imprevistos o incidencias no registradas.
 
-La primera oferta comercial es el **control de cobro por evidencia**, especialmente en procesos donde CMR, albaranes, POD, facturas, tarifas, incidencias o validaciones manuales bloquean la facturación o generan reprocesos administrativos.
+## 2.6. Propuesta de valor: Beneficios operativos
 
-## 2.4. Problema que resuelve
+La propuesta de valor de Sistreg se basa en un **enfoque técnico-operativo especializado** que ofrece:
+- **Reducción del ciclo de cobro:** Acelerar el paso de "descarga" a "factura lista".
+- **Orden documental:** Centralización y digitalización de evidencias vinculadas a cada trayecto.
+- **Validación en origen:** Captura de datos y fotos en el punto de carga/descarga.
+- **Visibilidad real:** Dashboards sencillos que muestran qué operaciones están "bloqueadas" por falta de documentos.
+- **Reducción de tareas administrativas:** Automatización del picado de datos y la clasificación documental.
 
-El problema principal que resuelve **Sistreg** es la falta de control estructurado en procesos logísticos críticos.
+## 2.7. Mercado y oportunidad
 
-En muchas pymes logísticas, la operación puede estar realizada, pero no necesariamente cerrada desde el punto de vista administrativo, documental o financiero. Un viaje puede haber terminado, la mercancía puede haber sido entregada y el servicio puede haberse prestado correctamente, pero si falta el CMR, el albarán firmado, el POD, una validación de tarifa o la resolución de una incidencia, la operación queda abierta y puede retrasar la facturación o el cobro.
+Zaragoza es un nodo logístico estratégico (Plaza, centro de transporte, aduana interior). Existe una gran densidad de pymes logísticas que operan con sistemas tradicionales y procesos manuales. La progresiva digitalización del sector y las nuevas exigencias normativas, como e-CMR y eFTI, refuerzan la necesidad de mejorar el control operativo y documental. Las empresas que avancen antes en trazabilidad y gestión de evidencias podrán estar mejor preparadas para competir y adaptarse a estos cambios.
 
-Esta situación genera problemas como:
+## 2.8. Competencia y alternativas
 
-- retrasos en la emisión de facturas;
-- errores en pagos o cobros;
-- facturas rechazadas o devueltas;
-- pérdida de evidencias;
-- dificultad para encontrar responsables o documentos;
-- horas de revisión manual;
-- duplicidad de tareas administrativas;
-- falta de visibilidad sobre operaciones bloqueadas;
-- dificultad para medir incidencias y tiempos;
-- pérdida de margen por errores no detectados;
-- dependencia excesiva de Excel, correo y conocimiento no documentado.
+El análisis de competencia distingue varios niveles:
+- **Competencia Directa (Software específico):** Empresas que venden TMS (Transport Management Systems) o ERPs logísticos. Suelen ser soluciones pesadas, costosas y difíciles de adaptar a la operativa específica de una pyme.
+- **Competencia Indirecta (Consultoría):** Consultoras genéricas de digitalización. Carecen del criterio logístico necesario para entender los problemas de aduanas o transporte.
+- **Alternativas Internas (Freelancers o IT propio):** Desarrolladores contratados para soluciones a medida, que a menudo fallan por falta de visión de negocio logística.
+- **La opción de "No hacer nada":** Es la competencia más fuerte. Muchas pymes prefieren seguir con su "caos controlado" de Excel y carpetas físicas hasta que el problema de tesorería se vuelve crítico.
 
-La necesidad real del cliente no es “tener más tecnología”. La necesidad es operar con más control, trazabilidad, orden y capacidad de decisión. Por eso, **Sistreg** no parte de la herramienta, sino del punto de bloqueo operativo.
+Sistreg se diferencia por su **implementación incremental**: no pedimos cambiar de ERP, sino añadir una capa de control inteligente que solucione el problema del cobro.
 
-El conflicto central del cliente puede resumirse así: la empresa necesita operar, validar, facturar y cobrar con agilidad, pero hoy depende de procesos manuales, dispersos y poco trazables que le hacen perder tiempo, margen y estabilidad.
+## 2.9. Diferenciación estratégica
 
-## 2.5. Propuesta de valor
+1. **Criterio logístico aplicado:** No somos tecnólogos tratando de entender la logística, somos logísticos usando tecnología.
+2. **Implementación Lean:** Soluciones pequeñas y de alto impacto que se validan en semanas, no en meses.
+3. **Validación por contraste:** Cada solución es validada por nuestra colaboradora fundacional en un entorno operativo real.
 
-La propuesta de valor de **Sistreg** es ayudar a pymes logísticas a recuperar control sobre procesos críticos mediante sistemas a medida que ordenan información, centralizan evidencias, reducen errores y facilitan la toma de decisiones.
+## 2.10. Modelo de negocio
 
-El valor para el cliente se traduce en resultados operativos tangibles:
+Sistreg plantea un crecimiento basado en la validación comercial:
+- **Fase 1: Consultoría y Diagnóstico:** Identificación de cuellos de botella y diseño del sistema de control.
+- **Fase 2: Implementación de Piloto:** Despliegue de la solución en una ruta o cliente específico (modelo proyecto).
+- **Fase 3: Consolidación:** Posible evolución hacia componentes reutilizables o soluciones estandarizadas si la validación comercial lo justifica, con mantenimiento y soporte recurrente.
 
-- saber qué operaciones están listas para facturar;
-- identificar qué operaciones están bloqueadas y por qué;
-- reducir tiempo de revisión documental;
-- disminuir errores y reprocesos;
-- mejorar la trazabilidad de incidencias;
-- centralizar documentos y evidencias;
-- detectar discrepancias antes de pagar o cobrar;
-- proteger el margen de cada operación;
-- liberar tiempo del equipo administrativo, de tráfico u operaciones;
-- mejorar el seguimiento de indicadores.
+## 2.11. Comercialización y ventas
 
-Nos diferenciamos porque combinamos experiencia logística real (más de 40 años combinados), criterio de mejora de procesos y capacidad técnica para construir soluciones digitales. No se trata de imponer una herramienta estándar, sino de entender el proceso del cliente, identificar qué parte necesita intervención y diseñar una solución proporcionada al problema.
+La estrategia se basa en el **contacto directo y la confianza**.
+- Prospección directa en polígonos y centros logísticos de Zaragoza.
+- Uso de LinkedIn para identificar responsables de tráfico y gerentes.
+- Ofrecer diagnósticos gratuitos de "ciclo de cobro" para entrar en la empresa.
+- Alianzas estratégicas con gestorías o asociaciones del sector.
 
-## 2.6. Cliente objetivo inicial
+## 2.12. Objetivos iniciales (Hipótesis de validación)
 
-El cliente objetivo inicial serán pequeñas y medianas empresas logísticas de Zaragoza y Aragón que gestionen procesos documentales, operativos o administrativos con alto componente manual.
+Los objetivos están alineados con el plan de marketing y ventas (fase 06.1):
+- Explorar la posibilidad de establecer una primera red de clientes piloto o proyectos pagados, conforme a los objetivos del plan comercial.
+- Medir si las soluciones permiten reducir tiempos de cierre operativo, sin fijar todavía un porcentaje definitivo hasta contar con datos reales.
+- Validar que el valor aportado por la reducción del ciclo de cobro justifica el coste del servicio.
 
-Los segmentos más relevantes son:
+## 2.13. Estado actual del proyecto
 
-- empresas de transporte terrestre;
-- transitarios y agentes de aduanas;
-- operadores de comercio exterior;
-- operadores logísticos medianos o pequeños;
-- compañías que gestionan CMR, albaranes, POD, facturas de proveedor, tarifas e incidencias mediante seguimiento manual.
+- **Fase:** Validación estratégica y pre-operativa dentro del programa CONVIERTE.
+- **Marca:** Sistreg, marca provisional de trabajo pendiente de validación legal, digital y comercial.
+- **Equipo:** Promotor principal (Alexander) + Colaboradora fundacional (Claudia).
+- **Herramientas:** Primer enfoque técnico o prototipo conceptual orientado al control de evidencias.
 
-El comprador o decisor suele ser el gerente, propietario o responsable de operaciones/tráfico que percibe las fricciones diarias y el impacto económico del desorden.
+## 2.14. Alcance y límites estratégicos (Lo que NO somos)
 
-El primer foco geográfico será Zaragoza y Aragón, aprovechando la potencia del hub logístico regional (PLAZA, Centrovía, Puerto Venecia, etc.) y la posibilidad de ofrecer un servicio cercano y presencial.
+Para proteger la rentabilidad y el foco:
+- **No somos transportistas:** No tenemos camiones ni movemos carga física.
+- **No somos consultoría genérica:** Solo intervenimos en procesos documentales operativos.
+- **No somos vendedores de IA:** La IA es una herramienta interna, no el producto final.
+- **No somos competencia de los ERPs:** Somos una capa complementaria de control.
 
-## 2.7. Mercado y oportunidad inicial
+## 2.15. Aspectos legales, permisos y licencias
 
-Aragón es el corazón logístico del noreste de España. Este contexto genera una oportunidad inmensa para servicios especializados en mejora operativa.
+Este bloque es crítico para la seguridad del proyecto:
+- **Forma jurídica:** Alta como trabajador autónomo (Alexander Suárez).
+- **IAE/CNAE:** Identificación de epígrafes relacionados con servicios informáticos y consultoría técnica (Ej. CNAE 6201, 6202).
+- **Obligaciones Fiscales:** Gestión de IVA, IRPF y modelos trimestrales/anuales.
+- **Contratos de Servicio (SLA):** Redacción de contratos que definan responsabilidades, niveles de servicio y soporte.
+- **Confidencialidad (NDA):** Firmas de acuerdos de confidencialidad dada la sensibilidad de los datos logísticos.
+- **Propiedad Intelectual:** Revisión de disponibilidad y posible registro futuro de la marca Sistreg. Protección del código/algoritmos desarrollados.
+- **Protección de Datos (RGPD):** Definición del papel del proyecto como posible encargado del tratamiento cuando acceda o gestione datos personales por cuenta del cliente. Protocolos de seguridad para el manejo de documentos de terceros.
 
-La oportunidad para **Sistreg** no está en competir con los grandes ERPs o suites logísticas de miles de euros. El hueco real está en las empresas que ya tienen esos sistemas, pero que siguen resolviendo sus puntos críticos con Excel y correos externos porque su software principal es demasiado rígido o no cubre la "última milla" documental.
+## 2.16. Preguntas críticas para la reflexión estratégica
 
-En ese segmento, aportamos valor con una propuesta ligera: analizar un flujo concreto, detectar el bloqueo, diseñar la solución e implementarla sin detener la operación del cliente.
+**Sobre el mercado y tecnología:**
+- ¿Cómo afectará la progresiva digitalización documental del transporte, incluyendo e-CMR y eFTI, a la propuesta de valor de Sistreg?
+- ¿Están las pymes preparadas para pagar por "orden" si el beneficio no se traduce inmediatamente en "más ventas"?
 
-## 2.8. Competencia y alternativas del cliente
+**Sobre el modelo operativo:**
+- ¿Cómo asegurar que la captura de evidencias no genere una carga de trabajo adicional al conductor o al administrativo?
+- ¿Qué nivel de integración técnica necesitaremos con los sistemas actuales de los clientes?
 
-El mercado es competitivo pero fragmentado. Existen consultoras tecnológicas grandes y suites de software especializado. Sin embargo, nuestra mayor competencia es **"seguir haciendo las cosas como siempre"** (Excel, papel y memoria).
+## 2.17. Conclusión estratégica del apartado
 
-Frente a la competencia, **Sistreg** se posiciona como el "Arquitecto Logístico Digital": entendemos la operación porque venimos de ella, no somos solo informáticos vendiendo código.
-
-## 2.9. Diferenciación
-
-La diferenciación principal de **Sistreg** se apoya en tres pilares:
-
-1.  **Conocimiento del Sector**: Entendemos lo que es un bloqueo en aduanas o un error en un CMR.
-2.  **Sabio Práctico**: No vendemos humo tecnológico ni IA "mágica". Vendemos control operativo.
-3.  **Flexibilidad**: Soluciones a medida que se integran con lo que el cliente ya tiene.
-
-## 2.10. Modelo de negocio e ingresos
-
-El modelo de negocio se basa en servicios B2B escalonados:
-
-1.  **Diagnóstico Operativo:** Análisis de bloqueos.
-2.  **Solución Inicial (Piloto):** Implementación de una herramienta funcional sobre un problema concreto.
-3.  **Acompañamiento y Mantenimiento:** Ajustes mensuales y mejora continua.
-
-## 2.11. Comercialización y canales de llegada al cliente
-
-La comercialización será directa y consultiva:
-
-- **LinkedIn**: Construcción de autoridad y contacto directo con decisores.
-- **Venta Directa**: Visitas a empresas en los polígonos de Zaragoza.
-- **Diagnóstico Gratuito**: Como puerta de entrada para demostrar valor sin riesgo inicial para el cliente.
-
-## 2.12. Estado actual del proyecto
-
-El proyecto se encuentra en fase de validación estratégica. Contamos con:
-- Estructura de equipo definida (Alex y Claudia).
-- Propuesta de valor validada conceptualmente.
-- Identidad de marca provisional (**Sistreg**).
-- Hoja de ruta técnica para el desarrollo de los sistemas.
-
-El siguiente hito crítico es la **validación comercial directa** mediante reuniones exploratorias con potenciales clientes en Zaragoza.
-
-## 2.13. Objetivos iniciales
-
-- Iniciar actividad como autónomo en julio de 2026.
-- Validar la disposición de pago con al menos 3 clientes piloto.
-- Documentar el primer caso de éxito de ahorro de tiempo mediante el sistema de control de evidencias.
-
-## 2.14. Alcance inicial y límites estratégicos
-
-**Sistreg** no es una empresa de transporte ni un almacén. Somos facilitadores tecnológicos. No aceptaremos proyectos que no tengan un componente de mejora operativa claro o donde no podamos medir el impacto.
-
-## 2.15. Aspectos legales y fiscales
-
-Cumpliremos con toda la normativa de protección de datos (RGPD), especialmente sensible al tratar con datos de conductores, matrículas y documentos comerciales. Los contratos de servicio incluirán cláusulas estrictas de confidencialidad y propiedad intelectual.
-
-## 2.16. Preguntas pendientes por contestar o validar
-
-- Nombre comercial definitivo (¿Sistreg se queda o evoluciona?).
-- Validación de precios finales en el mercado local.
-- Selección de la primera empresa para el piloto real.
-
-## 2.17. Conclusión del apartado
-
-**Sistreg** es una respuesta práctica y necesaria a la ineficiencia operativa de la pyme logística. Unimos el conocimiento de la trinchera con la potencia de la automatización actual para devolver el control al empresario y al gestor de tráfico.
+La idea de negocio de **Sistreg** es una respuesta pragmática a un problema crónico del sector logístico: la ineficiencia documental. Al centrar el mensaje en el **"control de cobro por evidencia"**, se conecta directamente con un problema sensible para el cliente: el flujo de caja, la facturación y la recuperación de evidencias, lo que puede facilitar la comprensión del valor por parte del cliente. El éxito del proyecto dependerá de nuestra capacidad para mantener un enfoque técnico-operativo especializado, validando cada paso con datos reales y manteniendo una estructura ligera que permita pivotar conforme el sector avance hacia una mayor digitalización documental y operativa.
