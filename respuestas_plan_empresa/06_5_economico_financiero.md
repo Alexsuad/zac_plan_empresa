@@ -1,8 +1,4 @@
-# File: respuestas_plan_empresa/06_5_economico_financiero.md
-# ──────────────────────────────────────────────────────────────────────
-# Propósito: Análisis económico-financiero detallado del proyecto Sistreg.
-# Rol: Documento de viabilidad y previsión financiera.
-# ──────────────────────────────────────────────────────────────────────
+
 
 # 6.5. Plan económico-financiero
 
