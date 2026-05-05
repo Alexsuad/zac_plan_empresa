@@ -19,7 +19,7 @@ Importante:
 | 3.3 Análisis interno | `03_3_analisis_interno.md` | Borrador avanzado |
 | 4. DAFO / CAME | `04_dafo_came.md` | Borrador avanzado |
 | 5. Objetivos y líneas estratégicas | `05_objetivos_lineas_estrategicas.md` | Borrador avanzado |
-| 6.0 Marca, comunicación y naming | `06_0_marca_comunicacion_naming.md` | Pendiente |
+| 6.0 Marca, comunicación y naming | `06_0_marca_comunicacion_naming.md` | Borrador avanzado |
 | 6.1 Marketing y ventas | `06_1_marketing_ventas.md` | Borrador avanzado |
 | 6.2 Operaciones | `06_2_operaciones.md` | Pendiente |
 | 6.3 Recursos humanos | `06_3_recursos_humanos.md` | Pendiente |
