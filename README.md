@@ -14,6 +14,7 @@ Este repositorio contiene la documentación específica para la elaboración del
 - `anexos/`: Soporte, matrices, fuentes y evidencias (DAFO, PESTEL, etc.).
 - `docs_base/`: Metodología, mapas, arquitectura documental y documentos de referencia.
 - `docs_control/`: Control operativo, planificación, gates y registro de decisiones.
+- `docs_convierte/`: Fuentes externas de soporte, materiales de formación, CVs resumidos e investigaciones.
 - `.agent/skills/`: Skills locales para el asistente Antigravity.
 - `_build/`: Salidas consolidadas y documentos generados para entrega.
 

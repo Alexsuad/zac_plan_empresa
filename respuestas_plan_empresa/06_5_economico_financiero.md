@@ -122,6 +122,7 @@ En la fase inicial no se recomienda buscar business angels, préstamos participa
 ## 6.5.6. Estructura de costes
 
 La estructura de costes prevista es ligera y está diseñada para una fase inicial de validación. No se contemplan alquileres, plantilla fija ni inversiones industriales.
+- **Arranque guiado**;
 
 Los principales costes fijos previstos son:
 
@@ -159,7 +160,7 @@ El análisis financiero de Sistreg debe entenderse desde un modelo de explotaci�
 
 | Nivel | Significado en Sistreg |
 |---|---|
-| Ingreso | Lo que paga el cliente por diagnóstico, arranque guiado, implementación, soporte o automatización puntual. |
+| Ingreso | Lo que paga el cliente por análisis operativo posterior, arranque guiado, implementación, soporte o automatización puntual. |
 | Operación | Coste y tiempo necesarios para entregar el servicio: análisis, diseño, desarrollo, pruebas, reuniones, documentación y soporte. |
 | Estructura | Costes fijos necesarios para sostener la actividad: autónomos, herramientas, gestoría, comunicación, formación y otros gastos. |
 
@@ -196,7 +197,7 @@ El modelo financiero organiza los ingresos en varias líneas de servicio:
 | Servicio | Precio medio previsto |
 |---|---:|
 | Horas de análisis operativo posterior / diagnóstico ampliado | 55 €/hora |
-| Horas de diseño y piloto | 57 €/hora |
+| Horas de **arranque guiado** | 57 €/hora |
 | Horas de implementación | 58 €/hora |
 | Soporte y acompañamiento mensual | 250 €/mes |
 | Horas de automatización puntual | 57 €/hora |
@@ -272,7 +273,7 @@ El primer año se calcula con seis meses de actividad, por lo que la cifra de ve
 
 El crecimiento previsto entre 2026 y 2027 se basa en una mayor capacidad de venta, repetición de servicios y consolidación de mantenimientos mensuales. No obstante, este crecimiento dependerá de la capacidad real de captar clientes, cerrar propuestas y ejecutar proyectos sin saturar la capacidad operativa.
 
-La previsión es positiva, pero debe tratarse con cautela. El proyecto todavía no cuenta con clientes confirmados ni pilotos pagados. Por tanto, la primera prioridad financiera no será maximizar ventas, sino validar que el problema es pagable y que el cliente acepta el formato de servicio.
+La previsión es positiva, pero debe tratarse con cautela. El proyecto todavía no cuenta con clientes confirmados ni **arranques guiados** pagados. Por tanto, la primera prioridad financiera no será maximizar ventas, sino validar que el problema es pagable y que el cliente acepta el formato de servicio.
 
 El plan de marketing y ventas deberá ser coherente con esta previsión, especialmente en lo relativo a contactos mensuales, reuniones, diagnósticos, propuestas y cierres.
 
@@ -312,7 +313,7 @@ Según el Excel económico-financiero, los resultados previstos son positivos en
 
 El resultado es positivo, pero ajustado. No se trata de un modelo de alta rentabilidad inmediata, sino de un modelo de autoempleo técnico especializado que puede sostenerse si se cumplen las hipótesis de ventas y se controla la estructura de costes.
 
-El año 2027 es el más sensible porque combina un año completo de costes con una previsión de ventas cercana al umbral de rentabilidad. Esto refuerza la necesidad de validar el canal comercial durante 2026 y llegar a 2027 con primeras referencias, casos piloto o mantenimientos recurrentes.
+El año 2027 es el más sensible porque combina un año completo de costes con una previsión de ventas cercana al umbral de rentabilidad. Esto refuerza la necesidad de validar el canal comercial durante 2026 y llegar a 2027 con primeras referencias, casos de **arranque guiado** o mantenimientos recurrentes.
 
 ---
 

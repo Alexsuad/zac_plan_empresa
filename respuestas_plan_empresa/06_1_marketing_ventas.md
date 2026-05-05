@@ -6,7 +6,7 @@ Este plan de marketing y ventas ejecuta y tangibiliza las definiciones estratég
 > [!NOTE]
 > Las definiciones de tono, narrativa, territorio verbal, identidad visual y criterios de naming se desarrollan en el apartado 06.0. Este apartado 06.1 mantiene únicamente su aplicación comercial y operativa.
 
-El plan de marketing y ventas de **Proyecto Logístico** define cómo se presentará la oferta, cómo se captarán los primeros clientes, qué canales se utilizarán, cómo se comunicará el valor del servicio y cómo se medirá si la estrategia comercial funciona.
+El plan de marketing y ventas de **Sistreg** define cómo se presentará la oferta, cómo se captarán los primeros clientes, qué canales se utilizarán, cómo se comunicará el valor del servicio y cómo se medirá si la estrategia comercial funciona.
 
 Este apartado parte de una premisa clara: el proyecto no debe venderse como una agencia de IA, un SaaS estándar, una consultoría logística genérica ni un proveedor informático generalista. La comunicación comercial debe centrarse en el problema operativo del cliente: falta de control documental, evidencias dispersas, validaciones manuales, facturación bloqueada y pérdida de trazabilidad entre operación, evidencia, factura y cobro.
 
@@ -21,12 +21,12 @@ La oferta inicial se organizará en tres niveles:
 | Nivel | Tipo de oferta               | Función                                                                                        |
 | ----- | ---------------------------- | ---------------------------------------------------------------------------------------------- |
 | 1     | Diagnóstico inicial gratuito | Identificar si existe un bloqueo operativo real y valorar si tiene sentido avanzar.            |
-| 2     | Piloto pagado                | Resolver o probar una mejora concreta sobre un flujo limitado.                                 |
+| 2     | Arranque guiado             | Resolver o probar una mejora concreta sobre un flujo limitado.                                 |
 | 3     | Implementación completa      | Diseñar e implementar un sistema más completo de control operativo, trazabilidad o validación. |
 
 El diagnóstico inicial será gratuito, pero limitado a una sola vez por cliente. Su objetivo no será entregar consultoría completa, sino detectar si existe un problema real y relevante en documentación, evidencias, facturación, cobro o trazabilidad.
 
-El piloto pagado permitirá validar una solución concreta con alcance limitado. Esta fase reduce el riesgo tanto para el cliente como para el proyecto, porque evita pasar directamente a una implementación amplia sin comprobar antes el valor.
+El **Arranque guiado** permitirá validar una solución concreta con alcance limitado. Esta fase reduce el riesgo tanto para el cliente como para el proyecto, porque evita pasar directamente a una implementación amplia sin comprobar antes el valor.
 
 La implementación completa solo se propondrá cuando exista dolor reconocido, impacto operativo o económico claro, responsable interno del cliente y aceptación formal de la propuesta.
 
@@ -53,7 +53,7 @@ El término interno **Doc-to-Cash** podrá usarse como referencia de trabajo den
 
 ## 6.1.4. Valor añadido
 
-El valor añadido de Proyecto Logístico no está en vender tecnología, sino en aplicar tecnología con criterio operativo sobre problemas concretos del sector logístico.
+El valor añadido de **Sistreg** no está en vender tecnología, sino en aplicar tecnología con criterio operativo sobre problemas concretos del sector logístico.
 
 La propuesta aporta valor en cinco niveles:
 
@@ -73,7 +73,7 @@ El proyecto deberá explicar siempre primero el problema de negocio y después l
 
 ## 6.1.5. Servicios asociados
 
-Además del diagnóstico, piloto o implementación, el proyecto podrá ofrecer servicios asociados que aumenten la utilidad de la solución.
+Además del diagnóstico, arranque guiado o implementación, el proyecto podrá ofrecer servicios asociados que aumenten la utilidad de la solución.
 
 Los principales servicios asociados serán:
 
@@ -94,9 +94,9 @@ El alcance de soporte y mantenimiento deberá quedar claramente definido para ev
 
 ## 6.1.6. Comparativa frente a competencia y sustitutos
 
-Proyecto Logístico no compite únicamente con empresas parecidas. También compite con herramientas, proveedores y formas actuales de trabajo.
+**Sistreg** no compite únicamente con empresas parecidas. También compite con herramientas, proveedores y formas actuales de trabajo.
 
-| Alternativa                      | Qué ofrece                        | Riesgo para el proyecto                         | Diferenciación de Proyecto Logístico                                |
+| Alternativa                      | Qué ofrece                        | Riesgo para el proyecto                         | Diferenciación de **Sistreg**                                       |
 | -------------------------------- | --------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------- |
 | ERP                              | Gestión empresarial general       | El cliente puede pensar que “ya tiene sistema”  | Enfoque específico en flujo operativo-documental y cobro.           |
 | TMS / WMS                        | Gestión de transporte o almacén   | Soluciones amplias y posicionadas               | Intervención concreta sobre bloqueos, evidencias y validación.      |
@@ -123,12 +123,12 @@ La política de precios deberá cumplir estas reglas:
 * no competir por precio bajo;
 * no regalar trabajo técnico después del diagnóstico gratuito;
 * calcular precios según alcance, complejidad, esfuerzo y valor esperado;
-* diferenciar diagnóstico gratuito, piloto pagado, implementación y mantenimiento;
+* diferenciar diagnóstico gratuito, arranque guiado, implementación y mantenimiento;
 * evitar proyectos sin alcance definido;
 * revisar precios tras los primeros proyectos reales;
 * medir horas reales para ajustar márgenes.
 
-El diagnóstico inicial será gratuito y limitado. El piloto y la implementación serán pagados. El mantenimiento mensual será opcional y se presupuestará aparte.
+El diagnóstico inicial será gratuito y limitado. El **Arranque guiado** y la implementación serán pagados. El mantenimiento mensual será opcional y se presupuestará aparte.
 
 La propuesta comercial deberá dejar claro qué incluye, qué no incluye, plazos, entregables, soporte y condiciones de cambios.
 
@@ -143,14 +143,14 @@ La política inicial será:
 | Concepto                 | Condición de cobro                                                             |
 | ------------------------ | ------------------------------------------------------------------------------ |
 | Diagnóstico inicial      | Gratuito, una vez por cliente                                                  |
-| Piloto pagado            | 50% de anticipo antes de iniciar y 50% contra entrega, validación o hito final |
+| Arranque guiado          | 50% de anticipo antes de iniciar y 50% contra entrega, validación o hito final |
 | Implementación completa  | 50% de anticipo antes de iniciar y 50% contra entrega, validación o hito final |
 | Mantenimiento mensual    | Pago mensual, si se contrata                                                   |
 | Cambios fuera de alcance | Presupuesto adicional antes de ejecutarse                                      |
 
 No se iniciará trabajo técnico pagado sin aceptación formal de la propuesta y anticipo.
 
-Esta política es importante porque el proyecto trabajará con servicios a medida, donde el tiempo técnico y de análisis tiene coste. El diagnóstico gratuito cumple la función de entrada comercial; cualquier desarrollo, piloto o implementación posterior debe estar protegido por condiciones claras.
+Esta política es importante porque el proyecto trabajará con servicios a medida, donde el tiempo técnico y de análisis tiene coste. El diagnóstico gratuito cumple la función de entrada comercial; cualquier desarrollo, arranque guiado o implementación posterior debe estar protegido por condiciones claras.
 
 ---
 
@@ -227,7 +227,7 @@ El proyecto cuenta con una landing en fase de borrador. Esta landing presenta un
 
 La landing no se considera todavía un activo definitivo de marca. Actualmente debe tratarse como una herramienta inicial de apoyo comercial, pendiente de ajuste según las conversaciones con clientes y la validación del mensaje.
 
-También está pendiente definir el nombre comercial definitivo. Hasta entonces, el plan mantiene la denominación provisional **Proyecto Logístico**.
+Sistreg se utilizará como marca provisional de trabajo, pendiente de validación legal, digital y comercial. La denominación Proyecto Logístico se mantiene solo como referencia interna/descriptiva del ámbito de actuación.
 
 Los activos comerciales iniciales serán:
 
@@ -269,7 +269,7 @@ No debe transmitir:
 
 El mensaje base será:
 
-> Proyecto Logístico ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
+> **Sistreg** ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
 
 Mensajes secundarios:
 
@@ -364,7 +364,7 @@ No se priorizarán inicialmente:
 * eventos costosos;
 * construcción de plataforma propia amplia.
 
-El criterio será invertir solo en materiales y herramientas que ayuden a conseguir conversaciones, explicar la propuesta y cerrar pilotos o proyectos pagados.
+El criterio será invertir solo en materiales y herramientas que ayuden a conseguir conversaciones, explicar la propuesta y cerrar **arranques guiados** o proyectos pagados.
 
 ---
 
@@ -452,7 +452,7 @@ En el caso de contratar una agencia de marketing o apoyo externo, el seguimiento
 - calidad de los leads;
 - recomendaciones de ajuste.
 
-La finalidad de estos objetivos SMART es evitar que el marketing se convierta en actividad de visibilidad sin impacto comercial. Para Proyecto Logístico, la prioridad será transformar autoridad y contenido en conversaciones reales con empresas del mercado objetivo.
+La finalidad de estos objetivos SMART es evitar que el marketing se convierta en actividad de visibilidad sin impacto comercial. Para **Sistreg**, la prioridad será transformar autoridad y contenido en conversaciones reales con empresas del mercado objetivo.
 
 ---
 
@@ -465,7 +465,7 @@ El plan de marketing y ventas todavía debe validar varios elementos en mercado 
 | Si las empresas aceptan visitas          | Contacto directo y seguimiento.                                    |
 | Si reconocen el dolor documental         | Diagnóstico inicial.                                               |
 | Si perciben impacto económico            | Conversación sobre facturación, cobro, errores y tiempo.           |
-| Si aceptan pagar después del diagnóstico | Propuesta de piloto o implementación.                              |
+| Si aceptan pagar después del diagnóstico | Propuesta de **Arranque guiado** o implementación.                              |
 | Qué objeciones aparecen                  | Registro comercial.                                                |
 | Qué mensaje funciona mejor               | Comparación de respuestas.                                         |
 | Qué perfil decide la compra              | Reuniones con gerencia, operaciones, administración o facturación. |
@@ -493,7 +493,7 @@ Estos documentos deberán mantenerse como soporte del plan y actualizarse si cam
 
 ## 6.1.21. Conclusión estratégica
 
-El plan de marketing y ventas de Proyecto Logístico se basa en una entrada comercial prudente, directa y medible.
+El plan de marketing y ventas de **Sistreg** se basa en una entrada comercial prudente, directa y medible.
 
 La estrategia no será depender de redes sociales ni vender tecnología como promesa principal. La captación inicial se apoyará en visitas, contactos directos, LinkedIn como canal de autoridad y activos comerciales mínimos que ayuden a explicar el problema y generar confianza.
 
@@ -503,4 +503,4 @@ La prioridad será demostrar que el problema existe, que el cliente lo reconoce,
 
 El plan comercial deberá revisarse mensualmente con base en datos reales: empresas contactadas, reuniones conseguidas, diagnósticos realizados, propuestas enviadas, proyectos aceptados, objeciones y aprendizajes.
 
-Proyecto Logístico solo debe escalar su comunicación, inversión y capacidad comercial cuando existan señales reales de tracción.
+**Sistreg** solo debe escalar su comunicación, inversión y capacidad comercial cuando existan señales reales de tracción.

@@ -2,7 +2,7 @@
 
 ## 5.1. Introducción
 
-Los objetivos y líneas estratégicas de **Proyecto Logístico** se definen a partir del análisis externo, el estudio de mercado, el análisis interno y la matriz DAFO/CAME.
+Los objetivos y líneas estratégicas de **Sistreg** se definen a partir del análisis externo, el estudio de mercado, el análisis interno y la matriz DAFO/CAME.
 
 Este apartado no busca fijar deseos generales, sino establecer metas realistas que permitan avanzar con control. La prioridad inicial no será crecer de forma rápida ni asumir inversiones fuertes, sino validar si el mercado reconoce el problema, acepta el diagnóstico y está dispuesto a pagar por una solución posterior.
 
@@ -14,13 +14,13 @@ Los objetivos financieros concretos deberán mantenerse alineados con el documen
 
 ## 5.2. Enfoque estratégico general
 
-La estrategia inicial de Proyecto Logístico será de **especialización, diferenciación operativa y validación progresiva**.
+La estrategia inicial de **Sistreg** será de **especialización, diferenciación operativa y validación progresiva**.
 
 La especialización se basa en enfocar el proyecto en pymes logísticas, especialmente empresas de transporte y transitarios con procesos documentales intensivos. No se busca atender cualquier problema digital de cualquier empresa, sino comenzar por un flujo crítico: operación → evidencia → factura → cobro.
 
 La diferenciación no estará en vender tecnología como fin, ni en presentarse como agencia de IA, SaaS estándar o consultoría logística genérica. La diferenciación estará en aplicar sistemas, automatización e integración con criterio operativo, sobre problemas reales y medibles.
 
-La validación progresiva implica avanzar por fases: primero contacto y diagnóstico, luego piloto o propuesta limitada, y solo después implementación completa si existe dolor reconocido, impacto claro y disposición de pago.
+La validación progresiva implica avanzar por fases: primero contacto y diagnóstico, luego **arranque guiado** o propuesta limitada, y solo después implementación completa si existe dolor reconocido, impacto claro y disposición de pago.
 
 Esta estrategia responde directamente al DAFO/CAME: aprovecha la capacidad técnica y logística del proyecto, corrige la debilidad comercial, evita la sobreconstrucción y reduce el riesgo de ser percibido como otro proveedor tecnológico genérico.
 
@@ -28,7 +28,7 @@ Esta estrategia responde directamente al DAFO/CAME: aprovecha la capacidad técn
 
 ## 5.3. Objetivos empresariales
 
-Durante los primeros meses, el objetivo empresarial principal será **validar si Proyecto Logístico puede convertirse en una actividad viable**, manteniendo una estructura ligera y sin asumir costes fijos innecesarios.
+Durante los primeros meses, el objetivo empresarial principal será **validar si Sistreg puede convertirse en una actividad viable**, manteniendo una estructura ligera y sin asumir costes fijos innecesarios.
 
 Los objetivos empresariales se organizan en tres horizontes:
 
@@ -102,7 +102,7 @@ Las cifras de inversión, financiación, ingresos previstos, costes, tesorería 
 
 La inversión inicial deberá ser mínima, controlada y vinculada a la validación del modelo.
 
-Proyecto Logístico no requiere local abierto al público, almacén, flota, maquinaria, stock ni infraestructura logística propia. Esto permite iniciar con una estructura ligera desde casa o espacio propio.
+**Sistreg** no requiere local abierto al público, almacén, flota, maquinaria, stock ni infraestructura logística propia. Esto permite iniciar con una estructura ligera desde casa o espacio propio.
 
 Los objetivos de inversión serán:
 
@@ -136,7 +136,7 @@ Los objetivos operativos serán:
 2. Definir qué incluye y qué no incluye el diagnóstico gratuito.
 3. Documentar cada bloqueo detectado.
 4. Estimar esfuerzo antes de presentar propuestas.
-5. Trabajar por fases: diagnóstico → piloto limitado → implementación.
+5. Trabajar por fases: diagnóstico → **arranque guiado** → implementación.
 6. Aplicar pruebas de testeo antes de entregar soluciones.
 7. Registrar incidencias, aprendizajes y mejoras.
 8. Evitar proyectos sin dolor operativo claro o sin responsable interno del cliente.
@@ -171,7 +171,7 @@ Esta línea es importante para evitar dos riesgos: construir todo de forma artes
 
 ## 5.9. Objetivos de marca y comunicación
 
-Mientras no exista una marca definitiva, el proyecto se comunicará provisionalmente como **Proyecto Logístico**.
+**Sistreg** se utilizará como marca provisional de trabajo, pendiente de validación legal, digital y comercial. La denominación Proyecto Logístico se mantiene solo como referencia interna/descriptiva del ámbito de actuación.
 
 La comunicación deberá evitar confusiones. El proyecto no debe parecer:
 
@@ -192,7 +192,7 @@ El objetivo de comunicación será asociar el proyecto con:
 
 El mensaje principal deberá ser claro y operativo:
 
-> Proyecto Logístico ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
+> **Sistreg** ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
 
 La tecnología se comunicará como medio, no como promesa central. Esto es clave para diferenciarse en un mercado saturado de IA, automatización y herramientas genéricas.
 
@@ -330,7 +330,7 @@ La decisión de continuar, ajustar o pivotar no debe tomarse por sensación, sin
 
 ## 5.14. Conclusión estratégica
 
-Los objetivos de Proyecto Logístico se centran en validar de forma prudente una oportunidad situada entre logística y sistemas.
+Los objetivos de **Sistreg** se centran en validar de forma prudente una oportunidad situada entre logística y sistemas.
 
 La estrategia no será crecer rápido ni vender tecnología genérica. La estrategia será entrar al mercado con un problema concreto, contactar empresas reales, realizar diagnósticos limitados, medir si existe dolor reconocido y convertir esa validación en proyectos pagados.
 
@@ -338,6 +338,6 @@ El objetivo mínimo a seis meses será conseguir 4 proyectos pagados o, al menos
 
 La línea estratégica principal queda definida así:
 
-> Proyecto Logístico seguirá una estrategia de especialización logística, diferenciación operativa y validación progresiva, usando tecnología solo como medio para crear sistemas de control, trazabilidad y evidencia que ayuden a mejorar el flujo operación → evidencia → factura → cobro.
+> **Sistreg** seguirá una estrategia de especialización logística, diferenciación operativa y validación progresiva, usando tecnología solo como medio para crear sistemas de control, trazabilidad y evidencia que ayuden a mejorar el flujo operación → evidencia → factura → cobro.
 
 Este apartado permite avanzar al plan de marketing, ventas y operaciones con objetivos concretos, medibles y coherentes con la realidad actual del proyecto.

@@ -67,7 +67,7 @@ La segunda debilidad es que **ventas y captación de clientes** son actualmente 
 
 La tercera debilidad es una **capacidad comercial aún no consolidada**. El emprendedor se sitúa en un punto intermedio para visitas y conversaciones con empresarios. Esto no bloquea el proyecto, pero obliga a estructurar la venta con guion, diagnóstico limitado, seguimiento y métricas simples.
 
-La cuarta debilidad es la **falta de casos reales documentados** que demuestren valor técnico y económico. Sin pilotos, métricas o ejemplos concretos, puede ser más difícil generar confianza en clientes B2B, especialmente cuando se trabaja sobre procesos sensibles como facturación, documentación y cobro.
+La cuarta debilidad es la **falta de casos reales documentados** que demuestren valor técnico y económico. Sin **arranques guiados**, métricas o ejemplos concretos, puede ser más difícil generar confianza en clientes B2B, especialmente cuando se trabaja sobre procesos sensibles como facturación, documentación y cobro.
 
 La quinta debilidad es que el **núcleo técnico reutilizable todavía no está validado**. Si cada proyecto se construye completamente desde cero, el modelo puede volverse poco escalable, consumir demasiado tiempo y depender excesivamente del esfuerzo individual del emprendedor.
 
@@ -114,9 +114,9 @@ La sexta amenaza es la **dependencia de herramientas externas, APIs y riesgos t�
 | Corregir | Falta de contactos reales en logística                                | Crear una lista inicial de empresas objetivo en Zaragoza y Aragón y ejecutar visitas/contactos directos.                                         |
 | Corregir | Ventas y captación como principal limitación                          | Preparar guion comercial, diagnóstico gratuito y sistema simple de seguimiento.                                                                  |
 | Corregir | Capacidad comercial aún no consolidada                                | Registrar objeciones, practicar conversaciones y ajustar el mensaje después de cada contacto.                                                    |
-| Corregir | Falta de casos reales de valor técnico/económico                      | Documentar cada piloto con problema inicial, solución entregada, métricas antes/después y aprendizaje.                                           |
+| Corregir | Falta de casos reales de valor técnico/económico                      | Documentar cada **arranque guiado** con problema inicial, solución entregada, métricas antes/después y aprendizaje.                                           |
 | Corregir | Núcleo técnico reutilizable todavía no validado                       | Crear componentes reutilizables desde los primeros proyectos: validaciones, conectores, plantillas de cuadros de control y checklist de pruebas. |
-| Corregir | Riesgo de sobreconstrucción                                           | Mantener proceso progresivo: diagnóstico → piloto limitado → implementación solo si hay valor probado.                                           |
+| Corregir | Riesgo de sobreconstrucción                                           | Mantener proceso progresivo: diagnóstico → **arranque guiado** → implementación solo si hay valor probado.                                           |
 | Afrontar | Competencia de TMS, ERP, WMS, plataformas documentales e integradores | No competir como software amplio; entrar por un flujo crítico no bien resuelto: evidencia, validación, factura y cobro.                          |
 | Afrontar | Inercia de Excel, correo, WhatsApp y procesos manuales                | Mostrar el coste del descontrol y empezar por una mejora concreta de bajo riesgo.                                                                |
 | Afrontar | Demanda y disposición de pago aún no validadas                        | Medir conversión de contacto → diagnóstico → propuesta → proyecto pagado.                                                                        |
@@ -148,7 +148,7 @@ La segunda decisión es que la prioridad inmediata debe ser la **validación com
 
 La tercera decisión es mantener el **control de cobro por evidencia** como primera oferta de entrada. Este producto ancla permite explicar el servicio desde un dolor claro y no desde una lista amplia de automatizaciones posibles.
 
-La cuarta decisión es evitar la **sobreconstrucción técnica**. Las soluciones deberán crecer de forma progresiva: primero diagnóstico, después piloto limitado y solo más adelante implementación completa si existe valor probado.
+La cuarta decisión es evitar la **sobreconstrucción técnica**. Las soluciones deberán crecer de forma progresiva: primero diagnóstico, después **arranque guiado** y solo más adelante implementación completa si existe valor probado.
 
 La quinta decisión es construir desde el inicio una base mínima de **reutilización técnica**, sin convertir el proyecto en SaaS. Componentes como validaciones, conectores, plantillas de seguimiento, cuadros de control, logs y checklist de pruebas pueden ayudar a reducir tiempo de entrega y mejorar calidad.
 
@@ -163,7 +163,7 @@ La sexta decisión es preparar una respuesta clara frente a la saturación del m
 | No conseguir primeras reuniones comerciales                  | Interno/comercial  | Alto       | Crear lista de empresas, rutina semanal de contacto y seguimiento.                                 |
 | Que el diagnóstico gratuito no convierta en propuesta pagada | Comercial          | Alto       | Medir conversión y ajustar alcance/mensaje.                                                        |
 | Ser percibido como automatizador genérico                    | Posicionamiento    | Alto       | Usar lenguaje logístico y centrar la venta en control operativo.                                   |
-| Construir soluciones demasiado complejas                     | Técnico/operativo  | Alto       | Trabajar por fases: diagnóstico, piloto e implementación progresiva.                               |
+| Construir soluciones demasiado complejas                     | Técnico/operativo  | Alto       | Trabajar por fases: diagnóstico, **arranque guiado** e implementación progresiva.                               |
 | No validar disposición de pago en los primeros meses         | Mercado/financiero | Alto       | Definir hitos mensuales de validación comercial.                                                   |
 | Riesgos legales o de datos en proyectos reales               | Legal/operativo    | Medio-alto | Revisar contratos, RGPD, confidencialidad y responsabilidades antes de operar con datos sensibles. |
 | Saturación o pérdida de calidad por exceso de proyectos      | Operativo          | Medio-alto | Limitar proyectos simultáneos y medir horas reales.                                                |

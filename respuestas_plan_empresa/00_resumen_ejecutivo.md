@@ -122,7 +122,7 @@ El modelo de ingresos previsto combina servicios por proyecto y posible recurren
 Las principales líneas son:
 
 - análisis operativo posterior o diagnóstico ampliado;
-- diseño y piloto;
+- **Arranque guiado**;
 - implementación;
 - soporte y acompañamiento mensual;
 - automatizaciones puntuales conectadas con problemas operativos reales.
@@ -132,7 +132,7 @@ Según el Excel económico-financiero del proyecto, los precios medios previstos
 | Servicio | Precio medio previsto |
 |---|---:|
 | Horas de análisis operativo posterior / diagnóstico ampliado | 55 €/hora |
-| Horas de diseño y piloto | 57 €/hora |
+| Horas de **arranque guiado** | 57 €/hora |
 | Horas de implementación | 58 €/hora |
 | Soporte y acompañamiento mensual | 250 €/mes |
 | Horas de automatización puntual | 57 €/hora |

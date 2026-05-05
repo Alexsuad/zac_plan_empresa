@@ -70,7 +70,7 @@ Sistreg se diferencia por su **implementación incremental**: no pedimos cambiar
 
 Sistreg plantea un crecimiento basado en la validación comercial:
 - **Fase 1: Consultoría y Diagnóstico:** Identificación de cuellos de botella y diseño del sistema de control.
-- **Fase 2: Implementación de Piloto:** Despliegue de la solución en una ruta o cliente específico (modelo proyecto).
+- **Fase 2: Arranque guiado:** Despliegue de la solución en una ruta o cliente específico (modelo proyecto).
 - **Fase 3: Consolidación:** Posible evolución hacia componentes reutilizables o soluciones estandarizadas si la validación comercial lo justifica, con mantenimiento y soporte recurrente.
 
 ## 2.11. Comercialización y ventas
@@ -84,7 +84,7 @@ La estrategia se basa en el **contacto directo y la confianza**.
 ## 2.12. Objetivos iniciales (Hipótesis de validación)
 
 Los objetivos están alineados con el plan de marketing y ventas (fase 06.1):
-- Explorar la posibilidad de establecer una primera red de clientes piloto o proyectos pagados, conforme a los objetivos del plan comercial.
+- Explorar la posibilidad de establecer una primera red de clientes para **arranques guiados** o proyectos pagados, conforme a los objetivos del plan comercial.
 - Medir si las soluciones permiten reducir tiempos de cierre operativo, sin fijar todavía un porcentaje definitivo hasta contar con datos reales.
 - Validar que el valor aportado por la reducción del ciclo de cobro justifica el coste del servicio.
 

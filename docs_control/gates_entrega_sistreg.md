@@ -27,7 +27,7 @@
 - `respuestas_plan_empresa/01_equipo_promotor.md` completo y validado.
 - `respuestas_plan_empresa/02_idea_negocio.md` completo y validado.
 
-**Estado:** Pendiente (01 en revisión, 02 redactado).
+**Estado:** En proceso avanzado (01 y 02 redactados como borrador avanzado).
 
 ---
 
@@ -71,7 +71,7 @@
 - `respuestas_plan_empresa/06_2_operaciones.md` completo.
 - `respuestas_plan_empresa/06_3_recursos_humanos.md` completo.
 
-**Estado:** Pendiente.
+**Estado:** En proceso (06.0, 06.1 y 06.2 redactados como borrador avanzado; 06.3 pendiente).
 
 ---
 
@@ -85,7 +85,7 @@
 - `respuestas_plan_empresa/06_5_economico_financiero.md` completo.
 - Anexo Plan Financiero (Excel/MD) listo.
 
-**Estado:** Pendiente.
+**Estado:** En proceso (06.5 redactado como borrador avanzado; 06.4 pendiente).
 
 ---
 
@@ -110,7 +110,7 @@
 **Criterio de salida:**
 - `respuestas_plan_empresa/00_resumen_ejecutivo.md` sintetiza fielmente todo el documento.
 
-**Estado:** Pendiente.
+**Estado:** En proceso (Resumen ejecutivo provisional redactado; pendiente versión final tras auditoría de coherencia).
 
 ---
 

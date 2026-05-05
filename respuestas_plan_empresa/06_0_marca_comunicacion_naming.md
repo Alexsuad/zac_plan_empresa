@@ -211,7 +211,7 @@ La estructura narrativa será:
 | Problema externo | Faltan evidencias, validaciones o documentos para cerrar operaciones.              |
 | Problema interno | Frustración, pérdida de tiempo, sensación de desorden y falta de control.          |
 | Guía             | Sistreg aporta método, diagnóstico y sistema.                                      |
-| Plan             | Diagnóstico gratuito → piloto pagado → implementación completa.                    |
+| Plan             | Diagnóstico gratuito → **arranque guiado** → implementación completa.                    |
 | Transformación   | De seguimiento disperso a control visible y accionable.                            |
 | Acción           | Solicitar diagnóstico.                                                             |
 
@@ -347,7 +347,7 @@ Los activos comerciales deberán respetar esta identidad:
 * mensajes de contacto;
 * pieza visual del flujo operación → evidencia → factura → cobro;
 * propuesta de diagnóstico;
-* propuesta de piloto.
+* propuesta de **arranque guiado**.
 
 La marca no debe quedar como una capa estética. Debe facilitar confianza, comprensión y diferenciación en el proceso comercial.
 

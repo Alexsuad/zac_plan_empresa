@@ -18,7 +18,7 @@ No convertir este repositorio en el producto genérico. Las reglas, skills y doc
 - **PDF/Docx**: Procesamiento de archivos locales (preferencia PDF para integridad de datos).
 - **Entorno**: Ejecución en WSL/Ubuntu y acceso a herramientas agénticas (NotebookLM).
 
-## 3. Fuente de verdad
+## 4. Fuente de verdad
 
 Las preguntas guía viven en:
 - `plan_empresa/`
@@ -46,7 +46,7 @@ Las salidas consolidadas viven en:
 
 **Regla:** Nunca escribir respuestas reales dentro de `plan_empresa/`. Cuando se responda una pregunta del plan, se lee la guía en `plan_empresa/` y se escribe la respuesta en `respuestas_plan_empresa/`.
 
-## 4. Tono documental
+## 5. Tono documental
 
 El tono debe ser:
 - claro;
@@ -58,7 +58,7 @@ El tono debe ser:
 - con lenguaje logístico entendible;
 - orientado a un Plan de Empresa defendible ante ZAC, entidad de apoyo, banco o administración.
 
-## 5. Uso híbrido obligatorio
+## 6. Uso híbrido obligatorio
 
 Usar enfoque híbrido:
 - **Terminal, Git o scripts** para tareas deterministas:
@@ -76,7 +76,7 @@ Usar enfoque híbrido:
   - detección de contradicciones;
   - síntesis estratégica.
 
-## 6. Tecnología para anexos
+## 7. Tecnología para anexos
 
 Usar:
 - **Markdown** para texto, matrices y anexos estratégicos.
@@ -87,7 +87,7 @@ Usar:
 - **DOCX/PDF** para entrega final.
 - **HTML** no se usa por ahora.
 
-## 7. Reglas de edición
+## 8. Reglas de edición
 
 Antes de modificar archivos:
 1. Identificar qué archivo se va a tocar.
@@ -102,7 +102,7 @@ Antes de modificar archivos:
    - verificación realizada;
    - próximos pasos.
 
-## 8. Prohibido
+## 9. Prohibido
 
 - Mezclar este repositorio con `plan_empresa_producto`.
 - Crear funcionalidades genéricas innecesarias.
