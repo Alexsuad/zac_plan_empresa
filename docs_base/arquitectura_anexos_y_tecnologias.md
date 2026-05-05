@@ -1,13 +1,13 @@
-# Arquitectura de Anexos y Tecnologías — ZAC
+# Arquitectura de Anexos y Tecnologías — Sistreg
 
 > [!IMPORTANT]
 > Este documento define la arquitectura conceptual de anexos y tecnologías. La estructura operativa vigente de anexos se encuentra alineada con la carpeta `/anexos/` y con el mapa maestro `docs_base/02_mapa_transversal_anexos_investigaciones_validaciones.md`.
 
-Este documento define los formatos y la estructura de los anexos para el Plan de Empresa ZAC.
+Este documento define los formatos y la estructura de los anexos para el Plan de Empresa de Sistreg.
 
 ## Tecnologías por tipo de contenido
 
-- **Markdown (.md)**: Para documentos de texto estratégico y matrices narrativas.
+- **Markdown (.md)**: Para texto estructurado, matrices estratégicas (DAFO, PESTEL) y narrativa técnica.
   - DAFO, CAME, PESTEL, Canvas, Propuesta de Valor, Cliente Ideal, Matriz de Riesgos, Fuentes Consultadas, Glosario.
 - **CSV (.csv)**: Para datos tabulares, comparativas de mercado y listados extensos.
   - Benchmark de competencia, Tabla Producto/Precio, Curva de Valor.

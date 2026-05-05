@@ -1,8 +1,8 @@
-# Plan de implementación — Entrega ZAC
+# Plan de implementación — Entrega Sistreg
 
 ## Objetivo
 
-Completar y preparar el Plan de Empresa del proyecto logístico/ZAC siguiendo un enfoque incremental y validado. El proceso construye primero la base del negocio y finaliza con la síntesis del resumen ejecutivo para garantizar la coherencia total del documento.
+Completar y preparar el Plan de Empresa de Sistreg siguiendo un enfoque incremental y validado. El proceso construye primero la base del negocio y finaliza con la síntesis del resumen ejecutivo para garantizar la coherencia total del documento.
 
 ## Fase 0 — Preparación del sistema mínimo
 **Estado:** Completada.

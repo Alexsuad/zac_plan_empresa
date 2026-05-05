@@ -1,6 +1,6 @@
 ---
 name: skill-tono-plan-empresa
-description: Mantiene el tono profesional, claro y realista del Plan de Empresa ZAC.
+description: Mantiene el tono profesional, claro y realista del Plan de Empresa de Sistreg.
 ---
 
 # Propósito

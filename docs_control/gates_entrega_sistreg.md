@@ -1,4 +1,4 @@
-# Gates de entrega — Plan Empresa ZAC
+# Gates de entrega — Plan de Empresa Sistreg
 
 ## Gate 0 — Estructura y reglas listas
 
@@ -134,6 +134,6 @@
 - Auditoría aprobada.
 
 **Criterio de salida:**
-- Documento consolidado generado en `_build/plan_empresa_zac_completo.md`.
+- Documento consolidado generado en `_build/plan_empresa_sistreg_completo.md`.
 
 **Estado:** Pendiente.

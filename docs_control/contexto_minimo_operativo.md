@@ -11,7 +11,7 @@ Las preguntas guía se leen de `plan_empresa/` y las respuestas reales se redact
 
 Leer:
 - `AGENTS.md`
-- `docs_control/gates_entrega_zac.md`
+- `docs_control/gates_entrega_sistreg.md`
 - `.agent/skills/skill-resumen-ejecutivo/SKILL.md`
 - `.agent/skills/skill-tono-plan-empresa/SKILL.md`
 - `plan_empresa/00_resumen_ejecutivo.md`, si existe como guía
@@ -31,7 +31,7 @@ No leer:
 
 Leer:
 - `AGENTS.md`
-- `docs_control/gates_entrega_zac.md`
+- `docs_control/gates_entrega_sistreg.md`
 - `.agent/skills/skill-plan-financiero/SKILL.md`
 - `.agent/skills/skill-validacion-fuentes/SKILL.md`
 - `plan_empresa/06_5_economico_financiero.md` (guía)
@@ -62,6 +62,7 @@ Modificar:
 
 No leer:
 - otros apartados completos salvo que se indiquen explícitamente.
+- `docs_convierte/`, salvo si se requiere consultar una fuente específica.
 
 ### 4. Crear o completar un anexo
 
@@ -81,7 +82,7 @@ No leer:
 
 Leer:
 - `AGENTS.md`
-- `docs_control/gates_entrega_zac.md`
+- `docs_control/gates_entrega_sistreg.md`
 - `docs_control/registro_decisiones.md`
 - `.agent/skills/skill-auditoria-final/SKILL.md`
 

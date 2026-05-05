@@ -5,7 +5,7 @@ description: Guía para documentar el plan económico-financiero y sus supuestos
 
 # Propósito
 
-Documentar de forma prudente y trazable los supuestos económicos y financieros del proyecto ZAC.
+Documentar de forma prudente y trazable los supuestos económicos y financieros de Sistreg / Proyecto Logístico.
 
 # Cuándo usarla
 

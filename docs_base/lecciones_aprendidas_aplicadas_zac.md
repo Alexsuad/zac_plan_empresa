@@ -1,11 +1,10 @@
-# Lecciones Aprendidas Aplicadas a ZAC
+# Lecciones Aprendidas Aplicadas a Sistreg
 
-Este documento resume las mejores prácticas extraídas de experiencias previas y adaptadas específicamente para la ejecución del Plan de Empresa ZAC.
+Este documento resume las mejores prácticas extraídas de experiencias previas y adaptadas específicamente para la ejecución del Plan de Empresa de Sistreg.
 
 ## Principios de Diseño Agéntico y Documental
 
-1. **Separación de Componentes**:
-   - Mantener una distinción clara entre Agente (Antigravity), Skills (habilidades específicas), Reglas (instrucciones obligatorias) y Gates (puntos de control).
+1. **Simplicidad ante todo (Lean)**:
    - No intentar resolver problemas complejos únicamente creando nuevos agentes; priorizar skills acotadas.
 
 2. **Skills Atómicas**:
@@ -14,16 +13,14 @@ Este documento resume las mejores prácticas extraídas de experiencias previas 
 3. **Flujo Estratégico**:
    - Separar las fases de: **Investigación** → **Digestión Estratégica** → **Redacción** → **Auditoría**. No mezclar redacción con investigación en el mismo paso.
 
-4. **Desarrollo Híbrido**:
-   - Usar la terminal y scripts para tareas que requieran exactitud (conteo de palabras, validación de enlaces, consolidación).
-   - Usar la IA para tareas que requieran juicio, tono y síntesis estratégica.
+4. **Trazabilidad Continua**:
+   - Registrar cada decisión estratégica en el `docs_control/registro_decisiones.md`.
+   - Utilizar el `02_mapa_transversal` como fuente de verdad sobre el estado de la información.
 
-5. **Evidencia y Trazabilidad**:
-   - No avanzar de fase o gate sin presentar evidencia clara (listado de archivos, resultados de scripts, validación de coherencia).
-   - Registrar decisiones relevantes en el `registro_decisiones.md` para evitar "teléfonos rotos" o cambios de rumbo injustificados.
+5. **Tono y Estilo**:
+   - Mantener un lenguaje sobrio, profesional y basado en evidencias. Evitar el estilo "consultora entusiasta" o "biografía personal".
 
-6. **Gestión del Contexto**:
-   - No saturar el contexto del asistente. Trabajar con la información mínima necesaria para la tarea actual.
+6. **Control de Contexto**:
    - Evitar convertir archivos como `AGENTS.md` en megaprompts inmanejables.
 
 7. **Higiene Documental**:

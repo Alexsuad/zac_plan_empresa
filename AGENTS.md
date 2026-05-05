@@ -2,17 +2,21 @@
 
 ## 1. Propósito del repositorio
 
-Este repositorio contiene la documentación específica para construir el Plan de Empresa del proyecto logístico/ZAC.
+Este repositorio contiene la documentación específica para construir el Plan de Empresa de Sistreg / Proyecto Logístico.
 
 No es el repositorio del sistema agéntico reutilizable para crear planes de empresa. Ese sistema vive en `plan_empresa_producto`.
 
 ## 2. Separación obligatoria entre repositorios
 
 - `plan_empresa_producto`: sistema reusable, plantillas, lógica agéntica general y metodología para múltiples proyectos.
-- `zac_plan_empresa`: caso real, documentación específica y entrega del Plan de Empresa del proyecto logístico/ZAC.
+- `zac_plan_empresa`: caso real, documentación específica y entrega del Plan de Empresa de Sistreg.
 
-**Regla:**
 No convertir este repositorio en el producto genérico. Las reglas, skills y documentos de control creados aquí solo sirven para completar este plan específico.
+
+## 3. Capacidades de lectura técnica
+- **Google Drive**: Puedo leer archivos de Google Docs y **Google Sheets** directamente. Para ello, el usuario debe proporcionar el **ID del documento**.
+- **PDF/Docx**: Procesamiento de archivos locales (preferencia PDF para integridad de datos).
+- **Entorno**: Ejecución en WSL/Ubuntu y acceso a herramientas agénticas (NotebookLM).
 
 ## 3. Fuente de verdad
 
@@ -30,6 +34,12 @@ Los documentos metodológicos viven en:
 
 La planificación, gates y decisiones viven en:
 - `docs_control/`
+
+Las fuentes de verdad externas y soporte viven en:
+- `docs_convierte/`
+
+Las habilidades específicas viven en:
+- `.agent/skills/`
 
 Las salidas consolidadas viven en:
 - `_build/`

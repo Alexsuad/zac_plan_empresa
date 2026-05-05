@@ -103,135 +103,71 @@ Entre los recursos disponibles se encuentran:
 - conocimientos en inteligencia artificial y automatización;
 - capacidad de documentación, análisis y diseño de soluciones.
 
-El recurso que actualmente falta desarrollar con más fuerza es la red comercial. El proyecto necesita construir contactos, abrir conversaciones con potenciales clientes, generar confianza y validar qué servicios tienen mayor aceptación en el mercado.
-
 Por eso, una parte fundamental de la fase inicial será la prospección comercial, especialmente mediante contacto directo, visitas, reuniones, LinkedIn y construcción progresiva de una red profesional enfocada en logística.
 
 ## 1.8. Colaboradores y estructura del equipo
 
-El proyecto no se plantea actualmente como una sociedad entre varias personas. Yo seré el emprendedor y promotor principal. Esta decisión permite mantener una dirección clara, una toma de decisiones ágil y una estructura sencilla durante la fase inicial.
+El proyecto no se plantea actualmente como una sociedad entre varias personas. Yo seré el emprendedor y promotor principal, asumiendo la dirección estratégica y técnica. Sin embargo, el proyecto cuenta desde su inicio con una colaboración clave que aporta una visión experta y operativa del sector logístico en España.
 
-Las demás personas que participen en el proyecto lo harán como **colaboradores externos, contratistas o terceros especializados**, según las necesidades de cada fase. Esta estructura permite incorporar capacidades concretas sin generar costes fijos innecesarios ni una estructura demasiado pesada antes de validar el mercado.
+Las demás personas que participen en el proyecto lo harán como **colaboradores externos, contratistas o terceros especializados**. Esta estructura permite incorporar capacidades de alto nivel sin generar costes fijos excesivos en la fase de validación.
 
-Dentro de este esquema se prevé la colaboración de **Claudia Bautista**, quien actualmente trabaja en una empresa de logística de transporte en Zaragoza y cuenta con formación en **Comercio Exterior**. Su participación se plantea como colaboradora externa especializada, con una dedicación estimada de **20 horas semanales**.
+Dentro de este esquema, la colaboración principal es la de **Claudia Bautista**, cuya trayectoria es fundamental para asegurar que las soluciones de Sistreg respondan a las necesidades reales de los clientes y a los estándares de calidad del sector.
 
-Las funciones previstas de Claudia estarán relacionadas con:
+### Perfil de Claudia Bautista: Especialista en Clientes y Calidad Logística
+Claudia aporta **más de 20 años de experiencia** en compañías de comercio exterior y logística internacional. Su perfil combina una sólida base académica con una experiencia "en la trinchera" de la gestión de clientes y operaciones.
 
-- apoyo en visitas a clientes;
-- revisión de procesos logísticos;
-- apoyo en auditorías operativas;
-- contraste de necesidades reales del sector;
-- validación práctica de propuestas;
-- apoyo en el análisis de flujos de trabajo.
-
-Su experiencia actual en una empresa de transporte puede aportar una visión cercana a la realidad logística de Zaragoza, especialmente en aspectos operativos, coordinación, documentación, incidencias y relación con clientes o proveedores.
-
-Es importante aclarar que Claudia no será socia del proyecto. Su participación se plantea como apoyo externo, vinculado a necesidades concretas de validación comercial, análisis logístico o ejecución operativa.
+- **Formación:** Profesional en Comercio Internacional, con título homologado en España como **Técnico Superior (FP) en Comercio Exterior**. Cuenta con formación especializada en tecnologías habilitadoras digitales, atención al cliente tecnológica y estrategias de servicio.
+- **Experiencia Actual:** Actualmente desempeña funciones de **Customer Care en Marcotrans** (Zaragoza), donde gestiona la planificación de cargas de importación y exportación, el seguimiento de procesos y la resolución de incidencias en tiempo real.
+- **Trayectoria Previa:** Ha ocupado cargos de **Coordinadora de Operaciones y Customer Manager** en empresas como Glodex y Aduanas Roldán, liderando equipos operativos, elaborando procedimientos logísticos y gestionando indicadores de gestión (KPIs) para la retención y satisfacción de grandes cuentas.
+- **Valor para Sistreg:** Su rol en el proyecto se centra en el **Customer Care y Aseguramiento de la Calidad**. Claudia es la voz del cliente dentro de Sistreg; su conocimiento actual del mercado logístico en Zaragoza permite validar que las automatizaciones y sistemas de control que desarrollamos sean realmente útiles, fáciles de usar y resuelvan los puntos de dolor diarios de las empresas de transporte y aduanas.
 
 ## 1.9. Reparto inicial de funciones
 
-Durante la fase inicial, asumiré la responsabilidad principal de dirección, desarrollo comercial, diseño del servicio, análisis de procesos, desarrollo técnico inicial y coordinación general.
+La organización de Sistreg se basa en un binomio de **Operaciones/Tecnología** y **Clientes/Calidad**:
 
-Mis funciones principales serán:
+| Responsable | Áreas de Función Principal | Aportación Estratégica |
+| :--- | :--- | :--- |
+| **Alexander Suárez** | Dirección, Desarrollo WEB/IA, Mejora de Procesos (Lean), Análisis de Datos y Estrategia Comercial. | Visión técnica y operativa: "Cómo automatizar y optimizar el proceso". |
+| **Claudia Bautista** (Colab. Externa) | Customer Care, Validación Operativa, Auditoría de Calidad, Gestión de Incidencias y Atención al Cliente. | Visión del cliente: "Qué necesita realmente el sector y cómo asegurar el servicio". |
 
-- definir la estrategia del proyecto;
-- estructurar la propuesta de valor;
-- buscar clientes y generar reuniones;
-- realizar visitas comerciales;
-- analizar procesos logísticos;
-- identificar problemas operativos;
-- diseñar soluciones funcionales;
-- desarrollar prototipos o herramientas iniciales;
-- coordinar colaboradores externos;
-- hacer seguimiento de resultados;
-- documentar aprendizajes y mejoras.
-
-Claudia podrá apoyar en tareas relacionadas con visitas a clientes, revisión de procesos, auditorías operativas y contraste logístico. Otros colaboradores externos podrán incorporarse en el futuro para tareas técnicas, legales, fiscales, comerciales o de implantación, según la evolución real del proyecto.
-
-Esta forma de organización permite iniciar con una estructura ligera y flexible, manteniendo el control del proyecto y evitando asumir costes fijos antes de validar suficientemente el mercado.
+Esta estructura permite que yo me concentre en construir las herramientas y la arquitectura de los servicios, mientras Claudia asegura que dichas herramientas se ajusten a la realidad operativa del día a día en Zaragoza.
 
 ## 1.10. Debilidades y necesidades de apoyo
 
-El proyecto cuenta con una base sólida en logística, análisis de procesos, control operativo y desarrollo técnico inicial. Sin embargo, también existen debilidades y necesidades de apoyo que deben reconocerse desde el principio.
+El proyecto cuenta con una base sólida en logística (más de 40 años de experiencia combinada), análisis de procesos y desarrollo técnico. Las debilidades identificadas son:
 
-La principal necesidad está en el área **comercial**. Aunque cuento con experiencia en negociación, relación con proveedores y coordinación operativa, el proyecto necesita desarrollar una estrategia comercial específica para captar clientes, generar contactos, construir confianza en el mercado local y convertir conversaciones en oportunidades reales.
-
-Las principales necesidades actuales son:
-
-- construir una red de contactos en el sector logístico local;
-- desarrollar mensajes comerciales claros;
-- generar reuniones con potenciales clientes;
-- validar la propuesta de valor;
-- conseguir primeros clientes o proyectos piloto;
-- fortalecer la presencia profesional en LinkedIn;
-- diseñar materiales comerciales sencillos y defendibles;
-- aprender a vender el servicio de forma clara, sin sobreprometer.
-
-También será necesario contar con apoyo legal y fiscal puntual para definir correctamente contratos, condiciones de colaboración, protección de datos, facturación, responsabilidades y prestación de servicios.
-
-En principio, las capacidades logísticas y técnicas forman parte del núcleo fuerte del proyecto. El principal riesgo está en conseguir tracción comercial suficiente durante los primeros meses.
+- **Red Comercial en España:** Aunque Claudia aporta red en el sector transporte local, el proyecto necesita consolidar una marca propia (Sistreg) y abrir puertas en empresas donde aún no tenemos presencia.
+- **Apoyo Legal y Fiscal:** Necesidad de asesoría para la redacción de contratos de servicio (SLA) y protección de datos, dado que manejaremos información operativa sensible de los clientes.
 
 ## 1.11. Sostenibilidad personal y red de apoyo
 
-Cuento con apoyo familiar, lo cual representa un respaldo importante durante la fase inicial. Sin embargo, la sostenibilidad económica debe gestionarse con prudencia.
+Cuento con un entorno familiar que apoya totalmente la iniciativa. Mi disponibilidad es de **40 horas semanales**, mientras que la colaboración de Claudia se estima en **20 horas semanales** de apoyo en consultoría, visitas y validación.
 
-Estimo que puedo sostener el proyecto sin ingresos relevantes durante un periodo aproximado de hasta **seis meses**. Este plazo obliga a que la estrategia inicial sea realista, enfocada y orientada a generar validación comercial lo antes posible.
-
-La disponibilidad de tiempo es alta, pero el proyecto no debe centrarse únicamente en el desarrollo técnico o documental. Durante los primeros meses será necesario equilibrar tres líneas de trabajo:
-
-- definición clara de la oferta;
-- búsqueda activa de clientes;
-- validación de servicios mediante casos concretos.
-
-La red de apoyo familiar reduce parte de la presión personal, pero no elimina la necesidad de generar resultados. Por ello, el plan debe contemplar acciones comerciales tempranas, medibles y orientadas a conseguir conversaciones reales con empresas del sector.
+Económicamente, el proyecto tiene un margen de **6 meses** para alcanzar hitos de validación comercial que permitan su sostenibilidad a largo plazo. La combinación de mi dedicación total con la experiencia activa de Claudia en una empresa líder del sector reduce drásticamente el riesgo de desarrollar soluciones que el mercado no necesite.
 
 ## 1.12. Misión, visión y valores iniciales
 
-La misión inicial del proyecto es **ayudar a pequeñas y medianas empresas logísticas a ganar claridad, control y trazabilidad sobre sus procesos operativos**, mediante soluciones prácticas de análisis, sistematización, automatización y mejora continua.
-
-El proyecto busca facilitar el trabajo de empresas que hoy pierden tiempo en tareas repetitivas, controles manuales, información dispersa, incidencias no medidas o procesos que dependen demasiado de personas concretas.
-
-La propuesta no se basa en vender tecnología compleja, sino en aplicar la solución adecuada al problema real. Esa solución puede ser una mejora de proceso, una automatización, una base de datos, un sistema de control, un reporte, una herramienta web sencilla o una combinación de varias opciones.
-
-A tres años, la visión es consolidar un servicio especializado en mejora y sistematización de procesos logísticos, reconocido por su enfoque práctico, claro y útil para empresas que necesitan mejorar sus operaciones sin asumir grandes estructuras tecnológicas. El objetivo es construir una actividad sostenible, con una cartera de clientes recurrentes, casos de éxito documentados y una red flexible de colaboradores especializados.
-
-Los valores iniciales del proyecto son:
-
-- **Claridad:** ayudar al cliente a entender qué ocurre en sus procesos y dónde se generan los bloqueos.
-- **Utilidad:** proponer soluciones que tengan sentido práctico y aporten valor real.
-- **Trazabilidad:** facilitar el seguimiento de operaciones, incidencias, tareas, documentos e indicadores.
-- **Mejora continua:** aplicar una lógica de revisión, aprendizaje y optimización progresiva.
-- **Honestidad:** no vender soluciones innecesarias ni prometer resultados sin base.
-- **Cercanía:** trabajar desde la realidad del cliente, especialmente pequeñas y medianas empresas.
-- **Criterio técnico:** combinar experiencia logística y herramientas digitales de forma responsable.
-- **Orden:** estructurar procesos para reducir improvisación, duplicidades y pérdida de información.
+- **Misión:** Profesionalizar la gestión operativa de las PYMES logísticas mediante la integración de inteligencia artificial y metodologías Lean, eliminando el caos documental y las tareas repetitivas.
+- **Visión:** Ser el referente en Zaragoza para la digitalización "con criterio" de operaciones logísticas, donde la tecnología no es un fin, sino el medio para lograr el control total de la carga.
+- **Valores:** 
+  - **Honestidad operativa:** No automatizamos lo que no funciona; primero ordenamos el proceso.
+  - **Cercanía:** Hablamos el mismo lenguaje que el transportista y el agente de aduanas.
+  - **Trazabilidad:** Si no se puede medir, no existe.
 
 ## 1.13. Personalidad inicial del proyecto
 
-La personalidad del proyecto debe percibirse como **experta, clara, práctica y cercana**. No debe presentarse como una empresa tecnológica fría ni como una consultora compleja, sino como un aliado que entiende la operación logística y sabe traducir problemas reales en soluciones aplicables.
-
-La marca debe transmitir conocimiento logístico, claridad, confianza, orden, control operativo, trazabilidad, criterio, capacidad de facilitar procesos y orientación a resultados.
-
-El tono debe ser profesional, sencillo y directo. Debe evitar el exceso de lenguaje técnico innecesario, pero sin perder la seriedad propia del sector logístico. El objetivo es que el cliente perciba que el proyecto entiende su operación, sus tiempos, sus incidencias y sus limitaciones.
-
-La personalidad puede definirse como la de un proyecto con enfoque de **sabio práctico y facilitador**: analiza con criterio, explica con claridad y propone soluciones útiles sin complicar más la operación del cliente.
+Sistreg se define como el **"Arquitecto Logístico Digital"**. Nuestra personalidad es:
+- **Experta:** Conocemos el sector desde dentro (Schlumberger, Marcotrans).
+- **Práctica:** No vendemos humo tecnológico, vendemos tiempo y control.
+- **Fiable:** La precisión en el dato y el cumplimiento aduanero son innegociables.
 
 ## 1.14. Adecuación del equipo al proyecto
 
-El equipo promotor es adecuado para la fase inicial porque combina conocimiento logístico, capacidad técnica y orientación empresarial.
+El equipo es excepcionalmente adecuado porque **no somos solo tecnólogos, somos logísticos**. 
 
-El proyecto requiere entender cómo trabajan las empresas logísticas, identificar problemas que realmente generan pérdida de tiempo o falta de control y diseñar soluciones que puedan implantarse sin interrumpir la operación diaria. Para ello no basta con saber programar ni con conocer términos logísticos de forma teórica; es necesario conectar ambos mundos.
-
-Mi experiencia aporta la capacidad de liderar el proyecto, hablar con clientes, analizar procesos, traducir necesidades en soluciones y construir las primeras versiones de sistemas o herramientas. La colaboración externa de Claudia aporta una visión complementaria desde la práctica del transporte y la operación logística, ayudando a contrastar si las propuestas tienen sentido en entornos reales.
-
-La estructura sin socios permite mantener claridad en la toma de decisiones. Al mismo tiempo, el uso de colaboradores externos facilita reforzar el proyecto cuando sea necesario, sin comprometer la viabilidad económica de la fase inicial.
+La gran mayoría de soluciones de software fallan porque quienes las programan no entienden lo que es un bloqueo en aduanas o un error en un CMR. En Sistreg, Alexander aporta la capacidad de construir la herramienta y Claudia aporta la experiencia diaria de sufrir (y resolver) esos problemas. Esta dualidad garantiza que el producto final sea robusto, necesario y altamente competitivo.
 
 ## 1.15. Conclusión del apartado
 
-El equipo promotor presenta una estructura coherente con la fase actual del proyecto. Como emprendedor principal, concentro la responsabilidad estratégica, técnica y comercial, lo que permite mantener una dirección clara y una ejecución flexible.
-
-Mi experiencia en comercio exterior, logística internacional, gestión de proveedores, KPIs, mejora continua, Lean, compliance y sistemas de control aporta una base sólida para entender las necesidades reales del mercado objetivo. Esta trayectoria permite que el proyecto no parta desde una idea abstracta, sino desde problemas conocidos en la operación logística.
-
-La formación actual en desarrollo web, bases de datos, inteligencia artificial y automatización refuerza la capacidad de convertir esos problemas en soluciones prácticas. La colaboración externa de Claudia Bautista complementa el proyecto con una mirada operativa vinculada al transporte y al contexto logístico de Zaragoza.
-
+Sistreg nace con un equipo promotor de alta cualificación. La dirección de Alexander Suárez, con su capacidad de hibridar logística tradicional con IA y desarrollo web, sumada a la colaboración experta de Claudia Bautista en el área de clientes y operativa real en Zaragoza, posiciona al proyecto en una situación de ventaja competitiva para abordar la transformación digital del sector logístico local.
 Esta organización resulta adecuada para iniciar el proyecto con prudencia, controlar costes fijos, validar el mercado y construir una propuesta útil para pequeñas y medianas empresas logísticas. El crecimiento del equipo se realizará de forma progresiva, en función de la demanda real, la carga de trabajo y las capacidades especializadas que requiera cada fase.

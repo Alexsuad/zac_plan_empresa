@@ -1,6 +1,6 @@
 ---
 name: skill-gestion-anexos
-description: Decide y estructura anexos del Plan de Empresa ZAC.
+description: Decide y estructura anexos del Plan de Empresa de Sistreg.
 ---
 
 # Propósito

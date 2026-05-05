@@ -1,6 +1,6 @@
 ---
 name: skill-resumen-ejecutivo
-description: Crea y audita el resumen ejecutivo del Plan de Empresa ZAC.
+description: Crea y audita el resumen ejecutivo del Plan de Empresa de Sistreg.
 ---
 
 # Propósito

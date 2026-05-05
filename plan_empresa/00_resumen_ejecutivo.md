@@ -11,5 +11,5 @@ Este apartado debe sintetizar los puntos clave del proyecto.
 
 ## Función de este archivo:
 - Ayudar a saber qué debe responder el resumen.
-- No debe contener respuestas reales del proyecto ZAC.
+- No debe contener respuestas reales del Proyecto Logístico.
 - Las respuestas se redactan en `respuestas_plan_empresa/00_resumen_ejecutivo.md`.
