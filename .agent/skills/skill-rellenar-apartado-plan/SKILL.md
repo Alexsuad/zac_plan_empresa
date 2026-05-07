@@ -23,6 +23,30 @@ Usar cuando se trabaje un apartado concreto del Plan de Empresa.
 Apartado completado con:
 - Texto final redactado para el Plan de Empresa.
 
+## Clasificación previa de preguntas
+
+Antes de redactar un apartado, las preguntas guía deben clasificarse para evitar inventar información, duplicar trabajo o pedir al usuario datos que ya existen en las fuentes internas.
+
+Usar esta matriz de clasificación:
+
+| Código | Significado | Uso |
+|---|---|---|
+| `[F]` | Fuente interna del proyecto | La respuesta ya existe en documentos internos: `docs_base/`, `respuestas_plan_empresa/`, `anexos/`, `docs_control/`, investigaciones previas o documentos financieros. No preguntar al usuario antes de revisar estas fuentes. |
+| `[U]` | Usuario | La respuesta depende de una decisión personal, estratégica u operativa del promotor. Debe preguntarse al usuario. |
+| `[I-SIMPLE]` | Consulta simple en internet | Dato puntual verificable con una fuente pública u oficial: ayudas, trámites, referencias normativas básicas, entidades o servicios institucionales. |
+| `[I-DEEP]` | Investigación profunda | Tema que requiere varias fuentes, comparación y análisis: mercado, competencia, tendencias, normativa compleja, precios de referencia, barreras sectoriales o benchmarking. |
+| `[M]` | Mixto | Requiere combinar fuentes internas, decisión del usuario, investigación externa o datos financieros. No debe responderse con una sola fuente. |
+| `[NO-RESPONDER-AÚN]` | Validación futura | No debe inventarse ni cerrarse todavía. Depende de clientes reales, entrevistas, ventas, métricas, disposición de pago, ciclo comercial o resultados futuros. |
+
+Reglas asociadas:
+- Primero revisar fuentes internas.
+- Después clasificar cada pregunta.
+- Solo preguntar al usuario lo que sea `[U]` o la parte de usuario de `[M]`.
+- Solo buscar en internet lo que sea `[I-SIMPLE]` o `[I-DEEP]`.
+- No redactar como hecho lo que sea hipótesis.
+- No responder todavía lo marcado como `[NO-RESPONDER-AÚN]`.
+- Antes de redactar un apartado complejo, construir una matriz con: pregunta guía, estado, clasificación, fuente probable y acción necesaria.
+
 # Reglas
 
 - Las respuestas reales se redactan siempre en `respuestas_plan_empresa/`.
