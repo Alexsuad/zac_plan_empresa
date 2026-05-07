@@ -67,6 +67,8 @@ La propuesta aporta valor en cinco niveles:
 
 La diferenciación no será prometer automatización rápida ni IA como solución mágica. La diferenciación estará en entender el flujo real del cliente y diseñar un sistema proporcionado al problema.
 
+Parte del valor comercial de Sistreg estará en ayudar al cliente a traducir el desorden operativo en impacto económico aproximado: horas perdidas, retrasos de facturación, errores, reprocesos o pérdida de margen. Esta cuantificación será prudente y se usará para decidir si el problema justifica una solución.
+
 El proyecto deberá explicar siempre primero el problema de negocio y después la solución. La tecnología se presentará como medio, no como fin.
 
 ---

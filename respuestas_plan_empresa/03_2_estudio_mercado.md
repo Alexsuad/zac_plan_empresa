@@ -215,6 +215,8 @@ Los principales criterios de compra esperados son:
 | Control               | Saber qué documentos faltan, qué incidencias bloquean y qué operaciones están listas. |
 | Soporte               | Tener acompañamiento durante la implantación y mejora posterior.                      |
 
+El cliente objetivo no comprará únicamente una herramienta, sino una solución que le ayude a entender y reducir el coste de un bloqueo operativo concreto.
+
 Estos criterios deberán validarse en las primeras visitas y diagnósticos. De momento son hipótesis razonables basadas en el análisis del proyecto y del sector.
 
 ---

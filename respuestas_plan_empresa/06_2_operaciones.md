@@ -108,7 +108,10 @@ El diagnóstico podrá incluir:
 * revisión de cómo se controlan incidencias;
 * identificación de tareas manuales repetitivas;
 * análisis preliminar de cómo se conecta operación, evidencia, factura y cobro;
+* identificación del impacto del bloqueo: tiempo administrativo consumido, errores repetidos, retrasos de facturación, incidencias no resueltas, pérdida de trazabilidad o impacto potencial en margen;
 * valoración inicial de si el problema tiene suficiente impacto para intervenir.
+
+El diagnóstico inicial no se limitará a describir el proceso. También buscará estimar, de forma preliminar y prudente, el coste del bloqueo detectado. Esta estimación no será una promesa de ahorro, sino una base para decidir si tiene sentido proponer un arranque guiado o una implementación.
 
 El diagnóstico no debe convertirse en consultoría gratuita extensa. Por eso, el entregable será un **resumen breve de diagnóstico**, de una a dos páginas máximo.
 
@@ -118,7 +121,7 @@ Este resumen podrá incluir:
 | ------------------------ | --------------------------------------------------------------- |
 | Flujo revisado           | Descripción breve del proceso analizado.                        |
 | Bloqueos detectados      | Principales puntos de fricción observados.                      |
-| Impacto probable         | Relación con tiempo, errores, facturación, cobro o seguimiento. |
+| Impacto probable         | Relación con tiempo, errores, facturación, cobro o seguimiento; estimación preliminar del coste del bloqueo. |
 | Recomendación            | Si tiene sentido pasar a un arranque guiado.                    |
 | Alcance inicial sugerido | Primer flujo o problema que podría trabajarse.                  |
 
