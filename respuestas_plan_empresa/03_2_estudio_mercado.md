@@ -10,7 +10,7 @@ La propuesta no se dirige al mercado como una plataforma SaaS estándar, ni como
 
 **operación → evidencia → factura → cobro**
 
-El primer producto de mercado será el **control de cobro por evidencia**, orientado a empresas que realizan operaciones logísticas, pero encuentran fricciones para cerrar, validar, facturar o cobrar por falta de documentos, evidencias o trazabilidad suficiente.
+El primer caso de entrada comercial será el **control de cobro por evidencia**, orientado a empresas que realizan operaciones logísticas, pero encuentran fricciones para cerrar, validar, facturar o cobrar por falta de documentos, evidencias o trazabilidad suficiente.
 
 ---
 
@@ -43,13 +43,15 @@ El ámbito inicial de actuación será **Zaragoza y Aragón**. Esta decisión re
 2. Conocimiento del entorno logístico local.
 3. Alta concentración de actividad logística en la región.
 
-Zaragoza y Aragón ofrecen un contexto favorable para iniciar la validación comercial del proyecto. El Atlas de Aragón identifica cuatro plataformas logísticas principales —Zaragoza, Huesca, Teruel y Fraga— que suman cerca de 1.800 hectáreas, y describe PLAZA como el equipamiento logístico más grande de Europa por superficie. ([icearagon.aragon.es](https://icearagon.aragon.es/atlas/Aragon/info/infraestructuras/infraestructuras-industriales-y-logisticas-/plataformas-logisticas?utm_source=chatgpt.com))
+Zaragoza y Aragón ofrecen un contexto favorable para iniciar la validación comercial del proyecto. El Atlas de Aragón identifica cuatro plataformas logísticas principales —Zaragoza, Huesca, Teruel y Fraga— que suman cerca de 1.800 hectáreas, y describe PLAZA como el equipamiento logístico más grande de Europa por superficie. ([icearagon.aragon.es](https://icearagon.aragon.es/atlas/Aragon/info/infraestructuras/infraestructuras-industriales-y-logisticas-/plataformas-logisticas))
 
-Además, Aragón Plataforma Logística presenta PLAZA como una plataforma intermodal con conexión por carretera, ferrocarril y avión, más de 13 millones de metros cuadrados de superficie y más de 350 empresas instaladas. ([aragonplataformalogistica.es](https://www.aragonplataformalogistica.es/directory/plataforma-logistica-de-zaragoza/?lang=en&utm_source=chatgpt.com))
+Además, Aragón Plataforma Logística presenta PLAZA como una plataforma intermodal con conexión por carretera, ferrocarril y avión, más de 13 millones de metros cuadrados de superficie y más de 350 empresas instaladas. ([aragonplataformalogistica.es](https://www.aragonplataformalogistica.es/directory/plataforma-logistica-de-zaragoza/?lang=en))
 
 La expansión posterior podrá dirigirse a otros puntos de España y, más adelante, a Europa. No obstante, esa ampliación solo tendrá sentido después de validar el modelo en el mercado inicial.
 
 ---
+
+## 3.2.4. Cliente potencial
 
 El cliente potencial del proyecto es una empresa privada que gestiona operaciones logísticas y tiene dificultades para conectar correctamente la operación realizada con la evidencia necesaria para facturar, cobrar o reclamar.
 
@@ -95,7 +97,7 @@ Desde el punto de vista comercial, el problema no debe presentarse como “falta
 
 El mercado logístico de Aragón ofrece una base suficiente para validar una propuesta especializada. La región cuenta con plataformas logísticas relevantes, actividad empresarial concentrada y entidades sectoriales que refuerzan el posicionamiento logístico del territorio.
 
-ALIA se presenta como el Clúster Logístico de Aragón, con más de 170 socios, y orienta su actividad a canalizar necesidades del sector logístico, generar colaboración, formación, innovación y mejorar la competitividad de las empresas asociadas. ([aliaragon.es](https://aliaragon.es/?utm_source=chatgpt.com))
+ALIA se presenta como el Clúster Logístico de Aragón, con más de 170 socios, y orienta su actividad a canalizar necesidades del sector logístico, generar colaboración, formación, innovación y mejorar la competitividad de las empresas asociadas. ([aliaragon.es](https://aliaragon.es/))
 
 Este entorno no garantiza por sí solo la demanda de Sistreg, pero sí muestra que existe un ecosistema empresarial suficientemente denso para iniciar una validación comercial.
 
@@ -117,7 +119,7 @@ Por tanto, el mercado se entiende en tres niveles:
 
 El mercado logístico está avanzando hacia una mayor digitalización documental, integración de datos, trazabilidad y control operativo. Este cambio no afecta solo a grandes operadores, también presiona gradualmente a pymes que trabajan como proveedores, transportistas o colaboradores dentro de cadenas logísticas más exigentes.
 
-Una de las tendencias relevantes es el avance de la documentación electrónica. La Comisión Europea indica que el Reglamento eFTI aplicará plenamente el **9 de julio de 2027** y que, desde esa fecha, las autoridades de los Estados miembros deberán aceptar información electrónica compartida por operadores mediante plataformas eFTI certificadas. ([transport.ec.europa.eu](https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport/efti-regulation_en?utm_source=chatgpt.com))
+Una de las tendencias relevantes es el avance de la documentación electrónica. La Comisión Europea indica que el Reglamento eFTI aplicará plenamente el **9 de julio de 2027** y que, desde esa fecha, las autoridades de los Estados miembros deberán aceptar información electrónica compartida por operadores mediante plataformas eFTI certificadas. ([transport.ec.europa.eu](https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport/efti-regulation_en))
 
 Esta evolución no debe interpretarse como que todas las pymes estén obligadas inmediatamente a cambiar todos sus procesos internos, pero sí marca una dirección clara: cada vez será más importante disponer de información documentada, trazable, validable y preparada para ser compartida de forma electrónica.
 
@@ -279,7 +281,7 @@ Estas preguntas no deben inventarse en el plan. Deben registrarse durante las pr
 
 El estudio de mercado muestra que Sistreg cuenta con un entorno inicial favorable para validar su propuesta. Zaragoza y Aragón tienen una base logística relevante, existen pymes con procesos documentales intensivos y el sector avanza hacia mayor digitalización, trazabilidad y control documental.
 
-El segmento prioritario inicial será el de pymes de transporte y transitarios con bloqueos documentales y de facturación. El primer producto de mercado será el control de cobro por evidencia, porque conecta directamente con un problema comprensible: operaciones que no se pueden cerrar, facturar o cobrar con agilidad por falta de documentación, validación o trazabilidad.
+El segmento prioritario inicial será el de pymes de transporte y transitarios con bloqueos documentales y de facturación. El primer caso de entrada comercial será el **control de cobro por evidencia**, porque conecta directamente con un problema comprensible: operaciones que no se pueden cerrar, facturar o cobrar con agilidad por falta de documentación, validación o trazabilidad.
 
 La oportunidad existe, pero debe tratarse con prudencia. El mercado no está vacío y la competencia incluye herramientas tecnológicas, consultoras, integradores, freelancers, ERPs, TMS, plataformas documentales y sustitutos manuales. La diferenciación de Sistreg dependerá de su capacidad para mantenerse enfocado en un problema concreto, hablar el lenguaje operativo del cliente y entregar una solución útil sin añadir complejidad innecesaria.
 
