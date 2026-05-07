@@ -58,6 +58,20 @@ El tono debe ser:
 - con lenguaje logístico entendible;
 - orientado a un Plan de Empresa defendible ante **Zaragoza Activa / CONVIERTE (ZAC)**, entidad de apoyo, banco o administración.
 
+### 5.1. Lenguaje comercial de Sistreg
+
+Cuando se redacten o revisen pitch, propuesta de valor, storytelling, landing, dossier comercial, casos de uso, marketing, ventas o entregables, usar la skill:
+
+- `.agent/skills/skill-lenguaje-comercial-sistreg/SKILL.md`
+
+Y respetar la regla:
+
+- En diagnóstico, dolor y coste del problema: usar léxico logístico profundo.
+- En solución, entregable, implementación y soporte: usar léxico logístico profundo + tecnología superficial concreta.
+- Usar palabras como sistema, automatización, automático, dashboard, panel, aviso automático, validación automática, actualización automática e IA cuando aporta valor.
+- Evitar en primera capa comercial herramientas internas o detalles de construcción: Make, n8n, Python, SQL, API, webhook, backend, frontend, servidor, base relacional, script, pipeline, prompt, embedding.
+- No basta con decir “panel”, “alertas” o “formulario”; debe explicarse qué ve el cliente, qué usa, qué ocurre automáticamente, quién recibe el aviso y qué mejora en el flujo logístico.
+
 ## 6. Uso híbrido obligatorio
 
 Usar enfoque híbrido:

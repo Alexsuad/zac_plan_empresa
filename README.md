@@ -13,6 +13,23 @@ Este repositorio contiene la documentación específica para la elaboración del
 - **Ingresos**: El diagnóstico inicial es gratuito, limitado y NO es línea de ingreso.
 - **Prudencia**: No garantizar cifras, ROI ni ayudas. Sistreg no es marca registrada.
 
+## Reenfoque comercial y lenguaje
+
+El proyecto debe mantenerse alineado con el reenfoque comercial de Sistreg:
+
+- Sistreg se presenta como automatización operativa especializada en logística.
+- Evalúa procesos logísticos críticos, identifica el coste de sus bloqueos y diseña soluciones tecnológicas ligeras y a medida.
+- El cliente debe entender qué recibe: sistema, panel, dashboard, automatizaciones, avisos automáticos, formularios o enlaces sencillos cuando aplique.
+- No se deben ocultar la automatización ni la tecnología cuando forman parte del entregable.
+- No se deben usar tecnicismos internos en la primera capa comercial: Make, n8n, Python, SQL, API, webhook, backend, frontend, etc.
+
+Regla de lenguaje:
+**Logística profunda para demostrar criterio. Automatización visible para explicar valor. Tecnicismos internos solo para documentación interna.**
+
+Referencia:
+- `docs_control/regla_lenguaje_comercial_sistreg.md`
+- `.agent/skills/skill-lenguaje-comercial-sistreg/SKILL.md`
+
 ## Estructura del repositorio
 
 - `plan_empresa/`: Preguntas guía del Plan de Empresa.
