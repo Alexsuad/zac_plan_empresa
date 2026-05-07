@@ -34,7 +34,7 @@ La implementación completa solo se propondrá cuando exista dolor reconocido, i
 
 ## 6.1.3. Producto ancla
 
-El producto ancla será el **control de cobro por evidencia**.
+El producto ancla inicial será el **control de cobro por evidencia**. Se usará como primer caso de entrada comercial, pero no agota la propuesta de Sistreg. Una vez cerrado el análisis económico-financiero, se definirán 2 o 3 casos de entrada adicionales para diversificar el pitch comercial sin perder foco.
 
 Este producto responde a un problema concreto: operaciones logísticas que ya se han realizado, pero no pueden cerrarse, facturarse o cobrarse correctamente porque falta documentación, evidencia de entrega, validación de tarifa, albarán, CMR, POD o trazabilidad suficiente.
 

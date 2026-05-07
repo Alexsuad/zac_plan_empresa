@@ -154,6 +154,9 @@ Este caso fue elegido porque:
 
 Este caso de entrada no define la identidad del proyecto; es una herramienta táctica de prospección. La identidad de Sistreg es la de un **servicio B2B de análisis, diseño, implementación y mantenimiento de sistemas de control operativo a medida para procesos logísticos críticos**. Una vez validado el modelo, el proyecto aplica la misma metodología a otros procesos críticos (calidad, seguridad, cumplimiento, gestión de activos) del mismo cliente o a procesos distintos en clientes de otros sectores.
 
+> [!NOTE]
+> **Planificación de nuevos casos de entrada:** Después de cerrar el apartado económico-financiero, se definirán 2 o 3 casos de entrada adicionales para evitar que el caso Doc-to-Cash absorba toda la identidad comercial del proyecto. Estos casos no se desarrollan todavía y deberán cumplir cuatro condiciones: proceso logístico crítico, bloqueo operativo medible, impacto claro en tiempo, errores, coste, margen, trazabilidad o continuidad operativa, y posibilidad de resolverse con una solución tecnológica ligera y proporcional.
+
 ---
 
 Como regla general, para mantener la coherencia y el foco, el modelo principal sigue esta secuencia:

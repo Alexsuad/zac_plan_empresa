@@ -16,7 +16,7 @@ Sistreg no nace para ser una empresa de transporte más, sino para resolver la *
 
 ## 2.3. Descripción del servicio: Control de cobro por evidencia
 
-El servicio central de Sistreg se define como **control de cobro por evidencia**. Internamente, esta lógica se entiende como un flujo **Doc-to-Cash**, aunque de cara al cliente se comunicará como la capacidad de asegurar que cada servicio realizado tenga su respaldo documental listo para facturar.
+El primer caso de entrada comercial de Sistreg será el **control de cobro por evidencia**. Este caso permite demostrar valor en un flujo crítico y comprensible para pymes logísticas, pero no define por sí solo todo el alcance del proyecto. La identidad de Sistreg se mantiene en el diseño e implementación de sistemas ligeros de control operativo para procesos logísticos críticos. Internamente, esta lógica se entiende como un flujo **Doc-to-Cash**, aunque de cara al cliente se comunicará como la capacidad de asegurar que cada servicio realizado tenga su respaldo documental listo para facturar.
 
 El servicio busca facilitar que cada hito operativo relevante (carga, paso por frontera, descarga, entrega de documentos) quede asociado a una evidencia digital o una regla de control. Esto permite pasar de un modelo de "esperar a que lleguen los papeles" a un modelo de "gestión por excepción", donde solo se interviene cuando falta una evidencia crítica.
 
