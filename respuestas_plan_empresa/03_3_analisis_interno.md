@@ -83,6 +83,8 @@ El proyecto cuenta con una capacidad económica inicial estimada de aproximadame
 
 Esta situación permite iniciar de forma prudente, sin local, sin empleados, sin almacén y sin una estructura fija pesada. El arranque desde casa o espacio propio reduce la inversión inicial y permite concentrar los recursos en validación comercial, herramientas básicas, gestoría, materiales comerciales y desarrollo de primeras soluciones.
 
+La aportación propia prevista de **5.000 €** permite cubrir la inversión inicial estimada en torno a **3.110 €** y deja un margen inicial de tesorería para gastos de arranque. No obstante, este margen no debe interpretarse como garantía de sostenibilidad indefinida ni como cobertura completa de todos los gastos personales del promotor. La suficiencia real dependerá del control de gastos, de la velocidad de validación comercial y de la entrada de primeros proyectos pagados.
+
 No obstante, seis meses también representan un límite. El proyecto deberá usar ese plazo para validar tres aspectos críticos:
 
 1. si las empresas aceptan conversaciones o visitas;
@@ -113,9 +115,11 @@ La infraestructura material actual permite iniciar, pero deberá revisarse confo
 
 ## 3.3.8. Apoyo externo
 
-El proyecto contará con apoyo externo puntual e informal de Claudia, especialmente como contraste logístico y validación práctica de ciertos enfoques operativos.
+El proyecto contará con **Claudia Bautista** como colaboradora fundacional no societaria y apoyo estratégico externo de validación operativa. Su participación será parcial y flexible, compatible con su actividad profesional actual y sin coste fijo inicial para el proyecto.
 
-Este apoyo puede aportar valor en la revisión de problemas reales del sector, interpretación de necesidades logísticas, preparación de conversaciones o contraste de soluciones. Sin embargo, al ser puntual e informal, no debe considerarse un recurso operativo fijo ni una capacidad interna permanente.
+Su papel no debe entenderse como socia, empleada ni recurso operativo fijo, sino como contraste especializado para revisar la coherencia logística de los enfoques, validar problemas reales del sector, aportar visión de cliente y apoyar la lectura práctica de determinados casos.
+
+Además, **Valentina** podrá participar como colaboradora freelance externa en proyectos concretos que requieran apoyo en diseño de interfaces, experiencia de usuario o adaptación visual de pantallas para equipos operativos. Su participación será puntual, por proyecto y condicionada a necesidad, presupuesto y alcance.
 
 Se deberá evitar depender de apoyos informales para funciones críticas del negocio. La captación, diagnóstico, propuesta, ejecución, documentación y relación con el cliente deberán estar bajo control directo del emprendedor o apoyarse en colaboradores formalizados cuando el proyecto lo requiera.
 
@@ -184,6 +188,7 @@ Las principales limitaciones actuales son:
 | Ausencia inicial de asesoría legal especializada | Riesgo en contratos, datos y responsabilidad           | Revisar antes de firmar proyectos con clientes                  |
 | Capacidad operativa limitada                     | Riesgo de saturación si se venden demasiados proyectos | Limitar proyectos simultáneos a 1-2 al inicio                   |
 | Dependencia del emprendedor                      | El negocio depende de una sola persona                 | Documentar procesos y evitar sobrecarga                         |
+| Necesidad de desarrollar un núcleo técnico reutilizable | Si cada proyecto se construye desde cero, el modelo puede volverse artesanal y poco escalable | Crear componentes reutilizables: plantillas, reglas de validación, conectores, tableros y checklists técnicos |
 
 Estas limitaciones no invalidan el proyecto, pero obligan a una estrategia de entrada controlada. La iniciativa debe validar antes de escalar.
 
@@ -217,7 +222,7 @@ Estas hipótesis deberán alimentar el futuro plan de implantación y la decisi�
 | Clientes           | Sin contactos reales iniciales en logística                   |              Limita |             Muy alta | Construir lista de prospección y activar visitas  |
 | Económica          | Margen aproximado de seis meses                               |   Ayuda, con límite |                 Alta | Validar mercado dentro del plazo disponible       |
 | Recursos           | Ordenador, móvil, internet, software y espacio disponibles    |               Ayuda |                 Alta | Mantener estructura ligera                        |
-| Apoyo externo      | Claudia como apoyo puntual e informal                         |      Ayuda limitada |                Media | Usar como contraste, no como recurso fijo         |
+| Apoyo externo      | Claudia como colaboradora fundacional no societaria para validación operativa; Valentina como apoyo freelance externo puntual para UX/UI cuando aplique | Ayuda, con límite |                Media | Usar apoyos externos como contraste y refuerzo, sin tratarlos como recursos operativos fijos |
 | Legal              | Sin asesoría legal especializada inicial                      |              Limita |                 Alta | Revisar antes de firmar proyectos reales          |
 | Operativa          | Capacidad de 4-6 diagnósticos/mes y 1-2 proyectos simultáneos |   Ayuda, con límite |                 Alta | No superar capacidad inicial                      |
 | Calidad            | Pruebas de testeo antes de entrega                            |               Ayuda |                 Alta | Crear checklist de pruebas                        |
