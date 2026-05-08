@@ -6,11 +6,9 @@ El estudio de mercado de Sistreg se centra en identificar si existe un grupo de 
 
 El mercado inicial se sitúa en **Zaragoza y Aragón**, con foco en **pymes privadas del sector logístico**, especialmente empresas de transporte, transitarios, operadores logísticos y empresas con procesos documentales intensivos.
 
-La propuesta no se dirige al mercado como una plataforma SaaS estándar, ni como una consultoría logística genérica, ni como una agencia de IA. El servicio se posiciona como diseño e implementación de sistemas de control operativo para mejorar el flujo:
+La propuesta no se dirige al mercado como una plataforma SaaS estándar, ni como una consultoría logística genérica, ni como una agencia de IA. El servicio se posiciona como diseño e implementación de sistemas de control operativo para mejorar el flujo operativo inicial (ver detalle en el apartado 6.2).
 
-**operación → evidencia → factura → cobro**
-
-El primer caso de entrada comercial será el **control de cobro por evidencia**, orientado a empresas que realizan operaciones logísticas, pero encuentran fricciones para cerrar, validar, facturar o cobrar por falta de documentos, evidencias o trazabilidad suficiente.
+El primer caso de entrada comercial será el **control de cobro por evidencia** (ver apartado 6.2), orientado a empresas que realizan operaciones logísticas, pero encuentran fricciones para cerrar, validar, facturar o cobrar por falta de documentos, evidencias o trazabilidad suficiente.
 
 ---
 
@@ -146,7 +144,7 @@ La competencia debe analizarse de forma amplia, porque el cliente no siempre com
 | Contratar más personal administrativo         | Refuerzo manual del proceso.                                                    | Sustituto operativo, pero con coste recurrente.                                                   |
 | No hacer nada                                 | Mantener el proceso actual.                                                     | Sustituto real si el dolor no se percibe como urgente.                                            |
 
-Las investigaciones complementarias del proyecto identifican que existe un hueco entre las plataformas que venden herramientas documentales, los ERPs generalistas y las soluciones grandes de gestión logística. Ese hueco está en la implementación práctica del control operativo sobre el flujo que conecta operación, evidencia, factura y cobro. 
+Las investigaciones complementarias del proyecto identifican que existe un hueco entre las plataformas que venden herramientas documentales, los ERPs generalistas y las soluciones grandes de gestión logística. Ese hueco está en la implementación práctica del control operativo sobre el ciclo desde la operación hasta el cobro (ver apartado 6.2). 
 
 La ventaja competitiva del proyecto no será afirmar que no existe competencia, sino demostrar que su enfoque es más específico, cercano y proporcional para pymes que tienen un bloqueo concreto y no quieren iniciar una transformación tecnológica completa.
 
@@ -237,7 +235,7 @@ La cuarta barrera es la **falta de tiempo**. Aunque el cliente tenga un problema
 
 La quinta barrera es la **competencia por inercia**. En muchos casos, el principal competidor no será otro proveedor, sino seguir trabajando igual.
 
-Estas barreras obligan a que la iniciativa entre con una propuesta concreta, limitada y fácil de entender. Por eso el diagnóstico inicial gratuito y el **caso de entrada comercial** de control de cobro por evidencia son importantes: permiten reducir la fricción de entrada y mostrar valor sobre un problema específico.
+Estas barreras obligan a que la iniciativa entre con una propuesta concreta, limitada y fácil de entender. Por eso el diagnóstico inicial gratuito y el **caso de entrada comercial** de control de cobro por evidencia (ver 6.2) son importantes: permiten reducir la fricción de entrada y mostrar valor sobre un problema específico.
 
 ---
 
@@ -281,7 +279,7 @@ Estas preguntas no deben inventarse en el plan. Deben registrarse durante las pr
 
 El estudio de mercado muestra que Sistreg cuenta con un entorno inicial favorable para validar su propuesta. Zaragoza y Aragón tienen una base logística relevante, existen pymes con procesos documentales intensivos y el sector avanza hacia mayor digitalización, trazabilidad y control documental.
 
-El segmento prioritario inicial será el de pymes de transporte y transitarios con bloqueos documentales y de facturación. El primer caso de entrada comercial será el **control de cobro por evidencia**, porque conecta directamente con un problema comprensible: operaciones que no se pueden cerrar, facturar o cobrar con agilidad por falta de documentación, validación o trazabilidad.
+El segmento prioritario inicial será el de pymes de transporte y transitarios con bloqueos documentales y de facturación. El primer caso de entrada comercial será el **control de cobro por evidencia** (ver 6.2), porque conecta directamente con un problema comprensible: operaciones que no se pueden cerrar, facturar o cobrar con agilidad por falta de documentación, validación o trazabilidad.
 
 La oportunidad existe, pero debe tratarse con prudencia. El mercado no está vacío y la competencia incluye herramientas tecnológicas, consultoras, integradores, freelancers, ERPs, TMS, plataformas documentales y sustitutos manuales. La diferenciación de Sistreg dependerá de su capacidad para mantenerse enfocado en un problema concreto, hablar el lenguaje operativo del cliente y entregar una solución útil sin añadir complejidad innecesaria.
 

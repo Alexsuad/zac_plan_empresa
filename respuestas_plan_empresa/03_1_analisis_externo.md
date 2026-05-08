@@ -7,7 +7,7 @@
 
 El análisis externo permite identificar los factores del entorno que pueden influir en la puesta en marcha y desarrollo de **Sistreg**. El proyecto nace en Zaragoza y se dirige inicialmente a pymes privadas del sector logístico de Aragón, especialmente empresas de transporte, transitarios y operadores con procesos documentales intensivos.
 
-El proyecto no se plantea como una empresa logística, ni como una agencia de IA, ni como una plataforma SaaS estándar. Su actividad se sitúa en el ámbito de los servicios tecnológicos B2B aplicados a procesos operativos críticos. El foco está en diseñar e implementar sistemas de control operativo, trazabilidad, validación documental e integración que ayuden a mejorar el flujo operación → evidencia → factura → cobro.
+El proyecto no se plantea como una empresa logística, ni como una agencia de IA, ni como una plataforma SaaS estándar. Su actividad se sitúa en el ámbito de los servicios tecnológicos B2B aplicados a procesos operativos críticos. El foco está en diseñar e implementar sistemas de control operativo, trazabilidad, validación documental e integración que ayuden a mejorar el flujo operativo inicial (ver apartado 6.2).
 
 El entorno externo muestra una oportunidad razonable para este tipo de servicio por cuatro motivos principales: la importancia logística de Aragón y Zaragoza, la presión económica sobre las pymes del sector, el avance de la digitalización documental y la necesidad creciente de trabajar con datos, evidencias y trazabilidad más fiables.
 
@@ -35,7 +35,7 @@ En este contexto, el valor del servicio no se basa en “digitalizar por digital
 
 El análisis sectorial trabajado para el proyecto identifica que muchas empresas logísticas siguen apoyándose en Excel, correo, WhatsApp, documentos físicos, validaciones manuales y conocimiento informal del equipo. Esta forma de trabajo puede funcionar en el corto plazo, pero genera riesgo cuando aumentan el volumen de operaciones, las exigencias documentales o la presión sobre los tiempos de facturación. 
 
-Desde el punto de vista económico, esto abre una oportunidad para soluciones graduales, de bajo riesgo y orientadas a retorno rápido. Muchas pymes pueden no estar preparadas para implantar un ERP, TMS o WMS complejo, pero sí pueden necesitar una solución más concreta para controlar un flujo crítico: qué operación está completa, qué documento falta, qué incidencia bloquea la factura y qué evidencia permite reclamar o cobrar.
+Desde el punto de vista económico, esto abre una oportunidad para soluciones graduales, de bajo riesgo y orientadas a retorno rápido. Muchas pymes pueden no estar preparadas para implantar un ERP, TMS o WMS complejo, pero sí pueden necesitar una solución más concreta para controlar el ciclo operativo desde la realización del servicio hasta el cobro (ver detalle en el apartado 6.2).
 
 La hipótesis económica principal es que el cliente estará dispuesto a pagar si el sistema demuestra que reduce errores, libera tiempo administrativo, mejora la trazabilidad y ayuda a facturar o cobrar con menos fricción. Esta hipótesis aún debe validarse con visitas, contactos reales y diagnósticos iniciales.
 
@@ -114,7 +114,7 @@ Los factores favorables son claros. Aragón y Zaragoza tienen una posición log�
 
 También existen tendencias favorables: digitalización documental, presión sobre la trazabilidad, necesidad de reducir errores, avance de eFTI, exigencia de mayor control operativo y búsqueda de soluciones que no obliguen a las pymes a grandes transformaciones.
 
-Sin embargo, existen amenazas y riesgos. El mercado no está vacío. Hay plataformas documentales, TMS, WMS, ERP, consultoras logísticas, integradores tecnológicos, automatización industrial, soluciones de flota, freelancers y sustitutos internos como Excel, correo, WhatsApp o contratación administrativa. La competencia no debe subestimarse. La ventaja del proyecto deberá construirse desde la especialización en el flujo crítico operación → evidencia → factura → cobro y desde una implementación práctica, cercana y proporcional al tamaño del problema.
+Sin embargo, existen amenazas y riesgos. El mercado no está vacío. Hay plataformas documentales, TMS, WMS, ERP, consultoras logísticas, integradores tecnológicos, automatización industrial, soluciones de flota, freelancers y sustitutos internos como Excel, correo, WhatsApp o contratación administrativa. La competencia no debe subestimarse. La ventaja del proyecto deberá construirse desde la especialización en el primer caso operativo (ver 6.2) y desde una implementación práctica, cercana y proporcional al tamaño del problema.
 
 La principal incertidumbre no es si el problema existe, sino si las pymes objetivo lo reconocen como suficientemente prioritario para pagar por una solución. Esta validación deberá realizarse mediante visitas, contactos directos y diagnósticos iniciales con empresas reales.
 
@@ -124,7 +124,7 @@ La principal incertidumbre no es si el problema existe, sino si las pymes objeti
 
 El análisis externo permite concluir que **Sistreg** nace en un entorno razonablemente favorable. Zaragoza y Aragón ofrecen una base logística sólida, el sector muestra necesidades crecientes de digitalización y control documental, y las pymes pueden necesitar soluciones más adaptadas que una gran plataforma estándar.
 
-La oportunidad más clara está en empresas privadas de transporte, transitarios y operadores logísticos que ya tienen actividad, pero sufren bloqueos documentales, errores de validación, retrasos de facturación o pérdida de trazabilidad en el flujo operación → evidencia → factura → cobro.
+La oportunidad más clara está en empresas privadas de transporte, transitarios y operadores logísticos que ya tienen actividad, pero sufren bloqueos documentales, errores de validación, retrasos de facturación o pérdida de trazabilidad en su flujo operativo (ver detalle en el apartado 6.2).
 
 La estrategia inicial debe ser prudente y enfocada. La iniciativa no debe presentarse como una solución para todo el sector ni como una empresa de transformación digital genérica. Debe entrar por un problema concreto, con un diagnóstico inicial limitado, una propuesta clara y un primer caso de entrada comercial: control de cobro por evidencia.
 

@@ -16,7 +16,7 @@ Los objetivos financieros concretos deberán mantenerse alineados con el documen
 
 La estrategia inicial de **Sistreg** será de **especialización, diferenciación operativa y validación progresiva**.
 
-La especialización se basa en enfocar el proyecto en pymes logísticas, especialmente empresas de transporte y transitarios con procesos documentales intensivos. No se busca atender cualquier problema digital de cualquier empresa, sino comenzar por un flujo crítico: operación → evidencia → factura → cobro.
+La especialización se basa en enfocar el proyecto en pymes logísticas, especialmente empresas de transporte y transitarios con procesos documentales intensivos. No se busca atender cualquier problema digital de cualquier empresa, sino comenzar por un flujo crítico: el ciclo que conecta la operación con el cobro (ver detalle en el apartado 6.2).
 
 La diferenciación no estará en vender tecnología como fin, ni en presentarse como agencia de IA, SaaS estándar o consultoría logística genérica. La diferenciación estará en aplicar sistemas, automatización e integración con criterio operativo, sobre problemas reales y medibles.
 
@@ -211,7 +211,7 @@ No se intentará vender a todo tipo de empresa desde el inicio. Se podrán acept
 
 ## 2. Diferenciación por control operativo
 
-La diferenciación no será tecnológica en sentido genérico. El proyecto se diferenciará por resolver bloqueos concretos de control documental, evidencia, facturación y cobro.
+La diferenciación no será tecnológica en sentido genérico. El proyecto se diferenciará por resolver bloqueos concretos en el ciclo operativo-financiero (ver detalle en el apartado 6.2).
 
 No se competirá por tener más funciones que un ERP o TMS, sino por intervenir en un flujo crítico que muchas empresas gestionan de forma manual o dispersa.
 
@@ -305,6 +305,6 @@ La decisión de continuar, ajustar o pivotar no debe tomarse por sensación, sin
 ---
 
 ## 5.14. Conclusión estratégica
-Los objetivos de Sistreg priorizan la validación comercial y operativa antes del escalado. La estrategia se mantiene alineada con el flujo operación → evidencia → factura → cobro detallado en la [Idea de negocio](02_idea_negocio.md).
+Los objetivos de Sistreg priorizan la validación comercial y operativa antes del escalado. La estrategia se mantiene alineada con el flujo operativo inicial detallado en el apartado [6.2. Operaciones](06_2_operaciones.md).
 
 Este apartado permite avanzar al plan de marketing, ventas y operaciones con objetivos concretos, medibles y coherentes con la realidad actual del proyecto.

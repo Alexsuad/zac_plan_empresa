@@ -70,6 +70,8 @@ Los casos prioritarios serán:
 
 El concepto clave es la diferencia entre **operación realizada** y **operación cerrada**. Una entrega puede estar físicamente realizada, pero seguir abierta desde el punto de vista documental, administrativo o económico si falta una evidencia, una validación o una incidencia por resolver. 
 
+El flujo que conecta la operación realizada, la evidencia documental, la facturación y el cobro funciona como primer caso de aplicación operativa de Sistreg. En algunos documentos internos puede aparecer asociado a la lógica Doc-to-Cash, pero dentro del plan debe entenderse como un ejemplo práctico de cómo el sistema ayuda a ordenar evidencias, estados y bloqueos con impacto financiero.
+
 ---
 
 ## 6.2.5. Flujo de prestación del servicio

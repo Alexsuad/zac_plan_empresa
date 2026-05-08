@@ -53,7 +53,7 @@ La necesidad real del cliente no es “tener más tecnología”, sino operar co
 
 Sistreg propone ayudar a pymes logísticas a recuperar control sobre procesos críticos mediante sistemas a medida que ordenan información, centralizan evidencias, reducen errores y facilitan el seguimiento operativo.
 
-El **caso de entrada comercial** inicial será el **control de cobro por evidencia**. Internamente, este flujo puede entenderse como una lógica **Doc-to-Cash**, pero de cara al cliente se comunicará de forma más clara y operativa: saber qué operaciones están listas para facturar, cuáles están bloqueadas, qué documento falta y qué incidencia debe resolverse.
+El **caso de entrada comercial** inicial será el **control de cobro por evidencia** (referido internamente como lógica Doc-to-Cash). Se centrará en ayudar al cliente a saber qué operaciones están listas para facturar, cuáles están bloqueadas y qué evidencias faltan para asegurar el cobro.
 
 El valor para el cliente se resume en:
 
@@ -297,7 +297,7 @@ Sistreg presenta una oportunidad razonable como proyecto de autoempleo técnico 
 
 La propuesta tiene sentido porque conecta con un problema concreto: operaciones realizadas que no siempre están listas para facturar o cobrar por falta de evidencia, validación, seguimiento o resolución de incidencias.
 
-El análisis económico-financiero muestra que el proyecto puede iniciar con una inversión baja, financiación principalmente propia, sin deuda bancaria y con estructura flexible. No obstante, la viabilidad definitiva dependerá de comprobar en el mercado si el cliente reconoce el dolor, acepta el precio y está dispuesto a pagar por un sistema que mejore el control del flujo operación → evidencia → factura → cobro.
+El análisis económico-financiero muestra que el proyecto puede iniciar con una inversión baja, financiación principalmente propia, sin deuda bancaria y con estructura flexible. No obstante, la viabilidad definitiva dependerá de comprobar en el mercado si el cliente reconoce el dolor, acepta el precio y está dispuesto a pagar por un sistema que mejore el control del flujo operativo inicial (ver apartado 6.2).
 
 Por tanto, la decisión recomendada es avanzar con prudencia hacia la validación comercial, manteniendo bajos costes fijos, midiendo el embudo de ventas y ajustando el modelo según las primeras respuestas reales del mercado.
 
