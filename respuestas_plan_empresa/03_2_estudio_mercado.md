@@ -1,286 +1,72 @@
 # 3.2. Estudio de mercado
 
-## 3.2.1. Introducción
+## 3.2.1. Definición del Mercado y Ámbito Geográfico
+El estudio de mercado de Sistreg tiene como objetivo validar la existencia de un nicho de pymes logísticas que, a pesar de estar en un entorno tecnológicamente avanzado, sufren ineficiencias críticas en su gestión administrativa y financiera. El mercado se sitúa en **Zaragoza y Aragón**, con un foco exclusivo en **pymes privadas del sector logístico** (transporte por carretera, transitarios, operadores logísticos y departamentos de comercio exterior). 
 
-El estudio de mercado de Sistreg se centra en identificar si existe un grupo de clientes suficientemente claro, con un problema operativo relevante y con potencial para contratar un servicio de control documental, trazabilidad y validación aplicado a procesos logísticos críticos.
+Zaragoza no es solo una ubicación conveniente; es el motor del proyecto. La región se ha consolidado como un centro de excelencia logística gracias a infraestructuras como **PLAZA**, que con sus 13 millones de m² y más de 350 empresas instaladas, ofrece una masa crítica de clientes potenciales inigualable en el valle del Ebro ([APL][1]). La pertenencia al ecosistema de **Zaragoza Activa** y la cercanía al clúster **ALIA** (Aragón Logística), que cuenta con más de 170 socios, facilitan un acceso privilegiado a la red de contactos necesaria para la validación comercial directa ([ALIA][2]). El ámbito geográfico inicial se limita a Aragón para asegurar un servicio de proximidad, clave en la generación de confianza que requiere el B2B logístico. La intermodalidad de la región, con el aeropuerto de carga y la terminal ferroviaria, atrae a empresas que manejan volúmenes documentales complejos, lo que incrementa la necesidad de los servicios de control de Sistreg.
 
-El mercado inicial se sitúa en **Zaragoza y Aragón**, con foco en **pymes privadas del sector logístico**, especialmente empresas de transporte, transitarios, operadores logísticos y empresas con procesos documentales intensivos.
+## 3.2.2. Segmentación del Cliente Potencial: El Dolor Operativo
+A diferencia de otros servicios de software, Sistreg no segmenta solo por tamaño de empresa o facturación, sino por el nivel de "fricción operativa" que sufre el cliente. Nuestro cliente ideal es aquel que "hace el trabajo pero tarda en cobrarlo" debido a procesos documentales desordenados.
 
-La propuesta no se dirige al mercado como una plataforma SaaS estándar, ni como una consultoría logística genérica, ni como una agencia de IA. El servicio se posiciona como diseño e implementación de sistemas de control operativo para mejorar el flujo operativo inicial (ver detalle en el apartado 6.2).
+| Segmento | Perfil Detallado del Cliente | Necesidad Crítica | Prioridad |
+| :--- | :--- | :--- | :---: |
+| **Pymes de Transporte** | Empresas de flota propia (10-50 camiones) que dependen de que el conductor entregue el albarán físico para iniciar la facturación. | Recuperar la evidencia de entrega (POD/CMR) de forma inmediata para cerrar el ciclo de cobro. | **Alta** |
+| **Transitarios** | Agencias de carga que coordinan múltiples proveedores internacionales y sufren por la dispersión de documentos (Booking, BL, Despachos). | Centralizar y validar la documentación de cada expediente para evitar reclamaciones de clientes finales. | **Alta** |
+| **Operadores Logísticos** | Almacenes que gestionan entradas, salidas e inventarios, donde los servicios auxiliares (manipulaciones) a menudo no se registran ni facturan. | Trazabilidad de servicios realizados y vinculación automática con la evidencia documental del trabajo. | **Media** |
+| **Empresas de Comex** | Departamentos de exportación de pymes industriales que necesitan controlar sus flujos logísticos y aduaneros. | Auditoría documental para asegurar el cumplimiento de plazos y evitar sobrecostes por demoras o errores en aduanas. | **Media** |
 
-El primer caso de entrada comercial será el **control de cobro por evidencia** (ver apartado 6.2), orientado a empresas que realizan operaciones logísticas, pero encuentran fricciones para cerrar, validar, facturar o cobrar por falta de documentos, evidencias o trazabilidad suficiente.
+## 3.2.3. Análisis de la Demanda: El Coste del Descontrol
+La demanda de los servicios de Sistreg no nace de una moda tecnológica, sino de una imperativo de **protección del margen operativo**. En un sector donde el margen neto suele ser inferior al 5%, cualquier error administrativo, factura rechazada o retraso en el cobro tiene un impacto directo en la supervivencia de la pyme. La ineficiencia administrativa no es solo un problema de tiempo; es una fuga de capital circulante que impide la inversión y el crecimiento.
 
----
+Esta "gestión informal" genera puntos ciegos financieros muy graves: servicios que se realizan correctamente pero que no pueden facturarse o cobrarse de forma ágil porque la evidencia documental (POD) está perdida, incompleta o pendiente de validación manual. El coste de oportunidad es inmenso, ya que el capital de trabajo de la pyme se queda bloqueado en "papeles" en lugar de estar en la cuenta bancaria. Además, la falta de una auditoría digital facilita la aparición de discrepancias con el cliente final que suelen resolverse a favor de este por falta de pruebas sólidas por parte de la pyme logística.
 
-## 3.2.2. Mercado objetivo
+**Problemas Reales detectados (Market Pain):**
+1. **Fuga de facturación:** Servicios que se realizan (como esperas en muelle o manipulaciones adicionales) pero que se olvidan de facturar porque no hubo una captura del dato en el momento de la incidencia.
+2. **Dependencia del Conocimiento Informal:** La gestión de las incidencias vive en la memoria de los empleados clave. Si un empleado falta, el proceso se detiene o el dato se pierde, generando una vulnerabilidad organizacional inasumible.
+3. **Retraso Sistémico en el Cobro:** El ciclo "Operación → Factura → Cobro" se dilata excesivamente. Algunas pymes tardan más de 15 días solo en tener la documentación lista para poder emitir la factura.
+4. **Errores de Transcripción y Re-trabajo:** El uso de Excel como base de datos central obliga a los administrativos a picar datos varias veces en diferentes sistemas, aumentando exponencialmente la tasa de error y el tiempo de oficina dedicado a tareas sin valor añadido.
 
-El mercado objetivo inicial está formado por **pymes privadas del sector logístico en Zaragoza y Aragón**.
+## 3.2.4. Tamaño del Mercado Accesible (TAM, SAM, SOM)
+Para asegurar la viabilidad del proyecto como autoempleo, se ha dimensionado el mercado de forma realista:
+- **TAM (Mercado Total):** El sector logístico español, con más de 200.000 empresas vinculadas al transporte y almacenamiento.
+- **SAM (Mercado Disponible):** Las pymes logísticas ubicadas en los nodos industriales de Aragón (Zaragoza, Huesca y el eje del Ebro). Según el IAEST, existen miles de licencias de transporte en vigor en la provincia de Zaragoza.
+- **SOM (Mercado Objetivo):** Un grupo seleccionado de 100-150 pymes en el entorno de PLAZA y Zaragoza Activa que pueden ser abordadas personalmente por el promotor en los primeros 12 meses. El objetivo es alcanzar una tasa de conversión del 5-10% para asegurar el flujo de caja inicial del proyecto.
 
-Dentro de este mercado, el foco prioritario estará en empresas de transporte y transitarios que presenten bloqueos documentales y de facturación. No se segmentará inicialmente por número de empleados, sino por la existencia de un problema operativo claro y medible.
+La meta de Sistreg es captar una cuota de mercado pequeña pero altamente rentable en el SOM, validando el modelo de "intervención quirúrgica" operativa antes de plantearse cualquier escalada regional o nacional.
 
-El criterio principal para considerar a una empresa como cliente potencial será que exista una fricción relevante en alguno de estos puntos:
+## 3.2.5. Análisis de la Competencia: ¿Contra quién competimos?
+Sistreg se sitúa en un espacio intermedio entre el "no hacer nada" y la "gran transformación digital". Nuestra competencia no son solo otras soluciones tecnológicas, sino la **fuerza de la costumbre**.
 
-* documentación dispersa;
-* CMR, POD, albaranes o evidencias incompletas;
-* validaciones manuales;
-* incidencias sin trazabilidad suficiente;
-* facturas bloqueadas o emitidas tarde;
-* errores en cobros o pagos;
-* dependencia excesiva de Excel, correo o WhatsApp;
-* dificultad para saber qué operaciones están completas y cuáles siguen abiertas.
+| Alternativa | Qué ofrece el competidor | Diferenciación de Sistreg |
+| :--- | :--- | :--- |
+| **Plataformas e-CMR** | Digitalización del documento de transporte y firma electrónica. | **Complemento:** Sistreg implementa la lógica de control que usa esos documentos para asegurar el cobro. |
+| **ERPs / TMS Sectoriales** | Gestión integral del negocio (flota, contabilidad, rutas). | **Agilidad:** Sistreg es una capa ligera que se adapta al proceso actual sin obligar al cliente a cambiar de software principal. |
+| **Sustitutos Manuales** | Excel, correo electrónico y contratación de auxiliares administrativos. | **Eficiencia:** Sistreg elimina el coste recurrente del error humano y la duplicidad de tareas manuales. |
 
-Esta segmentación permite enfocar el mercado desde el dolor real del cliente, no desde una categoría genérica de empresa. Una pyme pequeña puede tener un problema crítico si gestiona muchas operaciones manuales, mientras que una empresa más grande puede no ser cliente prioritario si ya cuenta con sistemas internos sólidos y bien implantados.
+**Diferenciación Estratégica:** A diferencia de las consultoras tecnológicas que venden "horas de desarrollo" o las agencias de software que venden "licencias", Sistreg vende **certeza operativa y financiera**. Nuestra ventaja competitiva es la hibridez del promotor: alguien que sabe lo que es un bloqueo en un muelle de carga y sabe cómo codificar una alerta para evitar que ese bloqueo afecte a la caja.
 
----
+## 3.2.6. Estrategia de Posicionamiento y Valor
+Sistreg no se posiciona por precio, sino por **retorno de inversión (ROI)** y **facilidad de adopción**.
+- **No es una carga para el equipo:** El sistema se diseña para que el operario o el administrativo apenas note el cambio, pero el gerente vea el resultado en su cuadro de mando.
+- **Enfoque en el Primer Caso Operativo:** El control de cobro por evidencia (ver 6.2) es nuestra "llave maestra" para entrar en el cliente. Una vez resuelto el problema del dinero (cobrar antes y mejor), el cliente está dispuesto a escuchar sobre otras optimizaciones.
 
-## 3.2.3. Ámbito geográfico
+## 3.2.7. Canales y Validación de Campo
+El canal de acceso al mercado es fundamentalmente **directo y presencial**. En el sector logístico aragonés, las decisiones se toman tras una conversación que demuestre conocimiento del oficio.
+- **Visitas de Diagnóstico:** Identificar in situ dónde se "rompe" el papel y dónde se pierde el dato.
+- **Networking en ALIA/ZAC:** Participación activa en foros donde las pymes comparten sus desafíos operativos.
+- **LinkedIn Estratégico:** Uso de la plataforma para publicar casos de éxito breves (tips logísticos) que generen autoridad técnica y profesional.
 
-El ámbito inicial de actuación será **Zaragoza y Aragón**. Esta decisión responde a tres motivos:
+## 3.2.8. Tendencias de Mercado: Hacia el Dato Certificado
+El mercado logístico vive una transformación profunda donde el activo principal ya no es solo el camión o el almacén, sino el dato. La tendencia hacia el **Dato Certificado** implica que los cargadores y las grandes plataformas exigen evidencias digitales en tiempo real para liberar pagos y validar servicios. Esta presión, que antes solo afectaba a las grandes multinacionales, está bajando en cascada hacia las pymes de transporte de Zaragoza. Sistreg aprovecha esta tendencia no vendiendo una plataforma de Big Data inaccesible, sino ayudando a la pyme a generar un "dato limpio y auditable" desde el primer eslabón documental de su operativa diaria.
 
-1. Cercanía al mercado inicial.
-2. Conocimiento del entorno logístico local.
-3. Alta concentración de actividad logística en la región.
+## 3.2.9. Barreras de Entrada y Riesgos
+La principal barrera es la **inercia operativa**. El gerente de una pyme logística suele estar "apagando fuegos" y le cuesta dedicar tiempo a pensar en la mejora del proceso. El diagnóstico gratuito de Sistreg rompe esta barrera ofreciendo una visión clara del coste del problema en menos de una hora. Otro riesgo es la desconfianza hacia la "tecnología compleja"; Sistreg mitiga esto con un enfoque de implementación suave que respeta la forma de trabajar actual del cliente, reduciendo el riesgo percibido de fracaso en la implementación tecnológica.
 
-Zaragoza y Aragón ofrecen un contexto favorable para iniciar la validación comercial del proyecto. El Atlas de Aragón identifica cuatro plataformas logísticas principales —Zaragoza, Huesca, Teruel y Fraga— que suman cerca de 1.800 hectáreas, y describe PLAZA como el equipamiento logístico más grande de Europa por superficie. ([icearagon.aragon.es](https://icearagon.aragon.es/atlas/Aragon/info/infraestructuras/infraestructuras-industriales-y-logisticas-/plataformas-logisticas))
+## 3.2.10. Conclusión del Estudio de Mercado
+El análisis confirma que existe una oportunidad real y desatendida en el mercado logístico de Zaragoza. Las pymes necesitan un socio tecnológico que entienda de camiones, de aduanas y de facturas, no solo de código informático. La hibridez operativa-técnica de Sistreg, sumada a un entorno regional privilegiado con infraestructuras de primer nivel como PLAZA y el apoyo institucional de Zaragoza Activa y ALIA, proporciona la base necesaria para iniciar una actividad de autoempleo sostenible y profesional.
 
-Además, Aragón Plataforma Logística presenta PLAZA como una plataforma intermodal con conexión por carretera, ferrocarril y avión, más de 13 millones de metros cuadrados de superficie y más de 350 empresas instaladas. ([aragonplataformalogistica.es](https://www.aragonplataformalogistica.es/directory/plataforma-logistica-de-zaragoza/?lang=en))
-
-La expansión posterior podrá dirigirse a otros puntos de España y, más adelante, a Europa. No obstante, esa ampliación solo tendrá sentido después de validar el modelo en el mercado inicial.
-
----
-
-## 3.2.4. Cliente potencial
-
-El cliente potencial del proyecto es una empresa privada que gestiona operaciones logísticas y tiene dificultades para conectar correctamente la operación realizada con la evidencia necesaria para facturar, cobrar o reclamar.
-
-Los perfiles más relevantes son:
-
-| Segmento                                                  | Necesidad probable                                                                                 | Prioridad inicial |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------- |
-| Pymes de transporte                                       | Controlar viajes, evidencias de entrega, incidencias y documentación pendiente para facturar.      | Alta              |
-| Transitarios                                              | Validar documentos, coordinar operaciones, controlar evidencias y reducir errores administrativos. | Alta              |
-| Operadores logísticos                                     | Mejorar trazabilidad de operaciones, incidencias, costes y documentación.                          | Media             |
-| Empresas de comercio exterior                             | Controlar documentación, validaciones y flujos entre proveedores, clientes y transporte.           | Media             |
-| Empresas fuera de logística que lleguen por recomendación | Resolver procesos documentales o de validación similares.                                          | Baja inicial      |
-
-El foco principal serán **pymes de transporte y transitarios** con bloqueo documental y de facturación. Se podrán aceptar clientes fuera del sector logístico si llegan por recomendación y si el problema encaja con la metodología del proyecto, pero esto no debe cambiar el posicionamiento inicial.
-
----
-
-## 3.2.5. Problema de mercado
-
-El problema central detectado es que muchas empresas logísticas realizan operaciones que después no pueden cerrar de forma ágil desde el punto de vista administrativo o financiero.
-
-La mercancía puede haber sido entregada, el servicio puede haberse realizado y el equipo puede haber cumplido la operación. Sin embargo, si falta un CMR, un POD, un albarán, una validación de tarifa, una evidencia de entrega o una incidencia correctamente documentada, la operación sigue abierta para administración, facturación o cobro.
-
-Este problema genera consecuencias concretas:
-
-* facturas emitidas tarde;
-* cobros retrasados;
-* errores administrativos;
-* reclamaciones mal documentadas;
-* pérdida de tiempo en búsqueda de evidencias;
-* duplicidad de revisiones;
-* falta de visibilidad sobre operaciones bloqueadas;
-* dificultad para conocer el margen real;
-* dependencia de personas concretas que “saben dónde está la información”.
-
-El Documento A del proyecto resume este problema como la falta de control estructurado en tareas donde documentos incompletos, facturas rechazadas o discrepancias de tarifa tienen impacto financiero directo y acumulado en el margen por operación. 
-
-Desde el punto de vista comercial, el problema no debe presentarse como “falta de automatización”. El cliente puede no percibir esa necesidad. Debe presentarse como pérdida de control, retraso en facturación, falta de evidencia, errores repetidos y tiempo administrativo consumido en tareas que podrían estar mejor estructuradas.
+El éxito de Sistreg dependerá de su capacidad para mantenerse enfocado en el "nicho de dolor" inicial —el control documental para asegurar el cobro— y demostrar resultados rápidos en la tesorería de los primeros clientes. Esta validación temprana permitirá consolidar una base de confianza necesaria para introducir mejoras más complejas en la cadena de valor del cliente. En definitiva, el mercado de Zaragoza está maduro para una propuesta que combine el rigor técnico con el pragmatismo operativo, permitiendo que la pyme logística local compita con los estándares de excelencia y digitalización que exige el mercado logístico global actual.
 
 ---
-
-## 3.2.6. Tamaño y atractivo del mercado
-
-El mercado logístico de Aragón ofrece una base suficiente para validar una propuesta especializada. La región cuenta con plataformas logísticas relevantes, actividad empresarial concentrada y entidades sectoriales que refuerzan el posicionamiento logístico del territorio.
-
-ALIA se presenta como el Clúster Logístico de Aragón, con más de 170 socios, y orienta su actividad a canalizar necesidades del sector logístico, generar colaboración, formación, innovación y mejorar la competitividad de las empresas asociadas. ([aliaragon.es](https://aliaragon.es/))
-
-Este entorno no garantiza por sí solo la demanda de Sistreg, pero sí muestra que existe un ecosistema empresarial suficientemente denso para iniciar una validación comercial.
-
-Las investigaciones realizadas para el proyecto identifican una oportunidad razonable en soluciones que ayuden a pymes logísticas a ordenar documentación, trazabilidad, evidencias e integración de información sin obligarlas a acometer una gran implantación tecnológica. 
-
-Aun así, el tamaño exacto del mercado accesible debe tratarse con prudencia. Las cifras sectoriales permiten dimensionar el contexto, pero no demuestran automáticamente que todas las empresas sean clientes potenciales. Para el proyecto, el mercado real será más estrecho: empresas con dolor documental concreto, capacidad de decisión, cierta disposición al cambio y percepción de pérdida económica o administrativa.
-
-Por tanto, el mercado se entiende en tres niveles:
-
-| Nivel                      | Descripción                                                                                            |
-| -------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Mercado amplio             | Empresas logísticas y de transporte ubicadas en Aragón y España.                                       |
-| Mercado disponible inicial | Pymes logísticas de Zaragoza y Aragón con procesos documentales intensivos.                            |
-| Mercado alcanzable inicial | Empresas contactadas directamente, visitadas y diagnosticadas durante la fase de validación comercial. |
-
----
-
-## 3.2.7. Tendencias de mercado
-
-El mercado logístico está avanzando hacia una mayor digitalización documental, integración de datos, trazabilidad y control operativo. Este cambio no afecta solo a grandes operadores, también presiona gradualmente a pymes que trabajan como proveedores, transportistas o colaboradores dentro de cadenas logísticas más exigentes.
-
-Una de las tendencias relevantes es el avance de la documentación electrónica. La Comisión Europea indica que el Reglamento eFTI aplicará plenamente el **9 de julio de 2027** y que, desde esa fecha, las autoridades de los Estados miembros deberán aceptar información electrónica compartida por operadores mediante plataformas eFTI certificadas. ([transport.ec.europa.eu](https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport/efti-regulation_en))
-
-Esta evolución no debe interpretarse como que todas las pymes estén obligadas inmediatamente a cambiar todos sus procesos internos, pero sí marca una dirección clara: cada vez será más importante disponer de información documentada, trazable, validable y preparada para ser compartida de forma electrónica.
-
-Otra tendencia relevante es la búsqueda de eficiencia. En un sector con presión sobre costes, tiempos y márgenes, las empresas necesitan reducir tareas manuales, reprocesos y errores. Las soluciones demasiado grandes pueden resultar costosas o difíciles de adoptar, por lo que existe espacio para intervenciones más concretas, graduales y orientadas a un problema específico.
-
----
-
-## 3.2.8. Competencia directa, indirecta y sustitutos
-
-El mercado no está vacío. Sistreg compite con diferentes tipos de soluciones y alternativas.
-
-La competencia debe analizarse de forma amplia, porque el cliente no siempre comparará el proyecto con una empresa idéntica. Puede compararlo con un TMS, un ERP, una plataforma documental, un informático externo, una agencia de automatización o incluso con seguir trabajando igual.
-
-| Tipo de alternativa                           | Qué ofrece                                                                      | Relación con el proyecto                                                                                  |
-| --------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| TMS / WMS                                     | Gestión de transporte, almacén, rutas, planificación o visibilidad operativa.   | Competencia indirecta o directa si el cliente busca una solución amplia.                          |
-| ERP                                           | Gestión administrativa, contable, fiscal o de procesos empresariales generales. | Competencia indirecta; puede no resolver el flujo operativo-documental específico.                |
-| Plataformas e-CMR / documentación electrónica | Digitalización y gestión de documentos de transporte.                           | Competencia o complemento, según el caso.                                                         |
-| Consultoras logísticas                        | Diagnóstico y mejora de procesos logísticos.                                    | Competencia si el cliente busca análisis amplio, aunque el proyecto se enfoca en implementación concreta. |
-| Integradores tecnológicos                     | Implantación de sistemas, automatización o software a medida.                   | Competencia directa o indirecta.                                                                  |
-| Agencias de IA / automatización               | Automatización de tareas y procesos con herramientas digitales.                 | Competencia indirecta; el proyecto debe diferenciarse por foco logístico y control operativo.             |
-| Freelancers / desarrolladores                 | Soluciones técnicas puntuales.                                                  | Competencia en precio o flexibilidad, pero no siempre en criterio operativo.                      |
-| Excel, correo, WhatsApp                       | Herramientas actuales de trabajo manual.                                        | Sustituto principal y competidor más fuerte por inercia.                                          |
-| Contratar más personal administrativo         | Refuerzo manual del proceso.                                                    | Sustituto operativo, pero con coste recurrente.                                                   |
-| No hacer nada                                 | Mantener el proceso actual.                                                     | Sustituto real si el dolor no se percibe como urgente.                                            |
-
-Las investigaciones complementarias del proyecto identifican que existe un hueco entre las plataformas que venden herramientas documentales, los ERPs generalistas y las soluciones grandes de gestión logística. Ese hueco está en la implementación práctica del control operativo sobre el ciclo desde la operación hasta el cobro (ver apartado 6.2). 
-
-La ventaja competitiva del proyecto no será afirmar que no existe competencia, sino demostrar que su enfoque es más específico, cercano y proporcional para pymes que tienen un bloqueo concreto y no quieren iniciar una transformación tecnológica completa.
-
----
-
-## 3.2.9. Posicionamiento frente a la competencia
-
-Sistreg debe posicionarse de forma clara para evitar confusión con otros proveedores.
-
-No se presentará como:
-
-* empresa logística;
-* agencia de IA;
-* consultoría logística generalista;
-* plataforma SaaS estándar;
-* proveedor de software genérico por licencia.
-
-Se presentará como:
-
-* servicio de diseño e implementación de sistemas de control operativo;
-* solución a medida para procesos logísticos críticos;
-* apoyo para ordenar evidencias, validaciones, incidencias y facturación;
-* intervención práctica sobre un flujo concreto;
-* sistema que ayuda a saber qué está completo, qué está bloqueado y qué falta para facturar o cobrar.
-
-El posicionamiento debe apoyarse en una idea sencilla:
-
-> Sistreg ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
-
-Este posicionamiento permite diferenciarse de soluciones demasiado grandes, demasiado técnicas o demasiado genéricas.
-
----
-
-## 3.2.10. Canales de acceso al mercado
-
-El acceso inicial al mercado se realizará principalmente mediante **visitas y contactos directos**. Esta decisión es coherente con el tipo de servicio, porque la venta requiere confianza, comprensión del proceso real del cliente y conversación sobre problemas internos.
-
-Los canales iniciales serán:
-
-* visitas comerciales;
-* contactos directos;
-* red profesional;
-* recomendaciones;
-* conversaciones con responsables de tráfico, administración, gerencia o facturación.
-
-LinkedIn podrá funcionar como canal de apoyo para visibilidad, credibilidad y contacto profesional, pero no será el único canal ni el principal en la primera fase.
-
-ALIA, Cámara de Comercio, Zaragoza Activa y otros espacios empresariales se considerarán **entorno de apoyo**, no canales comerciales principales. Su utilidad estará en aportar contexto, relación sectorial, aprendizaje, contactos, eventos y posibles oportunidades indirectas.
-
-El diagnóstico inicial será gratuito y limitado a una única vez por cliente. Su objetivo será detectar si existe un bloqueo operativo real. No se ofrecerá como consultoría gratuita abierta ni como revisión completa de la empresa.
-
----
-
-## 3.2.11. Criterios de compra del cliente
-
-El cliente potencial no comprará la solución solo porque sea tecnológica. Comprará si percibe que el problema le cuesta tiempo, dinero, margen o tranquilidad operativa.
-
-Los principales criterios de compra esperados son:
-
-| Criterio              | Qué significa para el cliente                                                         |
-| --------------------- | ------------------------------------------------------------------------------------- |
-| Claridad del problema | Entender qué operación está fallando y por qué.                                       |
-| Impacto económico     | Percibir que el problema afecta facturación, cobro, margen o tiempo administrativo.   |
-| Baja complejidad      | No querer una implantación grande ni una herramienta difícil de adoptar.              |
-| Confianza             | Sentir que el proyecto entiende la realidad logística.                                        |
-| Rapidez de utilidad   | Ver resultados prácticos en un flujo concreto.                                        |
-| Adaptación            | Que la solución respete la forma real de trabajar del cliente.                        |
-| Control               | Saber qué documentos faltan, qué incidencias bloquean y qué operaciones están listas. |
-| Soporte               | Tener acompañamiento durante la implantación y mejora posterior.                      |
-
-El cliente objetivo no comprará únicamente una herramienta, sino una solución que le ayude a entender y reducir el coste de un bloqueo operativo concreto.
-
-Estos criterios deberán validarse en las primeras visitas y diagnósticos. De momento son hipótesis razonables basadas en el análisis del proyecto y del sector.
-
----
-
-## 3.2.12. Barreras de entrada y riesgos de mercado
-
-Existen varias barreras que pueden dificultar la entrada al mercado.
-
-La primera es la **resistencia al cambio**. Muchas pymes logísticas están acostumbradas a trabajar con herramientas conocidas, aunque sean manuales. Excel, correo y WhatsApp pueden ser ineficientes, pero tienen una ventaja: el equipo ya los conoce.
-
-La segunda barrera es la **desconfianza hacia soluciones tecnológicas nuevas**. Algunos clientes pueden haber tenido experiencias negativas con software que prometía mucho y después fue difícil de usar, caro de mantener o poco adaptado al día a día.
-
-La tercera barrera es la **percepción de coste**. Si el cliente no calcula el coste del descontrol, puede ver la solución como gasto y no como inversión.
-
-La cuarta barrera es la **falta de tiempo**. Aunque el cliente tenga un problema, puede no querer dedicar tiempo a explicarlo, probar una solución o cambiar hábitos internos.
-
-La quinta barrera es la **competencia por inercia**. En muchos casos, el principal competidor no será otro proveedor, sino seguir trabajando igual.
-
-Estas barreras obligan a que la iniciativa entre con una propuesta concreta, limitada y fácil de entender. Por eso el diagnóstico inicial gratuito y el **caso de entrada comercial** de control de cobro por evidencia (ver 6.2) son importantes: permiten reducir la fricción de entrada y mostrar valor sobre un problema específico.
-
----
-
-## 3.2.13. Hipótesis de demanda
-
-La hipótesis principal de demanda es que existen pymes logísticas en Zaragoza y Aragón que sufren bloqueos documentales y de facturación, y que podrían estar dispuestas a contratar una solución si perciben claramente el coste del problema.
-
-Esta hipótesis se divide en cuatro partes:
-
-1. El problema existe: hay empresas con operaciones bloqueadas por falta de evidencia, documentos incompletos o validaciones manuales.
-2. El problema duele: esos bloqueos generan retrasos, errores, tiempo administrativo o pérdida de margen.
-3. El cliente lo reconoce: la empresa acepta que el problema merece atención.
-4. El cliente paga: la empresa está dispuesta a contratar una solución después de ver el diagnóstico.
-
-Las dos primeras partes cuentan con respaldo razonable desde el análisis del sector y las fuentes internas del proyecto. Las dos últimas deben validarse con visitas, contactos directos y diagnósticos iniciales.
-
----
-
-## 3.2.14. Validación comercial pendiente
-
-La demanda aún no puede darse por validada. El estudio de mercado permite identificar una oportunidad razonable, pero no sustituye la conversación con clientes reales.
-
-Durante la fase inicial será necesario validar:
-
-* cuántas empresas aceptan una visita;
-* cuántas reconocen el problema;
-* qué tipo de bloqueo aparece con mayor frecuencia;
-* cuántas aceptan un diagnóstico inicial;
-* cuántas pasan de diagnóstico gratuito a propuesta pagada;
-* qué presupuesto consideran razonable;
-* qué objeciones aparecen;
-* quién decide la compra;
-* cuánto tarda el proceso de decisión;
-* qué formato de servicio resulta más fácil de aceptar.
-
-Estas preguntas no deben inventarse en el plan. Deben registrarse durante las primeras acciones comerciales.
-
----
-
-## 3.2.15. Conclusión del estudio de mercado
-
-El estudio de mercado muestra que Sistreg cuenta con un entorno inicial favorable para validar su propuesta. Zaragoza y Aragón tienen una base logística relevante, existen pymes con procesos documentales intensivos y el sector avanza hacia mayor digitalización, trazabilidad y control documental.
-
-El segmento prioritario inicial será el de pymes de transporte y transitarios con bloqueos documentales y de facturación. El primer caso de entrada comercial será el **control de cobro por evidencia** (ver 6.2), porque conecta directamente con un problema comprensible: operaciones que no se pueden cerrar, facturar o cobrar con agilidad por falta de documentación, validación o trazabilidad.
-
-La oportunidad existe, pero debe tratarse con prudencia. El mercado no está vacío y la competencia incluye herramientas tecnológicas, consultoras, integradores, freelancers, ERPs, TMS, plataformas documentales y sustitutos manuales. La diferenciación de Sistreg dependerá de su capacidad para mantenerse enfocado en un problema concreto, hablar el lenguaje operativo del cliente y entregar una solución útil sin añadir complejidad innecesaria.
-
-Por tanto, el estudio de mercado permite avanzar, pero no cerrar la viabilidad comercial. El siguiente paso será validar en campo la disposición real de las empresas a recibir un diagnóstico, reconocer el problema y contratar una solución posterior.
+[1]: https://www.aragonplataformalogistica.es/ "Aragón Plataforma Logística"
+[2]: https://aliaragon.es/ "ALIA | Clúster Logístico de Aragón"

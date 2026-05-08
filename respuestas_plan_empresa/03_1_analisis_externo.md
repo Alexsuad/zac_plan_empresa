@@ -1,145 +1,62 @@
-
-
-
 # 3.1. Análisis externo
 
-## 3.1.1. Introducción
+## 3.1.1. Introducción y Marco Estratégico Regional
+El análisis externo identifica los factores del entorno que influyen de manera determinante en la puesta en marcha de **Sistreg**. El proyecto tiene su base operativa en **Zaragoza** y se dirige inicialmente a pymes privadas del sector logístico de **Aragón**, abarcando empresas de transporte, transitarios, operadores logísticos y empresas con procesos documentales de alta intensidad. Sistreg no se posiciona como una empresa logística tradicional ni como una agencia de software genérico; su valor reside en ser un servicio técnico B2B especializado en diseñar e implementar sistemas de control operativo que optimicen la trazabilidad y la seguridad financiera del flujo de facturación y cobro (ver apartado 6.2).
 
-El análisis externo permite identificar los factores del entorno que pueden influir en la puesta en marcha y desarrollo de **Sistreg**. El proyecto nace en Zaragoza y se dirige inicialmente a pymes privadas del sector logístico de Aragón, especialmente empresas de transporte, transitarios y operadores con procesos documentales intensivos.
+La oportunidad de negocio se fundamenta en la posición estratégica de **Aragón** como hub logístico de referencia en el sur de Europa. El Atlas de Aragón identifica cuatro plataformas logísticas principales —Zaragoza (PLAZA), Huesca (PLHUS), Teruel (PLATEA) y Fraga (PLFRAGA)— que suman cerca de 1.800 hectáreas de suelo industrial especializado. **PLAZA** destaca especialmente como el equipamiento logístico más grande de Europa por superficie, ofreciendo una intermodalidad única que combina carretera, ferrocarril y el aeropuerto de carga con mayor crecimiento de España ([ICEARAGON][1]). Asimismo, el ecosistema regional cuenta con **ALIA**, el Clúster Logístico de Aragón, que agrupa a más de 170 socios y actúa como motor de innovación, formación y mejora competitiva ([ALIA][2]). Sistreg nace para dar respuesta a la brecha digital de las pymes que operan en este entorno de vanguardia pero que aún mantienen procesos administrativos manuales y vulnerables.
 
-El proyecto no se plantea como una empresa logística, ni como una agencia de IA, ni como una plataforma SaaS estándar. Su actividad se sitúa en el ámbito de los servicios tecnológicos B2B aplicados a procesos operativos críticos. El foco está en diseñar e implementar sistemas de control operativo, trazabilidad, validación documental e integración que ayuden a mejorar el flujo operativo inicial (ver apartado 6.2).
+## 3.1.2. Análisis PESTEL (Entorno General y Desafíos)
 
-El entorno externo muestra una oportunidad razonable para este tipo de servicio por cuatro motivos principales: la importancia logística de Aragón y Zaragoza, la presión económica sobre las pymes del sector, el avance de la digitalización documental y la necesidad creciente de trabajar con datos, evidencias y trazabilidad más fiables.
+| Dimensión | Factor Clave | Impacto Estratégico para Sistreg |
+| :--- | :--- | :--- |
+| **Político** | Apoyo al emprendimiento local y programas de digitalización. | **Oportunidad:** Zaragoza ofrece recursos como **Zaragoza Activa (InfoActiva)** que facilitan el asesoramiento y la red de contactos inicial ([Zaragoza][3]). |
+| **Económico** | Inflación de costes operativos y presión sobre los márgenes logísticos. | **Oportunidad:** Las pymes necesitan herramientas que aseguren el cobro por evidencia para evitar pérdidas financieras por falta de documentación. |
+| **Social** | Cultura empresarial tradicional y resistencia al cambio tecnológico. | **Riesgo/Oportunidad:** Se requiere un enfoque de "tecnología invisible" que hable el lenguaje del operario y no el del informático. |
+| **Tecnológico** | Avance del e-CMR y el Reglamento eFTI (obligatorio desde 2027). | **Oportunidad:** Las empresas deben transicionar hacia el dato digital antes de que la regulación europea penalice los procesos manuales ([EC][4]). |
+| **Ecológico** | Reducción de la huella de carbono y eliminación del papel en oficina. | **Impacto Positivo:** La digitalización reduce el desperdicio de recursos físicos y optimiza los reprocesos administrativos innecesarios. |
+| **Legal** | Exigencia del RGPD y seguridad en el tratamiento de datos operativos. | **Riesgo Crítico:** Obliga a una gestión impecable de la privacidad de datos de conductores y clientes, con contratos específicos de encargado de tratamiento ([AEPD][5]). |
 
-Aragón cuenta con una posición logística destacada. El Atlas de Aragón identifica cuatro plataformas logísticas principales —Zaragoza, Huesca, Teruel y Fraga— que suman cerca de 1.800 hectáreas, y describe PLAZA como el equipamiento logístico más grande de Europa por superficie. ([ICEARAGON][1]) Además, ALIA se presenta como el Clúster Logístico de Aragón, con más de 170 socios y una función centrada en colaboración, formación, innovación y mejora competitiva del sector logístico aragonés. ([ALIA][2])
+## 3.1.3. Análisis del Sector Logístico: La Realidad de la Pyme
+El sector logístico aragonés se define por una alta actividad empresarial pero con una fuerte presión competitiva que ajusta los márgenes al máximo. Para una pyme de transporte o un pequeño transitario, la eficiencia no es una opción, sino una condición de supervivencia. Sin embargo, la realidad operativa muestra que muchas de estas empresas siguen apoyándose en herramientas no estructuradas como Excel, correo electrónico o WhatsApp para gestionar incidencias, albaranes y facturación.
 
----
+Esta "gestión informal" genera puntos ciegos financieros: servicios que se realizan correctamente pero que no pueden facturarse o cobrarse de forma ágil porque la evidencia documental (POD) está perdida, incompleta o pendiente de validación manual. Sistreg interviene en este punto crítico, ofreciendo una solución que es técnica por dentro pero operativa por fuera, permitiendo que la pyme mantenga su agilidad sin renunciar al control administrativo que exigen los grandes cargadores hoy en día.
 
-## 3.1.2. Factores políticos y administrativos
+## 3.1.4. Digitalización y Marco Regulatorio (eFTI)
+El entorno tecnológico es el viento de cola más fuerte para el proyecto. La digitalización ya no es un valor añadido, sino una tendencia macro reforzada por la Unión Europea. El **Reglamento eFTI** establece que las autoridades de los Estados miembros deberán aceptar información de transporte compartida electrónicamente a partir del 9 de julio de 2027 ([Mobility and Transport][4]). 
 
-Desde el punto de vista político y administrativo, el proyecto se desarrolla en un entorno favorable al emprendimiento, la digitalización y la mejora de la competitividad empresarial. Zaragoza cuenta con recursos de apoyo al emprendimiento, como InfoActiva de Zaragoza Activa, que ofrece asesoramiento para plantear iniciativas empresariales, elaborar el plan de empresa, buscar financiación y acceder a subvenciones. ([Zaragoza][3])
+Aunque esta fecha parece lejana, la presión de los grandes clientes ya está forzando a las pymes a mejorar su trazabilidad. Sistreg se posiciona como el socio técnico que ayuda a estas empresas a preparar su estructura de datos y documentos, asegurando que cuando el marco regulatorio sea obligatorio, la empresa ya disfrute de una operativa interna ordenada y rentable.
 
-La iniciativa no dependerá de ayudas públicas para ser viable. No obstante, sí se contemplará la solicitud de ayudas o programas de apoyo si se cumplen los requisitos. Estas posibles ayudas se entenderán como un complemento para reducir la presión financiera inicial, no como la base del modelo de negocio.
+## 3.1.5. Factores Legales y Protección de Datos (RGPD)
+El cumplimiento legal es un pilar de confianza en el servicio B2B. Al gestionar información sobre operaciones, conductores, matrículas y facturación, Sistreg debe operar bajo los estándares más estrictos del **Reglamento General de Protección de Datos (RGPD)**. Según la **AEPD**, es imperativo que los contratos con encargados de tratamiento no sean remisiones genéricas, sino acuerdos detallados que definan las medidas de seguridad y el alcance del tratamiento ([Agencia Española de Protección de Datos][6]).
 
-El proyecto se iniciará desde casa o espacio propio, sin local abierto al público, sin almacén, sin transporte propio y sin prestación directa de servicios logísticos físicos. Por tanto, no se prevé inicialmente una estructura administrativa compleja vinculada a apertura de local, rótulo comercial o actividad industrial. Aun así, antes del alta formal será necesario validar con gestoría el epígrafe de actividad, la forma jurídica, las obligaciones fiscales y cualquier comunicación administrativa que pudiera corresponder.
+Antes del inicio formal de la actividad, Sistreg validará con asesoría especializada:
+- El alta en los epígrafes de IAE adecuados a la consultoría técnica.
+- Los modelos de contrato de confidencialidad y prestación de servicios.
+- La arquitectura de seguridad para el almacenamiento de evidencias documentales en la nube.
+- La gestión de la propiedad intelectual de los desarrollos realizados para los clientes.
 
-El cliente inicial será empresa privada. No se contempla como prioridad la venta a administraciones públicas ni la participación inicial en contratación pública. Entidades como Zaragoza Activa, ALIA, Cámara de Comercio u otros espacios empresariales se consideran entorno de apoyo, relación y aprendizaje, pero no canales comerciales principales.
+## 3.1.6. Diagnóstico y Conclusión del Análisis Externo
+El entorno externo es favorable para el nacimiento de **Sistreg**, especialmente por la masa crítica de empresas logísticas en el valle del Ebro y la madurez del ecosistema de Zaragoza.
 
----
+**Fortalezas detectadas:**
+1. **Infraestructura Regional:** PLAZA y la intermodalidad aragonesa proporcionan un flujo constante de clientes potenciales ([APL][7]).
+2. **Apoyo Institucional:** La existencia de Zaragoza Activa y ALIA como facilitadores de la red de contactos.
+3. **Necesidad de Control:** La inflación y la subida de costes operativos hacen que el control del margen sea más prioritario que nunca.
 
-## 3.1.3. Factores económicos
+**Principales Amenazas:**
+1. **Inercia Operativa:** El mayor competidor de Sistreg no es otro software, sino la costumbre del cliente de "seguir igual".
+2. **Fragmentación del Mercado:** La existencia de múltiples plataformas e-CMR que pueden percibirse como sustitutos si no se explica bien que Sistreg es una solución de control operativo completo, no solo una firma digital.
 
-El sector logístico es un sector de alta actividad, pero también de fuerte presión sobre costes, márgenes y liquidez. Las pymes logísticas suelen operar en entornos donde el control de tiempos, documentación, incidencias, costes por operación y facturación es crítico para proteger el margen.
+Esta ventaja competitiva del entorno no debe subestimarse. El valle del Ebro actúa como un corredor logístico natural donde la interconexión entre empresas es constante, lo que facilita que una solución exitosa en un cliente de Zaragoza tenga un efecto llamada hacia otros operadores de la región. La ubicación física en este nodo permite a Sistreg realizar intervenciones de campo rápidas, algo que los grandes proveedores de software nacionales o internacionales no pueden ofrecer con la misma cercanía.
 
-En este contexto, el valor del servicio no se basa en “digitalizar por digitalizar”, sino en intervenir procesos donde la falta de control genera impacto económico. El caso inicial más relevante es el control de cobro por evidencia: operaciones realizadas que no pueden facturarse, cobrarse o justificarse correctamente porque falta documentación, porque la evidencia está dispersa o porque la validación se realiza de forma manual.
+En conclusión, el análisis externo ratifica que Zaragoza es el lugar idóneo para validar este modelo de negocio. Existe el problema (descontrol documental), existe el entorno (hub logístico regional con infraestructuras de primer nivel) e intermodalidad real, y existe el marco regulatorio que impulsa la solución (digitalización europea mediante eFTI y e-CMR). La viabilidad de Sistreg dependerá de su capacidad para transformar estas oportunidades externas en una propuesta de valor tangible para la cuenta de resultados de la pyme aragonesa, demostrando que el orden administrativo es el primer paso hacia la rentabilidad sostenible y el crecimiento profesional.
 
-El análisis sectorial trabajado para el proyecto identifica que muchas empresas logísticas siguen apoyándose en Excel, correo, WhatsApp, documentos físicos, validaciones manuales y conocimiento informal del equipo. Esta forma de trabajo puede funcionar en el corto plazo, pero genera riesgo cuando aumentan el volumen de operaciones, las exigencias documentales o la presión sobre los tiempos de facturación. 
-
-Desde el punto de vista económico, esto abre una oportunidad para soluciones graduales, de bajo riesgo y orientadas a retorno rápido. Muchas pymes pueden no estar preparadas para implantar un ERP, TMS o WMS complejo, pero sí pueden necesitar una solución más concreta para controlar el ciclo operativo desde la realización del servicio hasta el cobro (ver detalle en el apartado 6.2).
-
-La hipótesis económica principal es que el cliente estará dispuesto a pagar si el sistema demuestra que reduce errores, libera tiempo administrativo, mejora la trazabilidad y ayuda a facturar o cobrar con menos fricción. Esta hipótesis aún debe validarse con visitas, contactos reales y diagnósticos iniciales.
-
----
-
-## 3.1.4. Factores sociales y culturales
-
-El entorno social y cultural del sector logístico combina experiencia operativa, presión diaria y resistencia natural al cambio. En muchas pymes, los procesos actuales se sostienen porque el equipo ya sabe “cómo se hacen las cosas”, aunque ese conocimiento esté repartido entre personas, correos, hojas de cálculo y documentos físicos.
-
-Esto significa que el proyecto debe evitar un discurso excesivamente tecnológico. El cliente no necesita escuchar primero sobre IA, automatización o software. Necesita entender qué problema se va a resolver, qué fricción se eliminará y qué control ganará sobre su operación.
-
-El Documento A del proyecto ya fija esta orientación: el cliente gana control sobre el ciclo operativo que conecta servicio realizado, documentación recibida, evidencia validada, incidencia detectada, factura emitida y cobro gestionado. 
-
-El factor confianza será especialmente importante. Al tratarse de procesos internos, documentos operativos, datos de clientes, conductores, incidencias y facturación, la pyme necesita sentir que el servicio entiende la realidad logística y no llega con una solución genérica. La experiencia sectorial del equipo promotor es una ventaja porque permite hablar el lenguaje del cliente y detectar bloqueos reales sin convertir la entrada comercial en una consultoría abierta.
-
-Por este motivo, el primer contacto comercial se enfocará en visitas y contactos directos. El diagnóstico inicial será gratuito y limitado a una única vez por cliente. Su función será detectar si existe un bloqueo operativo real que justifique una propuesta posterior, no entregar consultoría gratuita ilimitada.
-
----
-
-## 3.1.5. Factores tecnológicos
-
-La digitalización logística es una tendencia clara, pero su adopción en pymes suele ser desigual. Existen grandes plataformas, ERPs, TMS, WMS, herramientas de e-CMR, soluciones de trazabilidad, automatización industrial y sistemas de analítica. Sin embargo, muchas pymes siguen necesitando soluciones más sencillas, adaptadas y conectadas a su forma real de operar.
-
-El entorno tecnológico favorece a **Sistreg** porque cada vez es más importante trabajar con información trazable, documentos digitalizados, validaciones estructuradas, alertas, integraciones y cuadros de control. Al mismo tiempo, este entorno también representa una amenaza: existen competidores con mayor tamaño, más recursos y productos ya posicionados.
-
-La diferenciación del proyecto no debe basarse en decir que usa más tecnología, sino en aplicar la tecnología adecuada al bloqueo correcto. Internamente, el proyecto puede usar desarrollo a medida, automatizaciones, integraciones y herramientas digitales, pero externamente la promesa debe mantenerse en el plano operativo: control, evidencia, trazabilidad, reducción de errores y mejora del flujo hasta el cobro.
-
-El Reglamento eFTI de la Unión Europea refuerza esta tendencia hacia la documentación electrónica en el transporte de mercancías. La Comisión Europea indica que el Reglamento eFTI aplicará plenamente el 9 de julio de 2027 y que las autoridades de los Estados miembros deberán aceptar información compartida electrónicamente por operadores mediante plataformas eFTI certificadas. ([Mobility and Transport][4])
-
-Este marco no debe presentarse como una obligación inmediata para todos los clientes privados, sino como una señal clara de evolución del sector hacia documentación, intercambio de datos y trazabilidad electrónica. Para la iniciativa, esto supone una oportunidad: ayudar a pymes logísticas a ordenar sus procesos documentales antes de que la presión regulatoria y operativa sea mayor.
 
 ---
-
-## 3.1.6. Factores ecológicos y sostenibilidad
-
-La sostenibilidad no será el eje principal de venta del servicio, pero sí puede aparecer como impacto secundario. El proyecto no vende soluciones ambientales ni servicios de transporte sostenible. Sin embargo, un mejor control documental y operativo puede contribuir indirectamente a reducir papel, reprocesos, desplazamientos innecesarios, duplicidades administrativas y errores que obligan a repetir gestiones.
-
-En el sector logístico, la sostenibilidad suele estar vinculada a eficiencia, planificación, reducción de desperceos operativos y mejor uso de recursos. Desde esta perspectiva, el proyecto puede aportar valor secundario si sus sistemas ayudan a reducir tareas manuales, mejorar la trazabilidad y evitar reprocesos.
-
-Este punto debe tratarse con prudencia. No conviene presentar la sostenibilidad como el principal argumento comercial ni afirmar impactos ambientales que todavía no se han medido. La sostenibilidad debe aparecer como consecuencia indirecta de una operación más ordenada, no como promesa central del servicio.
-
----
-
-## 3.1.7. Factores legales y regulatorios
-
-El entorno legal es relevante para el proyecto en dos niveles: por un lado, las normas que afectan al sector logístico y su documentación; por otro, las obligaciones propias de una empresa que diseña e implementa sistemas donde pueden tratarse datos personales y datos operativos de clientes.
-
-En el ámbito logístico, la evolución hacia la documentación electrónica es una tendencia clara. Es importante diferenciar entre eFTI, e-CMR y Documento de Control Digital. El eFTI es el marco europeo para el intercambio electrónico de información de transporte con autoridades. El e-CMR es la versión electrónica de la carta de porte internacional. El Documento de Control Administrativo responde a obligaciones específicas del transporte público de mercancías por carretera en España. La investigación complementaria del proyecto insiste en que no deben confundirse estos conceptos ni afirmar que el e-CMR sea obligatorio para todos los casos. 
-
-Para el plan de empresa, la redacción debe ser prudente: la digitalización documental se está reforzando por normativa europea y nacional, pero cada obligación concreta debe validarse antes de usarla como argumento comercial cerrado. El proyecto podrá posicionarse como un servicio que ayuda a ordenar, validar y preparar mejor la documentación operativa, sin presentarse como asesoría legal ni garantizar cumplimiento normativo total sin revisión especializada.
-
-En protección de datos, la iniciativa deberá tener especial cuidado. Si accede a datos de empleados, conductores, interlocutores, correos nominales, matrículas, imágenes, documentos, incidencias o información de clientes, puede existir tratamiento de datos personales. La AEPD recuerda que los contratos con encargados de tratamiento deben adaptarse al artículo 28 del RGPD y que no bastan remisiones genéricas. ([Agencia Española de Protección de Datos][5]) Además, la AEPD señala que los encargados del tratamiento tienen obligaciones propias, como mantener registro de actividades, determinar medidas de seguridad y, en determinados casos, designar Delegado de Protección de Datos. ([Agencia Española de Protección de Datos][6])
-
-Por tanto, antes de operar formalmente será necesario validar con gestoría o asesoría especializada los siguientes aspectos:
-
-* alta como autónomo o forma jurídica más adecuada;
-* epígrafe IAE y CNAE;
-* obligaciones fiscales;
-* contratos de prestación de servicios;
-* cláusulas de confidencialidad;
-* tratamiento de datos personales;
-* posible contrato de encargado del tratamiento;
-* uso de herramientas externas o nube;
-* propiedad intelectual de desarrollos;
-* responsabilidad por errores, soporte y mantenimiento.
-
-Este análisis legal no bloquea el proyecto, pero sí obliga a trabajar con prudencia desde el inicio.
-
----
-
-## 3.1.8. Diagnóstico externo
-
-El entorno externo muestra condiciones favorables para validar a **Sistreg**, pero no permite dar por demostrada la viabilidad comercial sin contacto real con clientes.
-
-Los factores favorables son claros. Aragón y Zaragoza tienen una posición logística relevante, con infraestructura, plataformas logísticas, empresas especializadas y entidades sectoriales. PLAZA se presenta como una de las grandes plataformas logísticas europeas, con intermodalidad carretera, ferrocarril y avión, más de 350 empresas instaladas y conexión estratégica con Madrid, Barcelona, Bilbao y Valencia. ([Aragón Plataforma Logística][7]) ALIA refuerza la existencia de un ecosistema regional organizado, con más de 170 socios y servicios de networking, formación, innovación, financiación y colaboración. ([ALIA][2])
-
-También existen tendencias favorables: digitalización documental, presión sobre la trazabilidad, necesidad de reducir errores, avance de eFTI, exigencia de mayor control operativo y búsqueda de soluciones que no obliguen a las pymes a grandes transformaciones.
-
-Sin embargo, existen amenazas y riesgos. El mercado no está vacío. Hay plataformas documentales, TMS, WMS, ERP, consultoras logísticas, integradores tecnológicos, automatización industrial, soluciones de flota, freelancers y sustitutos internos como Excel, correo, WhatsApp o contratación administrativa. La competencia no debe subestimarse. La ventaja del proyecto deberá construirse desde la especialización en el primer caso operativo (ver 6.2) y desde una implementación práctica, cercana y proporcional al tamaño del problema.
-
-La principal incertidumbre no es si el problema existe, sino si las pymes objetivo lo reconocen como suficientemente prioritario para pagar por una solución. Esta validación deberá realizarse mediante visitas, contactos directos y diagnósticos iniciales con empresas reales.
-
----
-
-## 3.1.9. Conclusión del análisis externo
-
-El análisis externo permite concluir que **Sistreg** nace en un entorno razonablemente favorable. Zaragoza y Aragón ofrecen una base logística sólida, el sector muestra necesidades crecientes de digitalización y control documental, y las pymes pueden necesitar soluciones más adaptadas que una gran plataforma estándar.
-
-La oportunidad más clara está en empresas privadas de transporte, transitarios y operadores logísticos que ya tienen actividad, pero sufren bloqueos documentales, errores de validación, retrasos de facturación o pérdida de trazabilidad en su flujo operativo (ver detalle en el apartado 6.2).
-
-La estrategia inicial debe ser prudente y enfocada. La iniciativa no debe presentarse como una solución para todo el sector ni como una empresa de transformación digital genérica. Debe entrar por un problema concreto, con un diagnóstico inicial limitado, una propuesta clara y un primer caso de entrada comercial: control de cobro por evidencia.
-
-El entorno apoya la oportunidad, pero la viabilidad final dependerá de validar tres puntos con clientes reales:
-
-* que el dolor documental y de facturación sea reconocido por la empresa;
-* que exista disposición a pagar por resolverlo;
-* que el proyecto pueda entregar una solución útil sin generar complejidad adicional.
-
-Por tanto, el análisis externo no debe interpretarse como garantía de éxito, sino como una base favorable para avanzar hacia la validación comercial del modelo.
-
-[1]: https://icearagon.aragon.es/atlas/Aragon/info/infraestructuras/infraestructuras-industriales-y-logisticas-/plataformas-logisticas "Plataformas logísticas (ATLAS DE ARAGÓN - ICEARAGON)"
+[1]: https://icearagon.aragon.es/atlas/Aragon/info/infraestructuras/infraestructuras-industriales-y-logisticas-/plataformas-logisticas "Plataformas logísticas - ICEARAGON"
 [2]: https://aliaragon.es/ "ALIA | Clúster Logístico de Aragón"
-[3]: https://www.zaragoza.es/ciudad/sectores/activa/infoactiva.htm "Ayuntamiento de Zaragoza. Infoactiva. Información y asesoramiento de emprendedores"
-[4]: https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport/efti-regulation_en "The eFTI Regulation - Mobility and Transport - European Commission"
-[5]: https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/8-responsable-y-encargado-del-tratamiento/FAQ-0239-son-validos-los-contratos-con-encargados-de-tratamiento-anteriores-al-rgpd "¿Son válidos los contratos con encargados de tratamiento anteriores al RGPD? | AEPD"
-[6]: https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/8-responsable-y-encargado-del-tratamiento/FAQ-0236-que-obligaciones-especificas-contiene-el-rgpd-para-los-encargados-de-tratamiento "¿Qué obligaciones específicas contiene el RGPD para los encargados del tratamiento? | AEPD"
-[7]: https://www.aragonplataformalogistica.es/directory/plataforma-logistica-de-zaragoza/?lang=en "PLAZA Plataforma Logística de Zaragoza"
+[3]: https://www.zaragoza.es/ciudad/sectores/activa/infoactiva.htm "Infoactiva Zaragoza"
+[4]: https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport/efti-regulation_en "Reglamento eFTI - Comisión Europea"
+[5]: https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/8-responsable-y-encargado-del-tratamiento/FAQ-0239-son-validos-los-contratos-con-encargados-de-tratamiento-anteriores-al-rgpd "Contratos Encargados Tratamiento - AEPD"
+[6]: https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/8-responsable-y-encargado-del-tratamiento/FAQ-0236-que-obligaciones-especificas-contiene-el-rgpd-para-los-encargados-de-tratamiento "Obligaciones Encargados - AEPD"
+[7]: https://www.aragonplataformalogistica.es/directory/plataforma-logistica-de-zaragoza/?lang=en "PLAZA Zaragoza"

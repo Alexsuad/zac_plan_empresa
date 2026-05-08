@@ -1,254 +1,70 @@
-
-
 # 3.3. Análisis interno
 
-## 3.3.1. Introducción
+## 3.3.1. Capacidades y Ventaja Competitiva Híbrida
+El análisis interno de **Sistreg** permite valorar si el proyecto cuenta con las capacidades y recursos mínimos para transformar la oportunidad detectada en un negocio viable. La conclusión principal es que la iniciativa dispone de una base técnica y operativa excepcionalmente sólida para una estructura de autoempleo, fundamentada en la **hibridez del promotor**.
 
-El análisis interno permite valorar si **Sistreg** cuenta con las capacidades, recursos y condiciones mínimas para ejecutar la idea de negocio de forma realista.
+Esta ventaja competitiva no reside únicamente en saber programar o en conocer la logística, sino en la **intersección** de ambos mundos. Mientras que una consultora tecnológica tradicional necesita analistas para entender el proceso del cliente y programadores para ejecutarlo, en Sistreg ese ciclo es inmediato. Esta hibridez permite:
+1.  **Diagnóstico Quirúrgico:** Identificar en minutos si un retraso en la facturación se debe a un problema de flujo de datos o a un mal diseño del albarán de entrega (POD).
+2.  **Arquitectura Ágil:** Diseñar sistemas que no intentan cambiar cómo trabaja la empresa, sino cómo se captura el dato en su proceso actual.
+3.  **Independencia Técnica:** Capacidad para construir soluciones (MVPs) sin depender de equipos externos, lo que garantiza el control total sobre los plazos y la calidad de la entrega.
 
-En este apartado no se analiza el mercado ni la oportunidad externa, sino la situación interna del proyecto: capacidades personales, capacidades técnicas, gestión, ventas, recursos disponibles, apoyos externos, capacidad de prestación del servicio, control de calidad, limitaciones e hipótesis críticas.
+## 3.3.2. Perfil del Promotor y Disciplina de Gestión
+El promotor, Alexander Suárez, aporta una trayectoria de 15 años en entornos de alta exigencia logística (**Schlumberger Surenco**), lo que garantiza una cultura de orden, procedimientos y cumplimiento de plazos. Esta disciplina es el motor interno del proyecto, permitiendo que una estructura unipersonal funcione con la seriedad de una organización mayor.
 
-La conclusión principal es que **Sistreg** cuenta con una base técnica y operativa suficiente para iniciar la actividad de forma ligera, desde casa y sin estructura pesada. Sin embargo, el principal reto interno no está en la capacidad técnica, sino en la generación de primeras oportunidades comerciales, la venta consultiva y la captación de clientes reales.
+**Gestión de Limitaciones:**
+Se reconoce que la gestión de la incertidumbre comercial y el manejo del rechazo en la prospección en frío son áreas de mejora. Para mitigar este riesgo interno, Sistreg implementará un sistema de **gestión por procesos**:
+- **Rutinas Semanales:** Horarios fijos dedicados exclusivamente a la prospección y seguimiento comercial, independientemente de la carga de trabajo técnica.
+- **Auditoría Interna:** Uso de herramientas de seguimiento (CRM simple) para medir la tasa de conversión de diagnósticos gratuitos a propuestas pagadas, evitando la improvisación.
 
----
+## 3.3.3. Capacidades Técnicas y Herramientas
+La caja de herramientas técnica de Sistreg es amplia y está orientada a la **utilidad práctica**, no a la complejidad innecesaria. El proyecto cuenta con dominio en:
+- **Desarrollo Web (DAW):** HTML, CSS, JavaScript y PHP para la creación de interfaces de usuario y paneles de control.
+- **Gestión de Datos:** SQL y Python para la estructuración, limpieza y análisis de grandes volúmenes de información operativa.
+- **Automatización e Integración:** Uso experto de herramientas como Make e integraciones vía API para conectar sistemas dispersos del cliente (ERPs, correos, hojas de cálculo).
 
-## 3.3.2. Capacidades personales
+El riesgo técnico identificado no es la falta de habilidad, sino la tentación de "sobre-desarrollar". Para evitarlo, la política interna de desarrollo se basará en la creación de **componentes reutilizables** (bloques de código, reglas de validación y conectores estándar) que permitan escalar la actividad sin que cada proyecto sea una obra de artesanía única desde cero.
 
-El emprendedor se considera una persona constante y ordenada trabajando de forma autónoma. Esta capacidad es relevante porque el proyecto iniciará con una estructura ligera, sin equipo interno amplio y con una alta dependencia de la disciplina personal para mantener ritmo de trabajo, seguimiento comercial, desarrollo técnico y control documental.
+## 3.3.4. Capacidades Comerciales y Generación de Clientes
+Esta es el área interna más sensible. Actualmente, el proyecto no cuenta con una cartera de clientes logísticos heredada, lo que obliga a construir la credibilidad desde cero. La fortaleza comercial de Sistreg se basará en la **demostración de valor inmediato**:
+- **El Diagnóstico Gratuito como Caballo de Troya:** No se pide al cliente que compre un software; se le pide que permita una auditoría de 60 minutos para encontrar dónde está perdiendo dinero en su proceso de facturación.
+- **Lenguaje Operativo:** El promotor habla de CMRs, aduanas, grupajes y tiempos de tránsito, no de servidores o bases de datos. Esta capacidad de empatía sectorial es nuestra principal herramienta de venta.
 
-La constancia y el orden son fortalezas internas importantes para el proyecto, ya que permitirán sostener rutinas de prospección, diagnóstico, desarrollo, pruebas y seguimiento de clientes.
+## 3.3.5. Recursos Materiales y Solidez Financiera
+Sistreg nace bajo el modelo **Lean Startup**, minimizando los costes fijos para maximizar el margen de maniobra inicial.
+- **Estructura Ligera:** Operación desde espacio propio (home office), eliminando la necesidad de local, mobiliario pesado o suministros industriales.
+- **Equipamiento:** Hardware y software ya disponibles y amortizados por el promotor.
+- **Tesorería de Seguridad:** El proyecto cuenta con una inversión inicial propia de **5.000 €**. Tras cubrir los gastos de lanzamiento (~3.110 €), se dispone de un margen de seguridad de 6 meses para validar el modelo de negocio. Esta prudencia financiera permite centrarse en la calidad de los primeros clientes sin la presión de un flujo de caja inmediato desesperado.
 
-No obstante, el manejo de la incertidumbre, el rechazo comercial o los retrasos se identifica como un punto de mejora. El emprendedor reconoce que gestiona estos escenarios de forma regular, por lo que será necesario reducir la improvisación mediante planificación, rutinas semanales, criterios de decisión y seguimiento de avances.
+## 3.3.6. Red de Apoyo y Colaboración Estratégica
+Aunque es un proyecto unipersonal, Sistreg se apoya en una red de colaboradores externos que refuerzan sus capacidades:
+- **Claudia Bautista:** Colaboradora fundacional no societaria. Aporta el contraste operativo diario y la visión crítica del cliente final (Customer Care), asegurando que las soluciones técnicas sean realmente utilizables en la oficina logística.
+- **Gestoría Externa:** Delegación total de las obligaciones fiscales, contables y laborales para liberar tiempo productivo del promotor.
+- **Apoyos Freelance:** Valentina como recurso puntual para proyectos que requieran un nivel superior de diseño de interfaz (UX/UI), asegurando que el producto final sea tan atractivo visualmente como eficiente técnicamente.
 
-Esta limitación no bloquea el proyecto, pero debe tenerse en cuenta porque la fase inicial dependerá de visitas, contactos, respuestas comerciales y validación con empresas reales. En esa etapa pueden aparecer rechazos, silencios, demoras o cambios de prioridad por parte de los clientes.
+## 3.3.7. Capacidad de Operación, Calidad y Soporte
+Para garantizar la sostenibilidad, la capacidad interna de producción está acotada:
+- **Carga Operativa:** El promotor puede gestionar entre 4 y 6 diagnósticos mensuales y mantener de 1 a 2 proyectos de implementación en paralelo. Superar este límite pondría en riesgo la calidad del servicio.
+- **Control de Calidad:** Cada entrega se somete a un protocolo interno de pruebas (stress testing) que garantiza que el sistema maneja correctamente errores de datos, incidencias reales y picos de trabajo documental sin bloquearse.
+- **Soporte Post-venta:** Se definirá un modelo de mantenimiento preventivo para asegurar que las automatizaciones e integraciones sigan funcionando ante cambios en los sistemas externos de los clientes.
 
----
+## 3.3.8. Cuadro Resumen de Capacidades Internas
 
-## 3.3.3. Capacidades técnicas
+| Área | Situación Interna | Valor Estratégico | Acción de Mejora |
+| :--- | :--- | :--- | :--- |
+| **Técnica** | Capacidad híbrida avanzada. | **Fortaleza Clave** | Estandarizar componentes para escalar. |
+| **Logística** | 15 años de oficio real. | **Fortaleza Clave** | Documentar casos de éxito por tipo de operativa. |
+| **Comercial** | Sin red de contactos inicial. | **Debilidad Crítica** | Prospección sistemática en PLAZA y ALIA. |
+| **Económica** | Estructura Lean / 6 meses margen. | **Fortaleza de Prudencia** | Control riguroso del gasto mensual. |
+| **Operativa** | Capacidad limitada (1-2 proyectos). | **Límite de Estructura** | Definir alcances de proyecto muy cerrados. |
 
-La capacidad técnica del proyecto se considera avanzada para crear soluciones funcionales. Esto representa una de las principales fortalezas internas de la iniciativa.
+Esta validación temprana es fundamental para reducir la incertidumbre interna. Cada proyecto cerrado actuará como una pieza de evidencia que reforzará la confianza del promotor en su propia metodología, permitiendo que el foco pase de la "supervivencia" a la "consolidación".
 
-El proyecto parte de una combinación especialmente relevante: conocimiento del entorno logístico, experiencia en procesos operativos y capacidad técnica para diseñar soluciones digitales, automatizaciones, integraciones y sistemas de control. Esta combinación permite entender problemas reales del cliente y traducirlos en soluciones prácticas.
+## 3.3.9. Conclusión del Análisis Interno
+Internamente, **Sistreg** es una maquinaria técnica y operativa lista para funcionar. El proyecto no adolece de falta de recursos materiales, herramientas digitales ni conocimientos operativos de campo. El reto interno es exclusivamente **comercial y de validación de mercado**. La hibridez operativa-técnica de Alexander Suárez es la pieza que permite a Sistreg competir en un mercado de grandes proveedores sin tener su estructura de costes.
 
-El emprendedor no identifica actualmente una parte técnica que no se sienta capaz de vender profesionalmente. Aun así, la prioridad no debe ser demostrar complejidad técnica, sino convertir esa capacidad en soluciones comprensibles, acotadas y vendibles.
+La estrategia interna debe ser la de un "especialista quirúrgico": aprovechar la agilidad y la capacidad de decisión inmediata para detectar problemas muy específicos en clientes seleccionados de Zaragoza, demostrando que una estructura de autoempleo profesional puede ofrecer soluciones de control operativo más eficaces, cercanas y rentables que las consultoras generalistas. En última instancia, la viabilidad de Sistreg dependerá de la capacidad de su promotor para convertir su fortaleza técnica en una actividad comercial recurrente y profesional antes de agotar el margen de seguridad de seis meses establecido en este plan. La viabilidad técnica está garantizada por la experiencia previa; el éxito final lo determinará la perseverancia comercial y la capacidad de comunicar esta ventaja competitiva única en el exigente y competitivo mercado logístico de Aragón, asegurando un crecimiento sólido y una posición de autoridad en el sector de la digitalización operativa.
 
-Desde el punto de vista interno, el riesgo no está en la falta de habilidad técnica, sino en construir soluciones demasiado amplias, demasiado personalizadas o difíciles de explicar comercialmente. Por ello, la capacidad técnica debe ponerse al servicio del problema operativo concreto: controlar evidencias, validar documentación, detectar bloqueos e identificar qué operaciones están listas para facturar o cobrar.
 
----
-
-## 3.3.4. Capacidades de gestión
-
-El proyecto prevé contar con gestoría para la gestión fiscal, contable y de facturación desde el inicio de la actividad formal. Esta decisión reduce el riesgo administrativo y permite que el emprendedor concentre su esfuerzo en la captación comercial, el diagnóstico de procesos y la ejecución técnica de los proyectos.
-
-La gestión interna del negocio deberá apoyarse en herramientas sencillas de control: registro de clientes contactados, diagnósticos realizados, propuestas enviadas, proyectos aceptados, horas dedicadas, facturas emitidas, cobros pendientes y tareas de seguimiento.
-
-Aunque el proyecto tiene capacidad para iniciar con una estructura ligera, será importante no descuidar la gestión básica. En servicios B2B, el desorden administrativo puede generar retrasos, errores de facturación, pérdida de seguimiento comercial o problemas de tesorería.
-
-Por tanto, la gestión inicial deberá combinar dos elementos:
-
-* gestoría externa para fiscalidad, contabilidad y facturación;
-* control interno sencillo para seguimiento comercial, operativo y financiero básico.
-
-No se prevé contratar asesoría legal especializada desde el primer momento. Sin embargo, antes de firmar proyectos con clientes será necesario revisar contratos de prestación de servicios, confidencialidad, tratamiento de datos, propiedad intelectual, responsabilidad por errores y condiciones de soporte.
-
----
-
-## 3.3.5. Capacidades comerciales
-
-La capacidad comercial es una de las áreas internas más sensibles del proyecto.
-
-El emprendedor se sitúa en un punto intermedio respecto a visitas y conversaciones con empresarios. No se identifica como una incapacidad total, pero tampoco como una fortaleza plenamente consolidada. Esto significa que la venta deberá estructurarse de forma sencilla, práctica y repetible.
-
-El principal reto comercial es que actualmente no existen contactos reales en logística para iniciar primeras visitas de forma inmediata. Esta es una limitación interna relevante, porque el modelo de validación comercial depende precisamente de visitas, contactos directos y diagnósticos iniciales.
-
-Por tanto, el proyecto deberá priorizar la construcción de una rutina comercial básica:
-
-* crear una lista inicial de empresas objetivo;
-* identificar responsables de gerencia, tráfico, administración, operaciones o facturación;
-* preparar un mensaje claro centrado en bloqueo documental y facturación;
-* solicitar visitas o conversaciones breves;
-* ofrecer un diagnóstico inicial gratuito, limitado a una sola vez por cliente;
-* registrar respuestas, objeciones y señales de interés;
-* medir cuántas conversaciones pasan a propuesta pagada.
-
-La venta no debe plantearse como una presentación tecnológica. Debe partir del problema operativo del cliente: operaciones realizadas que no se pueden cerrar, facturar o cobrar con agilidad por falta de evidencia, validación o trazabilidad.
-
-Esta área será clave para validar si la iniciativa puede convertirse en negocio. La capacidad técnica existe, pero el proyecto necesita demostrar que puede abrir conversaciones comerciales y convertir problemas detectados en proyectos pagados.
 
 ---
-
-## 3.3.6. Capacidad económica y financiera inicial
-
-El proyecto cuenta con una capacidad económica inicial estimada de aproximadamente seis meses de margen para arrancar sin depender de un sueldo completo procedente de la actividad.
-
-Esta situación permite iniciar de forma prudente, sin local, sin empleados, sin almacén y sin una estructura fija pesada. El arranque desde casa o espacio propio reduce la inversión inicial y permite concentrar los recursos en validación comercial, herramientas básicas, gestoría, materiales comerciales y desarrollo de primeras soluciones.
-
-La aportación propia prevista de **5.000 €** permite cubrir la inversión inicial estimada en torno a **3.110 €** y deja un margen inicial de tesorería para gastos de arranque. No obstante, este margen no debe interpretarse como garantía de sostenibilidad indefinida ni como cobertura completa de todos los gastos personales del promotor. La suficiencia real dependerá del control de gastos, de la velocidad de validación comercial y de la entrada de primeros proyectos pagados.
-
-No obstante, seis meses también representan un límite. El proyecto deberá usar ese plazo para validar tres aspectos críticos:
-
-1. si las empresas aceptan conversaciones o visitas;
-2. si el problema documental y de facturación es reconocido como prioritario;
-3. si existe disposición a pagar por una solución posterior al diagnóstico.
-
-La capacidad financiera inicial permite empezar, pero no permite alargar indefinidamente la fase de validación sin resultados. Por eso será importante trabajar con un escenario conservador, controlar gastos mensuales y evitar inversiones no esenciales antes de contar con señales comerciales reales.
-
----
-
-## 3.3.7. Recursos materiales disponibles
-
-El proyecto dispone de los recursos materiales básicos para iniciar la actividad:
-
-* ordenador;
-* móvil;
-* conexión a internet;
-* software y herramientas digitales básicas;
-* espacio de trabajo desde casa.
-
-Estos recursos son suficientes para comenzar con una estructura ligera, realizar prospección, preparar diagnósticos, diseñar soluciones, documentar propuestas, ejecutar desarrollos iniciales y mantener comunicación con clientes.
-
-El proyecto no requiere local abierto al público, maquinaria, stock, vehículos ni instalaciones logísticas propias. Esta es una ventaja interna porque reduce costes fijos y permite enfocar la inversión inicial en capacidades comerciales, herramientas de trabajo y validación del modelo.
-
-La infraestructura material actual permite iniciar, pero deberá revisarse conforme aumente la complejidad de los proyectos. Si aparecen clientes con mayores exigencias de seguridad, integración, soporte o documentación, podrían ser necesarias herramientas adicionales, entornos de prueba, soluciones de almacenamiento seguro o servicios profesionales complementarios.
-
----
-
-## 3.3.8. Apoyo externo
-
-El proyecto contará con **Claudia Bautista** como colaboradora fundacional no societaria y apoyo estratégico externo de validación operativa. Su participación será parcial y flexible, compatible con su actividad profesional actual y sin coste fijo inicial para el proyecto.
-
-Su papel no debe entenderse como socia, empleada ni recurso operativo fijo, sino como contraste especializado para revisar la coherencia logística de los enfoques, validar problemas reales del sector, aportar visión de cliente y apoyar la lectura práctica de determinados casos.
-
-Además, **Valentina** podrá participar como colaboradora freelance externa en proyectos concretos que requieran apoyo en diseño de interfaces, experiencia de usuario o adaptación visual de pantallas para equipos operativos. Su participación será puntual, por proyecto y condicionada a necesidad, presupuesto y alcance.
-
-Se deberá evitar depender de apoyos informales para funciones críticas del negocio. La captación, diagnóstico, propuesta, ejecución, documentación y relación con el cliente deberán estar bajo control directo del emprendedor o apoyarse en colaboradores formalizados cuando el proyecto lo requiera.
-
-Además, se prevé contar con gestoría para la parte fiscal, contable y de facturación desde el inicio de la actividad formal. En cambio, la asesoría legal especializada no estará contratada desde el primer momento, por lo que deberá activarse antes de firmar proyectos que impliquen tratamiento de datos, responsabilidad operativa relevante, confidencialidad o desarrollo de soluciones críticas para el cliente.
-
----
-
-## 3.3.9. Capacidad de prestación del servicio
-
-La capacidad inicial de prestación del servicio debe ser prudente y realista.
-
-El emprendedor estima que puede realizar entre cuatro y seis diagnósticos gratuitos al mes sin saturarse. Este volumen es adecuado para una fase inicial de validación, siempre que cada diagnóstico tenga alcance limitado y no se convierta en consultoría gratuita extensa.
-
-El diagnóstico inicial deberá servir para:
-
-* identificar si existe un bloqueo operativo real;
-* entender el flujo actual del cliente;
-* detectar documentos, evidencias o validaciones críticas;
-* valorar si el problema tiene impacto económico;
-* decidir si tiene sentido presentar una propuesta pagada.
-
-En cuanto a proyectos pagados, la capacidad inicial estimada es de uno a dos proyectos en paralelo, dependiendo de su tamaño y complejidad. Esta limitación es razonable para una estructura unipersonal y debe respetarse para no comprometer calidad, plazos o seguimiento.
-
-La capacidad operativa inicial no debe medirse solo por número de clientes, sino por carga real de trabajo. Un proyecto pequeño puede ser compatible con otro en paralelo, pero un proyecto complejo de integración, documentación y pruebas puede requerir dedicación prioritaria.
-
-Por tanto, la fase inicial debe evitar vender más capacidad de la que se puede entregar.
-
----
-
-## 3.3.10. Calidad y control de entrega
-
-El control de calidad se basará inicialmente en pruebas de testeo antes de entregar una solución al cliente.
-
-Estas pruebas deberán confirmar que la solución cumple el objetivo acordado, que el flujo funciona, que los datos se procesan correctamente y que el cliente puede utilizar el sistema sin depender de instrucciones improvisadas.
-
-Antes de considerar una solución lista para entrega, el proyecto deberá revisar como mínimo:
-
-* que el problema acordado está cubierto;
-* que el flujo funciona de inicio a fin;
-* que los datos de entrada y salida son coherentes;
-* que se han probado casos normales y casos con error;
-* que las alertas, registros o validaciones funcionan;
-* que el cliente entiende cómo usar la solución;
-* que queda documentado qué incluye y qué no incluye;
-* que existen condiciones claras de soporte y corrección.
-
-Este control de calidad es importante porque la futura actividad trabajará sobre procesos sensibles: evidencias, documentación, incidencias, facturación, cobro y datos operativos. Un error puede afectar la confianza del cliente, retrasar una factura o generar reprocesos.
-
-Por ello, la calidad no debe entenderse solo como que “el sistema funciona”, sino como que el sistema ayuda a controlar mejor el proceso sin añadir complejidad innecesaria.
-
----
-
-## 3.3.11. Limitaciones internas actuales
-
-El principal límite interno del proyecto está en la parte comercial: ventas y generación de clientes.
-
-El proyecto cuenta con capacidad técnica, recursos básicos y foco estratégico, pero todavía no dispone de contactos reales en logística ni de clientes validados. Esto convierte la captación comercial en la prioridad interna más importante.
-
-Las principales limitaciones actuales son:
-
-| Limitación                                       | Impacto                                                | Acción necesaria                                                |
-| ------------------------------------------------ | ------------------------------------------------------ | --------------------------------------------------------------- |
-| Falta de contactos reales en logística           | Dificulta iniciar visitas y validación comercial       | Construir lista de empresas objetivo y activar contacto directo |
-| Capacidad comercial en término medio             | Puede dificultar cierre de primeras oportunidades      | Preparar guion, diagnóstico y seguimiento                       |
-| Manejo regular de incertidumbre y rechazo        | Puede afectar constancia comercial                     | Usar rutina semanal y métricas simples                          |
-| Ausencia inicial de asesoría legal especializada | Riesgo en contratos, datos y responsabilidad           | Revisar antes de firmar proyectos con clientes                  |
-| Capacidad operativa limitada                     | Riesgo de saturación si se venden demasiados proyectos | Limitar proyectos simultáneos a 1-2 al inicio                   |
-| Dependencia del emprendedor                      | El negocio depende de una sola persona                 | Documentar procesos y evitar sobrecarga                         |
-| Necesidad de desarrollar un núcleo técnico reutilizable | Si cada proyecto se construye desde cero, el modelo puede volverse artesanal y poco escalable | Crear componentes reutilizables: plantillas, reglas de validación, conectores, tableros y checklists técnicos |
-
-Estas limitaciones no invalidan el proyecto, pero obligan a una estrategia de entrada controlada. La iniciativa debe validar antes de escalar.
-
----
-
-## 3.3.12. Hipótesis internas críticas
-
-El análisis interno identifica varias hipótesis que deberán comprobarse durante la puesta en marcha.
-
-| Hipótesis interna                                               | Riesgo si falla                                     | Validación recomendada                                   |
-| --------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
-| Es posible conseguir primeras visitas sin contactos actuales    | No se valida el mercado dentro del plazo disponible | Crear listado de empresas y medir contactos/reuniones    |
-| El diagnóstico gratuito genera confianza                        | Se consume tiempo sin conversión comercial          | Medir diagnósticos realizados y propuestas aceptadas     |
-| La capacidad técnica avanzada se convierte en ofertas vendibles | Se crean soluciones difíciles de explicar o vender  | Paquetizar el servicio y usar lenguaje operativo         |
-| Se pueden ejecutar 1-2 proyectos en paralelo                    | Riesgo de saturación o pérdida de calidad           | Medir horas reales en los primeros proyectos             |
-| Se puede sostener la incertidumbre comercial                    | Riesgo de bloqueo o pérdida de ritmo                | Establecer rutina semanal de prospección y revisión      |
-| Seis meses de margen son suficientes para validar               | Presión financiera si no hay señales comerciales    | Controlar gastos y definir hitos mensuales de validación |
-
-Estas hipótesis deberán alimentar el futuro plan de implantación y la decisión Go / Pivot / No-Go.
-
----
-
-## 3.3.13. Primer cuadro de capacidades internas
-
-| Área interna       | Situación actual                                              |    ¿Ayuda o limita? | Nivel de importancia | Acción necesaria                                  |
-| ------------------ | ------------------------------------------------------------- | ------------------: | -------------------: | ------------------------------------------------- |
-| Técnica            | Capacidad avanzada para crear soluciones funcionales          |               Ayuda |                 Alta | Convertir capacidad técnica en ofertas claras     |
-| Logística / sector | Conocimiento del entorno y procesos logísticos                |               Ayuda |                 Alta | Usarlo para hablar el lenguaje del cliente        |
-| Personal           | Constancia y orden trabajando solo                            |               Ayuda |                 Alta | Mantener rutinas de trabajo y seguimiento         |
-| Comercial          | Nivel intermedio en visitas y conversaciones                  | Limita parcialmente |                 Alta | Preparar guion comercial y proceso de diagnóstico |
-| Clientes           | Sin contactos reales iniciales en logística                   |              Limita |             Muy alta | Construir lista de prospección y activar visitas  |
-| Económica          | Margen aproximado de seis meses                               |   Ayuda, con límite |                 Alta | Validar mercado dentro del plazo disponible       |
-| Recursos           | Ordenador, móvil, internet, software y espacio disponibles    |               Ayuda |                 Alta | Mantener estructura ligera                        |
-| Apoyo externo      | Claudia como colaboradora fundacional no societaria para validación operativa; Valentina como apoyo freelance externo puntual para UX/UI cuando aplique | Ayuda, con límite |                Media | Usar apoyos externos como contraste y refuerzo, sin tratarlos como recursos operativos fijos |
-| Legal              | Sin asesoría legal especializada inicial                      |              Limita |                 Alta | Revisar antes de firmar proyectos reales          |
-| Operativa          | Capacidad de 4-6 diagnósticos/mes y 1-2 proyectos simultáneos |   Ayuda, con límite |                 Alta | No superar capacidad inicial                      |
-| Calidad            | Pruebas de testeo antes de entrega                            |               Ayuda |                 Alta | Crear checklist de pruebas                        |
-
----
-
-## 3.3.14. Diagnóstico interno
-
-El análisis interno muestra que **Sistreg** tiene una base suficiente para iniciar la actividad de forma ligera y controlada.
-
-Las principales fortalezas internas son la capacidad técnica avanzada, el conocimiento aplicado del entorno logístico, la claridad del problema a resolver, la disponibilidad de recursos materiales básicos y la posibilidad de iniciar sin local ni estructura pesada.
-
-Las principales debilidades internas están en la captación comercial, la ausencia de contactos iniciales en logística, la falta de clientes validados, el manejo regular de la incertidumbre comercial y la necesidad de apoyo legal especializado antes de formalizar proyectos con clientes.
-
-La conclusión interna es clara: el proyecto no está limitado principalmente por la capacidad técnica, sino por la capacidad de convertir esa propuesta en conversaciones comerciales reales, diagnósticos útiles y proyectos pagados.
-
-Por tanto, el siguiente avance del proyecto deberá concentrarse en validar el mercado con acciones comerciales concretas, sin sobredimensionar la estructura ni asumir una demanda que todavía no ha sido comprobada.
-
----
-
-## 3.3.15. Conclusión estratégica
-
-La futura actividad cuenta con condiciones internas suficientes para iniciar una fase de validación comercial y operativa. El proyecto puede comenzar desde casa, con recursos materiales básicos, capacidad técnica avanzada y una estructura ligera que reduce costes fijos.
-
-La estrategia inicial debe aprovechar estas fortalezas, pero también reconocer sus límites. La principal prioridad será construir una base de primeros contactos, realizar diagnósticos gratuitos controlados y comprobar si el problema de control documental y facturación genera disposición real de pago.
-
-El proyecto debe evitar dos riesgos internos: confiar demasiado en la capacidad técnica sin validar ventas, y aceptar más proyectos de los que puede entregar con calidad. Para reducir esos riesgos, la fase inicial deberá trabajar con alcance limitado, control de calidad mediante pruebas, seguimiento comercial simple y revisión mensual de avances.
-
-El análisis interno permite avanzar hacia el DAFO/CAME con una lectura clara: **Sistreg** tiene fortaleza técnica y operativa, pero su viabilidad inicial dependerá de resolver la debilidad comercial y generar primeros clientes reales.
+*Nota: La ejecución técnica de estos procesos se detalla en el Capítulo 6.2.*
