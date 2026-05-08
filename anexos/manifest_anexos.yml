@@ -1,0 +1,18 @@
+# Manifiesto de Anexos Sistreg
+# Determina qué anexos se incluyen en el Plan de Empresa y cómo se compilan.
+
+anexos:
+  # Ejemplo de anexo interno (Markdown)
+  # - id: "A01"
+  #   titulo: "CV Resumido Promotor"
+  #   ruta: "anexos/markdown/A01_cv_promotor.md"
+  #   tipo: "markdown"
+  #   incluir_en_documento: true
+
+  # Ejemplo de anexo externo (Excel)
+  # - id: "A02"
+  #   titulo: "Plan Financiero Completo"
+  #   ruta: "anexos/finanzas/A02_plan_financiero.xlsx"
+  #   tipo: "excel"
+  #   incluir_en_documento: false
+  #   descripcion: "Hoja de cálculo detallada con previsiones a 3 años."
