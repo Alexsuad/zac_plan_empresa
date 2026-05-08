@@ -1,373 +1,94 @@
-
-
 # 6.2. Operaciones
 
-## 6.2.1. Enfoque operativo de Sistreg
-
-La operativa de **Sistreg** se basa en una idea central: el cliente no compra tecnología, compra **control, seguimiento, trazabilidad y capacidad de decisión** sobre procesos logísticos críticos.
-
-La tecnología, las automatizaciones, las bases de datos, los formularios, los paneles de seguimiento o la inteligencia artificial son medios internos para producir ese resultado. Por tanto, la operación del proyecto no debe organizarse alrededor de “qué herramienta se usa”, sino alrededor de **qué bloqueo operativo se resuelve**.
-
-El enfoque operativo se resume en tres niveles:
-
-| Nivel                | Función                                                                                                    |
-| -------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Logística            | Marco de actuación y nicho inicial.                                                                        |
-| Beneficio al cliente | Control, seguimiento, trazabilidad, menos bloqueos y mejor cierre operación → evidencia → factura → cobro. |
-| Cómo se hace         | Diagnóstico, arranque guiado, diseño, implementación, pruebas, entrega, mantenimiento y mejora.            |
-
-Sistreg actuará inicialmente en procesos logísticos donde exista una relación clara entre operación, documentación, incidencias, facturación, cobro y margen. Esta definición mantiene el foco y evita convertir el proyecto en una oferta genérica de tecnología, automatización o consultoría.
-
----
-
-## 6.2.2. Marco de actuación: logística como nicho inicial
-
-El marco inicial de actuación será el sector logístico, especialmente pequeñas y medianas empresas de transporte, transitarios, operadores de comercio exterior y empresas con procesos documentales intensivos en Zaragoza y Aragón.
-
-Este foco es coherente con la idea de negocio, donde Sistreg se define como una propuesta de sistemas de control operativo y trazabilidad documental para empresas logísticas, con especial atención al flujo operación → evidencia → factura → cobro. 
-
-El proyecto no prestará servicios de transporte, almacenaje ni intermediación logística. Su actividad se ubicará en servicios B2B de diseño e implementación de sistemas de control operativo, trazabilidad documental y mejora de procesos. 
-
-Por tanto, la logística no se entiende como una actividad que Sistreg ejecuta directamente, sino como el **nicho operativo donde se aplican sus soluciones**.
-
----
-
-## 6.2.3. Beneficio operativo para el cliente
-
-El beneficio principal para el cliente será recuperar visibilidad y control sobre procesos que hoy dependen de documentos dispersos, validaciones manuales, hojas de cálculo, correos electrónicos, llamadas y seguimiento informal.
-
-El cliente debe percibir resultados como:
-
-* saber qué operaciones están listas para facturar;
-* identificar qué operaciones están bloqueadas y por qué;
-* reducir tiempo de revisión documental;
-* disminuir errores de validación;
-* mejorar la trazabilidad de incidencias;
-* centralizar evidencias relevantes;
-* detectar discrepancias antes de pagar o cobrar;
-* mejorar el seguimiento de operaciones críticas;
-* reducir dependencia de controles manuales;
-* contar con información más clara para tomar decisiones.
-
-El objetivo no será prometer ahorro inmediato ni automatización total, sino ayudar al cliente a avanzar hacia un modelo más controlado, medible y trazable.
-
----
-
-## 6.2.4. Procesos objetivo
-
-Los primeros procesos objetivo serán aquellos donde exista una conexión directa entre operación logística, evidencia documental, facturación y cobro.
-
-Los casos prioritarios serán:
-
-| Proceso                    | Problema habitual                                                        |
-| -------------------------- | ------------------------------------------------------------------------ |
-| CMR, albaranes y POD       | Documentos incompletos, perdidos o recibidos tarde.                      |
-| Facturación                | Operaciones realizadas que no pueden facturarse por falta de evidencia.  |
-| Incidencias                | Problemas no registrados o sin seguimiento claro.                        |
-| Validación de tarifas      | Diferencias entre tarifa pactada, coste real o factura recibida.         |
-| Control documental         | Información dispersa entre correos, carpetas, Excel y sistemas internos. |
-| Seguimiento administrativo | Horas de revisión manual para saber qué falta y quién debe actuar.       |
-
-El concepto clave es la diferencia entre **operación realizada** y **operación cerrada**. Una entrega puede estar físicamente realizada, pero seguir abierta desde el punto de vista documental, administrativo o económico si falta una evidencia, una validación o una incidencia por resolver. 
-
-El flujo que conecta la operación realizada, la evidencia documental, la facturación y el cobro funciona como primer caso de aplicación operativa de Sistreg. En algunos documentos internos puede aparecer asociado a la lógica Doc-to-Cash, pero dentro del plan debe entenderse como un ejemplo práctico de cómo el sistema ayuda a ordenar evidencias, estados y bloqueos con impacto financiero.
-
----
-
-## 6.2.5. Flujo de prestación del servicio
-
-La prestación del servicio se organizará de forma progresiva para reducir riesgo, evitar proyectos sobredimensionados y validar valor con datos reales.
-
-El flujo operativo será:
-
-```text
-Contacto inicial
-→ Diagnóstico gratuito
-→ Propuesta de arranque guiado
-→ Arranque guiado con datos reales
-→ Diseño e implementación del sistema mínimo funcional
-→ Pruebas y validación
-→ Entrega y formación básica
-→ Mantenimiento o mejora continua opcional
-```
-
-Este flujo permite que el cliente no tenga que comprometerse desde el inicio con una gran implantación. Primero se identifica el bloqueo, después se acota un primer alcance y luego se implementa una solución proporcional al problema.
-
----
-
-## 6.2.6. Diagnóstico inicial
-
-El diagnóstico inicial será gratuito y se realizará una sola vez por cliente. Tendrá una duración aproximada de **1,5 a 2 horas**.
-
-Su objetivo será entender un flujo crítico, identificar posibles puntos de bloqueo y determinar si existe una oportunidad real para un arranque guiado pagado.
-
-El diagnóstico podrá incluir:
-
-* conversación con el responsable del proceso;
-* revisión general del flujo operativo;
-* identificación de documentos críticos;
-* detección de puntos de bloqueo;
-* revisión de cómo se controlan incidencias;
-* identificación de tareas manuales repetitivas;
-* análisis preliminar de cómo se conecta operación, evidencia, factura y cobro;
-* identificación del impacto del bloqueo: tiempo administrativo consumido, errores repetidos, retrasos de facturación, incidencias no resueltas, pérdida de trazabilidad o impacto potencial en margen;
-* valoración inicial de si el problema tiene suficiente impacto para intervenir.
-
-El diagnóstico inicial no se limitará a describir el proceso. También buscará estimar, de forma preliminar y prudente, el coste del bloqueo detectado. Esta estimación no será una promesa de ahorro, sino una base para decidir si tiene sentido proponer un arranque guiado o una implementación.
-
-El diagnóstico no debe convertirse en consultoría gratuita extensa. Por eso, el entregable será un **resumen breve de diagnóstico**, de una a dos páginas máximo.
-
-Este resumen podrá incluir:
-
-| Elemento                 | Alcance                                                         |
-| ------------------------ | --------------------------------------------------------------- |
-| Flujo revisado           | Descripción breve del proceso analizado.                        |
-| Bloqueos detectados      | Principales puntos de fricción observados.                      |
-| Impacto probable         | Relación con tiempo, errores, facturación, cobro o seguimiento; estimación preliminar del coste del bloqueo. |
-| Recomendación            | Si tiene sentido pasar a un arranque guiado.                    |
-| Alcance inicial sugerido | Primer flujo o problema que podría trabajarse.                  |
-
-No incluirá diseño técnico completo, automatizaciones detalladas, arquitectura de solución ni informe consultivo extenso.
-
----
-
-## 6.2.7. Arranque guiado
-
-El primer servicio pagado se denominará **arranque guiado**.
-
-El arranque guiado será una intervención acotada sobre un flujo real del cliente. Su duración dependerá del caso, del volumen de información, de la disponibilidad del cliente, de la complejidad documental y del nivel de integración necesario. Por tanto, no se fijará una duración única para todos los proyectos.
-
-El objetivo del arranque guiado será pasar de una necesidad detectada a una primera solución funcional y validada.
-
-Podrá incluir:
-
-* definición detallada del flujo objetivo;
-* selección de datos o expedientes reales de prueba;
-* identificación de reglas de control;
-* diseño de estructura mínima de seguimiento;
-* definición de evidencias necesarias;
-* creación de un sistema mínimo funcional;
-* prueba con casos reales;
-* ajuste según feedback del cliente;
-* preparación de una primera versión de entrega.
-
-El arranque guiado no debe venderse como un análisis teórico. Debe orientarse a producir algo concreto: una estructura de control, una herramienta mínima, un tablero, una base de seguimiento, una automatización o una combinación de elementos que permita al cliente ver el bloqueo con mayor claridad y empezar a controlarlo.
-
----
-
-## 6.2.8. Diseño e implementación del sistema mínimo funcional
-
-La implementación partirá de un criterio Lean: construir solo lo necesario para validar el valor operativo del sistema.
-
-El sistema mínimo funcional podrá incluir, según el caso:
-
-* base de datos o estructura organizada de información;
-* formulario de captura de evidencias;
-* tabla de control;
-* tablero de seguimiento;
-* reglas de validación;
-* alertas o avisos;
-* automatización de clasificación documental;
-* conexión básica con herramientas existentes;
-* reportes operativos;
-* checklist de operación lista para facturar;
-* registro de incidencias y estados.
-
-La tecnología concreta dependerá del cliente, sus herramientas actuales, su presupuesto, su capacidad de adopción y el problema detectado. Sistreg podrá apoyarse en bases de datos, automatizaciones, formularios, paneles, scripts, integraciones o inteligencia artificial cuando aporten valor real, pero no se presentará una herramienta concreta como solución universal.
-
-El principio operativo será:
-
-> La solución debe ser proporcional al bloqueo detectado.
-
----
-
-## 6.2.9. Pruebas, validación y entrega
-
-Antes de entregar una solución al cliente, Sistreg deberá realizar pruebas funcionales y validación con datos reales.
-
-Las pruebas deberán comprobar:
-
-* que los datos se registran correctamente;
-* que las reglas de control funcionan;
-* que las evidencias quedan asociadas al expediente, viaje, operación o caso correspondiente;
-* que los estados del proceso son comprensibles;
-* que las alertas o validaciones no generan ruido innecesario;
-* que el usuario puede entender qué falta, qué está bloqueado y qué puede avanzar;
-* que la herramienta no añade más carga de trabajo que la que elimina;
-* que el flujo tiene sentido para operaciones, administración o facturación.
-
-La entrega al cliente deberá incluir, como mínimo:
-
-| Entregable                      | Función                                              |
-| ------------------------------- | ---------------------------------------------------- |
-| Sistema o herramienta funcional | Elemento principal de control.                       |
-| Reglas de uso                   | Cómo se registra, revisa y actualiza la información. |
-| Explicación del flujo           | Qué estados existen y qué significan.                |
-| Validación con casos reales     | Prueba del sistema sobre ejemplos del cliente.       |
-| Recomendaciones de uso          | Cómo incorporar el sistema al trabajo diario.        |
-| Pendientes o mejoras futuras    | Cambios que podrían abordarse después.               |
-
-La entrega debe ser comprensible para el cliente. No debe depender de explicaciones técnicas complejas ni de conocimiento informático avanzado.
-
----
-
-## 6.2.10. Mantenimiento y mejora continua
-
-Después de la entrega, se ofrecerá un servicio opcional de mantenimiento y mejora continua.
-
-Este servicio podrá estructurarse como una mensualidad con una bolsa determinada de horas al mes, ajustada al tamaño del cliente, la complejidad del sistema y el nivel de soporte requerido.
-
-El mantenimiento podrá incluir:
-
-* revisión de incidencias;
-* ajuste de reglas;
-* cambios menores en formularios, tablas o reportes;
-* actualización de documentos o validaciones;
-* mejora de automatizaciones;
-* reuniones periódicas;
-* seguimiento de KPIs;
-* soporte por canales acordados;
-* análisis de nuevas necesidades;
-* propuesta de mejoras evolutivas.
-
-Los canales de soporte podrán definirse según cada cliente. Inicialmente se podrá trabajar con una combinación de correo electrónico, reuniones programadas y, cuando sea necesario, mensajería directa para incidencias operativas acotadas.
-
-No se debe prometer soporte ilimitado. Cada acuerdo deberá definir horas incluidas, tiempos de respuesta orientativos, alcance del mantenimiento y qué cambios quedarían fuera de la mensualidad.
-
----
-
-## 6.2.11. Medios internos y herramientas de trabajo
-
-Los medios internos de Sistreg podrán variar según el proyecto. La elección de herramientas se hará después de entender el problema, no antes.
-
-Podrán utilizarse:
-
-* hojas de cálculo estructuradas;
-* bases de datos;
-* formularios;
-* paneles de control;
-* scripts;
-* herramientas de automatización;
-* soluciones web ligeras;
-* integraciones mediante API cuando sea viable;
-* inteligencia artificial para clasificación, apoyo documental o análisis, si aporta valor real;
-* documentación operativa;
-* checklists;
-* tableros de seguimiento.
-
-Sin embargo, en la comunicación con el cliente se evitará vender la solución desde la tecnología. El cliente debe entender el resultado operativo:
-
-> qué se controla, qué se visualiza, qué se desbloquea y qué decisión puede tomar.
-
-La herramienta será importante, pero no será el centro del mensaje.
-
----
-
-## 6.2.12. Control de calidad y KPIs operativos
-
-El control de calidad tendrá dos dimensiones: calidad de la solución y calidad del impacto operativo.
-
-La calidad de la solución se evaluará con:
-
-* pruebas funcionales;
-* revisión de datos;
-* validación con usuarios;
-* contraste operativo;
-* verificación de reglas;
-* revisión de errores;
-* claridad de uso;
-* estabilidad del flujo.
-
-La calidad del impacto operativo podrá medirse con indicadores como:
-
-| KPI                                                         | Qué permite medir                            |
-| ----------------------------------------------------------- | -------------------------------------------- |
-| Tiempo desde fin de viaje hasta factura emitida             | Velocidad del cierre documental y económico. |
-| Porcentaje de operaciones bloqueadas por falta de evidencia | Nivel de control documental.                 |
-| Horas semanales dedicadas a punteo administrativo           | Carga manual del equipo.                     |
-| Porcentaje de incidencias sin evidencia completa            | Calidad del registro operativo.              |
-| Tiempo de cierre de incidencias                             | Agilidad de resolución.                      |
-| Porcentaje de operaciones listas para facturar              | Capacidad de seguimiento económico.          |
-| Desviaciones entre tarifa pactada y coste real              | Protección de margen.                        |
-
-Estos KPIs no deben presentarse como promesas garantizadas. Se utilizarán como indicadores de seguimiento para entender si la solución está produciendo valor.
-
----
-
-## 6.2.13. Capacidad inicial y límites operativos
-
-Durante la fase inicial, Sistreg mantendrá una capacidad operativa prudente.
-
-La capacidad estimada será:
-
-| Actividad                     | Capacidad inicial estimada                                                                     |
-| ----------------------------- | ---------------------------------------------------------------------------------------------- |
-| Diagnósticos gratuitos        | 4 a 6 al mes.                                                                                  |
-| Proyectos pagados en paralelo | 1 a 2, según tamaño y complejidad.                                                             |
-| Dedicación del promotor       | 40 horas semanales.                                                                            |
-| Apoyo de Claudia              | Parcial y flexible, hasta aproximadamente 20 horas semanales según disponibilidad y necesidad. |
-
-Esta capacidad inicial permite controlar calidad, evitar sobrecarga y mantener cercanía con los primeros clientes.
-
-No se aceptarán proyectos cuando:
-
-* no exista un problema operativo claro;
-* el cliente busque solo “poner IA” sin dolor definido;
-* no haya responsable interno asignado;
-* no exista acceso mínimo a datos o documentos necesarios;
-* el alcance sea demasiado amplio para la fase inicial;
-* el cliente espere una implantación ERP, WMS o TMS completa;
-* no haya disposición a participar en pruebas y validaciones;
-* el proyecto dependa de integraciones complejas no viables en la fase inicial.
-
-El cliente deberá asignar idealmente un responsable interno o punto de contacto. Esta figura será clave para resolver dudas, validar flujos, facilitar información y asegurar adopción.
-
----
-
-## 6.2.14. Riesgos operativos y mitigaciones
-
-La operación de Sistreg presenta riesgos que deben gestionarse desde el inicio.
-
-| Riesgo                                             | Mitigación                                                                                       |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| El cliente no percibe el problema como prioritario | Usar diagnóstico breve, preguntas concretas y ejemplos de bloqueo económico.                     |
-| El servicio se percibe como consultoría genérica   | Enfocar el trabajo en herramienta funcional, flujo concreto y resultado operativo.               |
-| El proyecto suena a IA o automatización de moda    | Hablar primero de control, evidencia y trazabilidad; tecnología solo como medio.                 |
-| Cada cliente exige algo completamente distinto     | Construir capacidades núcleo reutilizables: evidencias, estados, reglas, tableros y seguimiento. |
-| El alcance crece demasiado                         | Definir un arranque guiado acotado y separar mejoras futuras.                                    |
-| El cliente no entrega información                  | Exigir responsable interno y datos mínimos para avanzar.                                         |
-| La solución no se adopta                           | Diseñar con usuarios reales y validar con casos de trabajo diario.                               |
-| Se prometen resultados sin datos                   | Medir antes y después; hablar de hipótesis de mejora, no de garantías.                           |
-
-El objetivo operativo será avanzar con prudencia, validando cada paso con datos reales y evitando compromisos que superen la capacidad inicial del proyecto.
-
----
-
-## 6.2.15. Pendientes de validación operativa
-
-Aunque el modelo operativo está definido, todavía quedan aspectos que deberán validarse con los primeros clientes:
-
-* duración real de los arranques guiados;
-* tiempo medio necesario para implementar un sistema mínimo funcional;
-* herramientas más adecuadas según tipo de cliente;
-* nivel de soporte requerido después de la entrega;
-* alcance de la mensualidad de mantenimiento;
-* coste real de prestación del servicio;
-* capacidad máxima de proyectos simultáneos;
-* grado de participación necesario por parte del cliente;
-* plantillas definitivas de diagnóstico, propuesta y entrega;
-* criterios finales de aceptación de proyectos;
-* tipos de integraciones más frecuentes;
-* respuesta real del usuario operativo ante las herramientas.
-
-Estos pendientes no impiden avanzar. Deben tratarse como hipótesis operativas que se irán ajustando durante la validación comercial y los primeros proyectos pagados.
-
----
-
-## 6.2.16. Conclusión operativa
-
-La operación de Sistreg se basa en prestar un servicio práctico, medible y enfocado en problemas logísticos concretos. El marco de actuación es la logística; el beneficio visible para el cliente es mayor control, seguimiento y trazabilidad; y los medios internos son el diagnóstico, el arranque guiado, el diseño de sistemas mínimos funcionales, las pruebas, la entrega y el mantenimiento.
-
-El cliente no necesita conocer en detalle la tecnología utilizada. Lo importante es que pueda ver qué operaciones están bloqueadas, qué evidencia falta, qué puede facturar, qué incidencia debe resolver y qué decisión debe tomar.
-
-Sistreg debe operar con foco, prudencia y capacidad limitada al inicio. La prioridad no será asumir muchos proyectos, sino entregar bien los primeros, validar valor real, aprender de cada caso y construir una metodología replicable para procesos documentales y operativos críticos.
+## 6.2.1. Marco y Filosofía Operativa de Sistreg
+La operativa de **Sistreg** se aleja de la consultoría tradicional de software para centrarse en una premisa de "artesanía técnica": el cliente no adquiere una herramienta genérica, sino un sistema a medida para el **control, la trazabilidad y la capacidad de decisión** sobre sus procesos logísticos críticos. La tecnología, ya sea mediante automatizaciones, bases de datos o inteligencia artificial, se posiciona únicamente como un medio interno para resolver bloqueos operativos reales que hoy degradan el margen de la pyme y generan estrés administrativo innecesario.
+
+El marco de actuación se sitúa en el sector logístico B2B de Zaragoza y Aragón, aprovechando la densidad industrial del eje PLAZA-Centrovía y la relevancia de Aragón como hub logístico del sur de Europa. Sistreg no opera camiones ni gestiona almacenes de forma directa; su función es actuar como el "sistema nervioso" que permite a la pyme ver lo que antes estaba oculto en hilos de correo, excels dispersos y carpetas físicas. La operación se diseña para ser quirúrgica: se interviene solo donde existe un dolor operativo identificado y con un impacto económico que justifique la inversión en mejora de procesos.
+
+| Nivel de Enfoque | Función Operativa | Impacto Estratégico en el Cliente |
+| :--- | :--- | :--- |
+| **Estratégico** | Diseño de sistemas de control y trazabilidad documental. | Recuperar la visibilidad total sobre la salud de la operación. |
+| **Táctico** | Cierre del ciclo Operación → Evidencia → Factura → Cobro. | Eliminación de facturación retenida por desorden administrativo. |
+| **Operativo** | Diagnóstico, Arranque guiado e Implementación Lean. | Soluciones rápidas, proporcionales y fáciles de adoptar por el equipo. |
+
+## 6.2.2. Procesos Objetivo y Concepto de Cierre Operativo
+Sistreg interviene en aquellos procesos donde la desconexión entre la oficina y el muelle genera pérdidas de información y dinero. El concepto operativo central es la distinción crítica entre **operación realizada** (el camión ha descargado la mercancía física en su destino) y **operación cerrada** (se dispone de la evidencia digital válida, se ha verificado la ausencia de incidencias y el expediente está formalmente validado para facturación). 
+
+En el sector logístico, una operación puede estar realizada pero permanecer "abierta" y bloqueada financieramente durante semanas por la simple falta de un albarán firmado, un sello legible o un código de barras mal procesado. Sistreg actúa como el acelerador que transforma operaciones simplemente realizadas en operaciones cerradas mediante el ordenamiento sistemático de evidencias, estados y bloqueos documentales que agilizan el flujo de caja.
+
+| Proceso Operativo | Problema Habitual Detectado | Valor de la Intervención Sistreg |
+| :--- | :--- | :--- |
+| **CMR, Albaranes y POD** | Documentación que llega tarde, incompleta o se pierde en el tráfico diario. | Digitalización inmediata y vinculación unívoca al expediente de viaje. |
+| **Flujo de Facturación** | Operaciones "en el limbo" que no pueden facturarse por falta de soporte documental. | Checklists automáticos de "Operación lista para facturar" basados en evidencias. |
+| **Gestión de Incidencias** | Problemas en descarga que no se registran y derivan en reclamaciones meses después. | Registro fotográfico y documental en tiempo real con trazabilidad de resolución. |
+| **Validación de Tarifas** | Errores de facturación recibida por falta de cotejo con la tarifa pactada originalmente. | Auditoría automática de discrepancias entre lo operado y lo facturado. |
+| **Control de Estados** | Dependencia del "punteo manual" exhaustivo para saber qué viaje ha terminado realmente. | Tableros de control visual que muestran el estado real de cada expediente. |
+
+Este flujo, a menudo identificado como el ciclo documental-económico, es el primer caso de aplicación operativa de Sistreg. Su éxito radica en demostrar que el control de la información es tan importante como el movimiento físico de la carga.
+
+## 6.2.3. Flujo de Prestación del Servicio
+La operativa de Sistreg se organiza de forma progresiva para reducir el riesgo de rechazo tecnológico y asegurar que cada hora de trabajo del promotor aporte un valor tangible al cliente logístico.
+
+1.  **Diagnóstico inicial:** Identificación del bloqueo principal y su impacto económico estimado en el flujo de trabajo.
+2.  **Arranque guiado:** Primera intervención pagada sobre un flujo real acotado para demostrar la viabilidad de la solución técnica.
+3.  **Implementación del SMF:** Despliegue del Sistema Mínimo Funcional, incluyendo la herramienta, las reglas de negocio y los tableros.
+4.  **Pruebas y Validación:** Verificación con datos históricos y reales para asegurar la robustez de la arquitectura propuesta.
+5.  **Entrega y Formación:** Traspaso del control operativo al cliente con manuales de uso simplificados y reglas de negocio claras.
+6.  **Mantenimiento Evolutivo:** Soporte continuo, resolución de incidencias y ajuste de sistemas según el crecimiento de la operativa.
+
+### Niveles de Intervención Detallados
+
+| Fase de Servicio | Alcance, Medios y Entregables | Duración y Foco |
+| :--- | :--- | :--- |
+| **Diagnóstico** | Entrevista con responsables y revisión de un flujo crítico. Se entrega un informe de "Bloqueos y Oportunidades" de 2 páginas con impacto económico. | **Gratuito.** Una sesión de 1,5h. Foco en la viabilidad y detección de dolor real. |
+| **Arranque Guiado** | Implementación de una solución mínima sobre un flujo acotado (ej. una sola ruta o cliente). Se entrega un prototipo funcional operativo y validado. | **Pago (50% anticipo).** Duración variable. Foco en "Quick Wins" y ROI rápido. |
+| **Implementación** | Despliegue de la arquitectura completa: bases de datos, formularios de captura y paneles de mando. Se entrega el sistema final y el manual de reglas. | **Pago por hitos.** Foco en la integración estructural con la rutina diaria de la empresa. |
+
+## 6.2.4. Diseño, Implementación y Entrega al Cliente
+La implementación operativa sigue un enfoque **Lean**: no se construye nada que no sea estrictamente necesario para eliminar el bloqueo detectado. El cliente no recibe un software cerrado y rígido, sino una "herramienta viva" que puede evolucionar y adaptarse con su negocio sin necesidad de grandes inversiones futuras.
+
+**Componentes del Sistema Mínimo Funcional (SMF):**
+*   **Captura de Evidencias:** Estructura organizada (vía formulario o integración ligera) para centralizar albaranes, PODs y fotos de incidencias de forma inmediata.
+*   **Motor de Reglas:** Lógica interna que valida de forma autónoma si una evidencia es correcta y cumple con los requisitos del cliente para avanzar en el flujo.
+*   **Tablero de Control Operativo:** Visualización simple y en tiempo real para la gerencia y administración (Ej: "Hay 14 expedientes bloqueados por falta de firma").
+*   **Registro de Estados:** Histórico de trazabilidad completo que permite auditar quién, cuándo y cómo se validó cada paso crítico de la operación.
+
+**Proceso de Entrega y Validación Final:**
+Antes de dar por concluida una implementación y realizar la entrega definitiva, Sistreg ejecuta un protocolo de pruebas que garantiza la estabilidad:
+1.  **Integridad de Datos:** Comprobación técnica de que la información no se pierde y los archivos quedan correctamente asociados al viaje o expediente.
+2.  **Usabilidad Operativa:** Validación de que el personal de tráfico o administración puede usar la herramienta de forma intuitiva sin formación técnica avanzada.
+3.  **Reducción de Fricción:** Verificación empírica de que el nuevo proceso no añade más tiempo de gestión que el que pretende ahorrar en el ciclo total.
+
+## 6.2.5. Mantenimiento y Mejora Continua
+El soporte post-entrega es fundamental para la retención del cliente y la estabilidad a largo plazo del sistema implantado.
+*   **Mantenimiento Técnico:** Resolución de incidencias operativas, actualización de integraciones y ajuste de bases de datos ante cambios en el cliente.
+*   **Mejora Evolutiva:** Identificación de nuevas necesidades a medida que el cliente adopta el sistema (ej. añadir un nuevo KPI de rendimiento o un nuevo tipo de alerta).
+*   **Modelo de Soporte:** Se establece una mensualidad con una bolsa de horas definida y transparente. El contacto se realiza de forma directa para asegurar una agilidad operativa total ante bloqueos imprevistos.
+
+## 6.2.6. KPIs y Capacidad Operativa Real
+Sistreg mide su éxito operativo mediante indicadores que reflejan la mejora real en el control y la rentabilidad del cliente, huyendo de métricas de vanidad tecnológica.
+
+| Indicador de Impacto (KPI) | Objetivo de la Medición Operativa |
+| :--- | :--- |
+| **Ciclo de Cierre Documental** | Reducción del tiempo medio entre la descarga física y la validación final para facturar. |
+| **Tasa de Evidencia Perdida** | Porcentaje de documentos que deben reclamarse a posteriori por falta de control inicial. |
+| **Ahorro en Punteo Manual** | Horas liberadas del equipo administrativo al automatizar validaciones de estados y documentos. |
+| **Tiempo de Respuesta a Incidencias** | Velocidad con la que una incidencia registrada en el muelle llega a conocimiento de la gerencia. |
+
+**Capacidad Inicial del Equipo Sistreg:**
+Para mantener la excelencia en el servicio y la cercanía extrema con los primeros clientes, la capacidad operativa se mantendrá bajo un control estricto:
+*   **Diagnósticos:** De 4 a 6 sesiones individuales mensuales.
+*   **Proyectos Activos:** Máximo 2 implementaciones simultáneas en fase crítica de arranque o despliegue.
+*   **Equipo:** Alexander (40h/semana) lidera el diagnóstico, el diseño técnico y la estrategia. Claudia (hasta 20h/semana) apoya en la validación documental, pruebas de usuario final y redacción de manuales operativos.
+
+## 6.2.7. Gestión de Riesgos y Validaciones Pendientes
+La operación de Sistreg contempla riesgos que se gestionan proactivamente. El más crítico es el "alcance infinito" del proyecto, que se mitiga mediante contratos cerrados por fases. Otro riesgo clave es la falta de adopción, que se combate involucrando al usuario operativo desde la fase de diseño del sistema mínimo para que sienta la herramienta como propia y útil.
+
+**Aspectos Críticos a Validar con los Primeros Clientes:**
+*   Ajuste fino de la duración real de un "Arranque Guiado" según el nivel de digitalización previa del cliente.
+*   Identificación de las integraciones tecnológicas más comunes (con ERPs locales o TMS) y su coste de mantenimiento real.
+*   Nivel de resistencia al cambio de los mandos intermedios y diseño de tácticas de mitigación operativa específicas para el sector transporte.
+*   Escalabilidad del soporte mensual ante una base de clientes creciente sin comprometer la agilidad de Alexander.
+
+## 6.2.8. Conclusión Operativa
+En conclusión, la operativa de Sistreg se define como un proceso de **ingeniería de control aplicado a la logística**, donde el valor no reside en la complejidad del código, sino en la capacidad de transformar el caos documental en información útil, estructurada y accionable. La meta final es consolidar una metodología operativa que permita a Sistreg ser el socio de confianza para el cierre económico de las operaciones en el corazón logístico de Aragón, garantizando que cada "operación realizada" se convierta, de forma rápida y segura, en una "operación cerrada" y cobrada.
