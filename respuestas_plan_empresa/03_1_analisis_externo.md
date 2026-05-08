@@ -126,7 +126,7 @@ El análisis externo permite concluir que **Sistreg** nace en un entorno razonab
 
 La oportunidad más clara está en empresas privadas de transporte, transitarios y operadores logísticos que ya tienen actividad, pero sufren bloqueos documentales, errores de validación, retrasos de facturación o pérdida de trazabilidad en el flujo operación → evidencia → factura → cobro.
 
-La estrategia inicial debe ser prudente y enfocada. La iniciativa no debe presentarse como una solución para todo el sector ni como una empresa de transformación digital genérica. Debe entrar por un problema concreto, con un diagnóstico inicial limitado, una propuesta clara y una primera oferta ancla: control de cobro por evidencia.
+La estrategia inicial debe ser prudente y enfocada. La iniciativa no debe presentarse como una solución para todo el sector ni como una empresa de transformación digital genérica. Debe entrar por un problema concreto, con un diagnóstico inicial limitado, una propuesta clara y un primer caso de entrada comercial: control de cobro por evidencia.
 
 El entorno apoya la oportunidad, pero la viabilidad final dependerá de validar tres puntos con clientes reales:
 

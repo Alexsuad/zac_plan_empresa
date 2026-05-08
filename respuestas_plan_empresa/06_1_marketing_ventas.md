@@ -247,41 +247,7 @@ La web o landing no debe bloquear la validación comercial. Puede ayudar, pero l
 ---
 
 ## 6.1.12. Comunicación e imagen
-
-La comunicación deberá ser profesional, clara y orientada a empresarios o responsables de operación que no necesariamente son expertos en tecnología.
-
-El tono deberá transmitir:
-
-* claridad;
-* control;
-* criterio operativo;
-* confianza;
-* sobriedad;
-* especialización logística;
-* utilidad práctica.
-
-No debe transmitir:
-
-* promesas tecnológicas exageradas;
-* dependencia de IA como reclamo;
-* discurso genérico de transformación digital;
-* consultoría abstracta;
-* complejidad innecesaria;
-* solución “mágica” o universal.
-
-El mensaje base será:
-
-> **Sistreg** ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
-
-Mensajes secundarios:
-
-* Controlar qué operaciones están listas para facturar.
-* Detectar qué evidencia falta antes de que bloquee el cobro.
-* Reducir errores documentales y reprocesos administrativos.
-* Ordenar incidencias, validaciones y documentos críticos.
-* Convertir información dispersa en un sistema de control útil.
-
-La comunicación debe mantener la tecnología como medio. El cliente debe entender primero qué problema se resuelve y después cómo se resuelve.
+El tono y el mensaje comercial se basan en los arquetipos y el territorio verbal definidos en el apartado [6.0. Marca, comunicación y naming](06_0_marca_comunicacion_naming.md), adaptados a la prospección directa.
 
 ---
 
@@ -494,15 +460,4 @@ Estos documentos deberán mantenerse como soporte del plan y actualizarse si cam
 ---
 
 ## 6.1.21. Conclusión estratégica
-
-El plan de marketing y ventas de **Sistreg** se basa en una entrada comercial prudente, directa y medible.
-
-La estrategia no será depender de redes sociales ni vender tecnología como promesa principal. La captación inicial se apoyará en visitas, contactos directos, LinkedIn como canal de autoridad y activos comerciales mínimos que ayuden a explicar el problema y generar confianza.
-
-El diagnóstico gratuito será la puerta de entrada, pero el trabajo técnico posterior será pagado y protegido con un anticipo del 50%. Esto permite equilibrar acceso comercial con sostenibilidad económica.
-
-La prioridad será demostrar que el problema existe, que el cliente lo reconoce, que está dispuesto a pagar por resolverlo y que el proyecto puede entregar soluciones útiles sin añadir complejidad innecesaria.
-
-El plan comercial deberá revisarse mensualmente con base en datos reales: empresas contactadas, reuniones conseguidas, diagnósticos realizados, propuestas enviadas, proyectos aceptados, objeciones y aprendizajes.
-
-**Sistreg** solo debe escalar su comunicación, inversión y capacidad comercial cuando existan señales reales de tracción.
+El plan de marketing y ventas de Sistreg prioriza la conversión comercial mediante el contacto directo y el diagnóstico, manteniendo la coherencia con la identidad centralizada en el apartado [2. Idea de negocio](02_idea_negocio.md).

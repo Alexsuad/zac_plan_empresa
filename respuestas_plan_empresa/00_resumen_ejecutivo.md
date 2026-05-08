@@ -4,16 +4,11 @@
 > Este resumen ejecutivo es provisional. Se redacta como síntesis de trabajo para acompañar el análisis económico-financiero y facilitar una lectura rápida del proyecto. Deberá revisarse cuando estén completos y auditados todos los apartados del Plan de Empresa.
 
 ## 1. Presentación del proyecto
+ 
+**Sistreg** es una propuesta B2B de sistemas de control operativo y trazabilidad para pymes logísticas. El proyecto, desarrollado en el marco del programa **CONVIERTE de Zaragoza Activa**, se centra en resolver la desconexión entre la operación física y el flujo documental administrativo (identidad detallada en el **Capítulo 2**).
+ 
+La actividad, prevista para iniciar el **1 de julio de 2026** bajo la forma de trabajador autónomo, se especializa en el diseño de soluciones tecnológicas ligeras para reducir errores y acelerar el ciclo de cobro.
 
-**Sistreg** es la marca provisional de trabajo de un proyecto B2B orientado al diseño e implementación de sistemas de control operativo, trazabilidad documental y mejora de procesos para pequeñas y medianas empresas logísticas.
-
-El proyecto se desarrolla en el marco del programa **CONVIERTE de Zaragoza Activa** y se encuentra en fase de validación estratégica y pre-operativa. La denominación **Proyecto Logístico** se mantiene como referencia interna/descriptiva del ámbito de trabajo, mientras que Sistreg se utiliza como marca provisional pendiente de validación legal, digital y comercial.
-
-En términos comerciales, Sistreg se posiciona como una iniciativa de automatización operativa especializada en logística: evalúa procesos críticos, identifica el coste de sus bloqueos y diseña soluciones tecnológicas ligeras y a medida para reducir tiempo, errores, costes operativos y pérdida de margen.
-
-La actividad prevista consiste en ayudar a empresas logísticas a ordenar y controlar procesos críticos donde la operación física, la documentación, las incidencias, la facturación y el cobro no siempre están conectados de forma clara.
-
-La fecha estimada de inicio de actividad es el **1 de julio de 2026**, bajo una forma jurídica inicial de **trabajador autónomo**, manteniendo una estructura ligera y flexible durante la primera fase de validación.
 
 ---
 

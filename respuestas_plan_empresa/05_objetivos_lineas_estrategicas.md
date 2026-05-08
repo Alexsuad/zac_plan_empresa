@@ -170,31 +170,7 @@ Esta línea es importante para evitar dos riesgos: construir todo de forma artes
 ---
 
 ## 5.9. Objetivos de marca y comunicación
-
-**Sistreg** se utilizará como marca provisional de trabajo, pendiente de validación legal, digital y comercial. La denominación **Proyecto Logístico** se mantiene solo como referencia interna/descriptiva del ámbito de actuación.
-
-La comunicación deberá evitar confusiones. El proyecto no debe parecer:
-
-* agencia de IA;
-* SaaS estándar;
-* consultoría logística genérica;
-* empresa de transporte;
-* proveedor informático generalista.
-
-El objetivo de comunicación será asociar el proyecto con:
-
-* control operativo;
-* trazabilidad;
-* evidencias;
-* validación documental;
-* reducción de errores;
-* mejora del flujo operación → evidencia → factura → cobro.
-
-El mensaje principal deberá ser claro y operativo:
-
-> **Sistreg** ayuda a pymes logísticas a recuperar control sobre operaciones que hoy dependen de documentos dispersos, validaciones manuales y seguimiento informal.
-
-La tecnología se comunicará como medio, no como promesa central. Esto es clave para diferenciarse en un mercado saturado de IA, automatización y herramientas genéricas.
+La marca y la comunicación seguirán los criterios de identidad y posicionamiento detallados en el apartado [6.0. Marca, comunicación y naming](06_0_marca_comunicacion_naming.md).
 
 ---
 
@@ -329,15 +305,6 @@ La decisión de continuar, ajustar o pivotar no debe tomarse por sensación, sin
 ---
 
 ## 5.14. Conclusión estratégica
-
-Los objetivos de **Sistreg** se centran en validar de forma prudente una oportunidad situada entre logística y sistemas.
-
-La estrategia no será crecer rápido ni vender tecnología genérica. La estrategia será entrar al mercado con un problema concreto, contactar empresas reales, realizar diagnósticos limitados, medir si existe dolor reconocido y convertir esa validación en proyectos pagados.
-
-El objetivo mínimo a seis meses será conseguir 4 proyectos pagados o, al menos, evidencia clara de que existe dolor y disposición de pago. Si después de muchas visitas el mercado no reconoce el problema o no quiere pagar por resolverlo, será necesario ajustar la oferta, el segmento o el enfoque.
-
-La línea estratégica principal queda definida así:
-
-> **Sistreg** seguirá una estrategia de especialización logística, diferenciación operativa y validación progresiva, usando tecnología solo como medio para crear sistemas de control, trazabilidad y evidencia que ayuden a mejorar el flujo operación → evidencia → factura → cobro.
+Los objetivos de Sistreg priorizan la validación comercial y operativa antes del escalado. La estrategia se mantiene alineada con el flujo operación → evidencia → factura → cobro detallado en la [Idea de negocio](02_idea_negocio.md).
 
 Este apartado permite avanzar al plan de marketing, ventas y operaciones con objetivos concretos, medibles y coherentes con la realidad actual del proyecto.

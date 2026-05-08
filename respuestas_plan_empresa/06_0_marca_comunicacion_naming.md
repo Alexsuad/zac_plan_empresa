@@ -89,11 +89,7 @@ La base estratégica de la marca se resume así:
 | Qué lo diferencia   | Combina conocimiento logístico, criterio operativo y capacidad técnica aplicada.                                            |
 | Qué no es           | No es agencia de IA, SaaS estándar, consultoría logística genérica, proveedor informático generalista ni empresa logística. |
 
-La marca debe dejar claro que Sistreg entrega soluciones tecnológicas ligeras y funcionando —automatizaciones, formularios, tableros, integraciones simples o IA cuando aporta valor— siempre subordinadas al problema operativo y no a la moda tecnológica.
-
-La marca debe transmitir que entiende la operación real del cliente y que no llega a imponer tecnología por moda, sino a ordenar flujos, evidencias y puntos de control donde hoy existen fricciones.
-
-El proyecto no debe posicionarse como “tecnología avanzada para todos”, sino como una solución práctica para empresas que necesitan más control sobre procesos concretos.
+La marca debe ser coherente con la identidad y el modelo de entrega definidos en el apartado [2. Idea de negocio](02_idea_negocio.md).
 
 ---
 
@@ -379,15 +375,5 @@ También queda pendiente decidir si se registrará la marca y en qué momento. E
 
 ## 6.0.14. Conclusión estratégica
 
-Sistreg se adopta como nombre provisional para avanzar en la construcción de marca, comunicación y activos comerciales del proyecto. La decisión permite superar la denominación genérica y de referencia interna “Proyecto Logístico” y trabajar con una identidad más concreta, alineada con sistema, registro, seguimiento, control y trazabilidad.
-
-La marca debe transmitir principalmente **control** y **seguimiento**, sin caer en lenguaje tecnológico genérico ni promesas sobredimensionadas. Su posicionamiento se basa en ayudar a pymes logísticas a ordenar procesos críticos donde la falta de evidencia, validación o trazabilidad bloquea el cierre operativo, la facturación o el cobro.
-
-La identidad visual inicial de Sistreg es útil como punto de partida, pero no se considera definitiva. La landing anterior se toma como experimento descartable y no como base obligatoria de marca.
-
-La estrategia de comunicación deberá ser clara, profesional y accionable. La marca debe ayudar a que el cliente entienda el problema, reconozca el valor del control operativo y dé el siguiente paso: **solicitar diagnóstico**.
-
-En síntesis:
-
-> Sistreg será, provisionalmente, la marca que representa un sistema de control y seguimiento para procesos logísticos críticos, orientado a convertir operaciones dispersas en evidencias trazables, decisiones claras y cierres más controlados.
+Sistreg se adopta como identidad provisional para avanzar en la comunicación comercial. El posicionamiento se basa en el control operativo y la trazabilidad documental, siguiendo la base estratégica centralizada en el apartado [2. Idea de negocio](02_idea_negocio.md).
 
