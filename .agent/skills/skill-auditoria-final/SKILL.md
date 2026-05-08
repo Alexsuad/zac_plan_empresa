@@ -109,3 +109,12 @@ Comprobar que cada recomendación incluya:
 - acción recomendada;
 - riesgo de pérdida de información;
 - si requiere aprobación antes de editar.
+
+
+## Refuerzo de Control
+
+- **Condición de salida:** Plan de empresa auditado íntegramente.
+- **Estado final permitido:** Aprobado para consolidación o Devuelto con correcciones.
+- **Evidencia requerida:** Ejecución de `auditar_estado_plan_empresa.py` con resultado PASS.
+- **Caso de bloqueo:** Presencia de texto 'Pendiente de completar' en cualquier archivo.
+- **Ejemplo mínimo de uso:** Ejecución del script de auditoría y revisión de métricas.

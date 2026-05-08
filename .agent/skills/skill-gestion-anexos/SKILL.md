@@ -44,3 +44,12 @@ Comprobar:
 - está relacionado con un apartado;
 - su formato es adecuado;
 - no contradice el plan.
+
+
+## Refuerzo de Control
+
+- **Condición de salida:** Anexo documentado y vinculado en el inventario.
+- **Estado final permitido:** Anexo Disponible o Pendiente.
+- **Evidencia requerida:** Entrada en `docs_control/inventario_anexos_y_graficos.md` actualizada.
+- **Caso de bloqueo:** Anexo mencionado en texto pero inexistente en el directorio `anexos/`.
+- **Ejemplo mínimo de uso:** Registrar el Anexo A01 y asegurar que existe en `anexos/A01.md`.

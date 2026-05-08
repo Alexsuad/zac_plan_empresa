@@ -54,3 +54,12 @@ Comprobar:
 - coherencia con modelo de negocio;
 - cifras principales explicadas;
 - pendientes marcados.
+
+
+## Refuerzo de Control
+
+- **Condición de salida:** Apartado 06.5 completo y coherente con anexos Excel.
+- **Estado final permitido:** Validado contra anexos.
+- **Evidencia requerida:** Gráficos G generados y validados contra su fuente numérica.
+- **Caso de bloqueo:** Cifras en texto que no coinciden con las del archivo de Excel.
+- **Ejemplo mínimo de uso:** Extraer el punto de equilibrio del Excel y redactar la conclusión.

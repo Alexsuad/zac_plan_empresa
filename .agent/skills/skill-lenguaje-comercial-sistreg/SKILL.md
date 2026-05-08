@@ -84,3 +84,12 @@ Antes de aprobar un texto, comprobar:
 Logística profunda para demostrar criterio.
 Automatización visible para explicar valor.
 Tecnicismos internos solo para documentación interna.
+
+
+## Refuerzo de Control
+
+- **Condición de salida:** Texto revisado con léxico logístico profundo y enfoque Doc-to-Cash.
+- **Estado final permitido:** Texto redactado profesionalmente.
+- **Evidencia requerida:** Diff de cambios mostrando la eliminación de términos genéricos de IA.
+- **Caso de bloqueo:** Uso de promesas inalcanzables o tecnicismos internos de desarrollo.
+- **Ejemplo mínimo de uso:** Reemplazar 'herramienta de IA' por 'solución de control operativo'.

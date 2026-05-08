@@ -54,3 +54,12 @@ Comprobar que el texto:
 - no exagera;
 - diferencia hechos, hipótesis y pendientes;
 - mantiene coherencia con el resto del plan.
+
+
+## Refuerzo de Control
+
+- **Condición de salida:** Documento con tono profesional, realista y verificable.
+- **Estado final permitido:** Tono uniforme en todo el documento.
+- **Evidencia requerida:** Auditoría de coherencia textual ejecutada sin advertencias.
+- **Caso de bloqueo:** Presencia de adjetivos comerciales exagerados o promesas de 'humo'.
+- **Ejemplo mínimo de uso:** Ejecutar `auditar_coherencia_textual.py` para buscar términos prohibidos.

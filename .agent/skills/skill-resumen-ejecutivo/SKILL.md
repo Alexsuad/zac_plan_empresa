@@ -50,3 +50,12 @@ Comprobar:
 - coherencia con idea, mercado y financiero;
 - no promete más que el plan;
 - es claro para una exposición breve.
+
+
+## Refuerzo de Control
+
+- **Condición de salida:** Resumen ejecutivo (`00_resumen_ejecutivo.md`) redactado y coherente con el plan completo.
+- **Estado final permitido:** Completado.
+- **Evidencia requerida:** El resumen ejecutivo no introduce ninguna información que no esté en el cuerpo del plan.
+- **Caso de bloqueo:** El cuerpo del plan tiene apartados pendientes.
+- **Ejemplo mínimo de uso:** Sintetizar la propuesta de valor y las necesidades financieras tras cerrar el gate 6.

@@ -42,3 +42,12 @@ Comprobar:
 - dato usado explícito;
 - fecha registrada;
 - nivel de confianza asignado.
+
+
+## Refuerzo de Control
+
+- **Condición de salida:** Fuentes verificadas y citadas correctamente.
+- **Estado final permitido:** Validado.
+- **Evidencia requerida:** Enlaces funcionales o referencia a `docs_convierte/` u otras fuentes verificables.
+- **Caso de bloqueo:** Datos inventados o referencias a documentos inexistentes.
+- **Ejemplo mínimo de uso:** Verificar que el dato del TAM provenga de un informe real y no de la IA.

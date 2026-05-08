@@ -73,3 +73,12 @@ Comprobar:
 - estructura conservada;
 - pendientes marcados;
 - sin contradicciones evidentes.
+
+
+## Refuerzo de Control
+
+- **Condición de salida:** Archivo `.md` en `respuestas_plan_empresa/` redactado según la guía.
+- **Estado final permitido:** Borrador avanzado o Completado.
+- **Evidencia requerida:** Archivo guardado sin destruir la estructura original solicitada.
+- **Caso de bloqueo:** Inventar datos para rellenar campos obligatorios.
+- **Ejemplo mínimo de uso:** Rellenar el equipo promotor usando el CV sin alucinar experiencia extra.

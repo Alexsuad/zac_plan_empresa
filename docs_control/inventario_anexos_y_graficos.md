@@ -39,5 +39,5 @@ Este documento es el control maestro para asegurar que el Plan de Empresa final 
 - **Ubicación de Salida:** Todos los gráficos generados deben vivir en `_build/graficos/`.
 - **Nomenclatura:** Mantener el código (Gxx o Cxx) para facilitar las referencias en el texto.
 - **Sincronización:** Si cambia el Google Sheets, se deben regenerar los gráficos de tipo G.
-- **Consistencia:** Un gráfico G nunca debe entrar al documento final si no ha3. Mapa de calor de anexos (visualización del estado del Gate 2 de Zaragoza Activa / CONVIERTE).
-fuente numérica.
+- **Consistencia:** Un gráfico G nunca debe entrar al documento final si no ha sido validado contra su fuente numérica.
+- **Mapa de calor:** Mapa de calor de anexos (visualización del estado del Gate 2 de Zaragoza Activa / CONVIERTE).

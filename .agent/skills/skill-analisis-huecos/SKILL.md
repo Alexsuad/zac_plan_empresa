@@ -58,3 +58,12 @@ Detenerse y presentar al usuario un reporte estructurado con las siguientes acci
 - No asumir respuestas que dependan del usuario.
 - No gastar tiempo de cómputo en búsquedas web sin autorización previa.
 - Presentar la información encontrada como borrador para revisión, nunca escribirla directamente en el documento final a sus espaldas.
+
+
+## Refuerzo de Control
+
+- **Condición de salida:** Reporte de vacíos generado con clasificación de información faltante.
+- **Estado final permitido:** PASS (sin vacíos) o FAIL (con listado de vacíos).
+- **Evidencia requerida:** Log de ejecución con los apartados contrastados.
+- **Caso de bloqueo:** Falta de acceso a las guías o a las respuestas.
+- **Ejemplo mínimo de uso:** El agente lee `plan_empresa/02_idea.md` y `respuestas_plan_empresa/02_idea_negocio.md` y lista lo que falta.
