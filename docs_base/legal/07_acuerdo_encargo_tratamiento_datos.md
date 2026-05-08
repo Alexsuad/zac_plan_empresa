@@ -7,7 +7,7 @@
 # ACUERDO DE ENCARGO DE TRATAMIENTO DE DATOS
 
 **Marca comercial:** Sistreg  
-**Referencia interna:** Proyecto_automatizaciones  
+**Referencia interna:** Proyecto Sistreg  
 **Fecha:** [completar]  
 **Lugar:** [completar]  
 

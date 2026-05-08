@@ -1,12 +1,5 @@
-# File: respuestas_plan_empresa/06_4_juridico_fiscal.md
-# ──────────────────────────────────────────────────────────────────────
-# Propósito: Respuesta al apartado 6.4 de la Guía Red ARCE (Jurídico-Fiscal).
-# Rol: Definir la estrategia legal, fiscal y de cumplimiento normativo inicial de Sistreg, manteniendo un enfoque prudente y ligero.
-# ──────────────────────────────────────────────────────────────────────
 
 # 6.4 Plan jurídico-fiscal
-
-## 1. Respuesta desarrollada
 
 ### 6.4.1 Situación legal inicial del proyecto
 Sistreg se encuentra en una fase inicial de validación comercial. En este momento, no está constituido como sociedad (ni limitada ni civil). El promotor principal y titular inicial del proyecto es Alexander Suárez. Aunque el proyecto cuenta con el apoyo de colaboradoras externas clave en áreas comerciales y técnicas, estas participaciones se estructuran mediante acuerdos de colaboración y no les otorgan la condición de socias ni copropietarias del negocio en esta etapa.
@@ -16,7 +9,7 @@ La forma inicial prevista para operar es mediante una estructura ligera (empresa
 
 ### 6.4.3 Alta fiscal, IAE/CNAE y obligaciones tributarias
 Antes de iniciar la facturación formal a clientes, se realizarán las siguientes gestiones, que quedan expresamente supeditadas a la **confirmación por parte de un asesor fiscal o gestoría**:
-- **Alta censal y selección de IAE/CNAE:** Se seleccionarán los epígrafes que mejor reflejen la combinación de consultoría operativa, integración tecnológica y diseño de procesos, evitando epígrafes genéricos que no representen el valor aportado.
+- **Alta censal y selección de IAE/CNAE:** Se seleccionarán los epígrafes que mejor reflejen la combinación de evaluación operativo-económica, integración tecnológica ligera y diseño de sistemas de control operativo, evitando epígrafes genéricos que no representen el valor aportado.
 - **Obligaciones tributarias:** Se establecerá el régimen correspondiente de IVA e IRPF, con la consiguiente presentación de declaraciones trimestrales y anuales.
 - **Control documental:** Se separarán contablemente los ingresos del negocio y los gastos operativos (incluyendo pagos a colaboradoras) para mantener un control de tesorería y cumplir con las obligaciones de facturación y archivo.
 
@@ -26,7 +19,7 @@ El nombre comercial de trabajo es **Sistreg**. Se comprende legalmente que la co
 - El registro formal de la marca y signos distintivos se ejecutará **cuando el proyecto consolide su validación en el mercado**, asumiendo hasta entonces un uso "de hecho" del nombre comercial.
 
 ### 6.4.5 Contratación con clientes
-Sistreg operará en un entorno B2B (Business to Business). Para evitar riesgos de "scope creep" (ampliación descontrolada del alcance) y consultoría infinita, toda relación comercial se articulará sobre dos instrumentos documentales ya preparados:
+Sistreg operará en un entorno B2B (Business to Business). Para evitar riesgos de "ampliación descontrolada del alcance" y consultoría infinita, toda relación comercial se articulará sobre dos instrumentos documentales ya preparados:
 1. **Contrato Base de Prestación de Servicios:** Establece las obligaciones, límites de responsabilidad, exclusiones generales y condiciones de pago.
 2. **Anexo de Alcance por Proyecto:** Aterriza el encargo concreto, detallando el proceso intervenido, entregables, plazos, criterios de aceptación estrictos y gestión de cambios de alcance.
 
@@ -62,7 +55,7 @@ Se han mapeado los principales riesgos operativos y sus medidas de mitigación i
 - **Riesgo por errores profesionales:** A medida que aumente la recurrencia de clientes o el impacto económico de los procesos intervenidos, se valorará la contratación de un seguro de Responsabilidad Civil Profesional (RC Profesional).
 
 ### 6.4.11 Validaciones pendientes
-Al encontrarse en fase de validación operativa, las siguientes áreas de este plan jurídico-fiscal se encuentran deliberadamente **pendientes de cierre formal con una asesoría/gestoría**:
+Al encontrarse en fase de validación operativa, las siguientes áreas de este plan jurídico-fiscal se encuentran deliberadamente **pendientes de cierre formal con una asesoría/gestoría**. Se hace explícito que la forma jurídica, IAE/CNAE, contratos, protección de datos, marca y fiscalidad deberán validarse con gestoría, asesoría legal o especialista correspondiente:
 - Conformidad del epígrafe IAE y código CNAE definitivos.
 - Trámite final de alta censal y en la Seguridad Social.
 - Decisión de la fecha exacta para la protección registral de la marca.
@@ -71,14 +64,14 @@ Al encontrarse en fase de validación operativa, las siguientes áreas de este p
 
 ---
 
-## 2. Mini mapa legal del proyecto
+## 6.4.12. Mini mapa legal del proyecto
 
 | Tema legal/fiscal     | ¿Aplica? | Estado actual        | Responsable         | Próximo paso            |
 | --------------------- | -------- | -------------------- | ------------------- | ----------------------- |
 | Forma jurídica        | Sí       | Previsto: Autónomo   | Promotor + gestoría | Validar viabilidad      |
 | Alta IAE / CNAE       | Sí       | Pendiente de decidir | Promotor + gestoría | Seleccionar epígrafes   |
 | Marca y Dominios      | Sí       | En uso de hecho      | Promotor            | Búsqueda OEPM/Dominios  |
-| Contratos clientes    | Sí       | Modelos creados      | Promotor            | Uso en primer piloto    |
+| Contratos clientes    | Sí       | Modelos creados      | Promotor            | Uso en primer arranque guiado o proyecto con cliente |
 | Colaboradores         | Sí       | Modelos creados      | Promotor            | Firma de acuerdos       |
 | Protección de datos   | Sí       | Modelos creados      | Gestoría/asesor     | Mapear datos a tratar   |
 | Fiscalidad e IVA      | Sí       | Pendiente            | Gestoría            | Definir régimen fiscal  |
@@ -87,7 +80,7 @@ Al encontrarse en fase de validación operativa, las siguientes áreas de este p
 
 ---
 
-## 3. Mini diagnóstico del Plan Jurídico y Fiscal
+## 6.4.13. Mini diagnóstico del plan jurídico-fiscal
 
 | Pregunta de control                               | Respuesta esperada |
 | ------------------------------------------------- | ------------------ |

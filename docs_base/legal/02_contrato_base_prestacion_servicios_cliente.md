@@ -7,7 +7,7 @@
 # CONTRATO BASE DE PRESTACIÓN DE SERVICIOS
 
 **Marca comercial:** Sistreg  
-**Referencia interna:** Proyecto_automatizaciones  
+**Referencia interna:** Proyecto Sistreg  
 **Fecha:** [completar]  
 **Lugar:** [completar]  
 

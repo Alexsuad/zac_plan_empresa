@@ -7,7 +7,7 @@
 # ACUERDO MARCO DE COLABORACIÓN EXTERNA
 
 **Marca comercial:** Sistreg  
-**Referencia interna:** Proyecto_automatizaciones  
+**Referencia interna:** Proyecto Sistreg  
 **Fecha:** [completar]  
 **Lugar:** [completar]  
 

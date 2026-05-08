@@ -7,7 +7,7 @@
 # ESTRUCTURA INICIAL DEL PROYECTO
 
 **Marca comercial:** Sistreg  
-**Referencia interna:** Proyecto_automatizaciones  
+**Referencia interna:** Proyecto Sistreg  
 **Fecha:** [completar]  
 
 ## 1. Finalidad del documento

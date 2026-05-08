@@ -7,7 +7,7 @@
 # ANEXO DE ALCANCE Y PROPUESTA DE SERVICIO POR PROYECTO
 
 **Marca comercial:** Sistreg  
-**Referencia interna:** Proyecto_automatizaciones  
+**Referencia interna:** Proyecto Sistreg  
 **Fecha:** [completar]  
 **Cliente:** [completar]  
 **Proyecto / servicio:** [completar]  
