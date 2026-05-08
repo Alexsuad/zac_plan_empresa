@@ -9,6 +9,8 @@
 
 El proyecto se desarrolla en el marco del programa **CONVIERTE de Zaragoza Activa** y se encuentra en fase de validación estratégica y pre-operativa. La denominación **Proyecto Logístico** se mantiene como referencia interna/descriptiva del ámbito de trabajo, mientras que Sistreg se utiliza como marca provisional pendiente de validación legal, digital y comercial.
 
+En términos comerciales, Sistreg se posiciona como una iniciativa de automatización operativa especializada en logística: evalúa procesos críticos, identifica el coste de sus bloqueos y diseña soluciones tecnológicas ligeras y a medida para reducir tiempo, errores, costes operativos y pérdida de margen.
+
 La actividad prevista consiste en ayudar a empresas logísticas a ordenar y controlar procesos críticos donde la operación física, la documentación, las incidencias, la facturación y el cobro no siempre están conectados de forma clara.
 
 La fecha estimada de inicio de actividad es el **1 de julio de 2026**, bajo una forma jurídica inicial de **trabajador autónomo**, manteniendo una estructura ligera y flexible durante la primera fase de validación.
@@ -56,7 +58,7 @@ La necesidad real del cliente no es “tener más tecnología”, sino operar co
 
 Sistreg propone ayudar a pymes logísticas a recuperar control sobre procesos críticos mediante sistemas a medida que ordenan información, centralizan evidencias, reducen errores y facilitan el seguimiento operativo.
 
-El producto ancla inicial será el **control de cobro por evidencia**. Internamente, este flujo puede entenderse como una lógica **Doc-to-Cash**, pero de cara al cliente se comunicará de forma más clara y operativa: saber qué operaciones están listas para facturar, cuáles están bloqueadas, qué documento falta y qué incidencia debe resolverse.
+El **caso de entrada comercial** inicial será el **control de cobro por evidencia**. Internamente, este flujo puede entenderse como una lógica **Doc-to-Cash**, pero de cara al cliente se comunicará de forma más clara y operativa: saber qué operaciones están listas para facturar, cuáles están bloqueadas, qué documento falta y qué incidencia debe resolverse.
 
 El valor para el cliente se resume en:
 

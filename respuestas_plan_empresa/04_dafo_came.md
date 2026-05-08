@@ -28,9 +28,9 @@ El DAFO se construye a partir de los apartados anteriores:
 | Capacidad técnica avanzada para crear soluciones funcionales, integraciones y automatizaciones. | Falta de contactos reales iniciales en logística.                                          |
 | Conocimiento logístico y comprensión del flujo operación → evidencia → factura → cobro.         | Ventas y captación de clientes como principal limitación inicial.                          |
 | Capacidad para traducir problemas operativos en sistemas de control concretos.                  | Capacidad comercial aún no consolidada.                                                    |
-| Producto ancla claro: control de cobro por evidencia.                                           | Falta de casos reales que demuestren valor técnico y económico.                            |
+| Caso de entrada comercial claro: control de cobro por evidencia.                                  | Falta de casos reales que demuestren valor técnico y económico.                            |
 | Criterio de intervención: no automatizar sin bloqueo operativo real y medible.                  | Núcleo técnico reutilizable todavía no validado.                                           |
-| Estructura inicial ligera, recursos básicos disponibles y apoyo puntual de contraste logístico. | Riesgo de sobreconstruir soluciones o aceptar más proyectos de los que se pueden entregar. |
+| Estructura inicial ligera, recursos básicos disponibles y apoyo externo de validación operativa mediante colaboradora fundacional no societaria, con posibilidad de apoyo freelance puntual en UX/UI cuando el proyecto lo requiera. | Riesgo de sobreconstruir soluciones o aceptar más proyectos de los que se pueden entregar. |
 
 | Oportunidades                                                                          | Amenazas                                                                                           |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -51,11 +51,11 @@ La segunda fortaleza es el **conocimiento logístico aplicado**. El proyecto no 
 
 La tercera fortaleza es la capacidad de **traducir problemas operativos en sistemas de control**. Esta es la intersección más importante del proyecto: convertir desorden documental, validaciones manuales o información dispersa en procesos más claros, medibles y trazables.
 
-La cuarta fortaleza es contar con un **producto ancla concreto**: el control de cobro por evidencia. Esta oferta inicial ayuda a evitar dispersión y permite entrar al mercado con un problema comprensible para el cliente: operaciones que no se pueden cerrar, facturar o cobrar correctamente por falta de documentación, validación o trazabilidad.
+La cuarta fortaleza es contar con un **caso de entrada comercial concreto**: el control de cobro por evidencia. Esta oferta inicial ayuda a evitar dispersión y permite entrar al mercado con un problema comprensible para el cliente: operaciones que no se pueden cerrar, facturar o cobrar correctamente por falta de documentación, validación o trazabilidad.
 
 La quinta fortaleza es el **criterio de intervención**. Sistreg no debe automatizar por automatizar. Solo tiene sentido intervenir cuando existe un bloqueo operativo real, medible y relevante. Este criterio protege al proyecto de vender soluciones innecesarias, sobredimensionadas o difíciles de mantener.
 
-La sexta fortaleza es su **estructura inicial ligera**. El proyecto puede comenzar desde casa, con ordenador, móvil, internet, software básico y sin local abierto al público, almacén, flota o empleados. Además, cuenta con apoyo puntual de contraste logístico, útil para revisar enfoques y validar razonamientos operativos, aunque no debe considerarse una capacidad estructural fija.
+La sexta fortaleza es su **estructura inicial ligera**. El proyecto puede comenzar desde casa, con ordenador, móvil, internet, software básico y sin local abierto al público, almacén, flota o empleados. Además, cuenta con apoyo externo de validación operativa mediante colaboradora fundacional no societaria, con posibilidad de apoyo freelance puntual en UX/UI cuando el proyecto lo requiera; útil para revisar enfoques y validar razonamientos operativos, aunque no debe considerarse una capacidad estructural fija.
 
 ---
 
@@ -125,10 +125,10 @@ La sexta amenaza es la **dependencia de herramientas externas, APIs y riesgos t�
 | Afrontar | Dependencia de APIs, herramientas externas o IA                       | Diseñar con registros, pruebas, documentación, intervención humana y límites claros de soporte.                                                  |
 | Mantener | Capacidad técnica avanzada                                            | Convertirla en soluciones simples, mantenibles y entendibles para el cliente.                                                                    |
 | Mantener | Conocimiento logístico                                                | Usarlo para diagnosticar mejor y hablar el lenguaje del responsable operativo.                                                                   |
-| Mantener | Producto ancla claro                                                  | Mantener control de cobro por evidencia como primera oferta de entrada.                                                                          |
+| Mantener | Caso de entrada comercial claro                                       | Mantener control de cobro por evidencia como primera oferta de entrada.                                                                          |
 | Mantener | Criterio de intervención                                              | Rechazar proyectos sin bloqueo operativo real, medible o relevante.                                                                              |
 | Mantener | Estructura inicial ligera                                             | No asumir costes fijos altos antes de validar clientes y capacidad de entrega.                                                                   |
-| Mantener | Apoyo puntual de contraste logístico                                  | Usarlo para revisar enfoque y casos, sin depender de él como recurso fijo.                                                                       |
+| Mantener | Apoyo externo de validación operativa mediante colaboradora fundacional no societaria, con posibilidad de apoyo freelance puntual en UX/UI cuando el proyecto lo requiera.                                  | Usarlo para revisar enfoque y casos, sin depender de él como recurso fijo.                                                                       |
 | Explotar | Zaragoza y Aragón como entorno logístico                              | Priorizar empresas logísticas regionales en la validación inicial.                                                                               |
 | Explotar | Digitalización documental, trazabilidad y eFTI                        | Conectar la propuesta con evidencias, registros, validaciones y preparación documental, sin exagerar obligaciones legales.                       |
 | Explotar | Pymes con procesos documentales intensivos                            | Enfocar el mensaje en operaciones bloqueadas, documentos faltantes y retrasos de facturación/cobro.                                              |
@@ -146,7 +146,7 @@ La primera decisión es que Sistreg debe mantener un **posicionamiento operativo
 
 La segunda decisión es que la prioridad inmediata debe ser la **validación comercial**. Antes de escalar, crear más componentes técnicos o ampliar la oferta, el proyecto debe comprobar si las empresas aceptan visitas, reconocen el problema y están dispuestas a pagar por una solución posterior al diagnóstico.
 
-La tercera decisión es mantener el **control de cobro por evidencia** como primera oferta de entrada. Este producto ancla permite explicar el servicio desde un dolor claro y no desde una lista amplia de automatizaciones posibles.
+La tercera decisión es mantener el **control de cobro por evidencia** como primera oferta de entrada. Este caso de entrada comercial permite explicar el servicio desde un dolor claro y no desde una lista amplia de automatizaciones posibles.
 
 La cuarta decisión es evitar la **sobreconstrucción técnica**. Las soluciones deberán crecer de forma progresiva: primero diagnóstico, después **arranque guiado** y solo más adelante implementación completa si existe valor probado.
 
@@ -173,7 +173,7 @@ La sexta decisión es preparar una respuesta clara frente a la saturación del m
 
 ## 4.10. Conclusión estratégica
 
-El DAFO/CAME muestra que Sistreg dispone de una combinación interna interesante: conocimiento logístico, capacidad técnica avanzada, estructura ligera y un producto ancla concreto. Esa combinación permite abordar problemas reales de control documental, trazabilidad, facturación y cobro en pymes logísticas.
+El DAFO/CAME muestra que Sistreg dispone de una combinación interna interesante: conocimiento logístico, capacidad técnica avanzada, estructura ligera y un caso de entrada comercial concreto. Esa combinación permite abordar problemas reales de control documental, trazabilidad, facturación y cobro en pymes logísticas.
 
 Sin embargo, el análisis también muestra límites importantes. La viabilidad inicial no dependerá solo de saber construir soluciones, sino de conseguir primeras reuniones, validar el dolor, convertir diagnósticos en propuestas pagadas y demostrar valor con casos reales.
 

@@ -460,4 +460,4 @@ La principal fortaleza financiera es que el proyecto puede iniciar con pocos rec
 
 El enfoque financiero debe basarse en bootstrapping, control de costes, monetización prudente del tiempo, validación progresiva de precios y diferenciación clara entre facturación, cobro y tesorería disponible.
 
-Por tanto, la conclusión es prudente: **Sistreg es económicamente viable como hipótesis de autoempleo técnico especializado, siempre que se mantenga el control de costes, se validen precios con clientes reales y se convierta el producto ancla en proyectos pagados durante la primera fase de actividad.**
+Por tanto, la conclusión es prudente: **Sistreg es económicamente viable como hipótesis de autoempleo técnico especializado, siempre que se mantenga el control de costes, se validen precios con clientes reales y se convierta el caso de entrada comercial en proyectos pagados durante la primera fase de actividad.**

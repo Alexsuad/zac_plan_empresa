@@ -136,10 +136,10 @@ El entorno apoya la oportunidad, pero la viabilidad final dependerá de validar 
 
 Por tanto, el análisis externo no debe interpretarse como garantía de éxito, sino como una base favorable para avanzar hacia la validación comercial del modelo.
 
-[1]: https://icearagon.aragon.es/atlas/Aragon/info/infraestructuras/infraestructuras-industriales-y-logisticas-/plataformas-logisticas?utm_source=chatgpt.com "Plataformas logísticas (ATLAS DE ARAGÓN - ICEARAGON)"
-[2]: https://aliaragon.es/?utm_source=chatgpt.com "ALIA | Clúster Logístico de Aragón"
-[3]: https://www.zaragoza.es/ciudad/sectores/activa/infoactiva.htm?utm_source=chatgpt.com "Ayuntamiento de Zaragoza. Infoactiva. Información y asesoramiento de emprendedores"
-[4]: https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport/efti-regulation_en?utm_source=chatgpt.com "The eFTI Regulation - Mobility and Transport - European Commission"
-[5]: https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/8-responsable-y-encargado-del-tratamiento/FAQ-0239-son-validos-los-contratos-con-encargados-de-tratamiento-anteriores-al-rgpd?utm_source=chatgpt.com "¿Son válidos los contratos con encargados de tratamiento anteriores al RGPD? | AEPD"
-[6]: https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/8-responsable-y-encargado-del-tratamiento/FAQ-0236-que-obligaciones-especificas-contiene-el-rgpd-para-los-encargados-de-tratamiento?utm_source=chatgpt.com "¿Qué obligaciones específicas contiene el RGPD para los encargados del tratamiento? | AEPD"
-[7]: https://www.aragonplataformalogistica.es/directory/plataforma-logistica-de-zaragoza/?lang=en&utm_source=chatgpt.com "PLAZA Plataforma Logística de Zaragoza"
+[1]: https://icearagon.aragon.es/atlas/Aragon/info/infraestructuras/infraestructuras-industriales-y-logisticas-/plataformas-logisticas "Plataformas logísticas (ATLAS DE ARAGÓN - ICEARAGON)"
+[2]: https://aliaragon.es/ "ALIA | Clúster Logístico de Aragón"
+[3]: https://www.zaragoza.es/ciudad/sectores/activa/infoactiva.htm "Ayuntamiento de Zaragoza. Infoactiva. Información y asesoramiento de emprendedores"
+[4]: https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport/efti-regulation_en "The eFTI Regulation - Mobility and Transport - European Commission"
+[5]: https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/8-responsable-y-encargado-del-tratamiento/FAQ-0239-son-validos-los-contratos-con-encargados-de-tratamiento-anteriores-al-rgpd "¿Son válidos los contratos con encargados de tratamiento anteriores al RGPD? | AEPD"
+[6]: https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/8-responsable-y-encargado-del-tratamiento/FAQ-0236-que-obligaciones-especificas-contiene-el-rgpd-para-los-encargados-de-tratamiento "¿Qué obligaciones específicas contiene el RGPD para los encargados del tratamiento? | AEPD"
+[7]: https://www.aragonplataformalogistica.es/directory/plataforma-logistica-de-zaragoza/?lang=en "PLAZA Plataforma Logística de Zaragoza"

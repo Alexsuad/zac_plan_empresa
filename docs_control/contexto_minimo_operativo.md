@@ -62,6 +62,9 @@ Leer:
 - el archivo específico de `plan_empresa/` (guía)
 - el archivo específico de `respuestas_plan_empresa/` (respuestas)
 - el anexo relacionado, solo si aplica
+- **Si el apartado es de marketing, ventas, comunicación, propuesta de valor, storytelling o entregables comerciales, leer obligatoriamente:**
+  - `docs_control/regla_lenguaje_comercial_sistreg.md`
+  - `.agent/skills/skill-lenguaje-comercial-sistreg/SKILL.md`
 
 Modificar:
 - el archivo específico de `respuestas_plan_empresa/`

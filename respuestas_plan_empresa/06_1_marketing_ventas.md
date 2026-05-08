@@ -32,13 +32,13 @@ La implementación completa solo se propondrá cuando exista dolor reconocido, i
 
 ---
 
-## 6.1.3. Producto ancla
+## 6.1.3. Caso de entrada comercial
 
-El producto ancla inicial será el **control de cobro por evidencia**. Se usará como primer caso de entrada comercial, pero no agota la propuesta de Sistreg. Una vez cerrado el análisis económico-financiero, se definirán 2 o 3 casos de entrada adicionales para diversificar el pitch comercial sin perder foco.
+El caso de entrada comercial inicial será el **control de cobro por evidencia**. Se usará como primer caso de entrada comercial, pero no agota la propuesta de Sistreg. Una vez cerrado el análisis económico-financiero, se definirán 2 o 3 casos de entrada adicionales para diversificar el pitch comercial sin perder foco.
 
-Este producto responde a un problema concreto: operaciones logísticas que ya se han realizado, pero no pueden cerrarse, facturarse o cobrarse correctamente porque falta documentación, evidencia de entrega, validación de tarifa, albarán, CMR, POD o trazabilidad suficiente.
+Este caso responde a un problema concreto: operaciones logísticas que ya se han realizado, pero no pueden cerrarse, facturarse o cobrarse correctamente porque falta documentación, evidencia de entrega, validación de tarifa, albarán, CMR, POD o trazabilidad suficiente.
 
-El objetivo del producto ancla es ayudar al cliente a saber:
+El objetivo del caso de entrada comercial es ayudar al cliente a saber:
 
 * qué operaciones están listas para facturar;
 * qué operaciones siguen bloqueadas;

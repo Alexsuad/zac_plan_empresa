@@ -69,7 +69,7 @@ Sistreg se diferencia por su **implementación incremental**: no pedimos cambiar
 ## 2.10. Modelo de negocio
 
 Sistreg plantea un crecimiento basado en la validación comercial:
-- **Fase 1: Consultoría y Diagnóstico:** Identificación de cuellos de botella y diseño del sistema de control.
+- **Fase 1: Evaluación operativo-económica y diseño del sistema de control:** Identificación de cuellos de botella y diseño del sistema de control.
 - **Fase 2: Arranque guiado:** Despliegue de la solución en una ruta o cliente específico (modelo proyecto).
 - **Fase 3: Consolidación:** Posible evolución hacia componentes reutilizables o soluciones estandarizadas si la validación comercial lo justifica, con mantenimiento y soporte recurrente.
 

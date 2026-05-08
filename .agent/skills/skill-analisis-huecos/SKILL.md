@@ -32,15 +32,18 @@ Comparar el contenido del archivo guía con el archivo de respuestas. Identifica
 
 ## Paso 2: Clasificación de los Huecos
 Clasificar cada hueco detectado en una de estas tres categorías basándose en su importancia y complejidad:
+- **[F] Fuente interna:** Información que ya existe en el repositorio (docs_base, otras respuestas, etc.).
 - **[U] Usuario:** Información que solo el emprendedor puede decidir o conocer (ej. nombre de marca, inicio de operaciones, decisiones operativas internas).
-- **[IS] Investigación Superficial:** Datos concretos, rápidos o definiciones que se encuentran fácilmente en internet (ej. direcciones de organismos, leyes generales). Herramienta sugerida: Búsqueda web normal.
-- **[IP] Investigación Profunda:** Análisis complejo que requiere buscar en múltiples fuentes, cruzar datos o evaluar el mercado (ej. listado de competidores locales, tipos de clientes indirectos, tendencias del sector logístico). Herramienta sugerida: Análisis avanzado o MCP NotebookLM.
+- **[I-SIMPLE] Investigación Superficial:** Datos concretos, rápidos o definiciones que se encuentran fácilmente en internet (ej. direcciones de organismos, leyes generales).
+- **[I-DEEP] Investigación Profunda:** Análisis complejo que requiere buscar en múltiples fuentes, cruzar datos o evaluar el mercado (ej. listado de competidores locales, tipos de clientes indirectos, tendencias del sector logístico).
+- **[M] Metodología:** Preguntas que se resuelven aplicando una skill o regla del proyecto (ej. tono, lenguaje comercial).
+- **[NO-RESPONDER-AÚN]:** Información que depende de una fase futura (ej. financiero detallado si no se ha validado el modelo).
 
 ## Paso 3: Presentación y Petición de Autorización (Gate)
 Detenerse y presentar al usuario un reporte estructurado con las siguientes acciones:
 1. Listar las preguntas **[U]** y pedir al usuario que las responda.
-2. Listar las preguntas **[IS]** e **[IP]**, justificando por qué requieren investigación.
-3. **Preguntar explícitamente:** "¿Me autorizas a buscar la información de las categorías [IS] e [IP] en internet para presentarte una propuesta?"
+2. Listar las preguntas **[I-SIMPLE]** e **[I-DEEP]**, justificando por qué requieren investigación.
+3. **Preguntar explícitamente:** "¿Me autorizas a buscar la información de las categorías [I-SIMPLE] e [I-DEEP] en internet para presentarte una propuesta?"
 
 ## Paso 4: Búsqueda y Validación
 - **NO INICIAR NINGUNA BÚSQUEDA** hasta recibir la aprobación expresa del usuario.

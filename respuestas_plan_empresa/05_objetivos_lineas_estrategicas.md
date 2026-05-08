@@ -219,7 +219,7 @@ La validación se realizará mediante contactos, visitas, diagnósticos y propue
 
 La señal positiva mínima a seis meses será haber conseguido **4 proyectos pagados** o, en su defecto, evidencia clara de que existe dolor reconocido y disposición de pago, aunque sea necesario ajustar la oferta.
 
-La señal de alerta será realizar muchas visitas sin que las empresas reconozcan el dolor o sin que exista disposición a pagar por resolverlo. En ese caso, deberá revisarse el segmento, el mensaje, el producto ancla o el modelo comercial.
+La señal de alerta será realizar muchas visitas sin que las empresas reconozcan el dolor o sin que exista disposición a pagar por resolverlo. En ese caso, deberá revisarse el segmento, el mensaje, el caso de entrada comercial o el modelo comercial.
 
 ---
 
@@ -321,7 +321,7 @@ Para evitar avanzar por inercia, se establecen criterios básicos de decisión.
 | Hay muchas visitas sin dolor reconocido           | Segmento o problema mal elegido          | Cambiar segmento o problema de entrada       |
 | Hay interés, pero no disposición de pago          | Valor económico no suficientemente claro | Mejorar cálculo de impacto o propuesta       |
 | Hay ventas, pero entrega saturada                 | Riesgo operativo                         | Reducir proyectos simultáneos o estandarizar |
-| Hay demanda de soluciones muy distintas           | Riesgo de dispersión                     | Mantener foco en producto ancla              |
+| Hay demanda de soluciones muy distintas           | Riesgo de dispersión                     | Mantener foco en caso de entrada comercial              |
 | Se percibe como automatizador genérico            | Riesgo de posicionamiento                | Reforzar lenguaje logístico y operativo      |
 
 La decisión de continuar, ajustar o pivotar no debe tomarse por sensación, sino por evidencias recogidas en contactos, diagnósticos, propuestas y proyectos.

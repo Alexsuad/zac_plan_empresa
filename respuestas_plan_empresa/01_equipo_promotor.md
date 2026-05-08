@@ -118,7 +118,7 @@ Claudia aporta **más de 20 años de experiencia** en compañías de comercio ex
 
 - **Estatus y Dedicación:** Claudia participa como colaboradora fundacional no societaria. Su dedicación es **parcial y flexible**, pudiendo alcanzar aproximadamente hasta **20 horas semanales** según las necesidades de los proyectos y su propia disponibilidad. Esta colaboración es totalmente **compatible con su desempeño laboral actual** en el sector logístico.
 - **Estructura de Remuneración:** Su participación no constituye un coste fijo inicial para el proyecto. Su remuneración está vinculada a la consecución de ingresos reales o a la ejecución de proyectos específicos que permitan compensar su aportación, contribuyendo a mantener la sostenibilidad financiera de Sistreg en su arranque.
-- **Formación y Experiencia:** Profesional en Comercio Internacional (Técnico Superior en Comercio Exterior). Actualmente desempeña funciones de **Customer Care en Marcotrans** (Zaragoza), gestionando operativas críticas de importación y exportación.
+- **Formación y Experiencia:** Profesional en Comercio Internacional (Técnico Superior en Comercio Exterior). Actualmente desempeña funciones de **Customer Care en empresa del sector logístico en Zaragoza** (Zaragoza), gestionando operativas críticas de importación y exportación.
 - **Aportación Estratégica:** Su rol se centra en el **Aseguramiento de la Calidad y Visión de Cliente**. Claudia actúa como contraste práctico del proyecto: valida la utilidad de las soluciones, revisa su coherencia operativa y ayuda a asegurar que respondan a dolores reales del sector.
 
 ## 1.9. Reparto inicial de funciones
@@ -138,7 +138,7 @@ El proyecto cuenta con una base sólida de experiencia acumulada en logística, 
 
 ## 1.11. Sostenibilidad personal y red de apoyo
 
-Cuento con un entorno familiar que apoya totalmente la iniciativa. Mi disponibilidad es de **40 horas semanales** (dedicación exclusiva). La participación de Claudia, al ser flexible y compatible con su trabajo, aporta una **doble capa de seguridad**: nos permite estar conectados con la realidad diaria del sector (Marcotrans) sin comprometer la estabilidad económica del proyecto al inicio.
+Cuento con un entorno familiar que apoya totalmente la iniciativa. Mi disponibilidad es de **40 horas semanales** (dedicación exclusiva). La participación de Claudia, al ser flexible y compatible con su trabajo, aporta una **doble capa de seguridad**: nos permite estar conectados con la realidad diaria del sector (empresa del sector logístico en Zaragoza) sin comprometer la estabilidad económica del proyecto al inicio.
 
 Económicamente, Sistreg tiene un margen de **6 meses** para validar comercialmente el servicio. La estructura de "colaboración por proyecto" con Claudia es un factor determinante para mantener este margen de maniobra.
 
@@ -158,7 +158,7 @@ Convertir a **Sistreg** progresivamente en una marca técnica reconocida en Arag
 
 ## 1.13. Personalidad inicial del proyecto
 
-Sistreg se define por un enfoque de consultoría técnica aplicada. Nuestra personalidad es:
+Sistreg se define por un enfoque de implementación técnica aplicada a procesos logísticos críticos. Nuestra personalidad es:
 - **Experta:** Conocemos el sector desde dentro (Schlumberger, Marcotrans).
 - **Práctica:** No se plantea vender tecnología como fin, sino soluciones orientadas a tiempo, control y trazabilidad.
 - **Fiable:** La precisión del dato, la trazabilidad documental y el cumplimiento operativo son criterios esenciales del proyecto.

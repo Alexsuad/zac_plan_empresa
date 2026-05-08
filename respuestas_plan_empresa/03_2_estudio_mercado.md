@@ -237,7 +237,7 @@ La cuarta barrera es la **falta de tiempo**. Aunque el cliente tenga un problema
 
 La quinta barrera es la **competencia por inercia**. En muchos casos, el principal competidor no será otro proveedor, sino seguir trabajando igual.
 
-Estas barreras obligan a que la iniciativa entre con una propuesta concreta, limitada y fácil de entender. Por eso el diagnóstico inicial gratuito y el producto ancla de control de cobro por evidencia son importantes: permiten reducir la fricción de entrada y mostrar valor sobre un problema específico.
+Estas barreras obligan a que la iniciativa entre con una propuesta concreta, limitada y fácil de entender. Por eso el diagnóstico inicial gratuito y el **caso de entrada comercial** de control de cobro por evidencia son importantes: permiten reducir la fricción de entrada y mostrar valor sobre un problema específico.
 
 ---
 

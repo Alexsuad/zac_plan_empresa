@@ -89,6 +89,8 @@ La base estratégica de la marca se resume así:
 | Qué lo diferencia   | Combina conocimiento logístico, criterio operativo y capacidad técnica aplicada.                                            |
 | Qué no es           | No es agencia de IA, SaaS estándar, consultoría logística genérica, proveedor informático generalista ni empresa logística. |
 
+La marca debe dejar claro que Sistreg entrega soluciones tecnológicas ligeras y funcionando —automatizaciones, formularios, tableros, integraciones simples o IA cuando aporta valor— siempre subordinadas al problema operativo y no a la moda tecnológica.
+
 La marca debe transmitir que entiende la operación real del cliente y que no llega a imponer tecnología por moda, sino a ordenar flujos, evidencias y puntos de control donde hoy existen fricciones.
 
 El proyecto no debe posicionarse como “tecnología avanzada para todos”, sino como una solución práctica para empresas que necesitan más control sobre procesos concretos.
@@ -149,7 +151,7 @@ La promesa de marca debe ser prudente y sostenible:
 No se debe prometer:
 
 * automatización total;
-* ahorro potencial (estimado tras diagnóstico);
+* ahorros garantizados o cifras de impacto no validadas;
 * sustitución completa de sistemas existentes;
 * eliminación absoluta de errores;
 * implantaciones rápidas sin revisar procesos;
