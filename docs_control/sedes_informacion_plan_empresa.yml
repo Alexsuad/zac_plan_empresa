@@ -1,0 +1,153 @@
+# File: docs_control/sedes_informacion_plan_empresa.yml
+# ──────────────────────────────────────────────────────────────────────
+# Propósito: Mapear la ubicación principal de cada concepto estratégico.
+# Rol: Configuración para el Auditor de Linealidad.
+# ──────────────────────────────────────────────────────────────────────
+
+conceptos:
+  - id: identidad_sistreg
+    sede_principal: 02_idea_negocio.md
+    sedes_secundarias:
+      - 00_resumen_ejecutivo.md
+    terminos:
+      - "Sistreg es"
+      - "marca provisional"
+      - "Proyecto Logístico"
+      - "plataforma SaaS"
+    max_archivos_con_mencion: 3
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: problema_pymes_logisticas
+    sede_principal: 02_idea_negocio.md
+    terminos:
+      - "fricción operativa"
+      - "caos documental"
+      - "desconexión operativa"
+    max_archivos_con_mencion: 2
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: propuesta_valor
+    sede_principal: 02_idea_negocio.md
+    terminos:
+      - "beneficios operativos"
+      - "reducción del ciclo de cobro"
+      - "validación en origen"
+    max_archivos_con_mencion: 3
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: cliente_objetivo
+    sede_principal: 02_idea_negocio.md
+    sedes_secundarias:
+      - 06_1_marketing_ventas.md
+    terminos:
+      - "empresa de transporte"
+      - "pyme logística"
+      - "Zaragoza y Aragón"
+    max_archivos_con_mencion: 4
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: doc_to_cash
+    sede_principal: 06_2_operaciones.md
+    sedes_secundarias:
+      - 02_idea_negocio.md
+      - 06_1_marketing_ventas.md
+    terminos:
+      - "Doc-to-Cash"
+      - "ciclo documental"
+      - "automatización de cobro"
+    max_archivos_con_mencion: 4
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: control_operativo
+    sede_principal: 06_2_operaciones.md
+    terminos:
+      - "control operativo"
+      - "hitos operativos"
+      - "gestión por excepción"
+    max_archivos_con_mencion: 3
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: trazabilidad_evidencia
+    sede_principal: 06_2_operaciones.md
+    terminos:
+      - "trazabilidad"
+      - "evidencia digital"
+      - "prueba de entrega"
+      - "POD"
+    max_archivos_con_mencion: 3
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: operaciones
+    sede_principal: 06_2_operaciones.md
+    terminos:
+      - "proceso operativo"
+      - "flujo de trabajo"
+      - "operativa diaria"
+    max_archivos_con_mencion: 2
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: marketing_ventas
+    sede_principal: 06_1_marketing_ventas.md
+    terminos:
+      - "estrategia comercial"
+      - "plan de ventas"
+      - "captación de clientes"
+    max_archivos_con_mencion: 2
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: equipo_colaboradores
+    sede_principal: 01_equipo_promotor.md
+    terminos:
+      - "perfil promotor"
+      - "colaboradora fundacional"
+      - "equipo gestor"
+    max_archivos_con_mencion: 2
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: juridico_fiscal
+    sede_principal: 06_4_juridico_fiscal.md
+    terminos:
+      - "forma jurídica"
+      - "IAE"
+      - "RGPD"
+      - "obligaciones fiscales"
+    max_archivos_con_mencion: 2
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: economico_financiero
+    sede_principal: 06_5_economico_financiero.md
+    terminos:
+      - "EBITDA"
+      - "VAN"
+      - "TIR"
+      - "punto de equilibrio"
+      - "tesorería"
+    max_archivos_con_mencion: 2
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: implantacion
+    sede_principal: 07_implantacion_puesta_marcha.md
+    terminos:
+      - "puesta en marcha"
+      - "fases de implantación"
+      - "cronograma"
+    max_archivos_con_mencion: 2
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: viabilidad_conclusiones
+    sede_principal: 08_viabilidad_conclusiones.md
+    terminos:
+      - "conclusión estratégica"
+      - "viabilidad del proyecto"
+      - "éxito del plan"
+    max_archivos_con_mencion: 2
+    severidad_si_excede: LINEALIDAD_WARNING
+
+  - id: arquitectura_tecnica
+    sede_principal: 06_2_operaciones.md
+    terminos:
+      - "stack tecnológico"
+      - "infraestructura cloud"
+      - "microservicios"
+    max_archivos_con_mencion: 2
+    severidad_si_excede: LINEALIDAD_WARNING

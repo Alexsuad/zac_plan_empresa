@@ -1,0 +1,36 @@
+# File: docs_control/limites_extension_plan_empresa.yml
+# ──────────────────────────────────────────────────────────────────────
+# Propósito: Definir los umbrales técnicos de auditoría.
+# Rol: Configuración para el Auditor de Linealidad.
+# ──────────────────────────────────────────────────────────────────────
+
+ratio_paginas:
+  principal_palabras_por_pagina: 300
+  conservador_palabras_por_pagina: 250
+
+limites_globales:
+  pass_hasta_paginas: 50
+  warning_leve_hasta_paginas: 60
+  warning_fuerte_hasta_paginas: 70
+  fail_mas_de_paginas: 70
+
+palabras_por_archivo:
+  resumen_ejecutivo_warning: 900
+  apartado_normal_warning: 1800
+  apartado_normal_fail: 2500
+
+excepciones_extension:
+  06_1_marketing_ventas.md: 3500
+  06_5_economico_financiero.md: 3500
+  03_2_estudio_mercado.md: 3000
+
+similitud_parrafos:
+  warning_min: 0.78
+  fail_min: 0.88
+
+doc_to_cash:
+  max_archivos_warning: 3
+  max_archivos_fail: 6
+
+intros_definitorias:
+  max_permitidas: 3

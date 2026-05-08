@@ -10,6 +10,42 @@ except ImportError:
     print("FAIL: El paquete 'pyyaml' no está instalado. Instala las dependencias con: pip install -r requirements.txt")
     sys.exit(1)
 
+def check_linearity_gate(is_test_mode):
+    """Verifica si el reporte de linealidad permite continuar."""
+    reporte_path = '_build/reportes/auditoria_linealidad_plan_empresa.md'
+    
+    if not os.path.exists(reporte_path):
+        msg = "FAIL: No existe el reporte de linealidad. Ejecuta scripts/auditar_linealidad_plan_empresa.py primero."
+        print(msg)
+        if not is_test_mode:
+            sys.exit(1)
+        return
+        
+    with open(reporte_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+        
+    if "LINEALIDAD_FAIL" in content:
+        if not is_test_mode:
+            print("FAIL: El plan ha fallado la auditoría de linealidad.")
+            sys.exit(1)
+        else:
+            print("WARNING: El plan ha fallado la auditoría de linealidad (Ignorado en modo test).")
+    elif "LINEALIDAD_WARNING" in content:
+        if not is_test_mode:
+            print("FAIL: Entrega bloqueada por LINEALIDAD_WARNING. Revisa el reporte.")
+            sys.exit(1)
+        else:
+            print("WARNING: El plan tiene avisos de linealidad documental (Continuando en modo test).")
+    elif "LINEALIDAD_PASS" in content:
+        print("PASS: Auditoría de linealidad superada.")
+    else:
+        if not is_test_mode:
+            print("FAIL: Estado de linealidad no reconocido en el reporte.")
+            sys.exit(1)
+        else:
+            print("WARNING: Estado de linealidad no reconocido en el reporte (Ignorado en modo test).")
+
+
 def read_manifest(manifest_path):
     if not os.path.exists(manifest_path):
         return []
@@ -87,11 +123,14 @@ def compile_plan():
             faltantes.append(prefix)
 
     if faltantes:
-        print(f"FAIL: Faltan apartados obligatorios: {faltantes}")
         if not is_test_mode:
+            print(f"FAIL: Faltan apartados obligatorios: {faltantes}")
             sys.exit(1)
         else:
-            print("INFO: Modo prueba activo. Ignorando error de apartados faltantes.")
+            print(f"WARNING: Faltan apartados obligatorios: {faltantes} (Ignorado en modo test).")
+    
+    # Gate de Linealidad Documental
+    check_linearity_gate(is_test_mode)
         
     block_patterns = [r'Pendiente de completar', r'\[PENDIENTE\]', r'\[CIFRA\]', r'\[NÚMERO\]']
     
@@ -133,20 +172,20 @@ def compile_plan():
         anexos_validos.append(ax)
         
     if bloqueos:
-        for b in bloqueos:
-            print(f"FAIL: {b}")
-            
-        os.makedirs(reportes_dir, exist_ok=True)
-        with open(report_file, 'w', encoding='utf-8') as rf:
-            rf.write("# Reporte de Compilación Fallida\n\n")
-            for b in bloqueos:
-                rf.write(f"- {b}\n")
-        print("Compilación bloqueada por marcadores o anexos pendientes.")
-        
         if not is_test_mode:
+            for b in bloqueos:
+                print(f"FAIL: {b}")
+            os.makedirs(reportes_dir, exist_ok=True)
+            with open(report_file, 'w', encoding='utf-8') as rf:
+                rf.write("# Reporte de Compilación Fallida\n\n")
+                for b in bloqueos:
+                    rf.write(f"- {b}\n")
+            print("Compilación bloqueada por marcadores o anexos pendientes.")
             sys.exit(1)
         else:
-            print("INFO: Modo prueba activo. Ignorando error de marcadores y anexos.")
+            for b in bloqueos:
+                print(f"WARNING: {b} (Ignorado en modo test)")
+            print("INFO: Modo prueba activo. Continuando a pesar de marcadores o anexos pendientes.")
         
     if anexos_validos:
         final_content += "# Anexos\n\n"
@@ -250,6 +289,7 @@ def compile_plan():
             rf.write("- Ninguna\n")
             
     print("PASS: Compilación finalizada correctamente.")
+    sys.exit(0)
 
 if __name__ == '__main__':
     compile_plan()

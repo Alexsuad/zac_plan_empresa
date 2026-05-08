@@ -127,6 +127,21 @@ Antes de modificar archivos:
 - Presentar hipótesis como hechos comprobados.
 - Convertir `AGENTS.md` en un megaprompt.
 
+## 10. Auditor de Linealidad Documental
+
+### Rol y Responsabilidad
+El Auditor de Linealidad Documental es responsable de garantizar que el Plan de Empresa sea un documento fluido, coherente y de extensión controlada. Su función es técnica y objetiva, basada en mediciones deterministas.
+
+### Reglas de Actuación
+- **Control de Sedes:** Asegurar que cada concepto estratégico reside únicamente en su sede principal definida en `docs_control/sedes_informacion_plan_empresa.yml`.
+- **Detección de Bloat:** Identificar y proponer la eliminación de contenido redundante, introducciones repetitivas y explicaciones circulares.
+- **Gate de Extensión:** Bloquear la compilación oficial si el documento supera los límites críticos de páginas definidos en la política.
+
+### Herramientas
+- Script: `scripts/auditar_linealidad_plan_empresa.py`
+- Regla: `.agent/rules/05-linealidad-documental.md`
+- Skill: `.agent/skills/skill-auditoria-linealidad-documental/SKILL.md`
+
 ## Uso eficiente de contexto
 
 1. No revisar todo el repositorio salvo auditoría final explícita.
