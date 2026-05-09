@@ -24,7 +24,7 @@ En el sector logístico, una operación puede estar realizada pero permanecer "a
 | **Validación de Tarifas** | Errores de facturación recibida por falta de cotejo con la tarifa pactada originalmente. | Auditoría automática de discrepancias entre lo operado y lo facturado. |
 | **Control de Estados** | Dependencia del "punteo manual" exhaustivo para saber qué viaje ha terminado realmente. | Tableros de control visual que muestran el estado real de cada expediente. |
 
-Este flujo, a menudo identificado como el ciclo documental-económico, es el primer caso de aplicación operativa de Sistreg. Su éxito radica en demostrar que el control de la información es tan importante como el movimiento físico de la carga.
+Este flujo, identificado internamente como **Doc-to-Cash** (y comunicado comercialmente como **control de evidencias para facturación**), es el primer caso de aplicación operativa de Sistreg. Su éxito radica en demostrar que el control de la información es tan importante como el movimiento físico de la carga.
 
 ## 6.2.3. Flujo de Prestación del Servicio
 La operativa de Sistreg se organiza de forma progresiva para reducir el riesgo de rechazo tecnológico y asegurar que cada hora de trabajo del promotor aporte un valor tangible al cliente logístico.

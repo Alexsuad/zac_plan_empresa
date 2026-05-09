@@ -64,6 +64,7 @@ conceptos:
       - "ciclo de caja"
     max_archivos_con_mencion: 4
     severidad_si_excede: LINEALIDAD_WARNING
+    # 00_resumen_ejecutivo.md puede mencionar el caso de forma breve, pero no es sede del concepto.
 
   - id: control_operativo
     sede_principal: 06_2_operaciones.md
