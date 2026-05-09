@@ -1,0 +1,80 @@
+# File: docs_control/lexico_comunicacion_sistreg.yml
+# ──────────────────────────────────────────────────────────────────────
+# Propósito: Umbrales y categorías para el Auditor Léxico.
+# Rol: Configuración de identidad verbal Sistreg.
+# ──────────────────────────────────────────────────────────────────────
+
+configuracion:
+  capitulos_comerciales:
+    - 00_resumen_ejecutivo.md
+    - 02_idea_negocio.md
+    - 06_0_marca_comunicacion_naming.md
+    - 06_1_marketing_ventas.md
+    - 08_viabilidad_conclusiones.md
+
+categorias:
+  logistica_profunda:
+    terminos:
+      - "expediente"
+      - "tráfico"
+      - "CMR"
+      - "POD"
+      - "albarán"
+      - "ciclo de cobro"
+      - "reproceso"
+      - "margen operativo"
+      - "incidencia"
+      - "validación de tarifa"
+      - "transporte terrestre"
+      - "conductor"
+      - "carga"
+      - "descarga"
+      - "ruta"
+      - "viaje"
+    min_recomendado:
+      00_resumen_ejecutivo.md: 3
+      02_idea_negocio.md: 5
+      06_1_marketing_ventas.md: 5
+      06_2_operaciones.md: 8
+
+  automatizacion_visible:
+    terminos:
+      - "panel"
+      - "dashboard"
+      - "aviso automático"
+      - "validación automática"
+      - "comportamiento automático"
+      - "actualización automática"
+
+  tecnicismos_prohibidos:
+    terminos:
+      - "Python"
+      - "API"
+      - "backend"
+      - "frontend"
+      - "script"
+      - "prompt"
+      - "embedding"
+      - "n8n"
+      - "Make"
+    severidad_comercial: LEXICO_FAIL
+    severidad_otros: LEXICO_WARNING
+
+  promesas_peligrosas:
+    terminos:
+      - "ahorro garantizado"
+      - "automatizamos todo"
+      - "herramienta de IA para todo"
+      - "software para cualquier empresa"
+      - "solución global"
+      - "revolucionario"
+      - "único en el mundo"
+    severidad: LEXICO_FAIL
+
+  frases_genericas:
+    terminos:
+      - "transformación digital"
+      - "solución innovadora"
+      - "optimización"
+      - "eficiencia"
+    severidad: LEXICO_WARNING
