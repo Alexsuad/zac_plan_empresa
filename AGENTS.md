@@ -160,3 +160,10 @@ El Auditor de Linealidad Documental es responsable de garantizar que el Plan de 
 9. Para operaciones de archivos usar terminal, Git o scripts.
 10. Para redacción, análisis y auditoría usar IA.
 11. Cerrar cada tarea con verificación concreta, no con revisión general.
+
+## 11. Modelo Económico y de Servicios
+
+Toda tarea relacionada con el plan económico-financiero, propuesta de valor, costes o soporte debe alinearse con el documento rector:
+- `docs_control/regla_modelo_economico_servicios_sistreg.md`
+
+Este documento define las 5 líneas de control financiero interno y las reglas de identidad comercial para asegurar un posicionamiento B2B profesional.

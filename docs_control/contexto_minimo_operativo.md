@@ -4,6 +4,7 @@
 - **Marca**: Sistreg es marca provisional; Proyecto Logístico solo referencia interna/descriptiva. ZAC/Zaragoza Activa solo contexto institucional.
 - **Servicio**: El primer servicio pagado es "arranque guiado"; no usar "piloto pagado" comercialmente.
 - **Ingresos**: El diagnóstico inicial es gratuito, limitado y NO es línea de ingreso.
+- **Económico**: El modelo se rige por las 5 líneas de control de `docs_control/regla_modelo_economico_servicios_sistreg.md`.
 - **Prudencia**: No garantizar cifras ni ROI. Sistreg no es marca registrada.
 
 ## Regla general

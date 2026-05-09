@@ -37,6 +37,7 @@ Reporte de auditoría con:
 - Verificar que se usa **Sistreg** como marca y Proyecto Logístico solo como referencia interna.
 - Verificar que el servicio inicial se llama "arranque guiado" y no "piloto".
 - Verificar que el diagnóstico gratuito no se cuenta como ingreso.
+- **Revisión de Valor Comercial:** Comprobar que Sistreg NO suena a freelance por horas, SaaS estándar, agencia de IA por moda ni consultoría logística genérica (solo informes). Consultar `docs_control/regla_modelo_economico_servicios_sistreg.md`.
 - Marcar como error cualquier apartado que suene a CV o informe externo.
 
 # Regla de conservación de valor documental

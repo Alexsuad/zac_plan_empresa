@@ -31,7 +31,7 @@ Plan financiero explicado con datos, hipótesis y pendientes separados.
 # Reglas
 
 - Sistreg es marca provisional; Proyecto Logístico solo referencia interna/descriptiva.
-- El primer servicio pagado se llama arranque guiado.
+- El primer servicio pagado puede comunicarse comercialmente como ‘arranque guiado’, pero financieramente debe interpretarse dentro de ‘horas de diseño y validación’, salvo indicación contraria del equipo financiero.
 - El diagnóstico inicial es gratuito, limitado y no es línea de ingreso.
 - No presentar ayudas como seguras.
 - No prometer ROI, ahorro, ventas ni resultados financieros garantizados.
@@ -41,6 +41,12 @@ Plan financiero explicado con datos, hipótesis y pendientes separados.
 - Indicar de dónde sale cada cifra.
 - Diferenciar dato real, hipótesis y pendiente.
 - Relacionar el Excel financiero con el texto del plan.
+- **Obligatorio:** Consultar `docs_control/regla_modelo_economico_servicios_sistreg.md` para asegurar la alineación con el modelo de 5 líneas de control financiero interno:
+  1. Horas de diagnóstico y análisis.
+  2. Horas de diseño y validación (incluye Arranque guiado).
+  3. Horas de implementación.
+  4. Soporte y acompañamiento mensual.
+  5. Horas de automatización puntual.
 - No hacer proyecciones optimistas sin justificación.
 
 # Límites

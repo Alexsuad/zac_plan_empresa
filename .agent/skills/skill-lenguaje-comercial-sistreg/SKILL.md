@@ -58,6 +58,15 @@ Debe explicarse:
 - qué decisión puede tomar;
 - qué bloqueo logístico reduce.
 
+## Regla de Entregable Visible
+Todo texto comercial que describa la solución debe responder obligatoriamente a:
+1. **¿Qué ve el cliente?** (ej. panel, dashboard, enlace).
+2. **¿Qué usa el cliente?** (ej. formulario de carga, vista de administración).
+3. **¿Qué se automatiza?** (ej. validación de firma, aviso de falta de documento).
+4. **¿Quién recibe avisos?** (ej. responsable de tráfico, conductor).
+5. **¿Qué bloqueo reduce?** (ej. retraso en facturación, falta de trazabilidad).
+Consultar `docs_control/regla_modelo_economico_servicios_sistreg.md` para ejemplos de "Automatización puntual" vs "Piloto".
+
 # Test de calidad
 
 Antes de aprobar un texto, comprobar:
@@ -88,7 +97,7 @@ Tecnicismos internos solo para documentación interna.
 
 ## Refuerzo de Control
 
-- **Condición de salida:** Texto revisado con léxico logístico profundo y enfoque Doc-to-Cash.
+- **Condición de salida:** Texto revisado con léxico logístico profundo, control operativo claro y Doc-to-Cash solo cuando aplique como caso de entrada.
 - **Estado final permitido:** Texto redactado profesionalmente.
 - **Evidencia requerida:** Diff de cambios mostrando la eliminación de términos genéricos de IA.
 - **Caso de bloqueo:** Uso de promesas inalcanzables o tecnicismos internos de desarrollo.
