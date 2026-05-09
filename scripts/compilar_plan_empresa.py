@@ -251,7 +251,7 @@ def compile_plan():
     ref_docx = 'docs_base/plantillas/reference.docx'
     
     try:
-        cmd_pandoc = ['pandoc', build_md, '-o', build_docx]
+        cmd_pandoc = ['pandoc', '-f', 'markdown-yaml_metadata_block', build_md, '-o', build_docx]
         if os.path.exists(ref_docx):
             cmd_pandoc.extend(['--reference-doc', ref_docx])
         else:
