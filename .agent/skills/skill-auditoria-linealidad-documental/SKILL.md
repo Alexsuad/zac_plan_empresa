@@ -1,5 +1,7 @@
 ---
 id: skill-auditoria-linealidad-documental
+name: auditoria-linealidad-documental
+description: Ejecuta y analiza la auditoría determinista de extensión, repetición y sedes de información del Plan de Empresa Sistreg.
 version: 1.1
 status: stable
 last_update: 2026-05-09
