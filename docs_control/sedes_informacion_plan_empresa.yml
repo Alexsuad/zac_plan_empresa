@@ -55,6 +55,13 @@ conceptos:
       - "Doc-to-Cash"
       - "ciclo documental"
       - "automatización de cobro"
+      - "control de cobro por evidencia"
+      - "operación → evidencia → factura → cobro"
+      - "operación -> evidencia -> factura -> cobro"
+      - "ciclo de cobro por evidencia"
+      - "ciclo documental-económico"
+      - "ciclo operativo-financiero"
+      - "ciclo de caja"
     max_archivos_con_mencion: 4
     severidad_si_excede: LINEALIDAD_WARNING
 

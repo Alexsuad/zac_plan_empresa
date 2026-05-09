@@ -14,13 +14,13 @@ Sistreg interviene en el flujo crítico **operación → evidencia → factura �
 | **2** | **Arranque guiado** | Resolver un problema concreto (ej. control de cobro por evidencia) en un solo flujo operativo para demostrar valor rápido en menos de 4 semanas. |
 | **3** | **Implementación completa** | Despliegue de un sistema integral de control operativo, trazabilidad documental y cuadros de mando personalizados para la toma de decisiones gerenciales. |
 
-**Caso de entrada comercial:** El concepto de **"control de cobro por evidencia"** se utiliza como punta de lanza estratégica. Este caso permite visibilizar de forma rápida aquellas facturas que están bloqueadas en el ciclo administrativo por falta de pruebas de entrega (POD), albaranes firmados o CMRs extraviados. Sirve de puente perfecto para demostrar el retorno de inversión (ROI) inmediato al liberar facturación retenida, antes de pasar a intervenciones de mayor calado en la estructura de procesos de la empresa.
+**Caso de entrada comercial:** El concepto de **"control de cobro por evidencia"** se utiliza como punta de lanza estratégica. Este caso permite visibilizar de forma rápida aquellas facturas que están bloqueadas en el ciclo administrativo por falta de pruebas de entrega (POD), albaranes firmados o CMRs extraviados. Sirve de puente perfecto para demostrar un retorno potencial medible al liberar facturación retenida, antes de pasar a intervenciones de mayor calado en la estructura de procesos de la empresa.
 
 | Nivel de Valor | Impacto Operativo y Económico |
 | :--- | :--- |
-| **Control Total** | Visibilidad absoluta sobre qué operaciones están realmente cerradas y cuáles siguen pendientes de validación documental. |
+| **Mayor Control Operativo** | Mayor visibilidad sobre operaciones bloqueadas y sobre qué procesos están realmente cerrados y cuáles siguen pendientes de validación documental. |
 | **Trazabilidad** | Orden documental impecable y centralizado, vinculando cada prueba digital a su registro de tráfico original. |
-| **Eficiencia Operativa** | Eliminación de las horas perdidas en búsquedas manuales, llamadas de reclamación y reprocesos administrativos. |
+| **Eficiencia Operativa** | Reducción de búsquedas manuales y reprocesos administrativos derivados de la falta de orden documental. |
 | **Salud de Caja** | Aceleración del flujo de facturación y reducción del riesgo de impago por falta de soporte documental válido. |
 
 ## 6.1.3. Competencia y Posicionamiento Quirúrgico
@@ -58,7 +58,7 @@ La captación de clientes se basa en la construcción de autoridad profesional y
 **El Proceso Comercial Detallado:**
 1.  **Apertura:** Identificación de la empresa y contacto inicial vía LinkedIn o teléfono para ofrecer el diagnóstico de "puntos ciegos documentales".
 2.  **Diagnóstico:** Reunión de 45-60 minutos para entender el flujo actual, detectar dónde se pierde el control de las evidencias y estimar el impacto en la caja.
-3.  **Propuesta de Arranque:** Presentación de una solución de bajo riesgo (Arranque Guiado) con precio y plazos cerrados para demostrar resultados inmediatos.
+3.  **Propuesta de Arranque:** Presentación de una solución de bajo riesgo (Arranque Guiado) con precio y plazos cerrados para demostrar una mejora del flujo de facturación cuando la evidencia está completa.
 4.  **Ejecución y Cierre:** Implementación de la mejora, validación de métricas de éxito y propuesta de escalado a una Implementación Completa.
 
 **Rutina Semanal de Alexander (Disciplina Comercial):**

@@ -3,10 +3,10 @@
 ## 5.1. Visión y Enfoque Estratégico de Sistreg
 Los objetivos y líneas estratégicas de **Sistreg** se fundamentan en una visión de **especialización sectorial, diferenciación operativa y validación progresiva**. El proyecto no busca un crecimiento agresivo basado en suposiciones de mercado, sino la consolidación de un modelo de negocio viable que resuelva bloqueos críticos y medibles en pymes logísticas de Zaragoza y Aragón. 
 
-Esta estrategia responde directamente al análisis DAFO/CAME realizado previamente: se trata de aprovechar la hibridez técnica-logística del promotor para corregir la falta de orden documental y trazabilidad en el sector logístico local. La prioridad estratégica es validar si el mercado reconoce el "dolor" del desorden administrativo y está dispuesto a pagar por una solución que garantice el control total del ciclo operativo-financiero. La máxima del proyecto es: **validar antes de escalar, y escalar solo sobre evidencias de tracción comercial real y contrastada**.
+Esta estrategia responde directamente al análisis DAFO/CAME realizado previamente: se trata de aprovechar la hibridez técnica-logística del promotor para corregir la falta de orden documental y trazabilidad en el sector logístico local. La prioridad estratégica es validar si el mercado reconoce el "dolor" del desorden administrativo y está dispuesto a pagar por una solución que mejore el control del ciclo operativo-financiero. La máxima del proyecto es: **validar antes de escalar, y escalar solo sobre evidencias de tracción comercial real y contrastada**.
 
 ## 5.2. Objetivos Empresariales y Comerciales
-La meta central del primer año es transformar Sistreg de una iniciativa de consultoría técnica en una actividad empresarial sostenible, profesionalizada y reconocida en el sector. Esto requiere un aprendizaje comercial continuo y una disciplina estricta en el seguimiento de hitos de mercado para evitar la dispersión de esfuerzos.
+La meta central del primer año es transformar Sistreg de un servicio B2B especializado en validación comercial en una actividad empresarial sostenible, profesionalizada y reconocida en el sector. Esto requiere un aprendizaje comercial continuo y una disciplina estricta en el seguimiento de hitos de mercado para evitar la dispersión de esfuerzos.
 
 ### Matriz de Hitos de Validación y Crecimiento (0-12 meses)
 
