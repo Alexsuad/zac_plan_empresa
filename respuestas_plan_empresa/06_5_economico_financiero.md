@@ -2,462 +2,178 @@
 
 ## 6.5.1. Enfoque general del análisis económico-financiero
 
-El análisis económico-financiero de **Sistreg** se plantea desde un criterio de prudencia. El proyecto se encuentra en fase de validación estratégica y pre-operativa. > [!IMPORTANT]
-> Los datos presentados son proyecciones basadas en modelos operativos. No constituyen una garantía de resultados finales, sino una estimación prudente.
+El análisis económico-financiero de **Sistreg** se plantea desde un criterio de máxima prudencia, posicionando el proyecto como un **servicio B2B especializado en automatización operativa logística**. El modelo se centra en la generación de valor mediante el impacto operativo medible.
 
-El objetivo de este apartado es comprobar si el modelo puede iniciar actividad con una estructura ligera, baja inversión inicial, sin endeudamiento bancario y con capacidad para sostenerse durante los primeros meses mientras se valida el mercado.
+> [!IMPORTANT]
+> Los datos presentados son proyecciones basadas en modelos operativos y el Excel financiero actualizado. No constituyen una garantía de resultados finales, sino una estimación condicionada a la captación comercial y la validación real de precios en el mercado.
 
 La lógica financiera del proyecto se apoya en cinco principios:
-
-1. mantener una inversión inicial contenida;
-2. evitar costes fijos elevados antes de validar la demanda;
-3. iniciar como trabajador autónomo;
-4. financiar el arranque principalmente con recursos propios;
-5. validar precios, horas vendidas y mantenimiento mensual con clientes reales.
-
-Sistreg no debe construir su viabilidad sobre subvenciones, deuda o previsiones optimistas. Las ayudas públicas pueden mejorar la posición de tesorería, pero el proyecto debe poder defenderse con ventas reales, control de costes y capacidad de ejecución.
-
-Este análisis se basa en el archivo económico-financiero del proyecto, que actúa como fuente principal de cifras. Las conclusiones de este apartado deberán revisarse si cambian las hipótesis del Excel, los precios, los costes fijos, la fecha de inicio o la estrategia comercial.
+1. **Inversión inicial contenida**: aprovechando el modelo de servicios digitales para minimizar el riesgo de capital.
+2. **Estructura de costes proporcional**: vinculando el crecimiento de los gastos a la validación de la demanda real.
+3. **Posicionamiento B2B**: evitando la venta simple de horas y priorizando la venta de soluciones de control.
+4. **Independencia financiera**: financiando el arranque con recursos propios, sin dependencia crítica de deuda bancaria o subvenciones.
+5. **Validación por hitos**: midiendo la rentabilidad de cada proyecto de implementación para asegurar el margen global.
 
 ---
 
-## 6.5.2. Criterio de prudencia y bootstrapping
+## 6.5.2. Criterio de prudencia y viabilidad condicionada
 
-El modelo financiero de Sistreg parte de una lógica de **bootstrapping**: iniciar con recursos mínimos, controlar cada gasto, utilizar herramientas proporcionales al momento del proyecto y reinvertir de forma progresiva los ingresos generados.
+El modelo económico de Sistreg define la viabilidad como una **hipótesis prudente condicionada** a factores críticos de ejecución. No se asume el éxito por la mera existencia de la tecnología, sino que se vincula a:
 
-Este enfoque es coherente con una actividad de servicios B2B de base tecnológica ligera, donde no se requieren instalaciones físicas, vehículos, maquinaria industrial ni stock inicial. La prioridad no será crecer rápido, sino validar la demanda, cerrar primeros proyectos pagados, medir la conversión comercial y ajustar la oferta antes de asumir gastos estructurales.
+- La **captación comercial** efectiva en el sector logístico y de transporte.
+- El **control de costes** fijos, manteniendo la estructura ligera característica del *bootstrapping*.
+- El **control de alcance**, evitando que los proyectos a medida consuman más recursos de los presupuestados.
+- La **validación real de precios** en el mercado de pymes logísticas.
+- La **capacidad de ejecución** técnica sin incurrir en cuellos de botella operativos.
 
-La aplicación práctica del bootstrapping en Sistreg implica:
-
-- no contratar herramientas avanzadas sin uso validado;
-- no invertir en una web compleja antes de validar el canal comercial;
-- no asumir deuda bancaria inicial;
-- mantener costes fijos bajos;
-- trabajar con recursos propios;
-- priorizar ventas, diagnósticos y arranques guiados;
-- medir el retorno de cada gasto comercial o tecnológico;
-- aplazar inversiones no esenciales hasta tener clientes reales.
-
-Este criterio también evita que el proyecto confunda capacidad técnica con necesidad financiera. Sistreg puede apoyarse en tecnología, automatización o inteligencia artificial cuando aporten valor real, pero no debe comprar o desarrollar más tecnología de la necesaria para validar el modelo.
+Sistreg no promete ahorros garantizados ni ROI inmediato de forma absoluta; la rentabilidad se presenta como un objetivo alcanzable mediante la resolución de ineficiencias medidas ("números rojos") en los procesos del cliente.
 
 ---
 
 ## 6.5.3. Inversión inicial prevista
 
-Según el Excel económico-financiero del proyecto, la inversión inicial prevista asciende a **3.110 €**, compuesta por:
+La inversión necesaria para iniciar la actividad es de **3.110 €**, lo que permite un arranque ágil y con baja exposición al riesgo.
 
-| Concepto | Importe estimado |
+| Concepto | Importe |
 |---|---:|
-| Inversiones ejecutadas | 2.510 € |
-| Otras necesidades iniciales / puesta en marcha | 600 € |
-| Total inversión inicial | 3.110 € |
+| Inversión ejecutada (activos y medios) | 2.510 € |
+| Puesta en marcha / Otras necesidades iniciales | 600 € |
+| **Total inversión inicial** | **3.110 €** |
 
-Esta inversión es coherente con un proyecto de servicios profesionales y tecnológicos de estructura ligera. La mayor parte de los recursos iniciales se orientan a disponer de medios básicos de trabajo, activos digitales, herramientas, soporte administrativo y elementos necesarios para operar de forma profesional.
-
-El carácter reducido de la inversión inicial es una fortaleza, porque permite iniciar actividad sin asumir una estructura financiera pesada. No obstante, también exige disciplina: cualquier gasto adicional deberá justificarse por su relación directa con la captación comercial, la prestación del servicio o el cumplimiento legal/fiscal.
-
-No se recomienda asumir inversiones relevantes en marca, web avanzada, publicidad de pago, herramientas premium o desarrollo de producto antes de validar que el cliente reconoce el problema y está dispuesto a pagar por resolverlo.
+Esta cifra cubre la adquisición de equipos informáticos, activos digitales, licencias iniciales y los gastos administrativos necesarios para la apertura del servicio.
 
 ---
 
-## 6.5.4. Necesidades financieras y colchón de tesorería
+## 6.5.4. Fuentes de financiación y necesidades
 
-El Excel financiero estima una necesidad financiera mínima de **3.278 €**. Además, se incluye un colchón de tesorería de **2.000 €**, por lo que la financiación total a obtener se sitúa en torno a **5.278 €**.
+El proyecto nace con una sólida posición de liquidez propia, evitando el endeudamiento externo en la fase de validación.
 
-| Concepto | Importe estimado |
+| Fuente de financiación | Importe |
 |---|---:|
-| Necesidad financiera mínima | 3.278 € |
-| Colchón de tesorería | 2.000 € |
-| Financiación total a obtener | 5.278 € |
+| Capital social / Aportación inicial propia | 9.278 € |
+| Financiación ajena a largo plazo (Bancos) | 0 € |
+| Ayudas y subvenciones (estimadas en 2027) | 3.000 € |
+| **Total financiación disponible** | **12.278 €** |
 
-El colchón de tesorería es importante porque el proyecto estará en fase de validación comercial. Aunque la inversión inicial sea baja, pueden existir retrasos en ventas, tiempos de conversión más largos, pagos trimestrales, gastos no previstos o clientes con plazos de pago superiores a los deseados.
-
-En una actividad B2B, la tesorería no depende solo de vender, sino de cobrar a tiempo. Por eso, Sistreg deberá diferenciar claramente entre:
-
-| Concepto | Significado |
-|---|---|
-| Ingreso | Servicio facturado o reconocido económicamente. |
-| Cobro | Entrada real de dinero en caja o banco. |
-| Gasto | Coste asumido por la actividad. |
-| Pago | Salida real de dinero. |
-
-Esta diferencia será especialmente importante en relación con IVA, IRPF, pagos a proveedores, gestoría, herramientas y posibles servicios externos.
+Las **necesidades financieras iniciales** (3.110 €) están plenamente cubiertas por la aportación de capital social, dejando un remanente significativo para tesorería y contingencias operativas.
 
 ---
 
-## 6.5.5. Fuentes de financiación previstas
+## 6.5.5. Estructura de costes fijos
 
-La fuente principal de financiación prevista será la aportación propia del promotor, estimada en **5.000 €**. No se contempla inicialmente financiación bancaria a largo plazo.
-
-| Fuente de financiación | Importe estimado |
-|---|---:|
-| Aportación propia | 5.000 € |
-| Financiación ajena a largo plazo | 0 € |
-| Ayudas o subvenciones previstas | 3.000 € en 2027 |
-| Total financiación prevista | 8.000 € |
-
-El modelo muestra una diferencia inicial aproximada de **278 €** entre la financiación necesaria y la aportación propia si se considera el colchón completo de tesorería. Esta diferencia deberá gestionarse con prudencia mediante control de gasto, ajuste de inversiones iniciales o aportación adicional si fuera necesario.
-
-La previsión incluye una posible ayuda o subvención de **3.000 € en 2027**, pero esta no debe considerarse garantizada. Las ayudas públicas deben tratarse como una mejora potencial de la posición financiera, no como condición imprescindible para la viabilidad del proyecto.
-
-La regla financiera será:
-
-> Sistreg debe poder iniciar y sostener su validación comercial sin depender de ayudas. Las subvenciones solo deben reforzar la tesorería, acelerar inversiones útiles o mejorar el margen de seguridad.
-
-Las posibles vías de financiación complementaria que podrían estudiarse son:
-
-- ayudas al autoempleo;
-- subvenciones locales o autonómicas;
-- programas de apoyo a emprendimiento;
-- ayudas a digitalización;
-- programas vinculados a innovación o transformación digital;
-- financiación pública o semipública si el proyecto crece;
-- financiación bancaria solo si existe tracción comercial suficiente.
-
-En la fase inicial no se recomienda buscar business angels, préstamos participativos o financiación externa compleja, porque el proyecto todavía debe validar demanda, precios, capacidad de entrega y recurrencia.
-
----
-
-## 6.5.6. Estructura de costes
-
-La estructura de costes prevista es ligera y está diseñada para una fase inicial de validación. No se contemplan alquileres, plantilla fija ni inversiones industriales.
-
-
-Los principales costes fijos previstos son:
-
-| Concepto | Criterio |
-|---|---|
-| Retribución del promotor | Sueldo neto estimado para sostener la dedicación al proyecto. |
-| Seguridad Social de autónomos | Coste asociado al inicio de actividad. |
-| Servicios profesionales | Gestoría, apoyo fiscal, legal o asesoramiento puntual. |
-| Publicidad y comunicación | Presencia comercial básica, LinkedIn, materiales y captación inicial. |
-| Aplicaciones y herramientas | Software, automatización, bases de datos, servicios digitales. |
-| Desplazamientos y combustible | Visitas comerciales y reuniones presenciales. |
-| Formación | Actualización técnica y empresarial. |
-| Seguros y otros gastos | Coberturas y gastos menores de operación. |
-| Amortización | Reparto del coste de activos iniciales. |
-
-El Excel financiero estima unos costes fijos totales aproximados de:
+La estructura de costes está diseñada para sostener un servicio profesional de alta especialización.
 
 | Año | Costes fijos estimados |
 |---|---:|
-| 2026 | 16.140,72 € |
-| 2027 | 35.401,44 € |
-| 2028 | 38.281,44 € |
+| 2026 (6 meses de actividad) | 20.881 € |
+| 2027 | 43.681 € |
+| 2028 | 46.561 € |
 
-La diferencia entre 2026 y los años posteriores se explica porque el primer año solo contempla seis meses de actividad, con inicio previsto el **1 de julio de 2026**.
-
-La principal partida de coste es la retribución del promotor. Este dato es importante porque el proyecto debe cubrir no solo herramientas y gastos operativos, sino también la sostenibilidad personal mínima necesaria para mantener la dedicación.
-
-La participación de Claudia se plantea como colaboración fundacional no societaria, parcial y flexible. No se contempla como coste fijo inicial. Su remuneración dependerá de ingresos, proyectos específicos o hitos acordados, de forma que no comprometa la tesorería en la fase de validación.
+El ejercicio 2026 refleja solo el segundo semestre del año, con el inicio de actividad previsto para el 1 de julio. Los costes incluyen la retribución del promotor, seguros, gestoría, herramientas de automatización y acciones comerciales.
 
 ---
 
-## 6.5.7. Modelo de explotación: ingreso, operación y estructura
+## 6.5.6. Modelo de servicios y base de cálculo
 
-El análisis financiero de Sistreg debe entenderse desde un modelo de explotación a tres niveles:
+Sistreg utiliza una estructura financiera interna de cinco líneas para el cálculo de costes y rentabilidad. Es fundamental aclarar que estas líneas son **categorías internas de gestión**, no paquetes comerciales rígidos de venta por horas.
 
-| Nivel | Significado en Sistreg |
-|---|---|
-| Ingreso | Lo que paga el cliente por análisis operativo posterior, arranque guiado, implementación, soporte o automatización puntual. |
-| Operación | Coste y tiempo necesarios para entregar el servicio: análisis, diseño, desarrollo, pruebas, reuniones, documentación y soporte. |
-| Estructura | Costes fijos necesarios para sostener la actividad: autónomos, herramientas, gestoría, comunicación, formación y otros gastos. |
-
-La viabilidad depende de que los ingresos cubran tanto el coste operativo de entregar cada servicio como la estructura mínima del proyecto.
-
-El riesgo principal en un servicio a medida es subestimar el tiempo real de entrega. Por eso, el cálculo financiero debe tener en cuenta no solo las horas facturables, sino también:
-
-- horas comerciales;
-- preparación de propuestas;
-- reuniones no facturadas;
-- documentación;
-- pruebas;
-- soporte;
-- correcciones;
-- administración;
-- aprendizaje;
-- seguimiento del cliente.
-
-En consecuencia, Sistreg deberá controlar dos capacidades:
-
-| Capacidad | Qué mide |
-|---|---|
-| Capacidad de captación y venta | Contactos, reuniones, diagnósticos, propuestas y cierres. |
-| Capacidad de prestación | Horas reales disponibles para ejecutar proyectos sin saturación. |
-
-El equilibrio entre ambas capacidades será clave. Vender más de lo que se puede entregar puede deteriorar la calidad; entregar sin vender de forma suficiente puede tensionar la tesorería.
-
----
-
-## 6.5.8. Servicios previstos e hipótesis de ingresos
-
-El modelo financiero organiza los ingresos en varias líneas de servicio:
-
-| Servicio | Precio medio previsto |
+| Línea de Servicio (Interna) | Tarifa base (Cálculo) |
 |---|---:|
-| Horas de análisis operativo posterior / diagnóstico ampliado | 55 €/hora |
-| Horas de **arranque guiado** | 57 €/hora |
-| Horas de implementación | 58 €/hora |
-| Soporte y acompañamiento mensual | 250 €/mes |
-| Horas de automatización puntual | 57 €/hora |
+| Horas de diagnóstico y análisis | 75 €/h |
+| Horas de diseño y validación (Arranque guiado) | 80 €/h |
+| Horas de implementación | 90 €/h |
+| Soporte y acompañamiento mensual | 350 €/mes |
+| Horas de automatización puntual | 90 €/h |
 
-Estas cifras deben interpretarse como hipótesis de partida. La política de precios deberá validarse mediante entrevistas, diagnósticos, propuestas comerciales y primeros proyectos reales.
+El "Arranque guiado" es un concepto comercial que, financieramente, se interpreta dentro de las horas de diseño y validación. Las horas sirven para calcular el coste interno, estimar capacidad y definir el precio mínimo, pero la propuesta al cliente siempre se basa en el **valor de la solución** y el impacto en sus costes operativos.
 
-El diagnóstico inicial gratuito definido en el plan de operaciones no se considera una línea de ingreso, sino una acción comercial acotada. Las horas de análisis recogidas en el modelo financiero corresponden a trabajos posteriores, diagnósticos ampliados o análisis operativo incluido dentro de un arranque guiado o proyecto pagado.
-
-El planteamiento es coherente con un modelo híbrido:
-
-1. servicios por proyecto;
-2. arranques guiados;
-3. implementación de soluciones;
-4. mantenimiento o acompañamiento mensual;
-5. automatizaciones puntuales cuando estén conectadas con un problema operativo real.
-
-La fijación de precios no debe basarse solo en el coste interno por hora. También debe considerar:
-
-- valor percibido por el cliente;
-- urgencia del problema;
-- impacto sobre facturación, cobro, margen o tiempo;
-- dificultad técnica;
-- riesgo de soporte posterior;
-- capacidad de pago de la pyme logística;
-- experiencia acumulada tras los primeros proyectos.
-
-El cliente no compra únicamente horas. Compra control, trazabilidad, reducción de fricción y capacidad de saber qué operaciones están listas para facturar, cuáles están bloqueadas y qué evidencia falta.
+El diagnóstico comercial inicial se mantiene gratuito y acotado. La línea ‘Horas de diagnóstico y análisis’ corresponde a análisis operativo posterior, diagnóstico ampliado o evaluación pagada cuando el alcance exige más profundidad. No debe confundirse con consultoría gratuita abierta.
 
 ---
 
-## 6.5.9. Monetización del tiempo y horas facturables
+## 6.5.7. Previsión de ventas
 
-En Sistreg, el tiempo será uno de los recursos económicos más importantes. Por tanto, no basta con definir una tarifa por hora; también será necesario controlar cuántas horas reales pueden convertirse en ingresos.
-
-Debe distinguirse entre:
-
-| Tipo de hora | Descripción |
-|---|---|
-| Hora disponible | Tiempo total de dedicación del promotor al proyecto. |
-| Hora comercial | Tiempo dedicado a captación, reuniones, seguimiento y propuestas. |
-| Hora operativa | Tiempo dedicado a analizar, diseñar, implementar, probar y documentar. |
-| Hora facturable | Tiempo que puede cobrarse al cliente. |
-| Hora no facturable | Tiempo necesario para sostener el negocio, pero que no genera ingreso directo. |
-
-Durante la fase inicial, la dedicación estimada del promotor será de **40 horas semanales**. Sin embargo, no todas esas horas serán facturables. Una parte relevante deberá dedicarse a ventas, administración, aprendizaje, soporte, documentación y mejora interna.
-
-Por eso, el proyecto deberá revisar mensualmente:
-
-- horas dedicadas a captación;
-- horas dedicadas a ejecución;
-- horas facturadas;
-- horas no facturadas;
-- margen por proyecto;
-- rentabilidad del soporte mensual;
-- desviaciones entre horas estimadas y horas reales.
-
-Esta revisión permitirá evitar uno de los riesgos principales de los servicios a medida: vender proyectos que parecen rentables en precio, pero consumen más tiempo del previsto y reducen el margen real.
-
----
-
-## 6.5.10. Previsión de ventas
-
-La previsión de ventas del Excel económico-financiero es la siguiente:
+Las ventas proyectadas reflejan la captura progresiva de mercado y la consolidación de la cartera de clientes recurrentes.
 
 | Año | Ventas previstas |
 |---|---:|
-| 2026 | 22.052 € |
-| 2027 | 42.250 € |
-| 2028 | 47.030 € |
-| Total 2026-2028 | 111.332 € |
+| 2026 (6 meses) | 31.180 € |
+| 2027 | 59.500 € |
+| 2028 | 70.100 € |
 
-El primer año se calcula con seis meses de actividad, por lo que la cifra de ventas prevista debe analizarse como una hipótesis de validación comercial concentrada en el segundo semestre de 2026.
-
-El crecimiento previsto entre 2026 y 2027 se basa en una mayor capacidad de venta, repetición de servicios y consolidación de mantenimientos mensuales. No obstante, este crecimiento dependerá de la capacidad real de captar clientes, cerrar propuestas y ejecutar proyectos sin saturar la capacidad operativa.
-
-La previsión es positiva, pero debe tratarse con cautela. El proyecto todavía no cuenta con clientes confirmados ni **arranques guiados** pagados. Por tanto, la primera prioridad financiera no será maximizar ventas, sino validar que el problema es pagable y que el cliente acepta el formato de servicio.
-
-El plan de marketing y ventas deberá ser coherente con esta previsión, especialmente en lo relativo a contactos mensuales, reuniones, diagnósticos, propuestas y cierres.
+La viabilidad de estas cifras depende de la conversión efectiva de los diagnósticos gratuitos iniciales en proyectos pagados de implementación y soporte mensual.
 
 ---
 
-## 6.5.11. Umbral de rentabilidad
+## 6.5.8. Resultados y rentabilidad
 
-El Excel financiero estima el umbral de rentabilidad en términos de unidades mínimas y facturación mínima necesaria.
+El modelo económico muestra una evolución positiva y una alta capacidad de generación de beneficio.
 
-| Periodo | Unidades mínimas estimadas | Facturación mínima estimada |
-|---|---:|---:|
-| Mes tipo | 60,25 unidades | 3.670,29 € |
-| 2026 | 304,84 unidades | 18.570,21 € |
-| 2027 | 668,14 unidades | 42.132,71 € |
-| 2028 | 693,75 unidades | 45.315,29 € |
-
-La facturación prevista para 2026 es de **22.052 €**, superior al umbral estimado de **18.570,21 €**. Esto indica que, según la hipótesis del Excel, el proyecto podría superar el punto de equilibrio en su primer ejercicio parcial.
-
-En 2027, la previsión de ventas es de **42.250 €**, muy cercana al umbral estimado de **42.132,71 €**. Esto muestra que el segundo año será especialmente sensible: cualquier desviación en ventas, costes o capacidad de ejecución puede afectar el resultado.
-
-En 2028, la previsión de ventas es de **47.030 €**, también por encima del umbral estimado de **45.315,29 €**, aunque con un margen prudente.
-
-Esta lectura obliga a mantener control estricto de costes y foco comercial. El proyecto no puede permitirse dispersión en servicios, herramientas costosas o acciones comerciales poco medibles.
-
----
-
-## 6.5.12. Resultados previstos
-
-Según el Excel económico-financiero, los resultados previstos son positivos en los tres años analizados.
-
-| Año | Resultado antes de impuestos | Beneficio neto estimado | Cash flow estimado |
+| Concepto | 2026 | 2027 | 2028 |
 |---|---:|---:|---:|
-| 2026 | 3.806,28 € | 2.854,71 € | 3.275,43 € |
-| 2027 | 2.858,56 € | 2.143,92 € | 2.985,36 € |
-| 2028 | 4.208,56 € | 3.156,42 € | 3.997,86 € |
-| Total | 10.873,39 € | 8.155,04 € | 10.258,65 € |
+| Resultado antes de impuestos | 10.299 € | 15.819 € | 23.539 € |
+| **Beneficio neto final** | **7.724 €** | **11.864 €** | **17.654 €** |
+| **Cash Flow** | **8.145 €** | **12.705 €** | **18.495 €** |
 
-El resultado es positivo, pero ajustado. No se trata de un modelo de alta rentabilidad inmediata, sino de un modelo de autoempleo técnico especializado que puede sostenerse si se cumplen las hipótesis de ventas y se controla la estructura de costes.
-
-El año 2027 es el más sensible porque combina un año completo de costes con una previsión de ventas cercana al umbral de rentabilidad. Esto refuerza la necesidad de validar el canal comercial durante 2026 y llegar a 2027 con primeras referencias, casos de **arranque guiado** o mantenimientos recurrentes.
+### Indicadores de Valor (VAN / TIR)
+Bajo las hipótesis actuales, el proyecto presenta una salud financiera excepcional:
+- **VAN (Valor Actual Neto):** 35.173 €
+- **TIR (Tasa Interna de Retorno):** 301 %
 
 ---
 
-## 6.5.13. Tesorería prevista e impacto fiscal
+## 6.5.9. Umbral de rentabilidad
 
-La tesorería prevista en el Excel muestra una evolución positiva:
+El umbral de rentabilidad indica el nivel de facturación necesario para cubrir la totalidad de los costes fijos y variables, situando el beneficio en cero.
 
-| Año | Saldo final de tesorería estimado |
+| Año | Umbral de rentabilidad | Ventas previstas |
+|---|---:|---:|
+| 2026 | 21.661 € | 31.180 € |
+| 2027 | 46.441 € | 59.500 € |
+| 2028 | 49.321 € | 70.100 € |
+
+Estos datos refuerzan la viabilidad del modelo, pero exigen mantener una disciplina estricta en la captación comercial, el control de costes operativos y la estimación precisa de horas por proyecto para no degradar el margen.
+
+---
+
+## 6.5.10. Tesorería y gestión fiscal
+
+La tesorería se mantiene positiva en todo momento gracias a la aportación inicial y la estructura ligera.
+
+| Año | Tesorería final estimada |
 |---|---:|
-| 2026 | 6.851,71 € |
-| 2027 | 13.856,04 € |
-| 2028 | 18.938,15 € |
+| 2026 | 14.883 € |
+| 2027 | 32.258 € |
+| 2028 | 55.766 € |
 
-Esta evolución depende de tres factores principales:
+Estas cifras deben interpretarse con prudencia porque la tesorería real dependerá de los plazos de cobro, obligaciones fiscales y conversión comercial efectiva. No obstante, se establecen las siguientes notas de prudencia:
 
-1. aportación inicial de capital;
-2. cobro rápido a clientes;
-3. ausencia de financiación bancaria y cuotas de préstamo.
-
-El modelo utiliza un periodo medio de cobro de **1 día** y un periodo medio de pago a proveedores de **30 días**. Esta hipótesis favorece la tesorería, pero deberá validarse en la práctica, ya que algunos clientes B2B pueden exigir plazos de pago superiores.
-
-Por prudencia, Sistreg deberá intentar pactar condiciones de cobro favorables, especialmente en proyectos de implementación. Una política recomendable es solicitar anticipo inicial, por ejemplo del **50%**, antes de comenzar trabajos pagados, y liquidar el resto contra entrega o hitos acordados.
-
-También será necesario considerar el impacto fiscal en caja. El IVA cobrado a clientes no debe interpretarse como ingreso disponible, ya que deberá liquidarse periódicamente. Del mismo modo, deberán reservarse fondos para pagos fiscales, Seguridad Social, gestoría y obligaciones asociadas al trabajo autónomo.
-
-La gestión financiera deberá diferenciar entre rentabilidad contable y liquidez disponible. Un proyecto puede ser rentable sobre el papel, pero generar tensión si los cobros se retrasan o si no se reserva correctamente el importe de impuestos.
+1.  **Fiscalidad:** El tratamiento de impuestos (IVA, Sociedades, IRPF) se considera pendiente de validación definitiva con gestoría para ajustar el impacto real en caja.
+2.  **Cobros:** Se asume un modelo de cobro ágil, vital para mantener la liquidez necesaria para el crecimiento.
+3.  **Reservas:** El beneficio generado en 2026 y 2027 debe servir para consolidar el margen de seguridad ante posibles retrasos en la captación comercial.
 
 ---
 
-## 6.5.14. Financiación externa, ayudas y subvenciones
-
-El modelo no contempla préstamos bancarios al inicio. Esta decisión reduce el riesgo financiero y evita cargas fijas por intereses o cuotas.
-
-Las ayudas públicas aparecen como una posible fuente complementaria, especialmente en 2027. Sin embargo, el proyecto no debe depender de ellas para iniciar ni para sostener sus costes básicos.
-
-La regla de prudencia financiera será:
-
-> Sistreg debe ser viable sin ayudas; las subvenciones solo deben mejorar el margen de seguridad, acelerar inversiones útiles o reforzar la tesorería.
-
-Las ayudas podrán explorarse en ámbitos como:
-
-- autoempleo;
-- emprendimiento;
-- digitalización;
-- consolidación de microempresa;
-- programas de apoyo local o autonómico;
-- líneas vinculadas a innovación o transformación digital.
-
-No obstante, cualquier ayuda deberá evaluarse según requisitos, plazos de cobro, obligaciones, justificación documental y carga administrativa.
-
-La financiación bancaria, los préstamos participativos, los microcréditos o la entrada de inversión externa no se descartan de forma absoluta, pero no forman parte de la estrategia inicial. Solo deberían estudiarse si existe validación comercial, cartera de clientes, necesidad clara de crecimiento y capacidad real de devolución.
-
----
-
-## 6.5.15. Gráficos económicos y soporte visual Red ARCE
-
-Como parte del entregable económico-financiero, el análisis escrito se complementará con los gráficos generados mediante la plantilla **`Gráficos(Red ARCE) 09.04.2018.xls`**.
-
-Este archivo no modifica las hipótesis económicas del proyecto, sino que sirve para representar visualmente los principales datos del plan económico-financiero.
-
-La información que alimentará estos gráficos procederá del archivo **`3.1 Plan Económico-Financiero Emprendimiento 2026`**, que actúa como fuente principal de cifras del proyecto.
-
-Los gráficos podrán utilizarse para representar:
-
-| Gráfico / bloque visual | Información de origen |
-|---|---|
-| Inversión inicial | Inversión ejecutada y necesidades de puesta en marcha. |
-| Necesidades financieras | Necesidad mínima, colchón de tesorería y financiación total. |
-| Fuentes de financiación | Aportación propia, ayudas y financiación externa si aplica. |
-| Previsión de ventas | Ventas previstas por año. |
-| Estructura de costes | Costes fijos y principales partidas de gasto. |
-| Resultado previsto | Beneficio antes de impuestos y beneficio neto. |
-| Cash flow | Flujo de caja estimado. |
-| Tesorería | Saldo final previsto por ejercicio. |
-| Punto de equilibrio | Umbral de rentabilidad y facturación mínima necesaria. |
-
-Estos gráficos se utilizarán como apoyo visual en el apartado económico-financiero, en el resumen ejecutivo provisional o final y, si procede, en los anexos del Plan de Empresa.
-
-Por tanto, el archivo **`Gráficos(Red ARCE) 09.04.2018.xls`** debe considerarse parte del soporte del entregable financiero, aunque no sea la fuente principal de las cifras. La fuente principal seguirá siendo el Excel económico-financiero del proyecto.
-
----
-
-## 6.5.16. Riesgos financieros
-
-Los principales riesgos financieros identificados son:
+## 6.5.11. Riesgos financieros y mitigación
 
 | Riesgo | Impacto | Mitigación |
 |---|---|---|
-| Menor captación comercial de la prevista | Caída de ingresos y tensión de caja | Prospección directa, embudo comercial medido y revisión mensual. |
-| Ciclos de venta más largos | Retraso en facturación | Priorizar diagnósticos, visitas y propuestas acotadas. |
-| Clientes con plazos de pago largos | Tensión de tesorería | Anticipo del 50%, hitos de pago y contratos claros. |
-| Costes de herramientas superiores | Reducción del margen | No contratar herramientas avanzadas sin cliente o uso confirmado. |
-| Proyectos demasiado a medida | Saturación operativa | Arranques guiados acotados y componentes reutilizables. |
-| Dependencia de ayudas | Riesgo de liquidez | No asumir gastos condicionados a subvenciones no concedidas. |
-| Precios no aceptados por el mercado | Dificultad para cerrar ventas | Validar disposición de pago en entrevistas y primeras propuestas. |
-| Sobrecarga del promotor | Riesgo operativo y comercial | Limitar proyectos simultáneos y priorizar tareas de alto impacto. |
-| Subestimación de horas no facturables | Menor margen real | Medir horas comerciales, administrativas y de soporte. |
-| Confusión entre facturación y caja disponible | Problemas de liquidez | Separar IVA, impuestos y reservas de tesorería. |
+| Saturación operativa | Caída de calidad/margen | Limitación de proyectos simultáneos y uso de automatizaciones internas. |
+| Precios no aceptados | Dificultad de cierre | Enfoque comercial en el coste del problema del cliente ("números rojos"). |
+| Falta de recurrencia | Tensión comercial | Fomento del acompañamiento mensual como pilar de ingresos estables. |
 
 ---
 
-## 6.5.17. Lectura de viabilidad económica
+## 6.5.12. Soporte gráfico económico-financiero
 
-El análisis financiero muestra que Sistreg puede ser viable como proyecto de autoempleo técnico especializado si cumple tres condiciones:
+El análisis económico-financiero se complementará con cuadros y gráficos generados desde el Excel económico-financiero del proyecto. Estos elementos visuales facilitan la lectura y defensa de la viabilidad del negocio.
 
-1. captar primeras ventas durante el segundo semestre de 2026;
-2. mantener los costes fijos bajo control;
-3. consolidar servicios recurrentes o mantenimientos que reduzcan la dependencia de proyectos puntuales.
-
-La inversión inicial es baja y el endeudamiento previsto es nulo, lo que reduce el riesgo. Sin embargo, la rentabilidad no es holgada. La viabilidad dependerá especialmente de la capacidad comercial para transformar contactos, reuniones y diagnósticos en arranques guiados pagados, implementaciones y mantenimiento mensual.
-
-El modelo financiero no debe entenderse como una garantía de éxito, sino como un escenario base razonable que deberá ser contrastado con la realidad del mercado.
+Los cuadros financieros (inversión, financiación, explotación, tesorería) se cortarán y pegarán en el documento final cuando corresponda para dar soporte a las cifras presentadas. Asimismo, si aplica, se utilizarán los soportes visuales derivados de la plantilla `Gráficos(Red ARCE) 09.04.2018.xls`. Estos elementos no sustituyen el análisis escrito, sino que sirven para reforzar la coherencia de las proyecciones financieras.
 
 ---
 
-## 6.5.18. Pendientes de validación financiera
+## 6.5.13. Conclusión económico-financiera
 
-Quedan pendientes de validación los siguientes puntos:
+**Sistreg es económicamente viable como servicio B2B especializado.** El proyecto combina una inversión inicial muy reducida (3.110 €) con una alta capacidad de generación de caja desde el primer semestre de actividad. 
 
-- aceptación real de precios por parte de pymes logísticas;
-- número de horas vendibles al mes;
-- conversión real desde contacto, reunión, diagnóstico, propuesta y cierre;
-- duración media de un arranque guiado;
-- coste real de prestación de servicios;
-- coste real de herramientas y suscripciones;
-- tiempo administrativo no facturable;
-- condiciones reales de pago de clientes;
-- posibilidad efectiva de conseguir ayudas públicas;
-- necesidad de contratar gestoría, seguros o asesoría legal especializada;
-- capacidad de mantener soporte mensual sin saturación;
-- rentabilidad real de automatizaciones puntuales;
-- conveniencia de subir precios cuando exista validación;
-- utilidad final de los gráficos Red ARCE dentro del documento entregable;
-- coherencia entre el Excel económico-financiero, el resumen ejecutivo y el apartado 6.5.
-
----
-
-## 6.5.19. Conclusión económico-financiera
-
-El plan económico-financiero de Sistreg muestra un proyecto de arranque prudente, con baja inversión inicial, financiación principalmente propia, sin endeudamiento bancario y con estructura de costes controlada.
-
-Las previsiones del Excel muestran resultados positivos en los tres años analizados, aunque con márgenes ajustados y fuerte dependencia de la validación comercial. El segundo año resulta especialmente sensible porque el umbral de rentabilidad está muy próximo a la facturación prevista.
-
-La principal fortaleza financiera es que el proyecto puede iniciar con pocos recursos y sin estructura pesada. La principal debilidad es que todavía no existen clientes reales ni disposición de pago validada.
-
-El enfoque financiero debe basarse en bootstrapping, control de costes, monetización prudente del tiempo, validación progresiva de precios y diferenciación clara entre facturación, cobro y tesorería disponible.
-
-Por tanto, la conclusión es prudente: **Sistreg es económicamente viable como hipótesis de autoempleo técnico especializado, siempre que se mantenga el control de costes, se validen precios con clientes reales y se convierta el caso de entrada comercial en proyectos pagados durante la primera fase de actividad.**
+La viabilidad financiera está blindada por la ausencia de deuda bancaria y un capital social inicial (9.278 €) que permite cubrir cualquier desviación en la fase de validación comercial. El éxito del modelo depende ahora de la ejecución comercial y el mantenimiento de los márgenes previstos en las soluciones tecnológicas implementadas.
