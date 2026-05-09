@@ -230,11 +230,23 @@ def compile_plan():
     for origen, destino in anexos_a_copiar:
         shutil.copy2(origen, destino)
 
-    with open(build_md, 'w', encoding='utf-8') as outfile:
-        outfile.write(final_content)
+    # Registro de resultados
+    format_results = {
+        "MARKDOWN": "PENDING",
+        "DOCX": "PENDING",
+        "PDF": "PENDING"
+    }
+
+    try:
+        with open(build_md, 'w', encoding='utf-8') as outfile:
+            outfile.write(final_content)
+        format_results["MARKDOWN"] = "PASS"
+        print(f"MARKDOWN_PASS: Consolidado en {build_md}")
+    except Exception as e:
+        format_results["MARKDOWN"] = "FAIL"
+        print(f"MARKDOWN_FAIL: Error escribiendo MD: {e}")
+        sys.exit(1)
         
-    print(f"Markdown consolidado en: {build_md}")
-    
     build_docx = os.path.join(build_dir, 'plan_empresa_sistreg_completo.docx')
     ref_docx = 'docs_base/plantillas/reference.docx'
     
@@ -248,28 +260,40 @@ def compile_plan():
             
         result = subprocess.run(cmd_pandoc, capture_output=True, text=True)
         if result.returncode != 0:
-            print(f"FAIL: Pandoc falló: {result.stderr}")
-            if not is_test_mode:
-                sys.exit(1)
+            format_results["DOCX"] = "FAIL"
+            print(f"DOCX_FAIL: Pandoc falló: {result.stderr}")
         else:
-            print(f"DOCX generado en: {build_docx}")
+            format_results["DOCX"] = "PASS"
+            print(f"DOCX_PASS: Generado en {build_docx}")
             
+            # Intentar generar PDF si DOCX tuvo éxito
             try:
                 cmd_pdf = ['libreoffice', '--headless', '--convert-to', 'pdf', build_docx, '--outdir', build_dir]
                 res_pdf = subprocess.run(cmd_pdf, capture_output=True, text=True)
                 if res_pdf.returncode == 0:
-                    print(f"PDF generado exitosamente en {build_dir}")
+                    format_results["PDF"] = "PASS"
+                    print(f"PDF_PASS: Generado en {build_dir}")
                 else:
-                    print(f"WARNING: LibreOffice falló al generar PDF: {res_pdf.stderr}")
+                    format_results["PDF"] = "FAIL"
+                    print(f"PDF_FAIL: LibreOffice falló: {res_pdf.stderr}")
             except FileNotFoundError:
-                print("WARNING: libreoffice no está disponible. No se generó el PDF.")
+                format_results["PDF"] = "SKIPPED"
+                print("PDF_SKIPPED: libreoffice no está disponible.")
             
     except FileNotFoundError:
-        print("WARNING: pandoc no está disponible. No se generaron DOCX/PDF.")
+        format_results["DOCX"] = "FAIL"
+        format_results["PDF"] = "SKIPPED"
+        print("DOCX_FAIL: pandoc no está disponible.")
         
+    # Generar reporte final
     with open(report_file, 'w', encoding='utf-8') as rf:
         rf.write("# Reporte de Compilación\n\n")
-        rf.write("## Apartados incluidos\n")
+        rf.write(f"**Estado General:** {'PASS' if all(v in ['PASS', 'SKIPPED'] for v in format_results.values()) else 'FAIL'}\n\n")
+        rf.write("## Resultados por Formato\n")
+        for fmt, res in format_results.items():
+            rf.write(f"- {fmt}: {res}\n")
+            
+        rf.write("\n## Apartados incluidos\n")
         for f in incluidos:
             rf.write(f"- {f}\n")
             
@@ -287,9 +311,24 @@ def compile_plan():
                 rf.write(f"- {adv}\n")
         else:
             rf.write("- Ninguna\n")
-            
-    print("PASS: Compilación finalizada correctamente.")
-    sys.exit(0)
+
+    # Resumen final en consola
+    print("-" * 30)
+    print("RESUMEN DE COMPILACIÓN:")
+    for fmt, res in format_results.items():
+        print(f"  {fmt}: {res}")
+    print("-" * 30)
+
+    # Lógica de salida determinista
+    if is_test_mode:
+        print("INFO: Modo prueba activo. El script termina con EXIT 0 a pesar de posibles fallos en DOCX/PDF.")
+        sys.exit(0)
+    else:
+        if any(v == "FAIL" for v in format_results.values()):
+            print("FAIL: La compilación ha fallado en uno o más formatos obligatorios.")
+            sys.exit(1)
+        print("PASS: Compilación finalizada exitosamente.")
+        sys.exit(0)
 
 if __name__ == '__main__':
     compile_plan()

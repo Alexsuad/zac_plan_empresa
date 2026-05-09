@@ -1,3 +1,14 @@
+---
+id: skill-auditoria-linealidad-documental
+version: 1.1
+status: stable
+last_update: 2026-05-09
+author: Antigravity
+dependencies:
+  - scripts/auditar_linealidad_plan_empresa.py
+  - docs_control/limites_extension_plan_empresa.yml
+---
+
 # File: .agent/skills/skill-auditoria-linealidad-documental/SKILL.md
 # ──────────────────────────────────────────────────────────────────────
 # Propósito: Habilidad para ejecutar y analizar la linealidad documental.

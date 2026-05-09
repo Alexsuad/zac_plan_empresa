@@ -187,16 +187,40 @@ def auditar():
     estado_global = "LINEALIDAD_PASS"
     log = []
     
-    # Regla de páginas
+    # 1. Fallos por archivo individual
+    archivos_fail = [item['archivo'] for item in reporte_archivos if item['estado'] == "LINEALIDAD_FAIL"]
+    if archivos_fail:
+        estado_global = "LINEALIDAD_FAIL"
+        log.append(f"Falla: Apartados exceden el límite crítico: {', '.join(archivos_fail)}")
+
+    # 2. Similitud crítica
+    similitudes_criticas = [s for s in similitudes if s['ratio'] >= limites_cfg['similitud_parrafos'].get('fail_min', 0.88)]
+    if similitudes_criticas:
+        estado_global = "LINEALIDAD_FAIL"
+        log.append(f"Falla: Detectada similitud crítica (>= {limites_cfg['similitud_parrafos'].get('fail_min', 0.88)}) entre {len(similitudes_criticas)} pares de archivos.")
+
+    # 3. Violaciones de sede con severidad FAIL
+    violaciones_fail = []
+    for v in violaciones_sedes:
+        concepto_id = v['concepto']
+        config_concepto = next((c for c in sedes_cfg['conceptos'] if c['id'] == concepto_id), None)
+        if config_concepto and config_concepto.get('severidad_si_excede') == "LINEALIDAD_FAIL":
+            violaciones_fail.append(v)
+    
+    if violaciones_fail:
+        estado_global = "LINEALIDAD_FAIL"
+        log.append(f"Falla: Violación crítica de sedes de información en {len(violaciones_fail)} conceptos.")
+
+    # 4. Regla de páginas (Límite Global)
     lim = limites_cfg['limites_globales']
     if total_pag_p > lim['fail_mas_de_paginas']:
         estado_global = "LINEALIDAD_FAIL"
         log.append(f"Falla: Extensión total ({total_pag_p} pág) excede límite crítico ({lim['fail_mas_de_paginas']} pág).")
-    elif total_pag_p > lim['warning_leve_hasta_paginas']:
-        if estado_global != "LINEALIDAD_FAIL": estado_global = "LINEALIDAD_WARNING"
+    elif total_pag_p > lim['warning_leve_hasta_paginas'] and estado_global == "LINEALIDAD_PASS":
+        estado_global = "LINEALIDAD_WARNING"
         log.append(f"Aviso: Extensión total ({total_pag_p} pág) en zona de riesgo.")
         
-    # Regla de intros
+    # 5. Regla de intros repetidas
     if intros_detectadas > limites_cfg['intros_definitorias']['max_permitidas']:
         estado_global = "LINEALIDAD_FAIL"
         log.append(f"Falla: Demasiadas introducciones definitorias ({intros_detectadas}/{limites_cfg['intros_definitorias']['max_permitidas']}).")

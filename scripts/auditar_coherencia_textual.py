@@ -1,6 +1,7 @@
 import os
 import re
 import datetime
+import sys
 from pathlib import Path
 
 # Configuración de rutas
@@ -177,6 +178,9 @@ def audit():
     print(f"Advertencias: {warnings}")
     print(f"Reporte generado en: {OUTPUT_FILE}")
     print("-" * 30)
+    return errors
 
 if __name__ == "__main__":
-    audit()
+    err_count = audit()
+    # Bloquear si hay errores
+    sys.exit(1 if err_count > 0 else 0)
