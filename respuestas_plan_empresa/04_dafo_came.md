@@ -23,7 +23,7 @@ La siguiente matriz resume los factores críticos detectados en las fases de an�
 ## 4.3. Lectura Estratégica del Diagnóstico
 El diagnóstico revela una asimetría crítica: **Sistreg** posee un motor técnico-operativo de alto valor pero carece de la transmisión comercial necesaria para moverlo en el mercado real. La hibridez del promotor es una fortaleza que permite atacar problemas que las consultoras genéricas no detectan, pero esta ventaja es "invisible" si no se consigue superar la barrera de la primera reunión. El análisis subraya que el éxito no vendrá de la perfección del código, sino de la capacidad de penetración en el tejido empresarial de Zaragoza Activa y PLAZA.
 
-El mayor riesgo detectado no es la competencia técnica de otras startups, sino la **inercia operativa** del cliente. La pyme logística aragonesa es profundamente pragmática y resistente a cambios que perciba como "carga informática" adicional. Por ello, Sistreg debe presentarse como una herramienta de alivio (Cuidador) y orden (Gobernante), huyendo de la imagen de "agencia de IA" que hoy satura y confunde al mercado. Las amenazas del entorno obligan a un posicionamiento basado en el **resultado tangible en la caja**, convirtiendo la debilidad de la falta de casos en una oportunidad para ofrecer pilotos muy cercanos y personalizados.
+El mayor riesgo detectado no es la competencia técnica de otras startups, sino la **inercia operativa** del cliente. La pyme logística aragonesa es profundamente pragmática y resistente a cambios que perciba como "carga informática" adicional. Por ello, Sistreg debe presentarse como una herramienta de alivio (Cuidador) y orden (Gobernante), huyendo de la imagen de "agencia de IA" que hoy satura y confunde al mercado. Las amenazas del entorno obligan a un posicionamiento basado en el **resultado tangible en la caja**, convirtiendo la debilidad de la falta de casos en una oportunidad para ofrecer validaciones técnicas acotadas, cercanas y personalizadas.
 
 ## 4.4. Matriz CAME: Acciones de Respuesta
 A partir del cruce de factores, se definen las líneas de acción para los primeros 12 meses de actividad, priorizando la supervivencia comercial y la validación del modelo.
@@ -31,7 +31,7 @@ A partir del cruce de factores, se definen las líneas de acción para los prime
 | Tipo | Factor DAFO | Estrategia CAME (Acción Concreta) |
 | :--- | :--- | :--- |
 | **Corregir** | Falta de contactos | Establecer una rutina semanal de prospección en PLAZA y uso intensivo de los foros de Zaragoza Activa y ALIA. |
-| **Corregir** | Falta de casos reales | Documentar el primer proyecto piloto con métricas de "antes y después" de la intervención para generar credibilidad. |
+| **Corregir** | Falta de casos reales | Documentar el primer caso de validación con métricas de "antes y después" de la intervención para generar credibilidad. |
 | **Afrontar** | Inercia del cliente | Utilizar el diagnóstico gratuito como herramienta de choque para mostrar el "coste de no hacer nada" (dinero perdido). |
 | **Afrontar** | Riesgos de datos | Implementar protocolos de seguridad y contratos de confidencialidad/RGPD robustos antes de cualquier intervención. |
 | **Mantener** | Hibridez técnica | Dedicar tiempo a la creación de componentes reutilizables que agilicen la entrega técnica sin aumentar los costes. |

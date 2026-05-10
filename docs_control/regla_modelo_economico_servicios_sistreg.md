@@ -38,13 +38,13 @@ La tarifa horaria se reserva exclusivamente para:
 - Evoluciones pequeñas no contempladas en el acompañamiento.
 - Automatización puntual.
 
-## 5. Criterio de "Piloto" vs "Automatización Puntual"
-Para evitar el uso excesivo del término "Piloto" o "MVP", se aplicará la siguiente distinción:
+## 5. Criterio de validación técnica acotada vs automatización puntual
+Para evitar que “piloto” o “MVP” vuelvan a aparecer como fases comerciales del Plan de Empresa, se aplicará la siguiente distinción:
 
 | Concepto | Uso recomendado | Criterio |
 |---|---|---|
 | **Automatización puntual** | Mejora acotada, ajuste menor. | Alcance pequeño, bajo riesgo, una regla o tarea concreta, sin necesidad de validar un sistema completo. |
-| **Piloto / MVP** | Validación de sistema completo. | Incertidumbre operativa, varias reglas, varios usuarios, riesgo operativo alto o necesidad de validar antes de escalar. |
+| **Validación técnica acotada** | Validación de sistema completo. | Incertidumbre operativa, varias reglas, varios usuarios, riesgo operativo alto o necesidad de validar antes de escalar. |
 
 ## 6. Acompañamiento Mensual
 El acompañamiento debe tener límites definidos en la propuesta para proteger el margen:
@@ -64,5 +64,5 @@ Para mantener la coherencia B2B, Sistreg **no debe convertirse en**:
 ## 8. Restricciones Críticas
 1. **No eliminar la lógica horaria** del control interno (es necesaria para la gestión).
 2. **No hacer depender el modelo de ingresos** de automatizaciones puntuales (deben ser complementarias).
-3. **No prometer ahorros garantizados**, ROI inmediato ni rentabilidad asegurada (prudencia financiera).
+3. **No prometer ahorros garantizados**, retorno potencial medible ni rentabilidad asegurada (prudencia financiera).
 4. **"Arranque guiado"**: Es un concepto comercial. Financieramente se interpreta como "horas de diseño y validación", salvo indicación contraria del equipo financiero.

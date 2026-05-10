@@ -6,7 +6,7 @@ Soy **Alexander Suárez**, emprendedor principal de este proyecto y responsable 
 Cuento con una disponibilidad total de **40 horas semanales** para dedicarme exclusivamente a la puesta en marcha de Sistreg. Esta dedicación es fundamental en la fase de lanzamiento, ya que permite avanzar simultáneamente en tres frentes críticos: la prospección comercial directa, el diseño de soluciones personalizadas basadas en el diagnóstico del cliente y la consolidación de la arquitectura técnica de la plataforma. Mi objetivo es transformar mi experiencia sectorial en una actividad profesional sostenible que aporte soluciones prácticas, ágiles y proporcionadas a las pymes logísticas.
 
 ## 1.2. Formación y Competencias Híbridas
-Mi perfil se define por una integración de tres áreas de conocimiento que rara vez coinciden en una estructura de autoempleo, lo que constituye la principal ventaja competitiva de Sistreg:
+Mi perfil se define por una integración de tres áreas de conocimiento que rara vez coinciden en una estructura empresarial ligera, lo que constituye la principal ventaja competitiva de Sistreg:
 
 - **Perspectiva de Negocio:** Formación sólida en Economía y Comercio Exterior, que me permite entender la rentabilidad operativa, la gestión de presupuestos, la relación con proveedores globales y la viabilidad financiera de cada implementación.
 - **Perspectiva Logística:** Conocimiento profundo de los procesos de la cadena de suministro, la gestión documental (CMR, albaranes, POD, licitaciones internacionales), la resolución de incidencias críticas y el cumplimiento normativo en aduanas.
@@ -23,6 +23,7 @@ Mi perfil se define por una integración de tres áreas de conocimiento que rara
 Mi trayectoria profesional principal se forjó en el área de comercio exterior de **Schlumberger Surenco**, una de las compañías líderes globales en servicios tecnológicos industriales. Durante 15 años evolucioné desde roles de coordinación operativa hasta alcanzar la **Jefatura del Área de Comercio Exterior**, liderando equipos multidisciplinares y gestionando la logística de importación y exportación en entornos de máxima exigencia.
 
 **Responsabilidades y capacidades estratégicas desarrolladas:**
+
 - **Dirección de Operaciones Complejas:** Coordinación integral de flujos logísticos internacionales, asegurando la sincronización entre transporte, aduanas y entrega final.
 - **Gestión y Auditoría de Proveedores:** Licitación, contratación y medición rigurosa de desempeño (KPIs) de transportistas terrestres, agentes de aduana y operadores de zonas francas.
 - **Protección del Margen Operativo:** Análisis exhaustivo de costes de transporte y servicios auxiliares para detectar desviaciones financieras y optimizar el gasto logístico.
@@ -33,7 +34,7 @@ Mi trayectoria profesional principal se forjó en el área de comercio exterior 
 En 2015, motivado por la necesidad de mejorar la visibilidad de los indicadores de desempeño del área, lideré el desarrollo de un **sistema personalizado de gestión de control operativo basado en Visual Basic y Access**. Este proyecto no fue una simple base de datos, sino una herramienta de control que permitía monitorear operaciones en tiempo real y detectar cuellos de botella documentales antes de que afectaran a la facturación. Fue el momento en que comprendí que la tecnología, cuando se diseña desde el conocimiento profundo del proceso logístico, tiene un impacto inmediato en la reducción de la incertidumbre y en la capacidad de decisión de la gerencia. Esta experiencia exitosa es la base conceptual y la prueba de concepto real sobre la que hoy se edifica Sistreg.
 
 ## 1.5. Capacidades Técnicas y Desarrollo de Soluciones
-Más allá de mi experiencia en gestión, he fortalecido mis capacidades de programación para asegurar la autonomía técnica total de Sistreg. Domino tecnologías como HTML, CSS, JavaScript, PHP, Python y SQL, además de entornos de automatización como Make. Esta base técnica me permite no solo diagnosticar el problema del cliente, sino construir sistemas mínimos funcionales (MVP) con una alta velocidad de respuesta, adaptando cada solución a la infraestructura existente del cliente sin necesidad de grandes inversiones en software externo.
+Más allá de mi experiencia en gestión, he fortalecido mis capacidades de programación para asegurar la autonomía técnica total de Sistreg. Domino tecnologías como HTML, CSS, JavaScript, PHP, Python y SQL, además de entornos de automatización como Make. Esta base técnica me permite no solo diagnosticar el problema del cliente, sino construir soluciones mínimas controladas con una alta velocidad de respuesta, adaptando cada solución a la infraestructura existente del cliente sin necesidad de grandes inversiones en software externo.
 
 ## 1.6. Colaboración Estratégica: Claudia Bautista
 El proyecto cuenta con el respaldo estratégico y el contraste operativo de **Claudia Bautista**, profesional con **más de 20 años de experiencia** en compañías de comercio exterior y logística internacional en España. Su participación es un activo fundamental para la validación comercial y el ajuste fino de la propuesta de valor de Sistreg.

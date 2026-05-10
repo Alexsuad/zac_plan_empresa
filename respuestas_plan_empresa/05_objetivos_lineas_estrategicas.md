@@ -19,21 +19,19 @@ La meta central del primer año es transformar Sistreg de un servicio B2B especi
 El diagnóstico gratuito actúa como la principal herramienta de entrada comercial. Su función operativa es quirúrgica: detectar bloqueos en el ciclo Operación → Evidencia → Facturación → Cobro. Este enfoque permite una conversión cualitativa, donde la propuesta económica no se percibe como un gasto, sino como una inversión para liberar el valor retenido que Sistreg ayuda a aflorar mediante el orden documental.
 
 ## 5.3. Objetivos Financieros y de Inversión Prudente
-Sistreg se rige por un principio de **prudencia financiera absoluta y gestión de bajo coste fijo**. La prioridad es la protección de la caja mientras se valida el modelo comercial en entornos reales. Las cifras detalladas de inversión y tesorería se recogen en el apartado **6.5. Económico-Financiero**, manteniendo la coherencia con el plan de emprendimiento 2026 de Zaragoza Activa.
+Sistreg se rige por un principio de **prudencia financiera absoluta y gestión de bajo coste fijo**. La prioridad es la protección de la caja mientras se valida el modelo comercial en entornos reales. Las cifras detalladas de inversión y tesorería se recogen en el apartado **6.5. Económico-Financiero**, manteniendo la coherencia con el plan de emprendimiento 2026 de Zaragoza Activa. **Sistreg** nace con una vocación de servicio profesional ligero y flexible, lo que nos permite establecer unas bases económicas de bajo riesgo:
 
-**Principios de Inversión y Gestión Financiera:**
-*   **Estructura de costes mínima:** Operación inicial sin locales comerciales, flota propia ni stock de productos. La actividad se desarrolla desde oficina propia para maximizar el margen de seguridad y reducir el riesgo de insolvencia.
-*   **Inversión vinculada a hitos de mercado:** No se autorizan compras de herramientas, suscripciones de software avanzado o servicios externos que no estén directamente vinculados a la ejecución de un contrato firmado con un cliente real.
-*   **Garantía de profesionalidad operativa:** Asegurar desde el inicio los recursos mínimos para una gestión excelente, incluyendo gestoría contable/fiscal, cumplimiento estricto de RGPD y herramientas de desarrollo seguras que protejan la información del cliente.
-*   **Crecimiento por demanda real:** La inversión tecnológica se realizará "aguas abajo" de los problemas resueltos, evitando la construcción prematura de plataformas complejas antes de tener una base de clientes recurrente y validada.
+* **Estructura de costes mínima:** Operación inicial sin locales comerciales, flota propia ni stock de productos. La actividad se desarrolla desde oficina propia para maximizar el margen de seguridad y reducir el riesgo fijo del promotor.
+* **Inversión vinculada a hitos de mercado:** No se autorizan compras de herramientas, suscripciones de software avanzado o servicios externos que no estén directamente vinculados a la ejecución de un contrato firmado con un cliente real.
+* **Garantía de profesionalidad operativa:** Asegurar desde el inicio los recursos mínimos para una gestión excelente, incluyendo gestoría contable/fiscal, cumplimiento estricto de RGPD y herramientas de desarrollo seguras que protejan la información del cliente.
+* **Crecimiento por demanda real:** La inversión tecnológica se realizará "aguas abajo" de los problemas resueltos, evitando la construcción prematura de plataformas complejas antes de tener una base de clientes recurrente y validada.
 
 ## 5.4. Capacidad Operativa y Desarrollo de Activos Tecnológicos
-El objetivo operativo es asegurar una entrega de alta calidad técnica y cercanía personal, evitando la saturación de la estructura del equipo promotor en las fases críticas de arranque del negocio.
+El objetivo operativo es asegurar una entrega de alta calidad técnica y cercanía personal, evitando la saturación de la estructura del equipo promotor en las fases críticas de arranque del negocio. La actividad inicial se concentra en el eje logístico de Aragón, buscando un control exhaustivo de la agenda comercial y técnica:
 
-**Capacidad y Recursos Operativos Iniciales:**
-*   **Fase de Diagnóstico:** Capacidad para realizar entre 4 y 6 sesiones de diagnóstico profundo mensuales sin comprometer la actividad de prospección.
-*   **Fase de Implementación:** Máximo de 2 implementaciones de sistemas en paralelo para asegurar el cumplimiento de plazos y la calidad del soporte post-venta.
-*   **Equipo Promotor:** Alexander (40h/semana) lidera el diseño estratégico y técnico. Claudia (soporte especializado hasta 20h/semana) apoya en la validación documental, pruebas de usuario y redacción de manuales operativos.
+* **Fase de Diagnóstico:** Capacidad para realizar entre 4 y 6 sesiones de diagnóstico profundo mensuales sin comprometer la actividad de prospección.
+* **Fase de Implementación:** Máximo de 2 implementaciones de sistemas en paralelo para asegurar el cumplimiento de plazos y la calidad del soporte post-venta.
+* **Equipo Promotor:** Alexander (40h/semana) lidera el diseño estratégico y técnico. Claudia (soporte especializado hasta 20h/semana) apoya en la validación documental, pruebas de usuario y redacción de manuales operativos.
 
 **Estrategia de Activos y Tecnología Reutilizable:**
 La tecnología en Sistreg no es un fin, sino una capacidad interna para crear soluciones funcionales, trazables y mantenibles a largo plazo. Cada proyecto individual debe alimentar la construcción de **activos tecnológicos reutilizables** (conectores de datos, reglas de validación preconfiguradas, tableros de control estándar). Esto permitirá que, con el tiempo, el esfuerzo de implementación se reduzca progresivamente y el margen operativo aumente sin perder la esencia de la solución a medida que valora el cliente.
@@ -62,7 +60,7 @@ Sistreg se compromete a una revisión mensual de su estrategia basada en señale
 | Señal de Mercado Detectada | Interpretación de la Estrategia | Acción de Decisión Sugerida |
 | :--- | :--- | :--- |
 | **Visitas + Dolor + Ventas** | El modelo está validado y el mensaje resuena con fuerza. | Continuar la hoja de ruta, documentar casos de éxito y buscar referidos activos. |
-| **Visitas + Dolor, pero sin Ventas** | Existe interés real, pero el formato o el precio de la propuesta falla. | Revisar profundamente el alcance de la propuesta económica o el modelo de cobro (ROI). |
+| **Visitas + Dolor, pero sin Ventas** | Existe interés real, pero el formato o el precio de la propuesta falla. | Revisar profundamente el alcance de la propuesta económica o el modelo de cobro y retorno potencial medible. |
 | **Visitas sin reconocimiento de Dolor** | El problema no es prioritario para el segmento o el nicho es erróneo. | Pivotar el mensaje comercial o cambiar radicalmente el nicho de mercado objetivo. |
 | **Interés, pero sin disposición de pago** | El valor de la solución no se percibe como un ahorro real en la cuenta de resultados. | Reforzar la medición del impacto económico y los KPIs de ahorro en la fase de diagnóstico. |
 | **Demanda dispersa (muchos sectores)** | Riesgo de convertirse en "consultoría genérica" y pérdida de foco experto. | Reforzar la comunicación de especialización logística y rechazar proyectos fuera de nicho. |

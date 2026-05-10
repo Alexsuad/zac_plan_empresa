@@ -13,22 +13,22 @@ El enfoque no se basa en el desarrollo masivo previo de tecnología, sino en la 
 Se define un despliegue en tres fases críticas para asegurar una entrada controlada al mercado:
 
 ### Fase 0: Preparación y Activos (Meses previos - Junio 2026)
-*   Adquisición y configuración de activos técnicos (estación de trabajo, licencias base).
-*   Gestión administrativa y alta jurídica (Modelo 036, RETA, cuenta bancaria profesional).
-*   Configuración de herramientas de automatización interna y plantillas de diagnóstico operativo.
-*   Cierre de la lista de prospección inicial (primeros 20 contactos clave).
+* Adquisición y configuración de activos técnicos (estación de trabajo, licencias base).
+* Gestión administrativa y alta jurídica (Modelo 036, RETA, cuenta bancaria profesional).
+* Configuración de herramientas de automatización interna y plantillas de diagnóstico operativo.
+* Cierre de la lista de prospección inicial (primeros 20 contactos clave).
 
 ### Fase 1: Lanzamiento y Diagnósticos (Julio - Septiembre 2026)
-*   Inicio oficial de actividad el **1 de julio de 2026**.
-*   Ejecución intensiva de diagnósticos comerciales gratuitos para detectar bloqueos operativos con impacto económico.
-*   Presentación de las primeras propuestas de "Arranque guiado".
-*   Validación real de las tarifas de mercado y ajuste de la propuesta de valor.
+* Inicio oficial de actividad el **1 de julio de 2026**.
+* Ejecución intensiva de diagnósticos comerciales gratuitos para detectar bloqueos operativos con impacto económico.
+* Presentación de las primeras propuestas de "Arranque guiado".
+* Validación real de las tarifas de mercado y ajuste de la propuesta de valor.
 
 ### Fase 2: Implementación y Recurrencia (Octubre - Diciembre 2026)
-*   Ejecución de los primeros proyectos de implementación pagados.
-*   Inicio de los servicios de soporte y acompañamiento mensual para asegurar la recurrencia.
-*   Ajuste de procesos internos según el *feedback* de los primeros clientes reales.
-*   Evaluación del primer cierre semestral (Objetivo: 31.180 € en facturación).
+* Ejecución de los primeros proyectos de implementación pagados.
+* Inicio de los servicios de soporte y acompañamiento mensual para asegurar la recurrencia.
+* Ajuste de procesos internos según el *feedback* de los primeros clientes reales.
+* Evaluación del primer cierre semestral (Objetivo: 31.180 € en facturación).
 
 ---
 
@@ -47,10 +47,10 @@ Se define un despliegue en tres fases críticas para asegurar una entrada contro
 
 Para la puesta en marcha efectiva, Sistreg requiere una combinación de recursos técnicos y administrativos ya previstos en el plan económico:
 
-1.  **Recursos Técnicos:** Equipo informático de alta capacidad, licencias de software de automatización (nocode/lowcode), y activos digitales de gestión.
-2.  **Recursos Administrativos:** Servicio de gestoría externa, seguros de responsabilidad civil profesional y servicios bancarios.
-3.  **Capital Humano:** Dedicación exclusiva del promotor para la gestión comercial, técnica y administrativa.
-4.  **Espacio:** Uso de infraestructura compartida o teletrabajo, manteniendo la estructura de costes fijos mínima.
+1. **Recursos Técnicos:** Equipo informático de alta capacidad, licencias de software de automatización (nocode/lowcode), y activos digitales de gestión.
+2. **Recursos Administrativos:** Servicio de gestoría externa, seguros de responsabilidad civil profesional y servicios bancarios.
+3. **Capital Humano:** Dedicación exclusiva del promotor para la gestión comercial, técnica y administrativa.
+4. **Espacio:** Uso de infraestructura compartida o teletrabajo, manteniendo la estructura de costes fijos mínima.
 
 ---
 
@@ -58,9 +58,9 @@ Para la puesta en marcha efectiva, Sistreg requiere una combinación de recursos
 
 Antes del 1 de julio de 2026, deben cumplirse las siguientes condiciones para garantizar un inicio sin bloqueos:
 
-*   **Validación de herramientas:** Confirmación de que el conjunto de herramientas tecnológicas elegido permite ejecutar las automatizaciones previstas.
-*   **Material comercial y contractual:** Disponer de los modelos de informe de diagnóstico y contratos de servicio validados jurídicamente.
-*   **Liquidez inicial:** Disponibilidad del capital social (9.278 €) para cubrir la inversión y los primeros meses de costes fijos.
+* **Validación de herramientas:** Confirmación de que el conjunto de herramientas tecnológicas elegido permite ejecutar las automatizaciones previstas.
+* **Material comercial y contractual:** Disponer de los modelos de informe de diagnóstico y contratos de servicio validados jurídicamente.
+* **Liquidez inicial:** Disponibilidad del capital social (9.278 €) para cubrir la inversión y los primeros meses de costes fijos.
 
 ---
 
@@ -68,10 +68,10 @@ Antes del 1 de julio de 2026, deben cumplirse las siguientes condiciones para ga
 
 La implantación se monitorizará mediante indicadores de gestión directos:
 
-*   **Conversión:** Ratio de diagnósticos gratuitos que derivan en proyectos de pago.
-*   **Carga de trabajo:** Horas reales dedicadas a implementación frente a horas estimadas (control de margen).
-*   **Salud de caja:** Cumplimiento del flujo de caja mensual previsto frente a la realidad operativa.
-*   **Satisfacción B2B:** Validación del impacto operativo en el cliente tras los primeros 60 días de implementación.
+* **Conversión:** Ratio de diagnósticos gratuitos que derivan en proyectos de pago.
+* **Carga de trabajo:** Horas reales dedicadas a implementación frente a horas estimadas (control de margen).
+* **Salud de caja:** Cumplimiento del flujo de caja mensual previsto frente a la realidad operativa.
+* **Satisfacción B2B:** Validación del impacto operativo en el cliente tras los primeros 60 días de implementación.
 
 ---
 

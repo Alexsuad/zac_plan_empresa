@@ -23,6 +23,7 @@ El servicio busca facilitar que cada hito operativo relevante (carga, paso por f
 ## 2.4. El problema: Operación realizada vs Operación cerrada
 
 El "dolor" principal que atiende Sistreg es la diferencia temporal y de calidad entre:
+
 1. **Operación Realizada:** El camión ha descargado la mercancía física.
 2. **Operación Cerrada:** La empresa tiene el CMR sellado (POD), ha registrado las incidencias, ha validado la tarifa y puede emitir la factura sin riesgo de reclamación.
 
@@ -33,6 +34,7 @@ En el sector logístico actual, una operación realizada pero no cerrada es una 
 Sistreg satisface la necesidad de **seguridad operativa y financiera**. Permite que el responsable de tráfico o el gerente de la pyme tenga un **mayor control sobre procesos críticos** que afectan directamente a la rentabilidad.
 
 El **cliente objetivo inicial** es la pequeña y mediana empresa de transporte o logística de Zaragoza y Aragón que:
+
 - Gestiona tráficos nacionales o internacionales intensivos en documentación (CMR, T1, facturas comerciales).
 - Sufre retrasos en el ciclo de facturación por falta de evidencias de entrega.
 - Tiene dificultades para medir la rentabilidad real por viaje debido a costes imprevistos o incidencias no registradas.
@@ -40,6 +42,7 @@ El **cliente objetivo inicial** es la pequeña y mediana empresa de transporte o
 ## 2.6. Propuesta de valor: Beneficios operativos
 
 La propuesta de valor de Sistreg se basa en un **enfoque técnico-operativo especializado** que ofrece:
+
 - **Reducción del ciclo de cobro:** Acelerar el paso de "descarga" a "factura lista".
 - **Orden documental:** Centralización y digitalización de evidencias vinculadas a cada trayecto.
 - **Validación en origen:** Captura de datos y fotos en el punto de carga/descarga.
@@ -53,6 +56,7 @@ Zaragoza es un nodo logístico estratégico (Plaza, centro de transporte, aduana
 ## 2.8. Competencia y alternativas
 
 El análisis de competencia distingue varios niveles:
+
 - **Competencia Directa (Software específico):** Empresas que venden TMS (Transport Management Systems) o ERPs logísticos. Suelen ser soluciones pesadas, costosas y difíciles de adaptar a la operativa específica de una pyme.
 - **Competencia Indirecta (Consultoría):** Consultoras genéricas de digitalización. Carecen del criterio logístico necesario para entender los problemas de aduanas o transporte.
 - **Alternativas Internas (Freelancers o IT propio):** Desarrolladores contratados para soluciones a medida, que a menudo fallan por falta de visión de negocio logística.
@@ -69,6 +73,7 @@ Sistreg se diferencia por su **implementación incremental**: no pedimos cambiar
 ## 2.10. Modelo de negocio
 
 Sistreg plantea un crecimiento basado en la validación comercial:
+
 - **Fase 1: Evaluación operativo-económica y diseño del sistema de control:** Identificación de cuellos de botella y diseño del sistema de control.
 - **Fase 2: Arranque guiado:** Despliegue de la solución en una ruta o cliente específico (modelo proyecto).
 - **Fase 3: Consolidación:** Posible evolución hacia componentes reutilizables o soluciones estandarizadas si la validación comercial lo justifica, con mantenimiento y soporte recurrente.
@@ -76,6 +81,7 @@ Sistreg plantea un crecimiento basado en la validación comercial:
 ## 2.11. Comercialización y ventas
 
 La estrategia se basa en el **contacto directo y la confianza**.
+
 - Prospección directa en polígonos y centros logísticos de Zaragoza.
 - Uso de LinkedIn para identificar responsables de tráfico y gerentes.
 - Ofrecer diagnósticos gratuitos de "ciclo de cobro" para entrar en la empresa.
@@ -83,7 +89,8 @@ La estrategia se basa en el **contacto directo y la confianza**.
 
 ## 2.12. Objetivos iniciales (Hipótesis de validación)
 
-Los objetivos están alineados con el plan de marketing y ventas (fase 06.1):
+Para alcanzar estos objetivos en la fecha prevista, se han definido las siguientes acciones inmediatas:
+
 - Explorar la posibilidad de establecer una primera red de clientes para **arranques guiados** o proyectos pagados, conforme a los objetivos del plan comercial.
 - Medir si las soluciones permiten reducir tiempos de cierre operativo, sin fijar todavía un porcentaje definitivo hasta contar con datos reales.
 - Validar que el valor aportado por la reducción del ciclo de cobro justifica el coste del servicio.
@@ -98,6 +105,7 @@ Los objetivos están alineados con el plan de marketing y ventas (fase 06.1):
 ## 2.14. Alcance y límites estratégicos (Lo que NO somos)
 
 Para proteger la rentabilidad y el foco:
+
 - **No somos transportistas:** No tenemos camiones ni movemos carga física.
 - **No somos consultoría genérica:** Solo intervenimos en procesos documentales operativos.
 - **No somos vendedores de IA:** La IA es una herramienta interna, no el producto final.
@@ -106,6 +114,7 @@ Para proteger la rentabilidad y el foco:
 ## 2.15. Aspectos legales, permisos y licencias
 
 Este bloque es crítico para la seguridad del proyecto:
+
 - **Forma jurídica:** Alta como trabajador autónomo (Alexander Suárez).
 - **IAE/CNAE:** Identificación de epígrafes relacionados con servicios informáticos y consultoría técnica (Ej. CNAE 6201, 6202).
 - **Obligaciones Fiscales:** Gestión de IVA, IRPF y modelos trimestrales/anuales.
@@ -116,13 +125,12 @@ Este bloque es crítico para la seguridad del proyecto:
 
 ## 2.16. Preguntas críticas para la reflexión estratégica
 
-**Sobre el mercado y tecnología:**
-- ¿Cómo afectará la progresiva digitalización documental del transporte, incluyendo e-CMR y eFTI, a la propuesta de valor de Sistreg?
-- ¿Están las pymes preparadas para pagar por "orden" si el beneficio no se traduce inmediatamente en "más ventas"?
+Para asegurar la solidez de la propuesta de valor de Sistreg, es necesario dar respuesta a los siguientes interrogantes estratégicos:
 
-**Sobre el modelo operativo:**
+- ¿Cómo afectará la progresiva digitalización documental del transporte, incluyendo e-CMR y eFTI, a la propuesta de valor de Sistreg?
+- ¿Qué nivel de soporte técnico es sostenible sin comprometer la rentabilidad de las cuotas mensuales?
 - ¿Cómo asegurar que la captura de evidencias no genere una carga de trabajo adicional al conductor o al administrativo?
-- ¿Qué nivel de integración técnica necesitaremos con los sistemas actuales de los clientes?
+- ¿Cuál es el perfil de "cliente ideal" que presenta una mayor disposición al pago y menor resistencia al cambio?
 
 ## 2.17. Conclusión estratégica del apartado
 

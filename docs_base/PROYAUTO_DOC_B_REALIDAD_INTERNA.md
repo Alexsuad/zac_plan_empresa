@@ -23,7 +23,7 @@ Cuando hay una decisión estratégica que tomar (qué cliente aceptar, qué proc
 
 ## 2. Aclaración de identidad y contexto
 
-> [!IMPORTANT]
+
 > - **Sistreg** es la denominación provisional vigente del proyecto empresarial en proceso de validación. No está formalmente constituido como empresa todavía. El objetivo del período actual es validar el modelo con casos reales antes de formalizarlo.
 > - **Zaragoza Activa / CONVIERTE** es el programa de acompañamiento bajo el que se está desarrollando esta validación. No es la empresa, ni la marca, ni el nombre del servicio.
 
@@ -36,7 +36,7 @@ La denominación "ZAC" no identifica al proyecto ante el mercado. Esta separaci�
 Aunque externamente describimos el trabajo como "instalar control operativo", internamente operamos bajo una **Arquitectura de Servicio** segmentada:
 
 1.  **Arranque guiado (Hito comercial inicial):** Es el primer servicio pagado. Incluye la subfase de **Diagnóstico del punto de bloqueo**. Localizamos con precisión dónde se frena el proceso y por qué, para diseñar la intervención.
-2.  **Piloto / MVP (Subfase técnica de validación):** Construcción de una solución de baja fricción sobre el caso de entrada (ej. Doc-to-Cash) para validar técnicamente la lógica y el valor con datos reales antes del despliegue masivo.
+2.  **Validación técnica acotada (Subfase técnica de validación):** Construcción de una solución de baja fricción sobre el caso de entrada (ej. Doc-to-Cash) para validar técnicamente la lógica y el valor con datos reales antes del despliegue masivo.
 3.  **Implementación completa (Despliegue/Rollout):** Puesta en marcha final del Sistema de Control Operativo (SCO), integrado, auditable y escalado a la operación.
 4.  **Acompañamiento mensual (Mantenimiento y Evolución):** Servicio de soporte y mejora continua para ajustar el sistema a los cambios del negocio.
 
@@ -154,14 +154,14 @@ Este caso fue elegido porque:
 
 Este caso de entrada no define la identidad del proyecto; es una herramienta táctica de prospección. La identidad de Sistreg es la de un **servicio B2B de análisis, diseño, implementación y mantenimiento de sistemas de control operativo a medida para procesos logísticos críticos**. Una vez validado el modelo, el proyecto aplica la misma metodología a otros procesos críticos (calidad, seguridad, cumplimiento, gestión de activos) del mismo cliente o a procesos distintos en clientes de otros sectores.
 
-> [!NOTE]
+
 > **Planificación de nuevos casos de entrada:** Después de cerrar el apartado económico-financiero, se definirán 2 o 3 casos de entrada adicionales para evitar que el caso Doc-to-Cash absorba toda la identidad comercial del proyecto. Estos casos no se desarrollan todavía y deberán cumplir cuatro condiciones: proceso logístico crítico, bloqueo operativo medible, impacto claro en tiempo, errores, coste, margen, trazabilidad o continuidad operativa, y posibilidad de resolverse con una solución tecnológica ligera y proporcional.
 
 ---
 
 Como regla general, para mantener la coherencia y el foco, el modelo principal sigue esta secuencia:
 
-**Arranque guiado** (Diagnóstico + Diseño) → **Piloto / MVP** (Validación técnica interna) → **Despliegue** (Implementación completa) → **Acompañamiento** (Mantenimiento evolutivo)
+**Arranque guiado** (Diagnóstico + Diseño) → **Validación técnica acotada** (Validación técnica interna) → **Despliegue** (Implementación completa) → **Acompañamiento** (Mantenimiento evolutivo)
 
 Este orden asegura que el cliente pague por el diseño desde el inicio, que vea el valor técnico antes del despliegue total, y que el equipo no invierta recursos en procesos que no tienen soporte del negocio.
 
