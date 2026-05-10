@@ -1,169 +1,107 @@
-# AGENTS.md — Reglas de trabajo del repositorio
+# AGENTS.md — Protocolo Obligatorio para Agentes
 
-## 1. Propósito del repositorio
+Este documento establece las reglas de comportamiento, control y seguridad para cualquier agente de IA que opere en este repositorio. Su cumplimiento es **obligatorio y bloqueante**.
 
-Este repositorio contiene la documentación específica para construir el Plan de Empresa de Sistreg. 
-La denominación Proyecto Logístico se mantiene únicamente como referencia interna/descriptiva del ámbito de actuación.
+---
 
-No es el repositorio del sistema agéntico reutilizable para crear planes de empresa. Ese sistema vive en `plan_empresa_producto`.
+## 1. Propósito y Separación de Repositorios
 
-## 2. Separación obligatoria entre repositorios
+- **`zac_plan_empresa`**: Caso real y específico del Plan de Empresa Sistreg.
+- **`plan_empresa_producto`**: Sistema reutilizable y genérico de creación de planes.
+- **Regla**: No convertir este repositorio en un producto genérico ni crear arquitectura post-MVP sin aprobación humana.
 
-- `plan_empresa_producto`: sistema reusable, plantillas, lógica agéntica general y metodología para múltiples proyectos.
-- `zac_plan_empresa`: caso real, documentación específica y entrega del Plan de Empresa de Sistreg.
+---
 
-No convertir este repositorio en el producto genérico. Las reglas, skills y documentos de control creados aquí solo sirven para completar este plan específico.
+## 2. Reglas Obligatorias de Trabajo (Guardrails)
 
-## 3. Capacidades de lectura técnica
-- **Google Drive**: Puedo leer archivos de Google Docs y **Google Sheets** directamente. Para ello, el usuario debe proporcionar el **ID del documento**.
-- **PDF/Docx**: Procesamiento de archivos locales (preferencia PDF para integridad de datos).
-- **Entorno**: Ejecución en WSL/Ubuntu y acceso a herramientas agénticas (NotebookLM).
+### 2.1. Qué NO se puede tocar (Prohibiciones)
+- **Contenido del Plan**: No modificar el texto en `respuestas_plan_empresa/` salvo instrucción técnica.
+- **Finanzas**: No modificar cifras financieras ni el Excel de soporte.
+- **Carpeta `_build/`**: Prohibido editar o crear archivos manualmente aquí. Solo los scripts escriben en esta carpeta.
+- **Archivos Ocultos**: No tocar `.git`, `.env` ni configuraciones del IDE.
 
-## 4. Fuente de verdad
+### 2.2. Tono Documental y Lenguaje Sistreg
+- **Tono**: Profesional, realista, verificable y sin promesas exageradas (Hype). Defendible ante ZAC/Convierte.
+- **Lenguaje**: Logística profunda (criterio) + Automatización visible (valor).
+- **Restricción Comercial**: No usar tecnicismos internos (Python, SQL, APIs, Make, n8n) en la primera capa comercial. Explicar siempre qué ve y qué gana el cliente.
 
-Las preguntas guía viven en:
-- `plan_empresa/`
+---
 
-Los entregables deben cumplir con la estructura definida en `respuestas_plan_empresa/` y el contexto institucional de **Zaragoza Activa / CONVIERTE (ZAC)**.
+## 3. Fuente de Verdad y Estructura
 
-Los anexos viven en:
-- `anexos/`
+- **`plan_empresa/`**: Contiene preguntas guía. **REGLA: NUNCA escribir respuestas reales aquí.**
+- **`respuestas_plan_empresa/`**: Fuente viva de respuestas reales.
+- **`docs_base/`**: Documentación base y referencias.
+- **`docs_control/`**: Reglas (Gates), decisiones y modelo económico.
+- **`scripts/`**: Herramientas deterministas de calidad.
+- **`_build/`**: Salidas generadas. **No se edita ni se versiona.**
 
-Los documentos metodológicos viven en:
-- `docs_base/`
+---
 
-La planificación, gates y decisiones viven en:
-- `docs_control/`
+## 4. Uso Híbrido y Eficiencia de Contexto
 
-Las fuentes de verdad externas y soporte viven en:
-- `docs_convierte/`
+- **Enfoque Híbrido**: IA para redacción, análisis y auditoría cognitiva. Scripts/Terminal para tareas deterministas (copiar, validar, consolidar). No resolver con IA lo que puede verificar un script.
+- **Gestión de Contexto**: No leer todo el repositorio. Leer solo archivos necesarios. Evidencia concreta al cerrar cada tarea.
 
-Las habilidades específicas viven en:
-- `.agent/skills/`
+---
 
-Las salidas consolidadas viven en:
-- `_build/`
+## 5. Auditoría y Modelo Económico
 
-**Regla:** Nunca escribir respuestas reales dentro de `plan_empresa/`. Cuando se responda una pregunta del plan, se lee la guía en `plan_empresa/` y se escribe la respuesta en `respuestas_plan_empresa/`.
+- **Linealidad**: Usar `scripts/auditar_linealidad_plan_empresa.py` y la skill de auditoría para controlar el "bloat", la duplicidad y asegurar que la información reside en su sede correcta.
+- **Modelo Económico**: Toda tarea sobre finanzas, costes o propuesta de valor debe alinearse con `docs_control/regla_modelo_economico_servicios_sistreg.md`.
 
-## 5. Tono documental
+---
 
-El tono debe ser:
-- claro;
-- profesional;
-- realista;
-- verificable;
-- sin humo tecnológico;
-- sin promesas exageradas;
-- con lenguaje logístico entendible;
-- orientado a un Plan de Empresa defendible ante **Zaragoza Activa / CONVIERTE (ZAC)**, entidad de apoyo, banco o administración.
+## 6. Protocolo de Calidad Documental (Mínima Intervención)
 
-### 5.1. Lenguaje comercial de Sistreg
+1. **Detección**: Usar scripts para encontrar fallos.
+2. **Propuesta**: Explicar el cambio técnico.
+3. **Ejecución**: Aplicar solo en los archivos fuente afectados.
+4. **Validación**: Re-ejecutar auditorías para confirmar la solución.
 
-Cuando se redacten o revisen pitch, propuesta de valor, storytelling, landing, dossier comercial, casos de uso, marketing, ventas o entregables, usar la skill:
+---
 
-- `.agent/skills/skill-lenguaje-comercial-sistreg/SKILL.md`
+## 7. Comandos Obligatorios y Estados de Control
 
-Y respetar la regla:
+Antes de cerrar cualquier tarea técnica, el agente **DEBE** ejecutar y reportar:
 
-- En diagnóstico, dolor y coste del problema: usar léxico logístico profundo.
-- En solución, entregable, implementación y soporte: usar léxico logístico profundo + tecnología superficial concreta.
-- Usar palabras como sistema, automatización, automático, dashboard, panel, aviso automático, validación automática, actualización automática e IA cuando aporta valor.
-- Evitar en primera capa comercial herramientas internas o detalles de construcción: Make, n8n, Python, SQL, API, webhook, backend, frontend, servidor, base relacional, script, pipeline, prompt, embedding.
-- No basta con decir “panel”, “alertas” o “formulario”; debe explicarse qué ve el cliente, qué usa, qué ocurre automáticamente, quién recibe el aviso y qué mejora en el flujo logístico.
+```bash
+python3 scripts/limpiar_caracteres_pdf.py
+python3 scripts/auditar_formato_markdown_entrega.py
+python3 scripts/compilar_plan_empresa.py --test
+python3 scripts/verificar_plan_final_entrega.py
+python3 scripts/auditar_texto_corrupto_entrega.py
+```
 
-## 6. Uso híbrido obligatorio
+### Estados válidos de flujo:
+- `READY_FOR_VISUAL_REVIEW`
+- `VISUAL_REVIEW_FAILED`
+- `VISUAL_REVIEW_FAILED_MINOR_FIXES`
+- `VISUAL_REVIEW_PASS`
+- `READY_FOR_COMMIT_EN_RAMA`
+- `COMMIT_SUCCESSFUL_EN_RAMA`
+- `MAIN_LOCAL_READY_FOR_FINAL_PACKAGING`
+- `READY_FOR_FINAL_PACKAGING`
+- `READY_TO_PUSH`
 
-Usar enfoque híbrido:
-- **Terminal, Git o scripts** para tareas deterministas:
-  - copiar archivos;
-  - verificar tamaños;
-  - consolidar documentos;
-  - generar salidas;
-  - hacer commits;
-  - validar estructura.
-- **IA / Antigravity** para:
-  - redacción;
-  - análisis;
-  - auditoría;
-  - coherencia;
-  - detección de contradicciones;
-  - síntesis estratégica.
+---
 
-## 7. Tecnología para anexos
+## 8. Git e Higiene (Lean 5S)
 
-Usar:
-- **Markdown** para texto, matrices y anexos estratégicos.
-- **CSV** para datos tabulares o comparativos.
-- **XLSX** para finanzas.
-- **Mermaid** para diagramas simples, flujos, organigramas o Gantt.
-- **Python** para gráficos o automatizaciones verificables.
-- **DOCX/PDF** para entrega final.
-- **HTML** no se usa por ahora.
+- **Control Git**: No Push / No Merge. Commits atómicos y descriptivos. Verificar rama siempre.
+- **Lean 5S**: No crear archivos basura (`test_*.md`, `scratch/` en raíz, etc.). Limpiar reportes temporales tras validación.
 
-## 8. Reglas de edición
+---
 
-Antes de modificar archivos:
-1. Identificar qué archivo se va a tocar.
-2. Explicar qué se cambiará.
-3. No borrar contenido útil sin justificarlo.
-4. No inventar datos.
-5. Marcar pendientes cuando falte información.
-6. Mantener trazabilidad de decisiones relevantes.
-7. Cerrar cada tarea con:
-   - archivos modificados;
-   - resumen de cambios;
-   - verificación realizada;
-   - próximos pasos.
+## 9. Cuándo detenerse (Stop Protocol)
 
-## 9. Prohibido
+Detenerse y pedir revisión humana si:
+1. Hay contradicción entre documentos de `docs_control/`.
+2. Un script de validación falla por falta de datos estratégicos.
+3. Se solicita un cambio que rompe las **Reglas Críticas Sistreg** (ver README).
+4. Se propone un cambio en la identidad comercial básica.
 
-- Mezclar este repositorio con `plan_empresa_producto`.
-- Crear funcionalidades genéricas innecesarias.
-- Crear agentes múltiples sin necesidad real.
-- Crear MCP.
-- Instalar skills externas sin revisión.
-- Borrar anexos o fuentes sin revisión.
-- Presentar hipótesis como hechos comprobados.
-- Convertir `AGENTS.md` en un megaprompt.
+---
 
-## 10. Auditor de Linealidad Documental
-
-### Rol y Responsabilidad
-El Auditor de Linealidad Documental es responsable de garantizar que el Plan de Empresa sea un documento fluido, coherente y de extensión controlada. Su función es técnica y objetiva, basada en mediciones deterministas.
-
-### Reglas de Actuación
-- **Control de Sedes:** Asegurar que cada concepto estratégico reside únicamente en su sede principal definida en `docs_control/sedes_informacion_plan_empresa.yml`.
-- **Detección de Bloat:** Identificar y proponer la eliminación de contenido redundante, introducciones repetitivas y explicaciones circulares.
-- **Gate de Extensión:** Bloquear la compilación oficial si el documento supera los límites críticos de páginas definidos en la política.
-
-### Herramientas
-- Script: `scripts/auditar_linealidad_plan_empresa.py`
-- Regla: `.agent/rules/05-linealidad-documental.md`
-- Skill: `.agent/skills/skill-auditoria-linealidad-documental/SKILL.md`
-
-## Uso eficiente de contexto
-
-1. No revisar todo el repositorio salvo auditoría final explícita.
-2. Antes de trabajar, declarar:
-   - archivos a leer;
-   - archivos a modificar;
-   - archivos prohibidos;
-   - skill aplicable;
-   - gate relacionado.
-3. Usar referencias explícitas con `@archivo` o `@carpeta`.
-4. Leer solo los archivos necesarios para la tarea actual.
-5. No abrir `docs_base/` completo salvo que la tarea lo requiera.
-6. No abrir `anexos/` completo salvo que se esté trabajando un anexo específico.
-7. No abrir `_build/` salvo tareas de consolidación.
-8. No volver a validar cosas ya cerradas por un gate aprobado, salvo que haya cambios posteriores.
-9. Para operaciones de archivos usar terminal, Git o scripts.
-10. Para redacción, análisis y auditoría usar IA.
-11. Cerrar cada tarea con verificación concreta, no con revisión general.
-
-## 11. Modelo Económico y de Servicios
-
-Toda tarea relacionada con el plan económico-financiero, propuesta de valor, costes o soporte debe alinearse con el documento rector:
-- `docs_control/regla_modelo_economico_servicios_sistreg.md`
-
-Este documento define las 5 líneas de control financiero interno y las reglas de identidad comercial para asegurar un posicionamiento B2B profesional.
+> [!NOTE]
+> Este documento es la "Constitución" operativa. Ignorar estas reglas se considera un fallo crítico de calidad.

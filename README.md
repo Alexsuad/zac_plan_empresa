@@ -1,89 +1,69 @@
 # Plan de Empresa — Sistreg
-Este repositorio contiene la documentación específica para la elaboración del **Plan de Empresa de Sistreg**.
 
-## IMPORTANTE
-- **Sistreg** es la marca provisional de trabajo del proyecto.
-- La denominación **Proyecto Logístico** se mantiene únicamente como referencia interna/descriptiva del ámbito de actuación.
-- El sistema genérico de creación de planes de empresa vive en el repositorio: `plan_empresa_producto`.
-- Este repositorio utiliza reglas, skills y documentos de apoyo específicos para completar, auditar y consolidar el plan de Sistreg.
+Este repositorio contiene la documentación específica para la elaboración del **Plan de Empresa de Sistreg**, orientado a su presentación en Zaragoza Activa (ZAC) y el programa Convierte.
 
-## Reglas Críticas Sistreg
-- **Marca**: Sistreg es marca provisional; Proyecto Logístico solo referencia interna/descriptiva. ZAC/Zaragoza Activa solo contexto institucional.
-- **Servicio**: El primer servicio pagado se llama "arranque guiado"; no usar "piloto pagado" comercialmente.
-- **Ingresos**: El diagnóstico inicial es gratuito, limitado y NO es línea de ingreso.
-- **Modelo Económico**: Basado en las 5 líneas de control de `docs_control/regla_modelo_economico_servicios_sistreg.md`.
-- **Prudencia**: No garantizar cifras, ROI ni ayudas. Sistreg no es marca registrada.
+## Descripción del proyecto
 
-## Reenfoque comercial y lenguaje
+- **Proyecto:** Plan de Empresa Sistreg.
+- **Objetivo:** Generar y mantener un plan de empresa profesional y defendible, basado en evidencias y validaciones reales.
+- **Fuente principal:** Los capítulos vivos del plan se redactan de forma modular en `respuestas_plan_empresa/*.md`.
+- **Salidas generadas:** El sistema compila estas fuentes para generar el documento consolidado en formatos Markdown, DOCX y PDF dentro de la carpeta `_build/test/`.
 
-El proyecto debe mantenerse alineado con el reenfoque comercial de Sistreg:
-
-- Sistreg se presenta como automatización operativa especializada en logística.
-- Evalúa procesos logísticos críticos, identifica el coste de sus bloqueos y diseña soluciones tecnológicas ligeras y a medida.
-- El cliente debe entender qué recibe: sistema, panel, dashboard, automatizaciones, avisos automáticos, formularios o enlaces sencillos cuando aplique.
-- No se deben ocultar la automatización ni la tecnología cuando forman parte del entregable.
-- No se deben usar tecnicismos internos en la primera capa comercial: Make, n8n, Python, SQL, API, webhook, backend, frontend, etc.
-
-Regla de lenguaje:
-**Logística profunda para demostrar criterio. Automatización visible para explicar valor. Tecnicismos internos solo para documentación interna.**
-
-Referencia:
-- `docs_control/regla_lenguaje_comercial_sistreg.md`
-- `.agent/skills/skill-lenguaje-comercial-sistreg/SKILL.md`
+---
 
 ## Estructura del repositorio
 
-- `plan_empresa/`: Preguntas guía del Plan de Empresa.
-- `respuestas_plan_empresa/`: Respuestas reales redactadas del proyecto Sistreg.
-- `anexos/`: Soporte, matrices, fuentes y evidencias (DAFO, PESTEL, etc.).
-- `docs_base/`: Metodología, mapas, arquitectura documental y documentos de referencia.
-- `docs_control/`: Control operativo, planificación, gates y registro de decisiones.
-- `docs_convierte/`: Fuentes externas de soporte, materiales de formación, CVs resumidos e investigaciones.
-- `.agent/skills/`: Skills locales para el asistente Antigravity.
-- `_build/`: Salidas consolidadas y documentos generados para entrega.
+- **`respuestas_plan_empresa/`**: Contiene los capítulos fuente del plan. Es el único lugar donde se debe redactar contenido del plan.
+- **`docs_base/`**: Documentación de soporte, inventario de fuentes, referencias externas y materiales de investigación.
+- **`docs_control/`**: Reglas de control, criterios de lenguaje comercial, decisiones de arquitectura y el modelo económico-financiero.
+- **`scripts/`**: Herramientas de automatización para compilación, saneamiento, normalización y auditoría de calidad.
+- **`_build/`**: Carpeta de salida para documentos generados. **No se versiona** y no debe editarse manualmente.
+- **`anexos/`**: Documentación complementaria, matrices y evidencias que soportan las afirmaciones del plan.
+- **`plan_empresa/`**: Contiene las preguntas guía originales (no se editan, solo sirven de referencia).
 
-**Regla:** Las respuestas reales nunca se escriben en `plan_empresa/`.
+---
 
-## Metodología de trabajo
+## Reglas Críticas Sistreg (Resumen)
 
-Se sigue un enfoque **híbrido**:
-- **Tareas deterministas** (copiar, consolidar, validar estructura) mediante terminal y scripts.
-- **Tareas cognitivas** (redacción, análisis, auditoría estratégica) mediante IA (Antigravity).
+- **Marca:** Sistreg es marca provisional; "Proyecto Logístico" es solo referencia descriptiva interna.
+- **Servicio:** El primer servicio pagado es el "arranque guiado". El diagnóstico inicial es gratuito y limitado.
+- **Modelo Económico:** Alineado con las 5 líneas de control de `docs_control/regla_modelo_economico_servicios_sistreg.md`.
+- **Prudencia:** No garantizar cifras exactas, ROI ni ayudas externas.
+- **Lenguaje Comercial:** Logística profunda para demostrar criterio + Automatización visible para explicar valor. Prohibido usar tecnicismos internos (Python, SQL, APIs) en capas comerciales.
 
-Para más detalles sobre las reglas de trabajo, consultar [AGENTS.md](AGENTS.md).
-
-## Recursos y Enlaces Externos
-- [Plan Económico y Financiero (Google Sheets)](https://docs.google.com/spreadsheets/d/1P0i6Pi0s2tpkCj2z-z4eqrPogovvA5VkFVZyHe9dy6U/edit?usp=drive_link)
+---
 
 ## Scripts de calidad documental
 
-El proyecto cuenta con herramientas automáticas para garantizar la integridad y profesionalidad del documento final:
+El proyecto cuenta con herramientas permanentes para garantizar la integridad del documento final:
 
-1. `scripts/compilar_plan_empresa.py`
-   - Compila las fuentes Markdown de `respuestas_plan_empresa/`.
-   - Genera el plan consolidado en `_build/test/` cuando se usa `--test`.
-   - Produce los formatos MD, DOCX y PDF.
+1. **`scripts/compilar_plan_empresa.py`**
+   - Compila las fuentes de `respuestas_plan_empresa/`.
+   - Genera `plan_empresa_sistreg_completo` en MD, DOCX y PDF en `_build/test/` (usar flag `--test`).
 
-2. `scripts/verificar_plan_final_entrega.py`
-   - Gate principal de cierre.
-   - Verifica cifras financieras, términos sensibles, regresiones textuales y condiciones mínimas de entrega.
-   - Debe ejecutarse antes de considerar el documento listo para revisión visual.
+2. **`scripts/verificar_plan_final_entrega.py`**
+   - Gate principal de cierre. Verifica cifras, términos sensibles y regresiones críticas.
 
-3. `scripts/limpiar_caracteres_pdf.py`
-   - Normaliza caracteres invisibles, espacios problemáticos y residuos Unicode que pueden afectar el renderizado del PDF.
-   - Debe ejecutarse antes de compilar o auditar el documento final.
+3. **`scripts/limpiar_caracteres_pdf.py`**
+   - Normaliza caracteres invisibles y residuos Unicode para asegurar un renderizado perfecto en PDF.
 
-4. `scripts/auditar_formato_markdown_entrega.py`
-   - Detecta listas incrustadas en párrafos o listas sin separación previa.
-   - Evita que el PDF/DOCX muestre listas pegadas dentro de bloques de texto.
+4. **`scripts/auditar_formato_markdown_entrega.py`**
+   - Detecta errores de formato (listas pegadas, párrafos mal cerrados) que rompen la estética en PDF/DOCX.
 
-5. `scripts/auditar_texto_corrupto_entrega.py`
-   - Detecta texto corrupto, concatenaciones accidentales y patrones visuales prohibidos.
-   - Ejemplos: `deEl`, `RutinLa`, `dCMRs`, `e-CMR`, caracteres Unicode de reemplazo y glifos raros de renderizado.
+5. **`scripts/auditar_texto_corrupto_entrega.py`**
+   - Detecta patrones prohibidos o concatenaciones accidentales (ej: `deEl`, `RutinLa`, `dCMRs`, `e-CMR`).
 
-## Flujo recomendado antes de revisar el PDF
+6. **`scripts/normalizar_tipografia_pdf.py`**
+   - Herramienta de apoyo para asegurar la consistencia tipográfica en el documento final.
 
-Antes de realizar una revisión visual humana del PDF, se debe ejecutar el siguiente pipeline de validación técnica:
+7. **Herramientas de Remediación**
+   - `scripts/corregir_regresiones_textuales.py` y `scripts/remediar_fuentes_plan_final.py`: Utilidades para correcciones masivas documentadas (no forman parte del flujo diario, solo uso puntual).
+
+---
+
+## Flujo recomendado antes de revisar PDF/DOCX
+
+Para garantizar que el documento está listo para una revisión visual humana, se debe ejecutar obligatoriamente este pipeline:
 
 ```bash
 python3 scripts/limpiar_caracteres_pdf.py
@@ -93,6 +73,7 @@ python3 scripts/verificar_plan_final_entrega.py
 python3 scripts/auditar_texto_corrupto_entrega.py
 ```
 
-> **Advertencia:** No editar directamente `_build/test/`. Las correcciones deben hacerse siempre en `respuestas_plan_empresa/`.
+> [!IMPORTANT]
+> **No editar nunca** directamente los archivos en `_build/test/`. Si detectas un error, corrígelo en la fuente correspondiente dentro de `respuestas_plan_empresa/` y vuelve a ejecutar el flujo.
 
 > **Advertencia:** No hacer commit, merge o push hasta que el PDF/DOCX haya pasado revisión visual humana.
