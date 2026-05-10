@@ -1,8 +1,8 @@
-# 6.5. Plan económico-financiero
+# 6.5. Plan económico financiero
 
-## 6.5.1. Enfoque general del análisis económico-financiero
+## 6.5.1. Enfoque general del análisis económico financiero
 
-El análisis económico-financiero de **Sistreg** se plantea desde un criterio de máxima prudencia, posicionando el proyecto como un **servicio B2B especializado en automatización operativa logística**. El modelo se centra en la generación de valor mediante el impacto operativo medible.
+El análisis económico financiero de **Sistreg** se plantea desde un criterio de máxima prudencia, posicionando el proyecto como un **servicio B2B especializado en automatización operativa logística**. El modelo se centra en la generación de valor mediante el impacto operativo medible.
 
 
 > Los datos presentados son proyecciones basadas en modelos operativos y el Excel financiero actualizado. No constituyen una garantía de resultados finales, sino una estimación condicionada a la captación comercial y la validación real de precios en el mercado.
@@ -166,9 +166,9 @@ Estas cifras deben interpretarse con prudencia porque la tesorería real depende
 
 ---
 
-## 6.5.12. Soporte gráfico económico-financiero
+## 6.5.12. Soporte gráfico económico financiero
 
-El análisis económico-financiero se complementará con cuadros y gráficos generados desde el Excel económico-financiero del proyecto. Estos elementos visuales facilitan la lectura y defensa de la viabilidad del negocio.
+El análisis económico financiero se complementará con cuadros y gráficos generados desde el Excel económico financiero del proyecto. Estos elementos visuales facilitan la lectura y defensa de la viabilidad del negocio.
 
 Los cuadros financieros (inversión, financiación, explotación, tesorería) se cortarán y pegarán en el documento final cuando corresponda para dar soporte a las cifras presentadas. Asimismo, si aplica, se utilizarán los soportes visuales derivados de la plantilla `Gráficos(Red ARCE) 09.04.2018.xls`. Estos elementos no sustituyen el análisis escrito, sino que sirven para reforzar la coherencia de las proyecciones financieras.
 

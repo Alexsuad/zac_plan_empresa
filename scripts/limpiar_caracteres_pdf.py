@@ -29,29 +29,33 @@ REEMPLAZOS = {
 # Normalizaciones explícitas para términos críticos
 # Se incluyen variantes con y sin caracteres invisibles detectados
 NORMALIZACIONES = [
-    # e-CMR
-    (r"e\s*[-‐‒–—]?\s*CMR", "e-CMR"),
-    (r"e\s*[\ufffe\ufeff\ufffc\ufffd\u200b\u200c\u200d\u2060]\s*CMR", "e-CMR"),
-    (r"eCMR", "e-CMR"),
+    # CMR electrónico
+    (r"\be\s*[-‐‒–—]?\s*CMRs", "CMRs"),
+    (r"\be\s*[-‐‒–—]?\s*CMR", "CMR electrónico"),
+    (r"\be\s*[\ufffe\ufeff\ufffc\ufffd\u200b\u200c\u200d\u2060]\s*CMR", "CMR electrónico"),
     
-    # eFTI
+    # dCMRs -> de CMRs
+    (r"dCMRs", "de CMRs"),
+    (r"deCMRs", "de CMRs"),
+    
+    # eFTI (sin guion)
     (r"e\s*[-‐‒–—]?\s*FTI", "eFTI"),
     (r"e\s*[\ufffe\ufeff\ufffc\ufffd\u200b\u200c\u200d\u2060]\s*FTI", "eFTI"),
     
-    # Económico-Financiero
-    (r"Económico\s*[-‐‒–—]?\s*Financiero", "Económico-Financiero"),
-    (r"Económico\s*[\ufffe\ufeff\ufffc\ufffd\u200b\u200c\u200d\u2060]\s*Financiero", "Económico-Financiero"),
-    (r"EconómicoFinanciero", "Económico-Financiero"),
+    # Económico financiero (sin guion, minúscula)
+    (r"Económico\s*[-‐‒–—]?\s*Financiero", "Económico financiero"),
+    (r"Económico\s*[\ufffe\ufeff\ufffc\ufffd\u200b\u200c\u200d\u2060]\s*Financiero", "Económico financiero"),
+    (r"EconómicoFinanciero", "Económico financiero"),
     
-    # documental-económico
-    (r"documental\s*[-‐‒–—]?\s*económico", "documental-económico"),
-    (r"documental\s*[\ufffe\ufeff\ufffc\ufffd\u200b\u200c\u200d\u2060]\s*económico", "documental-económico"),
-    (r"documentaleconómico", "documental-económico"),
+    # documental y económico (con 'y')
+    (r"documental\s*[-‐‒–—]?\s*económico", "documental y económico"),
+    (r"documental\s*[\ufffe\ufeff\ufffc\ufffd\u200b\u200c\u200d\u2060]\s*económico", "documental y económico"),
+    (r"documentaleconómico", "documental y económico"),
     
-    # operativo-económica
-    (r"operativo\s*[-‐‒–—]?\s*económica", "operativo-económica"),
-    (r"operativo\s*[\ufffe\ufeff\ufffc\ufffd\u200b\u200c\u200d\u2060]\s*económica", "operativo-económica"),
-    (r"operativoeconómica", "operativo-económica"),
+    # operativo y económica (con 'y')
+    (r"operativo\s*[-‐‒–—]?\s*económica", "operativo y económica"),
+    (r"operativo\s*[\ufffe\ufeff\ufffc\ufffd\u200b\u200c\u200d\u2060]\s*económica", "operativo y económica"),
+    (r"operativoeconómica", "operativo y económica"),
 ]
 
 def Procesar_Archivo(Ruta_Archivo: Path) -> int:

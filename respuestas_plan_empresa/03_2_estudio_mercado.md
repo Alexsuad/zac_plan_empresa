@@ -22,7 +22,7 @@ A diferencia de otros servicios de software, Sistreg no segmenta solo por tamañ
 ## 3.2.3. Análisis de la Demanda: El Coste del Descontrol
 La competencia de Sistreg no proviene solo de empresas de software, sino de la propia inercia operativa del sector:
 
-* **Competencia Directa:** Proveedores de ERPs logísticos y plataformas de e-CMR. Su ventaja es la escala; su debilidad es la falta de personalización y acompañamiento técnico en el muelle.
+* **Competencia Directa:** Proveedores de ERPs logísticos y plataformas de CMR electrónico. Su ventaja es la escala; su debilidad es la falta de personalización y acompañamiento técnico en el muelle.
 
 En un sector donde el margen neto suele ser inferior al 5%, cualquier error administrativo, factura rechazada o retraso en el cobro tiene un impacto directo en la supervivencia de la pyme. La ineficiencia administrativa no es solo un problema de tiempo; es una fuga de capital circulante que impide la inversión y el crecimiento.
 
@@ -49,7 +49,7 @@ Sistreg se sitúa en un espacio intermedio entre el "no hacer nada" y la "gran t
 
 | Alternativa | Qué ofrece el competidor | Diferenciación de Sistreg |
 | :--- | :--- | :--- |
-| **Plataformas e-CMR** | Digitalización del documento de transporte y firma electrónica. | **Complemento:** Sistreg implementa la lógica de control que usa esos documentos para asegurar el cobro. |
+| **Plataformas de CMR electrónico** | Digitalización del documento de transporte y firma electrónica. | **Complemento:** Sistreg implementa la lógica de control que usa esos documentos para asegurar el cobro. |
 | **ERPs / TMS Sectoriales** | Gestión integral del negocio (flota, contabilidad, rutas). | **Agilidad:** Sistreg es una capa ligera que se adapta al proceso actual sin obligar al cliente a cambiar de software principal. |
 | **Sustitutos Manuales** | Excel, correo electrónico y contratación de auxiliares administrativos. | **Eficiencia:** Sistreg elimina el coste recurrente del error humano y la duplicidad de tareas manuales. |
 

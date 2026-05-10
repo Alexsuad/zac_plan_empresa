@@ -25,6 +25,6 @@ Esta carpeta contiene las respuestas reales del Plan de Empresa de **Sistreg**. 
 | 6.2 Operaciones | `06_2_operaciones.md` | Borrador avanzado |
 | 6.3 Recursos humanos | `06_3_recursos_humanos.md` | Pendiente |
 | 6.4 Jurídico y fiscal | `06_4_juridico_fiscal.md` | Pendiente |
-| 6.5 Económico-financiero | `06_5_economico_financiero.md` | Borrador avanzado |
+| 6.5 Económico financiero | `06_5_economico_financiero.md` | Borrador avanzado |
 | 7. Implantación | `07_implantacion_puesta_marcha.md` | Pendiente |
 | 8. Viabilidad y conclusiones | `08_viabilidad_conclusiones.md` | Pendiente |

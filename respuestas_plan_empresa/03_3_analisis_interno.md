@@ -31,7 +31,7 @@ El riesgo técnico identificado no es la falta de habilidad, sino la tentación 
 Esta es el área interna más sensible. Actualmente, el proyecto no cuenta con una cartera de clientes logísticos heredada, lo que obliga a construir la credibilidad desde cero. La fortaleza comercial de Sistreg no compite por precio, sino por la eliminación de "puntos ciegos" que cuestan dinero al cliente:
 
 - **El Diagnóstico Gratuito como Caballo de Troya:** No se pide al cliente que compre un software; se le pide que permita una auditoría de 60 minutos para encontrar dónde está perdiendo dinero en su proceso de facturación.
-- **Lenguaje Operativo:** El promotor habla de e-CMRs, aduanas, grupajes y tiempos de tránsito, no de servidores o bases de datos. Esta capacidad de empatía sectorial es nuestra principal herramienta de venta.
+- **Lenguaje Operativo:** El promotor habla de CMRs, aduanas, grupajes y tiempos de tránsito, no de servidores o bases de datos. Esta capacidad de empatía sectorial es nuestra principal herramienta de venta.
 
 ## 3.3.5. Recursos Materiales y Solidez Financiera
 Sistreg nace bajo el modelo **Lean Startup**. La viabilidad económica inicial se blinda mediante una estructura de costes que prioriza la supervivencia del proyecto:

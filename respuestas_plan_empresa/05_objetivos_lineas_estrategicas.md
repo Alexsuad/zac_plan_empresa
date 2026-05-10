@@ -19,7 +19,7 @@ La meta central del primer año es transformar Sistreg de un servicio B2B especi
 El diagnóstico gratuito actúa como la principal herramienta de entrada comercial. Su función operativa es quirúrgica: detectar bloqueos en el ciclo Operación → Evidencia → Facturación → Cobro. Este enfoque permite una conversión cualitativa, donde la propuesta económica no se percibe como un gasto, sino como una inversión para liberar el valor retenido que Sistreg ayuda a aflorar mediante el orden documental.
 
 ## 5.3. Objetivos Financieros y de Inversión Prudente
-Sistreg se rige por un principio de **prudencia financiera absoluta y gestión de bajo coste fijo**. La prioridad es la protección de la caja mientras se valida el modelo comercial en entornos reales. Las cifras detalladas de inversión y tesorería se recogen en el apartado **6.5. Económico-Financiero**, manteniendo la coherencia con el plan de emprendimiento 2026 de Zaragoza Activa. **Sistreg** nace con una vocación de servicio profesional ligero y flexible, lo que nos permite establecer unas bases económicas de bajo riesgo:
+Sistreg se rige por un principio de **prudencia financiera absoluta y gestión de bajo coste fijo**. La prioridad es la protección de la caja mientras se valida el modelo comercial en entornos reales. Las cifras detalladas de inversión y tesorería se recogen en el apartado **6.5. Económico financiero**, manteniendo la coherencia con el plan de emprendimiento 2026 de Zaragoza Activa. **Sistreg** nace con una vocación de servicio profesional ligero y flexible, lo que nos permite establecer unas bases económicas de bajo riesgo:
 
 * **Estructura de costes mínima:** Operación inicial sin locales comerciales, flota propia ni stock de productos. La actividad se desarrolla desde oficina propia para maximizar el margen de seguridad y reducir el riesgo fijo del promotor.
 * **Inversión vinculada a hitos de mercado:** No se autorizan compras de herramientas, suscripciones de software avanzado o servicios externos que no estén directamente vinculados a la ejecución de un contrato firmado con un cliente real.
@@ -40,7 +40,7 @@ La tecnología en Sistreg no es un fin, sino una capacidad interna para crear so
 | Pilar Estratégico | Acción Operativa Clave | Finalidad y Beneficio Estratégico |
 | :--- | :--- | :--- |
 | **Especialización Logística** | Foco exclusivo en transporte y transitarios de Aragón. | Ser reconocido como el experto sectorial que entiende el "lenguaje del muelle" y la operativa diaria. |
-| **Diferenciación por Control** | Foco en el ciclo documental-económico del cliente. | Resolver el dolor financiero real derivado del desorden administrativo y la falta de evidencias. |
+| **Diferenciación por Control** | Foco en el ciclo documental y económico del cliente. | Resolver el dolor financiero real derivado del desorden administrativo y la falta de evidencias. |
 | **Validación Progresiva** | Flujo: Diagnóstico → Arranque Guiado → Implementación. | Reducir el riesgo de inversión inicial del cliente y asegurar la adopción real del sistema por los usuarios. |
 | **Eficiencia de Activos** | Creación sistemática de componentes reutilizables. | Poder escalar el conocimiento y la rentabilidad del negocio sin escalar proporcionalmente los costes fijos. |
 

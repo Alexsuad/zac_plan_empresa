@@ -10,7 +10,7 @@ La forma inicial prevista para operar es mediante una estructura ligera (empresa
 ### 6.4.3 Alta fiscal, IAE/CNAE y obligaciones tributarias
 El alta en la actividad se coordinará con la gestoría para asegurar el encaje correcto en el sistema tributario:
 
-1. **Selección de Epígrafes IAE:** Se identificarán los epígrafes de servicios técnicos o consultoría que mejor se adapten a la actividad de control operativo-económica, integración tecnológica ligera y diseño de sistemas de control operativo, evitando epígrafes genéricos que no representen el valor aportado.
+1. **Selección de Epígrafes IAE:** Se identificarán los epígrafes de servicios técnicos o consultoría que mejor se adapten a la actividad de control operativo y económico, integración tecnológica ligera y diseño de sistemas de control operativo, evitando epígrafes genéricos que no representen el valor aportado.
 
 - **Obligaciones tributarias:** Se establecerá el régimen correspondiente de IVA e IRPF, con la consiguiente presentación de declaraciones trimestrales y anuales.
 - **Control documental:** Se separarán contablemente los ingresos del negocio y los gastos operativos (incluyendo pagos a colaboradoras) para mantener un control de tesorería y cumplir con las obligaciones de facturación y archivo.

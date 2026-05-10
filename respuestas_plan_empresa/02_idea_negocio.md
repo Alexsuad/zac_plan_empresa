@@ -51,7 +51,7 @@ La propuesta de valor de Sistreg se basa en un **enfoque técnico-operativo espe
 
 ## 2.7. Mercado y oportunidad
 
-Zaragoza es un nodo logístico estratégico (Plaza, centro de transporte, aduana interior). Existe una gran densidad de pymes logísticas que operan con sistemas tradicionales y procesos manuales. La progresiva digitalización del sector y las nuevas exigencias normativas, como e-CMR y eFTI, refuerzan la necesidad de mejorar el control operativo y documental. Las empresas que avancen antes en trazabilidad y gestión de evidencias podrán estar mejor preparadas para competir y adaptarse a estos cambios.
+Zaragoza es un nodo logístico estratégico (Plaza, centro de transporte, aduana interior). Existe una gran densidad de pymes logísticas que operan con sistemas tradicionales y procesos manuales. La progresiva digitalización del sector y las nuevas exigencias normativas, como el CMR electrónico y eFTI, refuerzan la necesidad de mejorar el control operativo y documental. Las empresas que avancen antes en trazabilidad y gestión de evidencias podrán estar mejor preparadas para competir y adaptarse a estos cambios.
 
 ## 2.8. Competencia y alternativas
 
@@ -74,7 +74,7 @@ Sistreg se diferencia por su **implementación incremental**: no pedimos cambiar
 
 Sistreg plantea un crecimiento basado en la validación comercial:
 
-- **Fase 1: Evaluación operativo-económica y diseño del sistema de control:** Identificación de cuellos de botella y diseño del sistema de control.
+- **Fase 1: Evaluación operativa y económica y diseño del sistema de control:** Identificación de cuellos de botella y diseño del sistema de control.
 - **Fase 2: Arranque guiado:** Despliegue de la solución en una ruta o cliente específico (modelo proyecto).
 - **Fase 3: Consolidación:** Posible evolución hacia componentes reutilizables o soluciones estandarizadas si la validación comercial lo justifica, con mantenimiento y soporte recurrente.
 
@@ -127,7 +127,7 @@ Este bloque es crítico para la seguridad del proyecto:
 
 Para asegurar la solidez de la propuesta de valor de Sistreg, es necesario dar respuesta a los siguientes interrogantes estratégicos:
 
-- ¿Cómo afectará la progresiva digitalización documental del transporte, incluyendo e-CMR y eFTI, a la propuesta de valor de Sistreg?
+- ¿Cómo afectará la progresiva digitalización documental del transporte, incluyendo el CMR electrónico y eFTI, a la propuesta de valor de Sistreg?
 - ¿Qué nivel de soporte técnico es sostenible sin comprometer la rentabilidad de las cuotas mensuales?
 - ¿Cómo asegurar que la captura de evidencias no genere una carga de trabajo adicional al conductor o al administrativo?
 - ¿Cuál es el perfil de "cliente ideal" que presenta una mayor disposición al pago y menor resistencia al cambio?

@@ -43,7 +43,7 @@ DIRECCIÓN / PROMOTOR (Alexander)
 Alexander dedicará una jornada completa (**40 horas semanales**). La capacidad inicial prevista será prudente: entre 4 y 6 diagnósticos gratuitos al mes y entre 1 y 2 proyectos pagados en paralelo. Esta limitación permite proteger la calidad de entrega, evitar la sobrecarga del promotor y no aceptar más trabajo del que pueda ejecutarse correctamente. El reparto estimado de tareas es:
 
 * 14 h captación comercial;
-* 6 h diagnósticos, propuestas y evaluación operativo-económica;
+* 6 h diagnósticos, propuestas y evaluación operativa y económica;
 * 14 h diseño, implementación, pruebas y documentación;
 * 3 h administración interna;
 * 3 h formación, mejora y componentes reutilizables.

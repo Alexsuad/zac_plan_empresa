@@ -1,9 +1,10 @@
 # 3.1. Análisis externo
 
 ## 3.1.1. Introducción y Marco Estratégico Regional
-El análisis externo identifica los factores del entorno que influyen de manera determinante en la puesta en marcha de **Sistreg opera en la intersección de dos fuerzas tractoras del mercado aragonés que definen su viabilidad inmediata:
+El análisis externo identifica los factores del entorno que influyen de manera determinante en la puesta en marcha de Sistreg. El proyecto opera en la intersección de dos fuerzas tractoras del mercado aragonés: la especialización logística de Zaragoza como nodo estratégico y la necesidad creciente de digitalización documental en las pymes del sector.
 
-* **Logística como Eje Estratégico:** El sector logístico representa cerca del 5,5% del PIB de Aragón, con Zaragoza como nodo logístico de referencia internacional gracias a infraestructuras como PLAZA.
+- **Logística como eje estratégico:** El sector logístico representa un peso relevante en la economía aragonesa, con Zaragoza como nodo logístico de referencia gracias a infraestructuras como PLAZA.
+- **Digitalización documental:** La evolución normativa y operativa del transporte impulsa la necesidad de ordenar datos, evidencias y documentos críticos.
 
 El proyecto tiene su base operativa en **Zaragoza** y se dirige inicialmente a pymes privadas del sector logístico de **Aragón**, abarcando empresas de transporte, transitarios, operadores logísticos y empresas con procesos documentales de alta intensidad. Sistreg no se posiciona como una empresa logística tradicional ni como una agencia de software genérico; su valor reside en ser un servicio técnico B2B especializado en diseñar e implementar sistemas de control operativo que optimicen la trazabilidad y la seguridad financiera del flujo de facturación y cobro (ver apartado 6.2).
 
@@ -16,7 +17,7 @@ La oportunidad de negocio se fundamenta en la posición estratégica de **Aragó
 | **Político** | Apoyo al emprendimiento local y programas de digitalización. | **Oportunidad:** Zaragoza ofrece recursos como **Zaragoza Activa (InfoActiva)** que facilitan el asesoramiento y la red de contactos inicial (Fuente: Infoactiva Zaragoza). |
 | **Económico** | Inflación de costes operativos y presión sobre los márgenes logísticos. | **Oportunidad:** Las pymes necesitan herramientas que aseguren el cobro por evidencia para evitar pérdidas financieras por falta de documentación. |
 | **Social** | Cultura empresarial tradicional y resistencia al cambio tecnológico. | **Riesgo/Oportunidad:** Se requiere un enfoque de "tecnología invisible" que hable el lenguaje del operario y no el del informático. |
-| **Tecnológico** | Avance del e-CMR y el Reglamento eFTI (obligatorio desde 2027). | **Oportunidad:** Las empresas deben transicionar hacia el dato digital antes de que la regulación europea penalice los procesos manuales (Fuente: Comisión Europea - Reglamento eFTI). |
+| **Tecnológico** | Avance del CMR electrónico y el Reglamento eFTI (obligatorio desde 2027). | **Oportunidad:** Las empresas deben transicionar hacia el dato digital antes de que la regulación europea penalice los procesos manuales (Fuente: Comisión Europea - Reglamento eFTI). |
 | **Ecológico** | Reducción de la huella de carbono y eliminación del papel en oficina. | **Impacto Positivo:** La digitalización reduce el desperdicio de recursos físicos y optimiza los reprocesos administrativos innecesarios. |
 | **Legal** | Exigencia del RGPD y seguridad en el tratamiento de datos operativos. | **Riesgo Crítico:** Obliga a una gestión impecable de la privacidad de datos de conductores y clientes, con contratos específicos de encargado de tratamiento (Fuente: AEPD). |
 
@@ -48,23 +49,23 @@ Antes del inicio formal de la actividad, Sistreg validará con asesoría especia
 El entorno externo es favorable para el nacimiento de **Sistreg**, especialmente por la masa crítica de empresas logísticas en el valle del Ebro y la madurez del ecosistema de Zaragoza.
 
 **Fortalezas detectadas:**
-Zaragoza se consolida como el entorno ideal para el nacimiento de Sistreg por su alta concentración de operadores y cargadores:
 
-* **Ecosistema de Colaboración:** La existencia de clústeres como ALIA y plataformas como el CESA facilitan el acceso a conocimiento y redes de contacto especializadas.
-
-3. **Necesidad de Control:** La inflación y la subida de costes operativos hacen que el control del margen sea más prioritario que nunca.
+1. **Infraestructura regional:** PLAZA y la intermodalidad aragonesa proporcionan un flujo constante de clientes potenciales.
+2. **Ecosistema de colaboración:** La existencia de clústeres como ALIA y plataformas como el CESA facilitan el acceso a conocimiento y redes de contacto especializadas.
+3. **Necesidad de control:** La presión sobre márgenes y costes operativos hace que el control documental y financiero sea cada vez más prioritario.
 
 **Principales Amenazas:**
 
 1. **Inercia Operativa:** El mayor competidor de Sistreg no es otro software, sino la costumbre del cliente de "seguir igual".
-2. **Fragmentación del Mercado:** La existencia de múltiples plataformas e-CMR que pueden percibirse como sustitutos.
+2. **Fragmentación del Mercado:** La existencia de múltiples plataformas de CMR electrónico puede percibirse como sustituta si no se explica bien que Sistreg es una solución de control operativo completo.
+3. **Resistencia al Cambio:** Los mandos intermedios pueden mantener procesos manuales por considerarlos más seguros, aunque generen ineficiencias.
 
 El análisis del entorno revela que Sistreg no es solo una solución tecnológica, sino una respuesta necesaria a la presión del mercado por la eficiencia:
 
-* **Ventaja de Nicho:** Mientras las grandes consultoras se enfocan en la estrategia, Sistreg se enfocan en el control del dato operativo, donde reside el margen real de la pyme logística.
+- **Ventaja de Nicho:** Mientras las grandes consultoras se enfocan en la estrategia, Sistreg se enfoca en el control del dato operativo, donde reside el margen real de la pyme logística.
 
 Sistreg identifica tres barreras que debe gestionar para consolidar su presencia en el mercado logístico:
 
-* **Inercia del "Punteo Manual":** Resistencia al cambio en mandos intermedios acostumbrados a procesos analógicos que consideran "seguros" a pesar de su ineficiencia.
+- **Inercia del "Punteo Manual":** Resistencia al cambio en mandos intermedios acostumbrados a procesos analógicos que consideran "seguros" a pesar de su ineficiencia.
 
-En conclusión, el análisis externo ratifica que Zaragoza es el lugar idóneo para validar este modelo de negocio. Existe el problema (descontrol documental), existe el entorno (hub logístico regional con infraestructuras de primer nivel) e intermodalidad real, y existe el marco regulatorio que impulsa la solución (digitalización europea mediante eFTI y e-CMR). La viabilidad de Sistreg dependerá de su capacidad para transformar estas oportunidades externas en una propuesta de valor tangible para la cuenta de resultados de la pyme aragonesa, demostrando que el orden administrativo es el primer paso hacia la rentabilidad sostenible y el crecimiento profesional.
+En conclusión, el análisis externo ratifica que Zaragoza es el lugar idóneo para validar este modelo de negocio. Existe el problema (descontrol documental), existe el entorno (hub logístico regional con infraestructuras de primer nivel) e intermodalidad real, y existe el marco regulatorio que impulsa la solución (digitalización europea mediante eFTI y el CMR electrónico). La viabilidad de Sistreg dependerá de su capacidad para transformar estas oportunidades externas en una propuesta de valor tangible para la cuenta de resultados de la pyme aragonesa, demostrando que el orden administrativo es el primer paso hacia la rentabilidad sostenible y el crecimiento profesional.

@@ -54,3 +54,45 @@ Para más detalles sobre las reglas de trabajo, consultar [AGENTS.md](AGENTS.md)
 
 ## Recursos y Enlaces Externos
 - [Plan Económico y Financiero (Google Sheets)](https://docs.google.com/spreadsheets/d/1P0i6Pi0s2tpkCj2z-z4eqrPogovvA5VkFVZyHe9dy6U/edit?usp=drive_link)
+
+## Scripts de calidad documental
+
+El proyecto cuenta con herramientas automáticas para garantizar la integridad y profesionalidad del documento final:
+
+1. `scripts/compilar_plan_empresa.py`
+   - Compila las fuentes Markdown de `respuestas_plan_empresa/`.
+   - Genera el plan consolidado en `_build/test/` cuando se usa `--test`.
+   - Produce los formatos MD, DOCX y PDF.
+
+2. `scripts/verificar_plan_final_entrega.py`
+   - Gate principal de cierre.
+   - Verifica cifras financieras, términos sensibles, regresiones textuales y condiciones mínimas de entrega.
+   - Debe ejecutarse antes de considerar el documento listo para revisión visual.
+
+3. `scripts/limpiar_caracteres_pdf.py`
+   - Normaliza caracteres invisibles, espacios problemáticos y residuos Unicode que pueden afectar el renderizado del PDF.
+   - Debe ejecutarse antes de compilar o auditar el documento final.
+
+4. `scripts/auditar_formato_markdown_entrega.py`
+   - Detecta listas incrustadas en párrafos o listas sin separación previa.
+   - Evita que el PDF/DOCX muestre listas pegadas dentro de bloques de texto.
+
+5. `scripts/auditar_texto_corrupto_entrega.py`
+   - Detecta texto corrupto, concatenaciones accidentales y patrones visuales prohibidos.
+   - Ejemplos: `deEl`, `RutinLa`, `dCMRs`, `e-CMR`, caracteres Unicode de reemplazo y glifos raros de renderizado.
+
+## Flujo recomendado antes de revisar el PDF
+
+Antes de realizar una revisión visual humana del PDF, se debe ejecutar el siguiente pipeline de validación técnica:
+
+```bash
+python3 scripts/limpiar_caracteres_pdf.py
+python3 scripts/auditar_formato_markdown_entrega.py
+python3 scripts/compilar_plan_empresa.py --test
+python3 scripts/verificar_plan_final_entrega.py
+python3 scripts/auditar_texto_corrupto_entrega.py
+```
+
+> **Advertencia:** No editar directamente `_build/test/`. Las correcciones deben hacerse siempre en `respuestas_plan_empresa/`.
+
+> **Advertencia:** No hacer commit, merge o push hasta que el PDF/DOCX haya pasado revisión visual humana.
