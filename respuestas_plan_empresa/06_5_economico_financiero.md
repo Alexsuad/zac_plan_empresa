@@ -7,7 +7,8 @@ El análisis económico-financiero de **Sistreg** se plantea desde un criterio d
 
 > Los datos presentados son proyecciones basadas en modelos operativos y el Excel financiero actualizado. No constituyen una garantía de resultados finales, sino una estimación condicionada a la captación comercial y la validación real de precios en el mercado.
 
-La lógica financiera del proyecto se apoya en cinco principios:
+La estrategia financiera de Sistreg se basa en tres pilares fundamentales que garantizan la estabilidad del negocio:
+
 1. **Inversión inicial contenida**: aprovechando el modelo de servicios digitales para minimizar el riesgo de capital.
 2. **Estructura de costes proporcional**: vinculando el crecimiento de los gastos a la validación de la demanda real.
 3. **Posicionamiento B2B**: evitando la venta simple de horas y priorizando la venta de soluciones de control.
@@ -55,7 +56,7 @@ El proyecto nace con una sólida posición de liquidez propia, evitando el endeu
 | Ayudas y subvenciones (estimadas en 2027) | 3.000 € |
 | **Total financiación disponible** | **12.278 €** |
 
-Las **necesidades financieras iniciales** (3.110 €) están plenamente cubiertas por la aportación de capital social, dejando un remanente significativo para tesorería y contingencias operativas.
+La inversión y gastos iniciales de puesta en marcha ascienden a 3.110 €. La necesidad financiera mínima estimada asciende a 3.278 € al incorporar el IVA asociado a las compras nuevas. Ambas cifras quedan cubiertas por la aportación inicial propia de 9.278 €, dejando un remanente significativo para tesorería y contingencias operativas.
 
 ---
 
@@ -117,6 +118,7 @@ El modelo económico muestra una evolución positiva y una alta capacidad de gen
 
 ### Indicadores de Valor (VAN / TIR)
 Bajo las hipótesis actuales, el proyecto presenta indicadores financieros positivos:
+
 - **VAN (Valor Actual Neto):** 35.173 €
 - **TIR (Tasa Interna de Retorno):** 301 %
 
@@ -148,9 +150,9 @@ La tesorería se mantiene positiva en todo momento gracias a la aportación inic
 
 Estas cifras deben interpretarse con prudencia porque la tesorería real dependerá de los plazos de cobro, obligaciones fiscales y conversión comercial efectiva. No obstante, se establecen las siguientes notas de prudencia:
 
-1.  **Fiscalidad:** El tratamiento de impuestos (IVA, Sociedades, IRPF) se considera pendiente de validación definitiva con gestoría para ajustar el impacto real en caja.
-2.  **Cobros:** Se asume un modelo de cobro ágil, vital para mantener la liquidez necesaria para el crecimiento.
-3.  **Reservas:** El beneficio generado en 2026 y 2027 debe servir para consolidar el margen de seguridad ante posibles retrasos en la captación comercial.
+1. **Fiscalidad:** El tratamiento de impuestos (IVA, Sociedades, IRPF) se considera pendiente de validación definitiva con gestoría para ajustar el impacto real en caja.
+2. **Cobros:** Se asume un modelo de cobro ágil, vital para mantener la liquidez necesaria para el crecimiento.
+3. **Reservas:** El beneficio generado en 2026 y 2027 debe servir para consolidar el margen de seguridad ante posibles retrasos en la captación comercial.
 
 ---
 

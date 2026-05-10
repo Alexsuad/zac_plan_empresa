@@ -23,6 +23,7 @@ Mi perfil se define por una integración de tres áreas de conocimiento que rara
 Mi trayectoria profesional principal se forjó en el área de comercio exterior de **Schlumberger Surenco**, una de las compañías líderes globales en servicios tecnológicos industriales. Durante 15 años evolucioné desde roles de coordinación operativa hasta alcanzar la **Jefatura del Área de Comercio Exterior**, liderando equipos multidisciplinares y gestionando la logística de importación y exportación en entornos de máxima exigencia.
 
 **Responsabilidades y capacidades estratégicas desarrolladas:**
+
 - **Dirección de Operaciones Complejas:** Coordinación integral de flujos logísticos internacionales, asegurando la sincronización entre transporte, aduanas y entrega final.
 - **Gestión y Auditoría de Proveedores:** Licitación, contratación y medición rigurosa de desempeño (KPIs) de transportistas terrestres, agentes de aduana y operadores de zonas francas.
 - **Protección del Margen Operativo:** Análisis exhaustivo de costes de transporte y servicios auxiliares para detectar desviaciones financieras y optimizar el gasto logístico.

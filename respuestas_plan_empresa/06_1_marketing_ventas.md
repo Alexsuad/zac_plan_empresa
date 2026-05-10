@@ -47,25 +47,24 @@ La política de precios se alinea con la rentabilidad definida en el plan financ
 **Regla de Gestión de Riesgo:** No se iniciará ninguna fase de desarrollo técnico ni configuración de sistemas pagados sin la aceptación formal de la propuesta comercial y el abono del 50% del presupuesto inicial. Esta medida asegura que el tiempo de Alexander se dedica a clientes con una voluntad real de mejora y solvencia para el proyecto, evitando el desgaste de "preventa técnica" no remunerada.
 
 ## 6.1.5. Hoja de Ruta Comercial y Proceso de Venta
-La captación de clientes se basa en la construcción de autoridad profesional y el contacto directo con los centros de decisión logísticos del entorno de Zaragoza.
+La captación de clientes se basa en la construcción de autoridad profesional y el contacto directo con los centros de decisión logísticos deEl contacto se realiza mediante dos vías principales que aseguran la cercanía con el muelle y el despacho:
 
-**Canales de Captación Prioritarios:**
-*   **Prospección Directa:** Visitas estratégicas a polígonos (PLAZA, Centrovía, Cogullada) y contactos personalizados dirigidos a gerentes y responsables de operaciones que sufren el desorden documental.
-*   **LinkedIn (Perfil de Alexander):** Herramienta de "Social Selling". Se usa para compartir artículos de opinión sobre control logístico, casos reales de error y consejos de eficiencia. Esto genera que el cliente identifique a Alexander como un "experto resolutivo" antes del primer contacto.
-*   **Alianzas Locales:** Colaboración estrecha con entidades como Zaragoza Activa (ZAC) y asociaciones como ALIA (Clúster Logístico de Aragón) para ganar credibilidad institucional y acceso a redes de confianza.
-*   **Activos Digitales:** Una landing page minimalista enfocada en la conversión a diagnóstico gratuito y un dossier técnico-comercial que visualiza de forma clara el flujo "operación -> evidencia -> cobro".
+* **Prospección Directa:** Visitas estratégicas a polígonos (PLAZA, Centrovía, Cogullada) y contactos personalizados dirigidos a gerentes y responsables de operaciones que sufren el desorden documental.
+* **LinkedIn (Perfil de Alexander):** Herramienta de "Social Selling". Se usa para compartir artículos de opinión sobre control logístico, casos reales de error y consejos de eficiencia. Esto genera que el cliente identifique a Alexander como un "experto resolutivo" antes del primer contacto.
+* **Alianzas Locales:** Colaboración estrecha con entidades como Zaragoza Activa (ZAC) y asociaciones como ALIA (Clúster Logístico de Aragón) para ganar credibilidad institucional y acceso a redes de confianza.
+* **Activos Digitales:** Una landing page minimalista enfocada en la conversión a diagnóstico gratuito y un dossier técnico-comercial que visualiza de forma clara eEl embudo de ventas se ha diseñado para minimizar la barrera de entrada y generar confianza técnica desde el primer minuto:
 
-**El Proceso Comercial Detallado:**
-1.  **Apertura:** Identificación de la empresa y contacto inicial vía LinkedIn o teléfono para ofrecer el diagnóstico de "puntos ciegos documentales".
-2.  **Diagnóstico:** Reunión de 45-60 minutos para entender el flujo actual, detectar dónde se pierde el control de las evidencias y estimar el impacto en la caja.
-3.  **Propuesta de Arranque:** Presentación de una solución de bajo riesgo (Arranque Guiado) con precio y plazos cerrados para demostrar una mejora del flujo de facturación cuando la evidencia está completa.
-4.  **Ejecución y Cierre:** Implementación de la mejora, validación de métricas de éxito y propuesta de escalado a una Implementación Completa.
+1. **Apertura:** Identificación de la empresa y contacto inicial vía LinkedIn o teléfono para ofrecer el diagnóstico de "puntos ciegos documentales".
+2. **Diagnóstico:** Reunión de 45-60 minutos para entender el flujo actual, detectar dónde se pierde el control de las evidencias y estimar el impacto en la caja.
+3. **Propuesta de Arranque:** Presentación de una solución de bajo riesgo (Arranque Guiado) con precio y plazos cerrados para demostrar una mejora del flujo de facturación cuando la evidencia está completa.
+4. **Ejecución y Cierre:** Implementación de la mejora, validación de métricas de éxito y propuesta de escalado a una Implementación Completa.
 
-**Rutina Semanal de Alexander (Disciplina Comercial):**
-*   **Lunes:** Análisis de mercado y estudio detallado de 6 nuevas pymes objetivo en el eje logístico de Aragón.
-*   **Martes/Miércoles:** Ejecución de contactos directos (mensajes personalizados y llamadas) y seguimiento de reuniones anteriores.
-*   **Jueves:** Jornada dedicada a visitas presenciales y demostraciones de valor en el entorno industrial de Zaragoza.
-*   **Viernes:** Reporte de métricas comerciales, facturación de hitos y publicación de contenido de autoridad en LinkedIn.
+**RutinLa semana comercial de Sistreg se organiza para equilibrar la captación con la ejecución de los diagnósticos:
+
+* **Lunes:** Análisis de mercado y estudio detallado de 6 nuevas pymes objetivo en el eje logístico de Aragón.
+* **Martes/Miércoles:** Ejecución de contactos directos (mensajes personalizados y llamadas) y seguimiento de reuniones anteriores.
+* **Jueves:** Jornada dedicada a visitas presenciales y demostraciones de valor en el entorno industrial de Zaragoza.
+* **Viernes:** Reporte de métricas comerciales, facturación de hitos y publicación de contenido de autoridad en LinkedIn.
 
 ## 6.1.6. Embudo Comercial y Objetivos SMART
 El éxito de Sistreg depende de una disciplina comercial innegociable. El embudo proyectado asegura que el esfuerzo de prospección se traduzca en ingresos recurrentes y sostenibles.
@@ -76,13 +75,12 @@ El éxito de Sistreg depende de una disciplina comercial innegociable. El embudo
 | **2. Reuniones / Visitas** | 5 | 21,7% (Efectividad de Alexander en la apertura). |
 | **3. Diagnósticos realizados** | 4 | 80% (Interés real tras la toma de contacto). |
 | **4. Propuestas enviadas** | 2 | 50% (Detección de un dolor con presupuesto). |
-| **5. Proyectos cerrados** | **0,7** | 35% (Conversión final a proyecto pagado). |
+| **5. Proyectos cerrados** | **0,7** | 35% (ConversiónEl éxito del plan de marketing se mide por indicadores de tracción real y confianza del cliente logístico:
 
-**Objetivos SMART (Semestre 1):**
-*   **Conversión de Valor:** Lograr que 1 de cada 3 diagnósticos gratuitos se convierta en un proyecto de "Arranque Guiado" pagado con anticipo del 50%.
-*   **Crecimiento Financiero:** Alcanzar una facturación acumulada que cubra íntegramente los costes operativos mínimos en el mes 4 de actividad.
-*   **Autoridad Profesional:** Generar 8 interacciones cualificadas (comentarios o mensajes directos) semanales en LinkedIn con perfiles de dirección logística.
-*   **Validación de Pitch:** Identificar y registrar al menos 5 objeciones comunes de venta para ajustar el mensaje comercial antes de finalizar el primer trimestre.
+* **Conversión de Valor:** Lograr que 1 de cada 3 diagnósticos gratuitos se convierta en un proyecto de "Arranque Guiado" pagado con anticipo del 50%.
+* **Crecimiento Financiero:** Alcanzar una facturación acumulada que cubra íntegramente los costes operativos mínimos en el mes 4 de actividad.
+* **Autoridad Profesional:** Generar 8 interacciones cualificadas (comentarios o mensajes directos) semanales en LinkedIn con perfiles de dirección logística.
+* **Validación de Pitch:** Identificar y registrar al menos 5 objeciones comunes de venta para ajustar el mensaje comercial antes de finalizar el primer trimestre.
 
 ## 6.1.7. Alianzas y Ecosistema Logístico Aragonés
 Para potenciar el alcance de Sistreg, se buscarán alianzas tácticas con actores locales que no compitan directamente pero que compartan el mismo tipo de cliente. Estas alianzas incluyen consultoras de transporte que no ofrecen soluciones técnicas, gestorías administrativas especializadas en logística y proveedores de hardware (scanners/tablets) para almacenes. La participación en eventos de ALIA y la visibilidad en el ecosistema de Zaragoza Activa serán pilares para reducir el coste de adquisición de clientes mediante la recomendación y la "prueba social". Sistreg se posiciona como el "socio técnico" que resuelve lo que otros solo diagnostican.

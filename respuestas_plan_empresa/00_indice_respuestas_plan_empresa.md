@@ -2,7 +2,8 @@
 
 Esta carpeta contiene las respuestas reales del Plan de Empresa de **Sistreg**. La denominación **Proyecto Logístico** se mantiene únicamente como referencia interna/descriptiva del ámbito de actuación.
 
-Importante:
+**Nota:** este documento consolida las respuestas a las preguntas guía estructuradas en el repositorio:
+
 - `plan_empresa/` contiene las preguntas guía.
 - `respuestas_plan_empresa/` contiene las respuestas redactadas del proyecto.
 - `anexos/` contiene matrices, fuentes, tablas y evidencias.

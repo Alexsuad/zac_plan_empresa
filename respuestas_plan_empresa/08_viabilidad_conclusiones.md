@@ -13,6 +13,7 @@ La viabilidad no se presenta como un resultado garantizado, sino como una **opor
 La viabilidad comercial de Sistreg se apoya en la existencia de una brecha tecnológica en las pymes del sector logístico y de transporte, especialmente en el eje de Zaragoza y Aragón. Existe una oportunidad razonable de captación basada en la resolución de ineficiencias tangibles en el control de procesos (cobros, evidencias, registros).
 
 Sin embargo, esta viabilidad está supeditada a tres factores de validación comercial:
+
 1.  **Comunicación del valor:** Capacidad del promotor para traducir la automatización técnica en ahorro de tiempo y reducción de errores para el cliente.
 2.  **Aceptación de tarifas:** Confirmación de que el mercado valida los precios proyectados (75-90 €/h y cuota de soporte de 350 €/mes).
 3.  **Conversión comercial:** Capacidad para transformar los diagnósticos iniciales gratuitos en contratos de implementación de largo plazo.
@@ -24,6 +25,7 @@ Sin embargo, esta viabilidad está supeditada a tres factores de validación com
 Desde el punto de vista operativo, el modelo de Sistreg es altamente viable debido a su **simplicidad y ligereza**. Al no requerir infraestructura física propia ni grandes equipos de desarrollo, la capacidad de respuesta es inmediata.
 
 La viabilidad operativa se asegura mediante:
+
 - La **dedicación exclusiva del promotor**, que asume las funciones técnicas, comerciales y administrativas iniciales.
 - El uso de un **conjunto de herramientas tecnológicas** maduras (*low-code/no-code* y automatización estándar) que reducen el tiempo de entrega.
 - Una **implantación por fases**, que evita la saturación operativa y permite un crecimiento orgánico según la demanda real.
@@ -41,6 +43,7 @@ Bajo los criterios de prudencia financiera definidos, el proyecto muestra indica
 | Tesorería final estimada | 14.883 € | 32.258 € | 55.766 € |
 
 **Datos de inversión y financiación:**
+
 - **Inversión total inicial:** 3.110 € (Cubierta íntegramente por capital propio).
 - **Capital social inicial:** 9.278 € (Refuerza el colchón de tesorería para la fase de validación).
 - **Endeudamiento externo:** 0 € al inicio de la actividad.
@@ -69,7 +72,8 @@ La viabilidad a largo plazo está sujeta a la mitigación de los siguientes ries
 Se recomienda **proceder con la puesta en marcha de Sistreg** según el cronograma previsto para el 1 de julio de 2026. La recomendación se basa en la baja exposición al riesgo financiero y la alta necesidad detectada en el mercado.
 
 No obstante, la estrategia de ejecución debe ser **estrictamente defensiva**:
-1.  No realizar inversiones adicionales en activos fijos hasta que la facturación real cubra los costes operativos.
+
+1. No realizar inversiones adicionales en activos fijos hasta que la facturación real cubra los costes operativos.
 2.  Priorizar la validación comercial sobre el escalado tecnológico.
 3.  Mantener la estructura ligera de costes fijos durante los primeros 12 meses de actividad.
 

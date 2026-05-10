@@ -1,4 +1,4 @@
-# 00. Resumen ejecutivo — Sistreg
+# 00. Resumen ejecutivo - Sistreg
 
 
 > Este resumen sintetiza la visión estratégica y viabilidad de Sistreg. El detalle técnico, operativo y financiero se encuentra desarrollado en los capítulos correspondientes del Plan de Empresa.
@@ -22,13 +22,15 @@ Sistreg interviene en este punto con una propuesta de **control de cobro por evi
 El foco estratégico inicial se sitúa en el **clúster logístico de Zaragoza y Aragón**, aprovechando la posición privilegiada de la región como nodo logístico nacional y la presencia de grandes plataformas. Sistreg no pretende competir con los grandes ERPs o TMS del mercado, sino actuar como un módulo de control ágil sobre procesos específicos de validación y cierre que el software generalista no cubre con la flexibilidad necesaria (ver **Capítulos 3 y 5**).
 
 El modelo de servicio es progresivo y orientado a la obtención de resultados rápidos:
+
 1. **Diagnóstico Operativo:** Sesión técnica de 1.5h para identificar cuellos de botella y fugas de información administrativa.
 2. **Arranque Guiado:** Primer servicio pagado para definir alcance, reglas, evidencias, puntos de bloqueo y una solución mínima controlada sobre un flujo concreto.
 3. **Mantenimiento y Mejora:** Soporte mensual para asegurar la adopción de la herramienta y el ajuste continuo ante nuevos retos operativos del cliente.
 
 ## 5. Viabilidad Económico-Financiera
 El proyecto se ha diseñado bajo una lógica de *bootstrapping* y máxima prudencia financiera, buscando el crecimiento orgánico desde la validación comercial:
-- **Inversión Inicial:** 3.110 €, destinados principalmente a equipamiento técnico y gastos de puesta en marcha legal.
+
+- **Inversión y puesta en marcha:** 3.110 €, destinados principalmente a equipamiento técnico y gastos de puesta en marcha legal. La necesidad financiera mínima estimada asciende a 3.278 € al incorporar el IVA asociado a las compras nuevas.
 - **Aportación inicial propia:** 9.278 €, sin deuda bancaria inicial, lo que permite afrontar la fase de validación con mayor margen de seguridad.
 - **Previsión de ventas:** 31.180 € en 2026, 59.500 € en 2027 y 70.100 € en 2028, bajo las hipótesis comerciales actuales.
 - **Umbral de Rentabilidad:** Superado desde el primer año, con un punto de equilibrio que permite cubrir costes estructurales y generar beneficio operativo de forma temprana.
@@ -36,6 +38,7 @@ El proyecto se ha diseñado bajo una lógica de *bootstrapping* y máxima pruden
 
 ## 6. Riesgos y Mitigación
 Se han identificado tres ejes de riesgo estratégico:
+
 1. **Aceptación Comercial:** La disposición de pago por servicios de control operativo debe validarse mediante los diagnósticos gratuitos iniciales.
 2. **Escalabilidad:** El riesgo de saturación del promotor se mitiga mediante la creación de componentes de software reutilizables y la limitación del alcance de los proyectos en la fase de arranque.
 3. **Plazos de Pago:** El impacto en tesorería se controla mediante la solicitud de anticipos del 50% y el seguimiento de cobros por hitos y la aportación inicial propia prevista en el plan financiero (ver **Capítulo 6.5**).
