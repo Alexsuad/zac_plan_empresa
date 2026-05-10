@@ -7,7 +7,7 @@ El marco de actuación se sitúa en el sector logístico B2B de Zaragoza y Arag�
 
 | Nivel de Enfoque | Función Operativa | Impacto Estratégico en el Cliente |
 | :--- | :--- | :--- |
-| **Estratégico** | Diseño de sistemas de control y trazabilidad documental. | Recuperar la visibilidad total sobre la salud de la operación. |
+| **Estratégico** | Diseño de sistemas de control y trazabilidad documental. | Recuperar la mayor visibilidad sobre la salud de la operación. |
 | **Táctico** | Cierre del ciclo Operación → Evidencia → Factura → Cobro. | Eliminación de facturación retenida por desorden administrativo. |
 | **Operativo** | Diagnóstico, Arranque guiado e Implementación Lean. | Soluciones rápidas, proporcionales y fáciles de adoptar por el equipo. |
 
@@ -41,7 +41,7 @@ La operativa de Sistreg se organiza de forma progresiva para reducir el riesgo d
 | Fase de Servicio | Alcance, Medios y Entregables | Duración y Foco |
 | :--- | :--- | :--- |
 | **Diagnóstico** | Entrevista con responsables y revisión de un flujo crítico. Se entrega un informe de "Bloqueos y Oportunidades" de 2 páginas con impacto económico. | **Gratuito.** Una sesión de 1,5h. Foco en la viabilidad y detección de dolor real. |
-| **Arranque Guiado** | Implementación de una solución mínima sobre un flujo acotado (ej. una sola ruta o cliente). Se entrega un prototipo funcional operativo y validado. | **Pago (50% anticipo).** Duración variable. Foco en "Quick Wins" y ROI rápido. |
+| **Arranque Guiado** | Implementación de una solución mínima sobre un flujo acotado (ej. una sola ruta o cliente). Se entrega un prototipo funcional operativo y validado. | **Pago (50% anticipo).** Duración variable. Foco en "Quick Wins" y retorno potencial medible. |
 | **Implementación** | Despliegue de la arquitectura completa: bases de datos, formularios de captura y paneles de mando. Se entrega el sistema final y el manual de reglas. | **Pago por hitos.** Foco en la integración estructural con la rutina diaria de la empresa. |
 
 ## 6.2.4. Diseño, Implementación y Entrega al Cliente

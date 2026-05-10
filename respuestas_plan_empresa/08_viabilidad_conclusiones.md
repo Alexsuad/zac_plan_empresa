@@ -32,7 +32,7 @@ La viabilidad operativa se asegura mediante:
 
 ## 8.4. Viabilidad económico-financiera
 
-Bajo los criterios de prudencia financiera definidos, el proyecto muestra una salud financiera excepcional basada en el *bootstrapping*. Las proyecciones, derivadas del modelo financiero 2026-2028, se resumen en los siguientes indicadores clave:
+Bajo los criterios de prudencia financiera definidos, el proyecto muestra indicadores financieros positivos bajo las hipótesis actuales, apoyados en una estrategia de *bootstrapping*. Las proyecciones, derivadas del modelo financiero 2026-2028, se resumen en los siguientes indicadores clave:
 
 | Indicador | 2026 (6 meses) | 2027 | 2028 |
 |---|---:|---:|---:|
@@ -42,7 +42,7 @@ Bajo los criterios de prudencia financiera definidos, el proyecto muestra una sa
 
 **Datos de inversión y financiación:**
 - **Inversión total inicial:** 3.110 € (Cubierta íntegramente por capital propio).
-- **Capital social inicial:** 9.278 € (Garantiza un colchón de tesorería para la fase de validación).
+- **Capital social inicial:** 9.278 € (Refuerza el colchón de tesorería para la fase de validación).
 - **Endeudamiento externo:** 0 € al inicio de la actividad.
 
 Estas cifras representan una hipótesis de trabajo que deberá ser validada mes a mes frente a la realidad de los plazos de cobro B2B y las obligaciones fiscales efectivas.

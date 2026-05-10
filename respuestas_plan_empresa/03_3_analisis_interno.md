@@ -1,12 +1,12 @@
 # 3.3. Análisis interno
 
 ## 3.3.1. Capacidades y Ventaja Competitiva Híbrida
-El análisis interno de **Sistreg** permite valorar si el proyecto cuenta con las capacidades y recursos mínimos para transformar la oportunidad detectada en un negocio viable. La conclusión principal es que la iniciativa dispone de una base técnica y operativa excepcionalmente sólida para una estructura de autoempleo, fundamentada en la **hibridez del promotor**.
+El análisis interno de **Sistreg** permite valorar si el proyecto cuenta con las capacidades y recursos mínimos para transformar la oportunidad detectada en un negocio viable. La conclusión principal es que la iniciativa dispone de una base técnica y operativa sólida para una estructura empresarial ligera, fundamentada en la **hibridez del promotor**.
 
 Esta ventaja competitiva no reside únicamente en saber programar o en conocer la logística, sino en la **intersección** de ambos mundos. Mientras que una consultora tecnológica tradicional necesita analistas para entender el proceso del cliente y programadores para ejecutarlo, en Sistreg ese ciclo es inmediato. Esta hibridez permite:
 1.  **Diagnóstico Quirúrgico:** Identificar en minutos si un retraso en la facturación se debe a un problema de flujo de datos o a un mal diseño del albarán de entrega (POD).
 2.  **Arquitectura Ágil:** Diseñar sistemas que no intentan cambiar cómo trabaja la empresa, sino cómo se captura el dato en su proceso actual.
-3.  **Independencia Técnica:** Capacidad para construir soluciones (MVPs) sin depender de equipos externos, lo que garantiza el control total sobre los plazos y la calidad de la entrega.
+3.  **Independencia Técnica:** Capacidad para construir soluciones (soluciones mínimas controladas) sin depender de equipos externos, lo que garantiza el mayor control sobre los plazos y la calidad de la entrega.
 
 ## 3.3.2. Perfil del Promotor y Disciplina de Gestión
 El promotor, Alexander Suárez, aporta una trayectoria de 15 años en entornos de alta exigencia logística (**Schlumberger Surenco**), lo que garantiza una cultura de orden, procedimientos y cumplimiento de plazos. Esta disciplina es el motor interno del proyecto, permitiendo que una estructura unipersonal funcione con la seriedad de una organización mayor.
@@ -33,7 +33,7 @@ Esta es el área interna más sensible. Actualmente, el proyecto no cuenta con u
 Sistreg nace bajo el modelo **Lean Startup**, minimizando los costes fijos para maximizar el margen de maniobra inicial.
 - **Estructura Ligera:** Operación desde espacio propio (home office), eliminando la necesidad de local, mobiliario pesado o suministros industriales.
 - **Equipamiento:** Hardware y software ya disponibles y amortizados por el promotor.
-- **Tesorería de Seguridad:** El proyecto cuenta con una inversión inicial propia de **5.000 €**. Tras cubrir los gastos de lanzamiento (~3.110 €), se dispone de un margen de seguridad de 6 meses para validar el modelo de negocio. Esta prudencia financiera permite centrarse en la calidad de los primeros clientes sin la presión de un flujo de caja inmediato desesperado.
+- **Tesorería de seguridad:** El proyecto cuenta con una aportación inicial propia prevista de **9.278 €**. Tras cubrir los gastos de lanzamiento, se mantiene un margen de seguridad para validar el modelo de negocio sin recurrir a deuda bancaria inicial. Esta prudencia financiera permite centrarse en la calidad de los primeros clientes y en el control de costes durante la fase de validación.
 
 ## 3.3.6. Red de Apoyo y Colaboración Estratégica
 Aunque es un proyecto unipersonal, Sistreg se apoya en una red de colaboradores externos que refuerzan sus capacidades:
@@ -62,7 +62,7 @@ Esta validación temprana es fundamental para reducir la incertidumbre interna. 
 ## 3.3.9. Conclusión del Análisis Interno
 Internamente, **Sistreg** es una maquinaria técnica y operativa lista para funcionar. El proyecto no adolece de falta de recursos materiales, herramientas digitales ni conocimientos operativos de campo. El reto interno es exclusivamente **comercial y de validación de mercado**. La hibridez operativa-técnica de Alexander Suárez es la pieza que permite a Sistreg competir en un mercado de grandes proveedores sin tener su estructura de costes.
 
-La estrategia interna debe ser la de un "especialista quirúrgico": aprovechar la agilidad y la capacidad de decisión inmediata para detectar problemas muy específicos en clientes seleccionados de Zaragoza, demostrando que una estructura de autoempleo profesional puede ofrecer soluciones de control operativo más eficaces, cercanas y rentables que las consultoras generalistas. En última instancia, la viabilidad de Sistreg dependerá de la capacidad de su promotor para convertir su fortaleza técnica en una actividad comercial recurrente y profesional antes de agotar el margen de seguridad de seis meses establecido en este plan. La viabilidad técnica está garantizada por la experiencia previa; el éxito final lo determinará la perseverancia comercial y la capacidad de comunicar esta ventaja competitiva única en el exigente y competitivo mercado logístico de Aragón, asegurando un crecimiento sólido y una posición de autoridad en el sector de la digitalización operativa.
+La estrategia interna debe ser la de un "especialista quirúrgico": aprovechar la agilidad y la capacidad de decisión inmediata para detectar problemas muy específicos en clientes seleccionados de Zaragoza, demostrando que una estructura empresarial ligera y especializada puede ofrecer soluciones de control operativo más eficaces, cercanas y rentables que las consultoras generalistas. En última instancia, la viabilidad de Sistreg dependerá de la capacidad de su promotor para convertir su fortaleza técnica en una actividad comercial recurrente y profesional antes de agotar el margen de seguridad de seis meses establecido en este plan. La viabilidad técnica está garantizada por la experiencia previa; el éxito final lo determinará la perseverancia comercial y la capacidad de comunicar esta ventaja competitiva única en el exigente y competitivo mercado logístico de Aragón, asegurando un crecimiento sólido y una posición de autoridad en el sector de la digitalización operativa.
 
 
 

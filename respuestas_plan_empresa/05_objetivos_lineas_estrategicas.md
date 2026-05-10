@@ -62,7 +62,7 @@ Sistreg se compromete a una revisión mensual de su estrategia basada en señale
 | Señal de Mercado Detectada | Interpretación de la Estrategia | Acción de Decisión Sugerida |
 | :--- | :--- | :--- |
 | **Visitas + Dolor + Ventas** | El modelo está validado y el mensaje resuena con fuerza. | Continuar la hoja de ruta, documentar casos de éxito y buscar referidos activos. |
-| **Visitas + Dolor, pero sin Ventas** | Existe interés real, pero el formato o el precio de la propuesta falla. | Revisar profundamente el alcance de la propuesta económica o el modelo de cobro (ROI). |
+| **Visitas + Dolor, pero sin Ventas** | Existe interés real, pero el formato o el precio de la propuesta falla. | Revisar profundamente el alcance de la propuesta económica o el modelo de cobro y retorno potencial medible. |
 | **Visitas sin reconocimiento de Dolor** | El problema no es prioritario para el segmento o el nicho es erróneo. | Pivotar el mensaje comercial o cambiar radicalmente el nicho de mercado objetivo. |
 | **Interés, pero sin disposición de pago** | El valor de la solución no se percibe como un ahorro real en la cuenta de resultados. | Reforzar la medición del impacto económico y los KPIs de ahorro en la fase de diagnóstico. |
 | **Demanda dispersa (muchos sectores)** | Riesgo de convertirse en "consultoría genérica" y pérdida de foco experto. | Reforzar la comunicación de especialización logística y rechazar proyectos fuera de nicho. |

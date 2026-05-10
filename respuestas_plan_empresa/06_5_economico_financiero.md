@@ -4,7 +4,7 @@
 
 El análisis económico-financiero de **Sistreg** se plantea desde un criterio de máxima prudencia, posicionando el proyecto como un **servicio B2B especializado en automatización operativa logística**. El modelo se centra en la generación de valor mediante el impacto operativo medible.
 
-> [!IMPORTANT]
+
 > Los datos presentados son proyecciones basadas en modelos operativos y el Excel financiero actualizado. No constituyen una garantía de resultados finales, sino una estimación condicionada a la captación comercial y la validación real de precios en el mercado.
 
 La lógica financiera del proyecto se apoya en cinco principios:
@@ -26,7 +26,7 @@ El modelo económico de Sistreg define la viabilidad como una **hipótesis prude
 - La **validación real de precios** en el mercado de pymes logísticas.
 - La **capacidad de ejecución** técnica sin incurrir en cuellos de botella operativos.
 
-Sistreg no promete ahorros garantizados ni ROI inmediato de forma absoluta; la rentabilidad se presenta como un objetivo alcanzable mediante la resolución de ineficiencias medidas ("números rojos") en los procesos del cliente.
+Sistreg no promete ahorros garantizados ni retorno potencial medible de forma absoluta; la rentabilidad se presenta como un objetivo alcanzable mediante la resolución de ineficiencias medidas ("números rojos") en los procesos del cliente.
 
 ---
 
@@ -116,7 +116,7 @@ El modelo económico muestra una evolución positiva y una alta capacidad de gen
 | **Cash Flow** | **8.145 €** | **12.705 €** | **18.495 €** |
 
 ### Indicadores de Valor (VAN / TIR)
-Bajo las hipótesis actuales, el proyecto presenta una salud financiera excepcional:
+Bajo las hipótesis actuales, el proyecto presenta indicadores financieros positivos:
 - **VAN (Valor Actual Neto):** 35.173 €
 - **TIR (Tasa Interna de Retorno):** 301 %
 
@@ -176,4 +176,4 @@ Los cuadros financieros (inversión, financiación, explotación, tesorería) se
 
 **Sistreg es económicamente viable como servicio B2B especializado.** El proyecto combina una inversión inicial muy reducida (3.110 €) con una alta capacidad de generación de caja desde el primer semestre de actividad. 
 
-La viabilidad financiera está blindada por la ausencia de deuda bancaria y un capital social inicial (9.278 €) que permite cubrir cualquier desviación en la fase de validación comercial. El éxito del modelo depende ahora de la ejecución comercial y el mantenimiento de los márgenes previstos en las soluciones tecnológicas implementadas.
+La viabilidad financiera se ve reforzada por la ausencia de deuda bancaria y un capital social inicial (9.278 €) que permite cubrir cualquier desviación en la fase de validación comercial. El éxito del modelo depende ahora de la ejecución comercial y el mantenimiento de los márgenes previstos en las soluciones tecnológicas implementadas.

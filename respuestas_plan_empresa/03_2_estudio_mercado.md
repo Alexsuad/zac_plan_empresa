@@ -27,7 +27,7 @@ Esta "gestión informal" genera puntos ciegos financieros muy graves: servicios 
 4. **Errores de Transcripción y Re-trabajo:** El uso de Excel como base de datos central obliga a los administrativos a picar datos varias veces en diferentes sistemas, aumentando exponencialmente la tasa de error y el tiempo de oficina dedicado a tareas sin valor añadido.
 
 ## 3.2.4. Tamaño del Mercado Accesible (TAM, SAM, SOM)
-Para asegurar la viabilidad del proyecto como autoempleo, se ha dimensionado el mercado de forma realista:
+Para asegurar la viabilidad del proyecto como servicio B2B especializado, se ha dimensionado el mercado de forma realista:
 - **TAM (Mercado Total):** El sector logístico español, con más de 200.000 empresas vinculadas al transporte y almacenamiento.
 - **SAM (Mercado Disponible):** Las pymes logísticas ubicadas en los nodos industriales de Aragón (Zaragoza, Huesca y el eje del Ebro). Según el IAEST, existen miles de licencias de transporte en vigor en la provincia de Zaragoza.
 - **SOM (Mercado Objetivo):** Un grupo seleccionado de 100-150 pymes en el entorno de PLAZA y Zaragoza Activa que pueden ser abordadas personalmente por el promotor en los primeros 12 meses. El objetivo es alcanzar una tasa de conversión del 5-10% para asegurar el flujo de caja inicial del proyecto.
@@ -46,7 +46,7 @@ Sistreg se sitúa en un espacio intermedio entre el "no hacer nada" y la "gran t
 **Diferenciación Estratégica:** A diferencia de las consultoras tecnológicas que venden "horas de desarrollo" o las agencias de software que venden "licencias", Sistreg vende **certeza operativa y financiera**. Nuestra ventaja competitiva es la hibridez del promotor: alguien que sabe lo que es un bloqueo en un muelle de carga y sabe cómo codificar una alerta para evitar que ese bloqueo afecte a la caja.
 
 ## 3.2.6. Estrategia de Posicionamiento y Valor
-Sistreg no se posiciona por precio, sino por **retorno de inversión (ROI)** y **facilidad de adopción**.
+Sistreg no se posiciona por precio, sino por **retorno potencial medible** y **facilidad de adopción**.
 - **No es una carga para el equipo:** El sistema se diseña para que el operario o el administrativo apenas note el cambio, pero el gerente vea el resultado en su cuadro de mando.
 - **Enfoque en el Primer Caso Operativo:** El control de cobro por evidencia (ver 6.2) es nuestra "llave maestra" para entrar en el cliente. Una vez resuelto el problema del dinero (cobrar antes y mejor), el cliente está dispuesto a escuchar sobre otras optimizaciones.
 
@@ -63,7 +63,7 @@ El mercado logístico vive una transformación profunda donde el activo principa
 La principal barrera es la **inercia operativa**. El gerente de una pyme logística suele estar "apagando fuegos" y le cuesta dedicar tiempo a pensar en la mejora del proceso. El diagnóstico gratuito de Sistreg rompe esta barrera ofreciendo una visión clara del coste del problema en menos de una hora. Otro riesgo es la desconfianza hacia la "tecnología compleja"; Sistreg mitiga esto con un enfoque de implementación suave que respeta la forma de trabajar actual del cliente, reduciendo el riesgo percibido de fracaso en la implementación tecnológica.
 
 ## 3.2.10. Conclusión del Estudio de Mercado
-El análisis confirma que existe una oportunidad real y desatendida en el mercado logístico de Zaragoza. Las pymes necesitan un socio tecnológico que entienda de camiones, de aduanas y de facturas, no solo de código informático. La hibridez operativa-técnica de Sistreg, sumada a un entorno regional privilegiado con infraestructuras de primer nivel como PLAZA y el apoyo institucional de Zaragoza Activa y ALIA, proporciona la base necesaria para iniciar una actividad de autoempleo sostenible y profesional.
+El análisis confirma que existe una oportunidad real y desatendida en el mercado logístico de Zaragoza. Las pymes necesitan un socio tecnológico que entienda de camiones, de aduanas y de facturas, no solo de código informático. La hibridez operativa-técnica de Sistreg, sumada a un entorno regional privilegiado con infraestructuras de primer nivel como PLAZA y el apoyo institucional de Zaragoza Activa y ALIA, proporciona la base necesaria para iniciar una actividad empresarial ligera, sostenible y profesionalizada.
 
 El éxito de Sistreg dependerá de su capacidad para mantenerse enfocado en el "nicho de dolor" inicial —el control documental para asegurar el cobro— y demostrar resultados rápidos en la tesorería de los primeros clientes. Esta validación temprana permitirá consolidar una base de confianza necesaria para introducir mejoras más complejas en la cadena de valor del cliente. En definitiva, el mercado de Zaragoza está maduro para una propuesta que combine el rigor técnico con el pragmatismo operativo, permitiendo que la pyme logística local compita con los estándares de excelencia y digitalización que exige el mercado logístico global actual.
 
